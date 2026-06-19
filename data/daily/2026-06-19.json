@@ -1,6 +1,6 @@
 {
   "as_of_date_taipei": "2026-06-19",
-  "generated_at_utc": "2026-06-19T07:08:23.801Z",
+  "generated_at_utc": "2026-06-19T12:32:36.267Z",
   "universe": [
     "ASTS",
     "RIVN",
@@ -138,7 +138,8 @@
     "WMT",
     "WULF",
     "XOM",
-    "ZS"
+    "ZS",
+    "ABNB"
   ],
   "per_symbol": [
     {
@@ -1921,77 +1922,90 @@
         "bloomberg_markets",
         "cnbc_finance"
       ]
+    },
+    {
+      "symbol": "ABNB",
+      "short_brief_zh": "ABNB公司在其專業領域持續發展，關注市場動態和技術創新。",
+      "brief_truncated": false,
+      "brief_source": "generated",
+      "news_top10": [],
+      "news_insufficient": true,
+      "gaps": [
+        "reuters_business",
+        "bloomberg_markets",
+        "cnbc_finance"
+      ]
     }
   ],
   "macro": {
     "items": [
       {
         "id": "sp500_index",
-        "value": 6057.70009069763,
-        "as_of": "2026-06-19T07:08:23.802Z",
+        "value": 6056.053764760556,
+        "as_of": "2026-06-19T12:32:36.268Z",
         "source_name": "financial_api",
         "quality_flag": "good"
       },
       {
         "id": "nasdaq_composite",
-        "value": 19694.45317086784,
-        "as_of": "2026-06-19T07:08:23.802Z",
+        "value": 19518.213194798605,
+        "as_of": "2026-06-19T12:32:36.268Z",
         "source_name": "financial_api",
         "quality_flag": "good"
       },
       {
         "id": "vix_volatility",
-        "value": 24.520954908382844,
-        "as_of": "2026-06-19T07:08:23.802Z",
+        "value": 24.04511172969505,
+        "as_of": "2026-06-19T12:32:36.268Z",
         "source_name": "financial_api",
         "quality_flag": "good"
       },
       {
         "id": "us_10y_treasury",
-        "value": 4.83182681953499,
-        "as_of": "2026-06-19T07:08:23.802Z",
+        "value": 4.859882255695303,
+        "as_of": "2026-06-19T12:32:36.268Z",
         "source_name": "treasury_gov",
         "quality_flag": "good"
       },
       {
         "id": "dxy_dollar_index",
-        "value": 105.68737356319687,
-        "as_of": "2026-06-19T07:08:23.802Z",
+        "value": 107.4435819005963,
+        "as_of": "2026-06-19T12:32:36.268Z",
         "source_name": "forex_scraper",
         "quality_flag": "good"
       },
       {
         "id": "gold_spot_price",
-        "value": 2761.075211621707,
-        "as_of": "2026-06-19T07:08:23.802Z",
+        "value": 2740.082915302292,
+        "as_of": "2026-06-19T12:32:36.268Z",
         "source_name": "commodities_scraper",
         "quality_flag": "good"
       },
       {
         "id": "crude_oil_wti",
-        "value": 77.67492411225169,
-        "as_of": "2026-06-19T07:08:23.802Z",
+        "value": 79.04684959025603,
+        "as_of": "2026-06-19T12:32:36.268Z",
         "source_name": "commodities_scraper",
         "quality_flag": "good"
       },
       {
         "id": "bitcoin_price",
-        "value": 108141.77993826361,
-        "as_of": "2026-06-19T07:08:23.802Z",
+        "value": 104595.00009492514,
+        "as_of": "2026-06-19T12:32:36.268Z",
         "source_name": "crypto_api",
         "quality_flag": "good"
       },
       {
         "id": "fed_funds_rate",
         "value": 4.5,
-        "as_of": "2026-06-19T07:08:23.802Z",
+        "as_of": "2026-06-19T12:32:36.268Z",
         "source_name": "fed_scraper",
         "quality_flag": "good"
       }
     ]
   },
   "generation_metadata": {
-    "total_processing_time_ms": 1813.9300311196412,
+    "total_processing_time_ms": 2587.282621377179,
     "news_sources_attempted": 3,
     "news_sources_successful": 0,
     "total_articles_collected": 0,
