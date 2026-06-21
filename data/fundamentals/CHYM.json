@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.07166,
-    "institutionsPercentHeld": 1.0016999,
-    "institutionsFloatPercentHeld": 1.07903,
-    "institutionsCount": 260
+    "institutionsPercentHeld": 1.00001,
+    "institutionsFloatPercentHeld": 1.07721,
+    "institutionsCount": 257
   },
   "earnings": {
     "maxAge": 86400,
@@ -599,14 +599,14 @@
     "postMarketTime": "2026-06-18T23:44:35.000Z",
     "postMarketPrice": 17.55,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.06024096,
+    "regularMarketChangePercent": 0.060241,
     "regularMarketChange": 1,
     "regularMarketTime": "2026-06-18T20:00:00.000Z",
     "priceHint": 2,
     "regularMarketPrice": 17.6,
     "regularMarketDayHigh": 17.63,
     "regularMarketDayLow": 16.605,
-    "regularMarketVolume": 7835338,
+    "regularMarketVolume": 7833887,
     "averageDailyVolume10Day": 4391100,
     "averageDailyVolume3Month": 4610524,
     "regularMarketPreviousClose": 16.6,
@@ -632,9 +632,9 @@
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 5721575936,
+    "enterpriseValue": 5512015360,
     "profitMargins": -0.41868,
-    "floatShares": 218906926,
+    "floatShares": 218903116,
     "sharesOutstanding": 348886850,
     "sharesShort": 13632208,
     "sharesShortPriorMonth": "1970-04-21T10:29:24.000Z",
@@ -642,7 +642,7 @@
     "dateShortInterest": "2026-05-29T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0358,
     "heldPercentInsiders": 0.07166,
-    "heldPercentInstitutions": 1.0016999,
+    "heldPercentInstitutions": 1.00001,
     "shortRatio": 2.44,
     "shortPercentOfFloat": 0.0467,
     "impliedSharesOutstanding": 381019139,
@@ -659,8 +659,8 @@
     "trailingEps": -4.14,
     "forwardEps": 1.15,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 2.471,
-    "enterpriseToEbitda": -9.981,
+    "enterpriseToRevenue": 2.381,
+    "enterpriseToEbitda": -9.615,
     "52WeekChange": -0.40860218,
     "SandP52WeekChange": 0.24487448,
     "latestShareClass": null,
@@ -689,18 +689,6 @@
   },
   "insiderTransactions": {
     "transactions": [
-      {
-        "maxAge": 1,
-        "shares": 3000,
-        "value": 52500,
-        "filerUrl": "",
-        "transactionText": "Sale at price 17.50 per share.",
-        "filerName": "FRANKEL ADAM B",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-06-15T00:00:00.000Z",
-        "ownership": "D"
-      },
       {
         "maxAge": 1,
         "shares": 3000,
@@ -942,45 +930,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 500,
-        "value": 14000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 28.00 per share.",
-        "filerName": "FRANKEL ADAM B",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-01-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 500,
-        "value": 8280,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 16.56 per share.",
-        "filerName": "FRANKEL ADAM B",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-01-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 50000,
         "value": 1402825,
         "filerUrl": "",
         "transactionText": "Sale at price 28.06 per share.",
-        "filerName": "BRITT CHRISTOPHER R",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-01-09T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 50000,
-        "filerUrl": "",
-        "transactionText": "",
         "filerName": "BRITT CHRISTOPHER R",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -1001,14 +954,37 @@
       },
       {
         "maxAge": 1,
-        "shares": 4382,
-        "value": 119571,
+        "shares": 500,
+        "value": 8280,
         "filerUrl": "",
-        "transactionText": "Sale at price 27.29 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 16.56 per share.",
         "filerName": "FRANKEL ADAM B",
         "filerRelation": "General Counsel",
         "moneyText": "",
-        "startDate": "2026-01-08T00:00:00.000Z",
+        "startDate": "2026-01-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 50000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BRITT CHRISTOPHER R",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-01-09T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 500,
+        "value": 14000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 28.00 per share.",
+        "filerName": "FRANKEL ADAM B",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-01-09T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1017,6 +993,18 @@
         "value": 154819,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 16.56 per share.",
+        "filerName": "FRANKEL ADAM B",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-01-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4382,
+        "value": 119571,
+        "filerUrl": "",
+        "transactionText": "Sale at price 27.29 per share.",
         "filerName": "FRANKEL ADAM B",
         "filerRelation": "General Counsel",
         "moneyText": "",
@@ -1038,9 +1026,9 @@
       {
         "maxAge": 1,
         "shares": 500,
-        "value": 13500,
+        "value": 8280,
         "filerUrl": "",
-        "transactionText": "Sale at price 27.00 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 16.56 per share.",
         "filerName": "FRANKEL ADAM B",
         "filerRelation": "General Counsel",
         "moneyText": "",
@@ -1050,9 +1038,9 @@
       {
         "maxAge": 1,
         "shares": 500,
-        "value": 8280,
+        "value": 13500,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 16.56 per share.",
+        "transactionText": "Sale at price 27.00 per share.",
         "filerName": "FRANKEL ADAM B",
         "filerRelation": "General Counsel",
         "moneyText": "",
@@ -1073,18 +1061,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1000,
-        "value": 25500,
-        "filerUrl": "",
-        "transactionText": "Sale at price 25.00 - 26.00 per share.",
-        "filerName": "FRANKEL ADAM B",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-12-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 3000,
         "value": 49680,
         "filerUrl": "",
@@ -1097,14 +1073,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 6760,
-        "value": 161175,
+        "shares": 1000,
+        "value": 25500,
         "filerUrl": "",
-        "transactionText": "Sale at price 23.84 per share.",
+        "transactionText": "Sale at price 25.00 - 26.00 per share.",
         "filerName": "FRANKEL ADAM B",
         "filerRelation": "General Counsel",
         "moneyText": "",
-        "startDate": "2025-12-08T00:00:00.000Z",
+        "startDate": "2025-12-10T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1127,6 +1103,18 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "TROUGHTON MARK T",
         "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2025-12-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 6760,
+        "value": 161175,
+        "filerUrl": "",
+        "transactionText": "Sale at price 23.84 per share.",
+        "filerName": "FRANKEL ADAM B",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-12-08T00:00:00.000Z",
         "ownership": "D"
@@ -1298,6 +1286,6 @@
     "profitMargins": -0.41868,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-06-21T06:50:50.776Z",
+  "lastUpdated": "2026-06-20T06:20:25.797Z",
   "source": "Static Build (yahoo-finance2)"
 }
