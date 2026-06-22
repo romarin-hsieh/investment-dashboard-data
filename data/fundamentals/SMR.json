@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01976,
-    "institutionsPercentHeld": 0.52409,
-    "institutionsFloatPercentHeld": 0.53465,
-    "institutionsCount": 613
+    "institutionsPercentHeld": 0.52946997,
+    "institutionsFloatPercentHeld": 0.54014,
+    "institutionsCount": 612
   },
   "earnings": {
     "maxAge": 86400,
@@ -768,7 +768,7 @@
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "SMR",
     "underlyingSymbol": null,
@@ -785,10 +785,10 @@
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 2481563136,
+    "enterpriseValue": 3121858816,
     "forwardPE": -17.519512,
     "profitMargins": 0,
-    "floatShares": 339311728,
+    "floatShares": 339315189,
     "sharesOutstanding": 346105785,
     "sharesShort": 60796029,
     "sharesShortPriorMonth": "1972-01-28T11:57:08.000Z",
@@ -796,7 +796,7 @@
     "dateShortInterest": "2026-05-29T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1757,
     "heldPercentInsiders": 0.01976,
-    "heldPercentInstitutions": 0.52409,
+    "heldPercentInstitutions": 0.52946997,
     "shortRatio": 1.94,
     "shortPercentOfFloat": 0.1997,
     "beta": 2.219,
@@ -813,8 +813,8 @@
     "trailingEps": -2.2,
     "forwardEps": -0.67011,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 132.924,
-    "enterpriseToEbitda": -12.213,
+    "enterpriseToRevenue": 167.222,
+    "enterpriseToEbitda": -15.364,
     "52WeekChange": -0.6783562,
     "SandP52WeekChange": 0.24487448,
     "latestShareClass": null,
@@ -843,6 +843,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 8681,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CHUNG BUM-JIN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-29T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 8681,
@@ -910,18 +922,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "HARSHAW STUART ALAN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8681,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CHUNG BUM-JIN",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-29T00:00:00.000Z",
@@ -1048,18 +1048,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 22478,
-        "value": 274681,
-        "filerUrl": "",
-        "transactionText": "Sale at price 12.22 per share.",
-        "filerName": "SCOTT CLAYTON",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 73402,
         "filerUrl": "",
         "transactionText": "",
@@ -1087,6 +1075,18 @@
         "transactionText": "",
         "filerName": "HAMADY ROBERT RAMSEY",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-03-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 22478,
+        "value": 274681,
+        "filerUrl": "",
+        "transactionText": "Sale at price 12.22 per share.",
+        "filerName": "SCOTT CLAYTON",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-02T00:00:00.000Z",
         "ownership": "D"
@@ -1245,24 +1245,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 2138619,
-        "value": 79973689,
-        "filerUrl": "",
-        "transactionText": "Sale at price 35.86 - 40.05 per share.",
-        "filerName": "FLUOR CORP",
-        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2025-10-01T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 66000,
         "value": 225060,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 3.41 per share.",
         "filerName": "REYES JOSE N. JR",
         "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-10-01T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2138619,
+        "value": 79973689,
+        "filerUrl": "",
+        "transactionText": "Sale at price 35.86 - 40.05 per share.",
+        "filerName": "FLUOR CORP",
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
         "moneyText": "",
         "startDate": "2025-10-01T00:00:00.000Z",
         "ownership": "I"
@@ -1450,6 +1450,30 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CHUNG BUM-JIN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3109,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "FUJINO SHINJI",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3109,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BOECKMANN ALAN L",
         "filerRelation": "Director",
         "moneyText": "",
@@ -1487,30 +1511,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "WARNICA KIMBERLY O",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3109,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CHUNG BUM-JIN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3109,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "FUJINO SHINJI",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-28T00:00:00.000Z",
@@ -1812,17 +1812,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1033,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "WALTERS DIANA J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 57891,
         "filerUrl": "",
         "transactionText": "",
@@ -1883,6 +1872,17 @@
         "transactionText": "",
         "filerName": "ENGEL JACQUELINE F",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1033,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WALTERS DIANA J",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-02-28T00:00:00.000Z",
         "ownership": "D"
@@ -2243,6 +2243,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-06-20T06:19:41.386Z",
+  "lastUpdated": "2026-06-22T07:21:46.975Z",
   "source": "Static Build (yahoo-finance2)"
 }
