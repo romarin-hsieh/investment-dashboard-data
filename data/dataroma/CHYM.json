@@ -1,20 +1,61 @@
 {
   "ticker": "CHYM",
-  "updated_at": "2026-02-05T03:49:42.320843",
+  "updated_at": "2026-06-23T04:03:31.010969",
   "stats": {
     "sector": "Technology",
-    "ownership_count": 2,
-    "ownership_rank": 382,
-    "percent_of_portfolios": "0.013%"
+    "ownership_count": 3,
+    "ownership_rank": 307,
+    "percent_of_portfolios": "0.039%"
   },
   "superinvestors": [
     {
-      "manager": "Chase Coleman - Tiger Global Management",
-      "percent_portfolio": 0.78,
-      "recent_activity": "",
-      "shares": 12470768,
-      "value": 251535000,
+      "manager": "Samantha McLemore - Patient Capital Management",
+      "percent_portfolio": 2.01,
+      "recent_activity": "Add 41.61%",
+      "shares": 2882016,
+      "value": 53980000,
       "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 2882016,
+          "percent_portfolio": "2.01",
+          "activity": "Add 41.61%",
+          "percent_change_portfolio": "0.59",
+          "reported_price": "$18.73"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 2035112,
+          "percent_portfolio": "1.98",
+          "activity": "Buy",
+          "percent_change_portfolio": "1.98",
+          "reported_price": "$25.17"
+        }
+      ]
+    },
+    {
+      "manager": "Chase Coleman - Tiger Global Management",
+      "percent_portfolio": 0.91,
+      "recent_activity": "Reduce 21.92%",
+      "shares": 11081780,
+      "value": 207562000,
+      "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 11081780,
+          "percent_portfolio": "0.91",
+          "activity": "Reduce 21.92%",
+          "percent_change_portfolio": "0.26",
+          "reported_price": "$18.73"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 14192499,
+          "percent_portfolio": "1.20",
+          "activity": "Add 13.81%",
+          "percent_change_portfolio": "0.15",
+          "reported_price": "$25.17"
+        },
         {
           "period": "2025   Q3",
           "shares": 12470768,
@@ -35,11 +76,19 @@
     },
     {
       "manager": "Christopher Davis - Davis Advisors",
-      "percent_portfolio": 0.28,
-      "recent_activity": "Add 3.04%",
-      "shares": 2472106,
-      "value": 62223000,
+      "percent_portfolio": 0.22,
+      "recent_activity": "Add 2.71%",
+      "shares": 2539206,
+      "value": 47559000,
       "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 2539206,
+          "percent_portfolio": "0.22",
+          "activity": "Add 2.71%",
+          "percent_change_portfolio": "0.01",
+          "reported_price": "$18.73"
+        },
         {
           "period": "2025   Q4",
           "shares": 2472106,
@@ -60,13 +109,50 @@
     }
   ],
   "activity": {
+    "Q1  2026": [
+      {
+        "manager": "Samantha McLemore - Patient Capital Management",
+        "action": "Add 41.61%",
+        "type": "Buy",
+        "shares_changed": 846904,
+        "portfolio_change": "0.59"
+      },
+      {
+        "manager": "Christopher Davis - Davis Advisors",
+        "action": "Add 2.71%",
+        "type": "Buy",
+        "shares_changed": 67100,
+        "portfolio_change": "0.01"
+      },
+      {
+        "manager": "Chase Coleman - Tiger Global Management",
+        "action": "Reduce 21.92%",
+        "type": "Sell",
+        "shares_changed": -3110719,
+        "portfolio_change": "0.26"
+      }
+    ],
     "Q4  2025": [
+      {
+        "manager": "Chase Coleman - Tiger Global Management",
+        "action": "Add 13.81%",
+        "type": "Buy",
+        "shares_changed": 1721731,
+        "portfolio_change": "0.15"
+      },
       {
         "manager": "Christopher Davis - Davis Advisors",
         "action": "Add 3.04%",
         "type": "Buy",
         "shares_changed": 72940,
         "portfolio_change": "0.01"
+      },
+      {
+        "manager": "Samantha McLemore - Patient Capital Management",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 2035112,
+        "portfolio_change": "1.98"
       }
     ],
     "Q3  2025": [
@@ -91,15 +177,45 @@
   "insiders": {
     "summary": {
       "buys": {
-        "count": 3,
-        "amount": 60750
+        "count": 0,
+        "amount": 0
       },
       "sells": {
-        "count": 13,
-        "amount": 8679409
+        "count": 16,
+        "amount": 9565583
       }
     },
     "transactions": [
+      {
+        "filing_date": "16 Jun 2026 17:39",
+        "reporter": "FRANKEL ADAM B",
+        "relationship": "General Counsel",
+        "transaction_date": "15 Jun 2026",
+        "transaction_type": "Sale",
+        "shares": 3000,
+        "price": 17.5,
+        "value": 52500
+      },
+      {
+        "filing_date": "10 Jun 2026 19:00",
+        "reporter": "FRANKEL ADAM B",
+        "relationship": "General Counsel",
+        "transaction_date": "09 Jun 2026",
+        "transaction_type": "Sale",
+        "shares": 3000,
+        "price": 18.0,
+        "value": 54000
+      },
+      {
+        "filing_date": "03 Mar 2026 17:30",
+        "reporter": "MARSHALL CYNTHIA",
+        "relationship": "Director",
+        "transaction_date": "02 Mar 2026",
+        "transaction_type": "Sale",
+        "shares": 35000,
+        "price": 22.2764,
+        "value": 779674
+      },
       {
         "filing_date": "13 Jan 2026 17:39",
         "reporter": "BRITT CHRISTOPHER R",
@@ -229,36 +345,6 @@
         "shares": 34589,
         "price": 20.3129,
         "value": 702603
-      },
-      {
-        "filing_date": "13 Jun 2025 19:46",
-        "reporter": "MARSHALL CYNTHIA",
-        "relationship": "Director",
-        "transaction_date": "13 Jun 2025",
-        "transaction_type": "Purchase",
-        "shares": 1500,
-        "price": 27.0,
-        "value": 40500
-      },
-      {
-        "filing_date": "13 Jun 2025 19:46",
-        "reporter": "MARSHALL CYNTHIA",
-        "relationship": "Director",
-        "transaction_date": "13 Jun 2025",
-        "transaction_type": "Purchase",
-        "shares": 375,
-        "price": 27.0,
-        "value": 10125
-      },
-      {
-        "filing_date": "13 Jun 2025 19:46",
-        "reporter": "MARSHALL CYNTHIA",
-        "relationship": "Director",
-        "transaction_date": "13 Jun 2025",
-        "transaction_type": "Purchase",
-        "shares": 375,
-        "price": 27.0,
-        "value": 10125
       }
     ]
   }

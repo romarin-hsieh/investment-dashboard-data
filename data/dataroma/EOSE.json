@@ -1,32 +1,23 @@
 {
   "ticker": "EOSE",
-  "updated_at": "2026-02-05T03:58:34.124081",
+  "updated_at": "2026-06-23T04:12:06.959748",
   "stats": {
     "sector": "Industrials",
-    "ownership_count": 1,
-    "ownership_rank": 729,
+    "ownership_count": 0,
+    "ownership_rank": "--",
     "percent_of_portfolios": "0%"
   },
-  "superinvestors": [
-    {
-      "manager": "Polen Capital Management",
-      "percent_portfolio": 0.0,
-      "recent_activity": "Buy",
-      "shares": 21080,
-      "value": 240000,
-      "history": [
-        {
-          "period": "2025   Q3",
-          "shares": 21080,
-          "percent_portfolio": "0.00",
-          "activity": "Buy",
-          "percent_change_portfolio": "0.00",
-          "reported_price": "$11.39"
-        }
-      ]
-    }
-  ],
+  "superinvestors": [],
   "activity": {
+    "Q1  2026": [
+      {
+        "manager": "Polen Capital Management",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -21080,
+        "portfolio_change": "0.00"
+      }
+    ],
     "Q3  2025": [
       {
         "manager": "Polen Capital Management",
@@ -40,15 +31,85 @@
   "insiders": {
     "summary": {
       "buys": {
-        "count": 0,
-        "amount": 0
+        "count": 4,
+        "amount": 692962
       },
       "sells": {
-        "count": 24,
-        "amount": 22270930
+        "count": 23,
+        "amount": 18917290
       }
     },
     "transactions": [
+      {
+        "filing_date": "29 May 2026 16:01",
+        "reporter": "WALTERS MARIAN",
+        "relationship": "Director",
+        "transaction_date": "28 May 2026",
+        "transaction_type": "Sale",
+        "shares": 30000,
+        "price": 9.18,
+        "value": 275400
+      },
+      {
+        "filing_date": "22 May 2026 16:02",
+        "reporter": "WALTERS MARIAN",
+        "relationship": "Director",
+        "transaction_date": "20 May 2026",
+        "transaction_type": "Sale",
+        "shares": 22319,
+        "price": 7.2,
+        "value": 160697
+      },
+      {
+        "filing_date": "19 May 2026 19:25",
+        "reporter": "WALTERS MARIAN",
+        "relationship": "Director",
+        "transaction_date": "19 May 2026",
+        "transaction_type": "Sale",
+        "shares": 7681,
+        "price": 7.07,
+        "value": 54305
+      },
+      {
+        "filing_date": "10 Mar 2026 08:52",
+        "reporter": "URBAN DAVID",
+        "relationship": "Director",
+        "transaction_date": "09 Mar 2026",
+        "transaction_type": "Purchase",
+        "shares": 16250,
+        "price": 6.16,
+        "value": 100100
+      },
+      {
+        "filing_date": "05 Mar 2026 08:48",
+        "reporter": "MASTRANGELO JOE",
+        "relationship": "Chief Executive Officer",
+        "transaction_date": "04 Mar 2026",
+        "transaction_type": "Purchase",
+        "shares": 23900,
+        "price": 6.58,
+        "value": 157262
+      },
+      {
+        "filing_date": "04 Mar 2026 08:56",
+        "reporter": "DIMITRIEF ALEXANDER",
+        "relationship": "Director",
+        "transaction_date": "02 Mar 2026",
+        "transaction_type": "Purchase",
+        "shares": 15000,
+        "price": 6.04,
+        "value": 90600
+      },
+      {
+        "filing_date": "03 Mar 2026 09:00",
+        "reporter": "MASTRANGELO JOE",
+        "relationship": "Chief Executive Officer",
+        "transaction_date": "02 Mar 2026",
+        "transaction_type": "Purchase",
+        "shares": 60000,
+        "price": 5.75,
+        "value": 345000
+      },
       {
         "filing_date": "26 Jan 2026 16:52",
         "reporter": "KROEKER NATHAN",
@@ -248,46 +309,6 @@
         "shares": 127152,
         "price": 4.92,
         "value": 625588
-      },
-      {
-        "filing_date": "16 May 2025 18:16",
-        "reporter": "MASTRANGELO JOE",
-        "relationship": "Chief Executive Officer",
-        "transaction_date": "16 May 2025",
-        "transaction_type": "Sale",
-        "shares": 270384,
-        "price": 6.86,
-        "value": 1854834
-      },
-      {
-        "filing_date": "16 May 2025 18:14",
-        "reporter": "KROEKER NATHAN",
-        "relationship": "Chief Commercial Officer",
-        "transaction_date": "16 May 2025",
-        "transaction_type": "Sale",
-        "shares": 152856,
-        "price": 6.86,
-        "value": 1048592
-      },
-      {
-        "filing_date": "16 May 2025 18:13",
-        "reporter": "SILBERMAN MICHAEL W",
-        "relationship": "General Counsel",
-        "transaction_date": "16 May 2025",
-        "transaction_type": "Sale",
-        "shares": 100943,
-        "price": 6.86,
-        "value": 692469
-      },
-      {
-        "filing_date": "16 May 2025 18:12",
-        "reporter": "PURI SUMEET",
-        "relationship": "Chief Accounting Officer",
-        "transaction_date": "16 May 2025",
-        "transaction_type": "Sale",
-        "shares": 36173,
-        "price": 6.86,
-        "value": 248147
       }
     ]
   }

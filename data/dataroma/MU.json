@@ -1,20 +1,36 @@
 {
   "ticker": "MU",
-  "updated_at": "2026-02-05T04:34:03.022317",
+  "updated_at": "2026-06-23T04:49:38.211643",
   "stats": {
     "sector": "Information Technology",
-    "ownership_count": 1,
-    "ownership_rank": 729,
-    "percent_of_portfolios": "0.014%"
+    "ownership_count": 3,
+    "ownership_rank": 307,
+    "percent_of_portfolios": "0.117%"
   },
   "superinvestors": [
     {
       "manager": "David Tepper - Appaloosa Management",
-      "percent_portfolio": 1.13,
-      "recent_activity": "Reduce 39.39%",
-      "shares": 500000,
-      "value": 83660000,
+      "percent_portfolio": 9.48,
+      "recent_activity": "Add 11.00%",
+      "shares": 1665000,
+      "value": 562504000,
       "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 1665000,
+          "percent_portfolio": "9.48",
+          "activity": "Add 11.00%",
+          "percent_change_portfolio": "0.94",
+          "reported_price": "$337.84"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 1500000,
+          "percent_portfolio": "6.25",
+          "activity": "Add 200.00%",
+          "percent_change_portfolio": "4.17",
+          "reported_price": "$285.41"
+        },
         {
           "period": "2025   Q3",
           "shares": 500000,
@@ -344,10 +360,123 @@
           "reported_price": "$8.02"
         }
       ]
+    },
+    {
+      "manager": "Ruane Cunniff LP",
+      "percent_portfolio": 0.01,
+      "recent_activity": "",
+      "shares": 2162,
+      "value": 730000,
+      "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 2162,
+          "percent_portfolio": "0.01",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$337.65"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 2162,
+          "percent_portfolio": "0.01",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$285.38"
+        },
+        {
+          "period": "2025   Q3",
+          "shares": 2162,
+          "percent_portfolio": "0.01",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$167.44"
+        },
+        {
+          "period": "2025   Q2",
+          "shares": 2162,
+          "percent_portfolio": "0.00",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$123.03"
+        },
+        {
+          "period": "2024   Q4",
+          "shares": 0,
+          "percent_portfolio": "0",
+          "activity": "Sell 100.00%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": ""
+        },
+        {
+          "period": "2024   Q3",
+          "shares": 2162,
+          "percent_portfolio": "0.00",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$103.61"
+        },
+        {
+          "period": "2024   Q2",
+          "shares": 2162,
+          "percent_portfolio": "0.00",
+          "activity": "Reduce 31.63%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$131.36"
+        },
+        {
+          "period": "2024   Q1",
+          "shares": 3162,
+          "percent_portfolio": "0.01",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$117.96"
+        }
+      ]
+    },
+    {
+      "manager": "Mairs & Power Funds",
+      "percent_portfolio": 0.0,
+      "recent_activity": "Buy",
+      "shares": 693,
+      "value": 234000,
+      "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 693,
+          "percent_portfolio": "0.00",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$337.66"
+        }
+      ]
     }
   ],
   "activity": {
+    "Q1  2026": [
+      {
+        "manager": "David Tepper - Appaloosa Management",
+        "action": "Add 11.00%",
+        "type": "Buy",
+        "shares_changed": 165000,
+        "portfolio_change": "0.94"
+      },
+      {
+        "manager": "Mairs & Power Funds",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 693,
+        "portfolio_change": "0.00"
+      }
+    ],
     "Q4  2025": [
+      {
+        "manager": "David Tepper - Appaloosa Management",
+        "action": "Add 200.00%",
+        "type": "Buy",
+        "shares_changed": 1000000,
+        "portfolio_change": "4.17"
+      },
       {
         "manager": "Guy Spier - Aquamarine Capital",
         "action": "Sell 100.00%",
@@ -395,6 +524,13 @@
         "portfolio_change": "0.55"
       },
       {
+        "manager": "Ruane Cunniff LP",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 2162,
+        "portfolio_change": "0.00"
+      },
+      {
         "manager": "Prem Watsa - Fairfax Financial Holdings",
         "action": "Sell 100.00%",
         "type": "Sell",
@@ -432,6 +568,13 @@
         "type": "Sell",
         "shares_changed": -8457,
         "portfolio_change": "0.01"
+      },
+      {
+        "manager": "Ruane Cunniff LP",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -2162,
+        "portfolio_change": "0.00"
       }
     ],
     "Q3  2024": [
@@ -492,6 +635,13 @@
         "type": "Sell",
         "shares_changed": -40000,
         "portfolio_change": "0.09"
+      },
+      {
+        "manager": "Ruane Cunniff LP",
+        "action": "Reduce 31.63%",
+        "type": "Sell",
+        "shares_changed": -1000,
+        "portfolio_change": "0.00"
       },
       {
         "manager": "Yacktman Asset Management",
@@ -675,20 +825,6 @@
         "type": "Sell",
         "shares_changed": -6826079,
         "portfolio_change": "20.20"
-      },
-      {
-        "manager": "Ruane Cunniff - Sequoia Fund",
-        "action": "Sell 100.00%",
-        "type": "Sell",
-        "shares_changed": -1683406,
-        "portfolio_change": "3.44"
-      },
-      {
-        "manager": "Meridian Contrarian Fund",
-        "action": "Sell 100.00%",
-        "type": "Sell",
-        "shares_changed": -49000,
-        "portfolio_change": "0.54"
       }
     ],
     "Q1  2023": [
@@ -749,13 +885,6 @@
         "portfolio_change": "1.56"
       },
       {
-        "manager": "Meridian Contrarian Fund",
-        "action": "Reduce 71.51%",
-        "type": "Sell",
-        "shares_changed": -123000,
-        "portfolio_change": "1.36"
-      },
-      {
         "manager": "Seth Klarman - Baupost Group",
         "action": "Sell 100.00%",
         "type": "Sell",
@@ -798,13 +927,6 @@
         "type": "Buy",
         "shares_changed": 7246,
         "portfolio_change": "0.00"
-      },
-      {
-        "manager": "Meridian Contrarian Fund",
-        "action": "Reduce 5.49%",
-        "type": "Sell",
-        "shares_changed": -10000,
-        "portfolio_change": "0.09"
       }
     ],
     "Q3  2022": [
@@ -851,13 +973,6 @@
         "portfolio_change": "0.01"
       },
       {
-        "manager": "Ruane Cunniff - Sequoia Fund",
-        "action": "Reduce 36.55%",
-        "type": "Sell",
-        "shares_changed": -969833,
-        "portfolio_change": "1.72"
-      },
-      {
         "manager": "David Tepper - Appaloosa Management",
         "action": "Sell 100.00%",
         "type": "Sell",
@@ -866,13 +981,6 @@
       }
     ],
     "Q2  2022": [
-      {
-        "manager": "Meridian Contrarian Fund",
-        "action": "Add 2.82%",
-        "type": "Buy",
-        "shares_changed": 5000,
-        "portfolio_change": "0.05"
-      },
       {
         "manager": "Yacktman Asset Management",
         "action": "Add 0.47%",
@@ -934,13 +1042,6 @@
     ],
     "Q4  2021": [
       {
-        "manager": "Meridian Contrarian Fund",
-        "action": "Add 31.11%",
-        "type": "Buy",
-        "shares_changed": 42000,
-        "portfolio_change": "0.57"
-      },
-      {
         "manager": "Mohnish Pabrai - Pabrai Investments",
         "action": "Add 15.49%",
         "type": "Buy",
@@ -953,13 +1054,6 @@
         "type": "Sell",
         "shares_changed": -1434,
         "portfolio_change": "0.00"
-      },
-      {
-        "manager": "Ruane Cunniff - Sequoia Fund",
-        "action": "Reduce 7.55%",
-        "type": "Sell",
-        "shares_changed": -216601,
-        "portfolio_change": "0.42"
       },
       {
         "manager": "Seth Klarman - Baupost Group",
@@ -999,13 +1093,6 @@
         "portfolio_change": "0.00"
       },
       {
-        "manager": "Meridian Contrarian Fund",
-        "action": "Reduce 6.90%",
-        "type": "Sell",
-        "shares_changed": -10000,
-        "portfolio_change": "0.10"
-      },
-      {
         "manager": "David Tepper - Appaloosa Management",
         "action": "Reduce 51.35%",
         "type": "Sell",
@@ -1015,25 +1102,11 @@
     ],
     "Q2  2021": [
       {
-        "manager": "Ruane Cunniff - Sequoia Fund",
-        "action": "Add 54.21%",
-        "type": "Buy",
-        "shares_changed": 1008883,
-        "portfolio_change": "1.79"
-      },
-      {
         "manager": "Seth Klarman - Baupost Group",
         "action": "Add 32.08%",
         "type": "Buy",
         "shares_changed": 1740000,
         "portfolio_change": "1.20"
-      },
-      {
-        "manager": "Meridian Contrarian Fund",
-        "action": "Add 3.57%",
-        "type": "Buy",
-        "shares_changed": 5000,
-        "portfolio_change": "0.06"
       },
       {
         "manager": "Prem Watsa - Fairfax Financial Holdings",
@@ -1073,18 +1146,55 @@
         "portfolio_change": "0.14"
       },
       {
-        "manager": "Ruane Cunniff - Sequoia Fund",
-        "action": "Buy",
-        "type": "Buy",
-        "shares_changed": 1860957,
-        "portfolio_change": "3.56"
-      },
-      {
         "manager": "Yacktman Asset Management",
         "action": "Reduce 0.78%",
         "type": "Sell",
         "shares_changed": -5496,
         "portfolio_change": "0.01"
+      },
+      {
+        "manager": "Prem Watsa - Fairfax Financial Holdings",
+        "action": "Reduce 2.14%",
+        "type": "Sell",
+        "shares_changed": -15000,
+        "portfolio_change": "0.05"
+      },
+      {
+        "manager": "David Tepper - Appaloosa Management",
+        "action": "Reduce 9.06%",
+        "type": "Sell",
+        "shares_changed": -725000,
+        "portfolio_change": "0.92"
+      },
+      {
+        "manager": "Mohnish Pabrai - Pabrai Investments",
+        "action": "Reduce 14.74%",
+        "type": "Sell",
+        "shares_changed": -268322,
+        "portfolio_change": "9.03"
+      },
+      {
+        "manager": "Lee Ainslie - Maverick Capital",
+        "action": "Reduce 36.81%",
+        "type": "Sell",
+        "shares_changed": -22369,
+        "portfolio_change": "0.02"
+      },
+      {
+        "manager": "Viking Global Investors",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -2752100,
+        "portfolio_change": "0.57"
+      }
+    ],
+    "Q4  2020": [
+      {
+        "manager": "Guy Spier - Aquamarine Capital",
+        "action": "Add 66.67%",
+        "type": "Buy",
+        "shares_changed": 80000,
+        "portfolio_change": "3.51"
       }
     ]
   },
@@ -1095,1010 +1205,1010 @@
         "amount": 7821723
       },
       "sells": {
-        "count": 158,
-        "amount": 149711045
+        "count": 231,
+        "amount": 242731251
       }
     },
     "transactions": [
       {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 200,
-        "price": 401.16,
-        "value": 80232
-      },
-      {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 400,
-        "price": 403.24,
-        "value": 161296
-      },
-      {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 300,
-        "price": 404.57,
-        "value": 121371
-      },
-      {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 800,
-        "price": 405.79,
-        "value": 324632
-      },
-      {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 1600,
-        "price": 406.92,
-        "value": 651072
-      },
-      {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 1600,
-        "price": 407.95,
-        "value": 652720
-      },
-      {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 2000,
-        "price": 409.18,
-        "value": 818360
-      },
-      {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 1168,
-        "price": 410.08,
-        "value": 478973
-      },
-      {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 900,
-        "price": 411.22,
-        "value": 370098
-      },
-      {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 400,
-        "price": 412.44,
-        "value": 164976
-      },
-      {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 800,
-        "price": 413.82,
-        "value": 331056
-      },
-      {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 1600,
-        "price": 414.61,
-        "value": 663376
-      },
-      {
-        "filing_date": "29 Jan 2026 19:12",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "27 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 500,
-        "price": 415.65,
-        "value": 207825
-      },
-      {
-        "filing_date": "26 Jan 2026 19:05",
-        "reporter": "BHATIA MANISH H",
-        "relationship": "EVP, Global Operations",
-        "transaction_date": "22 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 5128,
-        "price": 388.78,
-        "value": 1993664
-      },
-      {
-        "filing_date": "26 Jan 2026 19:05",
-        "reporter": "BHATIA MANISH H",
-        "relationship": "EVP, Global Operations",
-        "transaction_date": "22 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 7200,
-        "price": 389.91,
-        "value": 2807352
-      },
-      {
-        "filing_date": "26 Jan 2026 19:05",
-        "reporter": "BHATIA MANISH H",
-        "relationship": "EVP, Global Operations",
-        "transaction_date": "22 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 8500,
-        "price": 391.01,
-        "value": 3323585
-      },
-      {
-        "filing_date": "26 Jan 2026 19:05",
-        "reporter": "BHATIA MANISH H",
-        "relationship": "EVP, Global Operations",
-        "transaction_date": "22 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 2200,
-        "price": 392.84,
-        "value": 864248
-      },
-      {
-        "filing_date": "26 Jan 2026 19:05",
-        "reporter": "BHATIA MANISH H",
-        "relationship": "EVP, Global Operations",
-        "transaction_date": "22 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 1295,
-        "price": 394.92,
-        "value": 511421
-      },
-      {
-        "filing_date": "26 Jan 2026 19:05",
-        "reporter": "BHATIA MANISH H",
-        "relationship": "EVP, Global Operations",
-        "transaction_date": "22 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 2300,
-        "price": 395.87,
-        "value": 910501
-      },
-      {
-        "filing_date": "15 Jan 2026 19:07",
-        "reporter": "LIU TEYIN M",
-        "relationship": "Director",
-        "transaction_date": "13 Jan 2026",
-        "transaction_type": "Purchase",
-        "shares": 11600,
-        "price": 337.07,
-        "value": 3910012
-      },
-      {
-        "filing_date": "15 Jan 2026 19:07",
-        "reporter": "LIU TEYIN M",
-        "relationship": "Director",
-        "transaction_date": "14 Jan 2026",
-        "transaction_type": "Purchase",
-        "shares": 3780,
-        "price": 336.63,
-        "value": 1272461
-      },
-      {
-        "filing_date": "15 Jan 2026 19:07",
-        "reporter": "LIU TEYIN M",
-        "relationship": "Director",
-        "transaction_date": "14 Jan 2026",
-        "transaction_type": "Purchase",
-        "shares": 7820,
-        "price": 337.5,
-        "value": 2639250
-      },
-      {
-        "filing_date": "08 Jan 2026 19:02",
-        "reporter": "ALLEN SCOTT R.",
-        "relationship": "CVP, Chief Accounting Officer",
-        "transaction_date": "06 Jan 2026",
-        "transaction_type": "Sale",
-        "shares": 2000,
-        "price": 337.5,
-        "value": 675000
-      },
-      {
-        "filing_date": "23 Dec 2025 19:21",
-        "reporter": "ARNZEN APRIL S",
-        "relationship": "EVP and Chief People Officer",
-        "transaction_date": "22 Dec 2025",
-        "transaction_type": "Sale",
-        "shares": 15000,
-        "price": 277.09,
-        "value": 4156350
-      },
-      {
-        "filing_date": "23 Dec 2025 19:17",
-        "reporter": "GOMO STEVEN J",
-        "relationship": "Director",
-        "transaction_date": "19 Dec 2025",
-        "transaction_type": "Sale",
-        "shares": 5000,
-        "price": 263.63,
-        "value": 1318150
-      },
-      {
-        "filing_date": "10 Nov 2025 19:07",
+        "filing_date": "02 Jun 2026 17:12",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Nov 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 4562,
-        "price": 240.42,
-        "value": 1096796
+        "shares": 560,
+        "price": 973.75,
+        "value": 545300
       },
       {
-        "filing_date": "10 Nov 2025 19:07",
+        "filing_date": "02 Jun 2026 17:12",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Nov 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 2437,
-        "price": 241.35,
-        "value": 588170
+        "shares": 550,
+        "price": 974.44,
+        "value": 535942
       },
       {
-        "filing_date": "10 Nov 2025 19:07",
+        "filing_date": "02 Jun 2026 17:12",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Nov 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 382,
-        "price": 242.14,
-        "value": 92497
+        "shares": 661,
+        "price": 975.57,
+        "value": 644852
       },
       {
-        "filing_date": "10 Nov 2025 19:07",
+        "filing_date": "02 Jun 2026 17:12",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Nov 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 1055,
-        "price": 243.75,
-        "value": 257156
+        "shares": 166,
+        "price": 976.75,
+        "value": 162140
       },
       {
-        "filing_date": "10 Nov 2025 19:07",
+        "filing_date": "02 Jun 2026 17:12",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Nov 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 321,
-        "price": 245.55,
-        "value": 78822
+        "shares": 544,
+        "price": 977.95,
+        "value": 532005
       },
       {
-        "filing_date": "10 Nov 2025 19:07",
+        "filing_date": "02 Jun 2026 17:12",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Nov 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 296,
-        "price": 227.72,
-        "value": 67405
+        "shares": 80,
+        "price": 979.37,
+        "value": 78350
       },
       {
-        "filing_date": "10 Nov 2025 19:07",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Nov 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 323,
-        "price": 229.07,
-        "value": 73990
+        "shares": 105,
+        "price": 942.14,
+        "value": 98925
       },
       {
-        "filing_date": "10 Nov 2025 19:07",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Nov 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 580,
-        "price": 230.57,
-        "value": 133731
+        "shares": 175,
+        "price": 943.09,
+        "value": 165041
       },
       {
-        "filing_date": "10 Nov 2025 19:07",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Nov 2025",
-        "transaction_type": "Sale",
-        "shares": 128,
-        "price": 231.21,
-        "value": 29595
-      },
-      {
-        "filing_date": "10 Nov 2025 19:07",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "07 Nov 2025",
-        "transaction_type": "Sale",
-        "shares": 304,
-        "price": 232.87,
-        "value": 70792
-      },
-      {
-        "filing_date": "10 Nov 2025 19:07",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "07 Nov 2025",
-        "transaction_type": "Sale",
-        "shares": 910,
-        "price": 234.34,
-        "value": 213249
-      },
-      {
-        "filing_date": "10 Nov 2025 19:07",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "07 Nov 2025",
-        "transaction_type": "Sale",
-        "shares": 511,
-        "price": 235.84,
-        "value": 120514
-      },
-      {
-        "filing_date": "10 Nov 2025 19:07",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "07 Nov 2025",
-        "transaction_type": "Sale",
-        "shares": 196,
-        "price": 236.62,
-        "value": 46378
-      },
-      {
-        "filing_date": "10 Nov 2025 19:07",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "07 Nov 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
         "shares": 349,
-        "price": 237.82,
-        "value": 82999
+        "price": 944.17,
+        "value": 329515
       },
       {
-        "filing_date": "10 Nov 2025 19:07",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Nov 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 146,
-        "price": 239.14,
-        "value": 34914
+        "shares": 182,
+        "price": 945.15,
+        "value": 172017
       },
       {
-        "filing_date": "03 Nov 2025 19:11",
-        "reporter": "MURPHY MARK J.",
-        "relationship": "EVP & Chief Financial Officer",
-        "transaction_date": "30 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 3820,
-        "price": 221.64,
-        "value": 846665
-      },
-      {
-        "filing_date": "03 Nov 2025 19:11",
-        "reporter": "MURPHY MARK J.",
-        "relationship": "EVP & Chief Financial Officer",
-        "transaction_date": "30 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 5100,
-        "price": 222.96,
-        "value": 1137096
-      },
-      {
-        "filing_date": "03 Nov 2025 19:11",
-        "reporter": "MURPHY MARK J.",
-        "relationship": "EVP & Chief Financial Officer",
-        "transaction_date": "30 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 11382,
-        "price": 223.83,
-        "value": 2547633
-      },
-      {
-        "filing_date": "03 Nov 2025 19:11",
-        "reporter": "MURPHY MARK J.",
-        "relationship": "EVP & Chief Financial Officer",
-        "transaction_date": "30 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 32202,
-        "price": 224.92,
-        "value": 7242874
-      },
-      {
-        "filing_date": "03 Nov 2025 19:11",
-        "reporter": "MURPHY MARK J.",
-        "relationship": "EVP & Chief Financial Officer",
-        "transaction_date": "30 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 51149,
-        "price": 225.87,
-        "value": 11553025
-      },
-      {
-        "filing_date": "03 Nov 2025 19:11",
-        "reporter": "MURPHY MARK J.",
-        "relationship": "EVP & Chief Financial Officer",
-        "transaction_date": "30 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 22347,
-        "price": 226.51,
-        "value": 5061819
-      },
-      {
-        "filing_date": "31 Oct 2025 19:19",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "29 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 8968,
-        "price": 230.23,
-        "value": 2064703
+        "shares": 350,
+        "price": 946.76,
+        "value": 331366
       },
       {
-        "filing_date": "31 Oct 2025 19:19",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "29 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 2930,
-        "price": 231.45,
-        "value": 678148
-      },
-      {
-        "filing_date": "31 Oct 2025 19:19",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "30 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 527,
-        "price": 221.68,
-        "value": 116825
-      },
-      {
-        "filing_date": "31 Oct 2025 19:19",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "30 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 596,
-        "price": 223.04,
-        "value": 132932
-      },
-      {
-        "filing_date": "31 Oct 2025 19:19",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "30 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 1131,
-        "price": 224.3,
-        "value": 253683
-      },
-      {
-        "filing_date": "31 Oct 2025 19:19",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "30 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 3225,
-        "price": 225.05,
-        "value": 725786
-      },
-      {
-        "filing_date": "31 Oct 2025 19:19",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "30 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 4911,
-        "price": 226.14,
-        "value": 1110574
-      },
-      {
-        "filing_date": "31 Oct 2025 19:19",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "30 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 212,
-        "price": 226.79,
-        "value": 48079
-      },
-      {
-        "filing_date": "29 Oct 2025 18:44",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "27 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 17018,
-        "price": 220.17,
-        "value": 3746853
-      },
-      {
-        "filing_date": "29 Oct 2025 18:44",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "27 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 1885,
-        "price": 221.32,
-        "value": 417188
-      },
-      {
-        "filing_date": "29 Oct 2025 18:44",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "27 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 3291,
-        "price": 222.86,
-        "value": 733432
-      },
-      {
-        "filing_date": "29 Oct 2025 18:44",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "27 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 306,
-        "price": 224.69,
-        "value": 68755
-      },
-      {
-        "filing_date": "29 Oct 2025 18:43",
-        "reporter": "DEBOER SCOTT J",
-        "relationship": "EVP, CTO and Products Officer",
-        "transaction_date": "27 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 82000,
-        "price": 222.81,
-        "value": 18270420
-      },
-      {
-        "filing_date": "22 Oct 2025 18:20",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "20 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 1206,
-        "price": 210.5,
-        "value": 253863
-      },
-      {
-        "filing_date": "22 Oct 2025 18:20",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "20 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 1032,
-        "price": 211.5,
-        "value": 218268
-      },
-      {
-        "filing_date": "22 Oct 2025 18:20",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "20 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 501,
-        "price": 212.2,
-        "value": 106312
-      },
-      {
-        "filing_date": "22 Oct 2025 18:20",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "21 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 3151,
-        "price": 201.89,
-        "value": 636155
-      },
-      {
-        "filing_date": "22 Oct 2025 18:20",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "21 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 6903,
-        "price": 202.82,
-        "value": 1400066
-      },
-      {
-        "filing_date": "22 Oct 2025 18:20",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "21 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 8148,
-        "price": 203.56,
-        "value": 1658607
-      },
-      {
-        "filing_date": "22 Oct 2025 18:20",
-        "reporter": "MEHROTRA SANJAY",
-        "relationship": "President and CEO",
-        "transaction_date": "21 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 1559,
-        "price": 204.59,
-        "value": 318956
-      },
-      {
-        "filing_date": "21 Oct 2025 17:59",
-        "reporter": "ALLEN SCOTT R.",
-        "relationship": "CVP, Chief Accounting Officer",
-        "transaction_date": "20 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 8800,
-        "price": 210.02,
-        "value": 1848176
-      },
-      {
-        "filing_date": "20 Oct 2025 16:49",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "16 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 200,
-        "price": 196.43,
-        "value": 39286
-      },
-      {
-        "filing_date": "20 Oct 2025 16:49",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "16 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 200,
-        "price": 197.5,
-        "value": 39500
-      },
-      {
-        "filing_date": "20 Oct 2025 16:49",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "16 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 200,
-        "price": 198.18,
-        "value": 39636
-      },
-      {
-        "filing_date": "20 Oct 2025 16:49",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "16 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 200,
-        "price": 199.71,
-        "value": 39942
-      },
-      {
-        "filing_date": "20 Oct 2025 16:49",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "16 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 600,
-        "price": 200.8,
-        "value": 120480
-      },
-      {
-        "filing_date": "20 Oct 2025 16:49",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "16 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 782,
-        "price": 202.03,
-        "value": 157987
-      },
-      {
-        "filing_date": "20 Oct 2025 16:49",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "16 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 900,
-        "price": 203.07,
-        "value": 182763
-      },
-      {
-        "filing_date": "20 Oct 2025 16:49",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "16 Oct 2025",
-        "transaction_type": "Sale",
-        "shares": 200,
-        "price": 203.87,
-        "value": 40774
-      },
-      {
-        "filing_date": "20 Oct 2025 16:49",
-        "reporter": "RAY MICHAEL CHARLES",
-        "relationship": "SVP, Chief Legal Officer",
-        "transaction_date": "16 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
         "shares": 400,
-        "price": 205.04,
-        "value": 82016
+        "price": 947.56,
+        "value": 379024
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "03 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 4387,
-        "price": 190.37,
-        "value": 835153
+        "shares": 1026,
+        "price": 948.53,
+        "value": 973192
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "03 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 750,
-        "price": 191.3,
-        "value": 143475
+        "shares": 679,
+        "price": 949.78,
+        "value": 644901
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 396,
-        "price": 190.45,
-        "value": 75418
+        "shares": 789,
+        "price": 951.2,
+        "value": 750497
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 1912,
-        "price": 191.2,
-        "value": 365574
+        "shares": 887,
+        "price": 952.16,
+        "value": 844566
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 1440,
-        "price": 192.45,
-        "value": 277128
+        "shares": 2268,
+        "price": 953.23,
+        "value": 2161926
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 1634,
-        "price": 193.35,
-        "value": 315934
+        "shares": 1196,
+        "price": 954.28,
+        "value": 1141319
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 1590,
-        "price": 194.4,
-        "value": 309096
+        "shares": 2382,
+        "price": 955.24,
+        "value": 2275382
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 1620,
-        "price": 195.38,
-        "value": 316516
+        "shares": 2099,
+        "price": 956.12,
+        "value": 2006896
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 251,
-        "price": 197.28,
-        "value": 49517
+        "shares": 1627,
+        "price": 957.12,
+        "value": 1557234
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 520,
-        "price": 198.92,
-        "value": 103438
+        "shares": 1529,
+        "price": 958.23,
+        "value": 1465134
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "06 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 1437,
-        "price": 199.96,
-        "value": 287343
+        "shares": 1843,
+        "price": 959.22,
+        "value": 1767842
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 1015,
-        "price": 184.23,
-        "value": 186993
+        "shares": 686,
+        "price": 960.55,
+        "value": 658937
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 8213,
-        "price": 185.61,
-        "value": 1524415
+        "shares": 1975,
+        "price": 961.27,
+        "value": 1898508
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 2217,
-        "price": 186.2,
-        "value": 412805
+        "shares": 3113,
+        "price": 962.23,
+        "value": 2995422
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 999,
-        "price": 187.36,
-        "value": 187173
+        "shares": 319,
+        "price": 963.1,
+        "value": 307229
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 1333,
-        "price": 188.93,
-        "value": 251844
+        "shares": 884,
+        "price": 964.74,
+        "value": 852830
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 1015,
-        "price": 189.83,
-        "value": 192677
+        "shares": 2765,
+        "price": 965.63,
+        "value": 2669967
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 732,
-        "price": 190.6,
-        "value": 139519
+        "shares": 2267,
+        "price": 966.65,
+        "value": 2191396
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 1077,
-        "price": 191.66,
-        "value": 206418
+        "shares": 2306,
+        "price": 967.65,
+        "value": 2231401
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 2052,
-        "price": 193.31,
-        "value": 396672
+        "shares": 800,
+        "price": 968.88,
+        "value": 775104
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 2149,
-        "price": 194.13,
-        "value": 417185
+        "shares": 626,
+        "price": 969.78,
+        "value": 607082
       },
       {
-        "filing_date": "07 Oct 2025 20:23",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "07 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 761,
-        "price": 194.91,
-        "value": 148327
+        "shares": 1810,
+        "price": 970.59,
+        "value": 1756768
       },
       {
-        "filing_date": "03 Oct 2025 19:01",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "01 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 9476,
-        "price": 180.38,
-        "value": 1709281
+        "shares": 1374,
+        "price": 971.84,
+        "value": 1335308
       },
       {
-        "filing_date": "03 Oct 2025 19:01",
+        "filing_date": "02 Jun 2026 17:08",
         "reporter": "MEHROTRA SANJAY",
         "relationship": "President and CEO",
-        "transaction_date": "01 Oct 2025",
+        "transaction_date": "29 May 2026",
         "transaction_type": "Sale",
-        "shares": 3256,
-        "price": 181.32,
-        "value": 590378
+        "shares": 628,
+        "price": 972.61,
+        "value": 610799
+      },
+      {
+        "filing_date": "13 May 2026 19:09",
+        "reporter": "GOMO STEVEN J",
+        "relationship": "Director",
+        "transaction_date": "11 May 2026",
+        "transaction_type": "Sale",
+        "shares": 1000,
+        "price": 786.47,
+        "value": 786470
+      },
+      {
+        "filing_date": "13 May 2026 19:09",
+        "reporter": "GOMO STEVEN J",
+        "relationship": "Director",
+        "transaction_date": "11 May 2026",
+        "transaction_type": "Sale",
+        "shares": 1000,
+        "price": 787.6,
+        "value": 787600
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 503,
+        "price": 511.91,
+        "value": 257491
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 271,
+        "price": 514.41,
+        "value": 139405
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 187,
+        "price": 516.04,
+        "value": 96499
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 237,
+        "price": 516.62,
+        "value": 122439
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 213,
+        "price": 518.52,
+        "value": 110445
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 107,
+        "price": 519.72,
+        "value": 55610
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 236,
+        "price": 524.19,
+        "value": 123709
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 394,
+        "price": 525.36,
+        "value": 206992
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 224,
+        "price": 526.72,
+        "value": 117985
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 602,
+        "price": 527.63,
+        "value": 317633
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 1193,
+        "price": 529.05,
+        "value": 631157
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 2227,
+        "price": 529.92,
+        "value": 1180132
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 3184,
+        "price": 530.84,
+        "value": 1690195
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 2766,
+        "price": 531.97,
+        "value": 1471429
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 1649,
+        "price": 532.89,
+        "value": 878736
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 931,
+        "price": 534.06,
+        "value": 497210
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 1116,
+        "price": 534.92,
+        "value": 596971
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 1075,
+        "price": 536.08,
+        "value": 576286
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 745,
+        "price": 537.21,
+        "value": 400221
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 1632,
+        "price": 538.45,
+        "value": 878750
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 3538,
+        "price": 539.28,
+        "value": 1907973
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 2870,
+        "price": 540.3,
+        "value": 1550661
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 7854,
+        "price": 541.44,
+        "value": 4252470
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 4026,
+        "price": 542.24,
+        "value": 2183058
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 1439,
+        "price": 543.22,
+        "value": 781694
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 672,
+        "price": 544.58,
+        "value": 365958
+      },
+      {
+        "filing_date": "05 May 2026 19:29",
+        "reporter": "MEHROTRA SANJAY",
+        "relationship": "President and CEO",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 109,
+        "price": 545.39,
+        "value": 59448
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 120,
+        "price": 511.64,
+        "value": 61397
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 80,
+        "price": 514.32,
+        "value": 41146
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 80,
+        "price": 516.17,
+        "value": 41294
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 120,
+        "price": 517.31,
+        "value": 62077
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 40,
+        "price": 518.82,
+        "value": 20753
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 80,
+        "price": 521.64,
+        "value": 41731
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 120,
+        "price": 524.96,
+        "value": 62995
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 120,
+        "price": 526.13,
+        "value": 63136
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 160,
+        "price": 527.51,
+        "value": 84402
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 200,
+        "price": 528.42,
+        "value": 105684
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 581,
+        "price": 529.54,
+        "value": 307663
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 560,
+        "price": 530.65,
+        "value": 297164
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 720,
+        "price": 531.52,
+        "value": 382694
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 583,
+        "price": 532.46,
+        "value": 310424
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 206,
+        "price": 533.41,
+        "value": 109882
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 240,
+        "price": 534.53,
+        "value": 128287
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 280,
+        "price": 535.57,
+        "value": 149960
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 280,
+        "price": 536.91,
+        "value": 150335
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 280,
+        "price": 538.6,
+        "value": 150808
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 680,
+        "price": 539.49,
+        "value": 366853
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 560,
+        "price": 540.57,
+        "value": 302719
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 758,
+        "price": 541.68,
+        "value": 410593
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 313,
+        "price": 542.73,
+        "value": 169874
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 320,
+        "price": 543.65,
+        "value": 173968
+      },
+      {
+        "filing_date": "05 May 2026 19:27",
+        "reporter": "RAY MICHAEL CHARLES",
+        "relationship": "SVP, Chief Legal Officer",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Sale",
+        "shares": 120,
+        "price": 544.73,
+        "value": 65368
+      },
+      {
+        "filing_date": "16 Apr 2026 19:08",
+        "reporter": "CORDANO MICHAEL D",
+        "relationship": "EVP, Worldwide Sales",
+        "transaction_date": "14 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 3407,
+        "price": 435.0,
+        "value": 1482045
+      },
+      {
+        "filing_date": "14 Apr 2026 19:10",
+        "reporter": "SADANA SUMIT",
+        "relationship": "EVP and Chief Business Officer",
+        "transaction_date": "10 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 24000,
+        "price": 421.35,
+        "value": 10112400
+      },
+      {
+        "filing_date": "13 Apr 2026 19:04",
+        "reporter": "CORDANO MICHAEL D",
+        "relationship": "EVP, Worldwide Sales",
+        "transaction_date": "09 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 3407,
+        "price": 420.81,
+        "value": 1433700
+      },
+      {
+        "filing_date": "03 Apr 2026 19:01",
+        "reporter": "ARNZEN APRIL S",
+        "relationship": "EVP and Chief People Officer",
+        "transaction_date": "01 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 8630,
+        "price": 345.13,
+        "value": 2978472
+      },
+      {
+        "filing_date": "03 Apr 2026 19:01",
+        "reporter": "ARNZEN APRIL S",
+        "relationship": "EVP and Chief People Officer",
+        "transaction_date": "01 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 5766,
+        "price": 346.22,
+        "value": 1996305
+      },
+      {
+        "filing_date": "03 Apr 2026 19:01",
+        "reporter": "ARNZEN APRIL S",
+        "relationship": "EVP and Chief People Officer",
+        "transaction_date": "01 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 604,
+        "price": 346.83,
+        "value": 209485
+      },
+      {
+        "filing_date": "03 Apr 2026 19:01",
+        "reporter": "ARNZEN APRIL S",
+        "relationship": "EVP and Chief People Officer",
+        "transaction_date": "01 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 25000,
+        "price": 348.46,
+        "value": 8711500
+      },
+      {
+        "filing_date": "04 Feb 2026 19:03",
+        "reporter": "SADANA SUMIT",
+        "relationship": "EVP and Chief Business Officer",
+        "transaction_date": "02 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 17450,
+        "price": 429.43,
+        "value": 7493554
+      },
+      {
+        "filing_date": "04 Feb 2026 19:03",
+        "reporter": "SADANA SUMIT",
+        "relationship": "EVP and Chief Business Officer",
+        "transaction_date": "02 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 7500,
+        "price": 430.95,
+        "value": 3232125
+      },
+      {
+        "filing_date": "04 Feb 2026 19:03",
+        "reporter": "SADANA SUMIT",
+        "relationship": "EVP and Chief Business Officer",
+        "transaction_date": "02 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 50,
+        "price": 431.76,
+        "value": 21588
       }
     ]
   }

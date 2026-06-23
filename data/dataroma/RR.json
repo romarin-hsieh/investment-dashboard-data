@@ -1,9 +1,33 @@
 {
   "ticker": "RR",
-  "updated_at": "2026-02-05T04:47:16.502502",
-  "stats": {},
+  "updated_at": "2026-06-23T05:03:24.408245",
+  "stats": {
+    "sector": "Industrials",
+    "ownership_count": 0,
+    "ownership_rank": "--",
+    "percent_of_portfolios": "0%"
+  },
   "superinvestors": [],
-  "activity": {},
+  "activity": {
+    "Q1  2026": [
+      {
+        "manager": "Polen Capital Management",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -64298,
+        "portfolio_change": "0.00"
+      }
+    ],
+    "Q4  2025": [
+      {
+        "manager": "Polen Capital Management",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 64298,
+        "portfolio_change": "0.00"
+      }
+    ]
+  },
   "insiders": {
     "summary": {
       "buys": {
@@ -11,11 +35,41 @@
         "amount": 0
       },
       "sells": {
-        "count": 6,
-        "amount": 1427653
+        "count": 5,
+        "amount": 1021100
       }
     },
     "transactions": [
+      {
+        "filing_date": "20 Feb 2026 12:05",
+        "reporter": "CASELLA MATTHEW G.",
+        "relationship": "Former officer",
+        "transaction_date": "19 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 12500,
+        "price": 2.68,
+        "value": 33500
+      },
+      {
+        "filing_date": "17 Feb 2026 15:33",
+        "reporter": "CASELLA MATTHEW G.",
+        "relationship": "Former Officer",
+        "transaction_date": "13 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 40000,
+        "price": 2.995,
+        "value": 119800
+      },
+      {
+        "filing_date": "17 Feb 2026 15:33",
+        "reporter": "CASELLA MATTHEW G.",
+        "relationship": "Former Officer",
+        "transaction_date": "17 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 20000,
+        "price": 2.79,
+        "value": 55800
+      },
       {
         "filing_date": "03 Oct 2025 16:05",
         "reporter": "HUANG ZHENWU",
@@ -55,46 +109,6 @@
         "shares": 100000,
         "price": 3.01,
         "value": 301000
-      },
-      {
-        "filing_date": "05 Jun 2025 15:48",
-        "reporter": "ZHENG PHIL",
-        "relationship": "Chief Operating Officer",
-        "transaction_date": "03 Jun 2025",
-        "transaction_type": "Sale",
-        "shares": 40000,
-        "price": 2.48,
-        "value": 99200
-      },
-      {
-        "filing_date": "05 Jun 2025 15:48",
-        "reporter": "ZHENG PHIL",
-        "relationship": "Chief Operating Officer",
-        "transaction_date": "05 Jun 2025",
-        "transaction_type": "Sale",
-        "shares": 54787,
-        "price": 2.53,
-        "value": 138611
-      },
-      {
-        "filing_date": "02 Jun 2025 17:19",
-        "reporter": "ZHENG PHIL",
-        "relationship": "Chief Operating Officer",
-        "transaction_date": "29 May 2025",
-        "transaction_type": "Sale",
-        "shares": 105213,
-        "price": 2.64,
-        "value": 277762
-      },
-      {
-        "filing_date": "17 Mar 2025 18:51",
-        "reporter": "CASELLA MATTHEW G.",
-        "relationship": "President",
-        "transaction_date": "13 Mar 2025",
-        "transaction_type": "Sale",
-        "shares": 60000,
-        "price": 1.668,
-        "value": 100080
       }
     ]
   }

@@ -1,20 +1,28 @@
 {
   "ticker": "VYM",
-  "updated_at": "2026-02-05T05:07:21.207643",
+  "updated_at": "2026-06-23T05:23:10.403668",
   "stats": {
     "sector": "",
-    "ownership_count": 1,
-    "ownership_rank": 729,
-    "percent_of_portfolios": "0.015%"
+    "ownership_count": 2,
+    "ownership_rank": 508,
+    "percent_of_portfolios": "0.019%"
   },
   "superinvestors": [
     {
       "manager": "David Katz - Matrix Asset Advisors",
-      "percent_portfolio": 1.27,
-      "recent_activity": "Add 10.27%",
-      "shares": 98624,
-      "value": 14155000,
+      "percent_portfolio": 1.41,
+      "recent_activity": "Add 5.57%",
+      "shares": 104118,
+      "value": 15420000,
       "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 104118,
+          "percent_portfolio": "1.41",
+          "activity": "Add 5.57%",
+          "percent_change_portfolio": "0.07",
+          "reported_price": "$148.10"
+        },
         {
           "period": "2025   Q4",
           "shares": 98624,
@@ -200,9 +208,98 @@
           "reported_price": "$78.89"
         }
       ]
+    },
+    {
+      "manager": "Arnold Van Den Berg - Century Management",
+      "percent_portfolio": 0.12,
+      "recent_activity": "Add 27.65%",
+      "shares": 3647,
+      "value": 540000,
+      "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 3647,
+          "percent_portfolio": "0.12",
+          "activity": "Add 27.65%",
+          "percent_change_portfolio": "0.03",
+          "reported_price": "$148.07"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 2857,
+          "percent_portfolio": "0.09",
+          "activity": "Reduce 5.77%",
+          "percent_change_portfolio": "0.01",
+          "reported_price": "$143.51"
+        },
+        {
+          "period": "2025   Q3",
+          "shares": 3032,
+          "percent_portfolio": "0.11",
+          "activity": "Reduce 8.18%",
+          "percent_change_portfolio": "0.01",
+          "reported_price": "$140.83"
+        },
+        {
+          "period": "2025   Q2",
+          "shares": 3302,
+          "percent_portfolio": "0.13",
+          "activity": "Reduce 2.05%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$133.25"
+        },
+        {
+          "period": "2025   Q1",
+          "shares": 3371,
+          "percent_portfolio": "0.13",
+          "activity": "Reduce 1.32%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$129.04"
+        },
+        {
+          "period": "2024   Q4",
+          "shares": 3416,
+          "percent_portfolio": "0.13",
+          "activity": "Reduce 3.50%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$127.63"
+        },
+        {
+          "period": "2024   Q3",
+          "shares": 3540,
+          "percent_portfolio": "0.13",
+          "activity": "Reduce 3.80%",
+          "percent_change_portfolio": "0.01",
+          "reported_price": "$128.25"
+        },
+        {
+          "period": "2024   Q2",
+          "shares": 3680,
+          "percent_portfolio": "0.13",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$118.48"
+        }
+      ]
     }
   ],
   "activity": {
+    "Q1  2026": [
+      {
+        "manager": "Arnold Van Den Berg - Century Management",
+        "action": "Add 27.65%",
+        "type": "Buy",
+        "shares_changed": 790,
+        "portfolio_change": "0.03"
+      },
+      {
+        "manager": "David Katz - Matrix Asset Advisors",
+        "action": "Add 5.57%",
+        "type": "Buy",
+        "shares_changed": 5494,
+        "portfolio_change": "0.07"
+      }
+    ],
     "Q4  2025": [
       {
         "manager": "David Katz - Matrix Asset Advisors",
@@ -210,6 +307,13 @@
         "type": "Buy",
         "shares_changed": 9188,
         "portfolio_change": "0.12"
+      },
+      {
+        "manager": "Arnold Van Den Berg - Century Management",
+        "action": "Reduce 5.77%",
+        "type": "Sell",
+        "shares_changed": -175,
+        "portfolio_change": "0.01"
       }
     ],
     "Q3  2025": [
@@ -219,6 +323,13 @@
         "type": "Buy",
         "shares_changed": 3375,
         "portfolio_change": "0.04"
+      },
+      {
+        "manager": "Arnold Van Den Berg - Century Management",
+        "action": "Reduce 8.18%",
+        "type": "Sell",
+        "shares_changed": -270,
+        "portfolio_change": "0.01"
       }
     ],
     "Q2  2025": [
@@ -228,6 +339,13 @@
         "type": "Buy",
         "shares_changed": 8201,
         "portfolio_change": "0.11"
+      },
+      {
+        "manager": "Arnold Van Den Berg - Century Management",
+        "action": "Reduce 2.05%",
+        "type": "Sell",
+        "shares_changed": -69,
+        "portfolio_change": "0.00"
       }
     ],
     "Q1  2025": [
@@ -237,6 +355,13 @@
         "type": "Buy",
         "shares_changed": 8656,
         "portfolio_change": "0.12"
+      },
+      {
+        "manager": "Arnold Van Den Berg - Century Management",
+        "action": "Reduce 1.32%",
+        "type": "Sell",
+        "shares_changed": -45,
+        "portfolio_change": "0.00"
       }
     ],
     "Q4  2024": [
@@ -246,6 +371,13 @@
         "type": "Buy",
         "shares_changed": 3478,
         "portfolio_change": "0.05"
+      },
+      {
+        "manager": "Arnold Van Den Berg - Century Management",
+        "action": "Reduce 3.50%",
+        "type": "Sell",
+        "shares_changed": -124,
+        "portfolio_change": "0.00"
       }
     ],
     "Q3  2024": [
@@ -255,6 +387,13 @@
         "type": "Buy",
         "shares_changed": 5527,
         "portfolio_change": "0.08"
+      },
+      {
+        "manager": "Arnold Van Den Berg - Century Management",
+        "action": "Reduce 3.80%",
+        "type": "Sell",
+        "shares_changed": -140,
+        "portfolio_change": "0.01"
       }
     ],
     "Q2  2024": [

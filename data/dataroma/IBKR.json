@@ -1,20 +1,36 @@
 {
   "ticker": "IBKR",
-  "updated_at": "2026-02-05T04:08:39.220008",
+  "updated_at": "2026-06-23T04:24:04.594247",
   "stats": {
     "sector": "Financials",
-    "ownership_count": 4,
-    "ownership_rank": 149,
-    "percent_of_portfolios": "0.625%"
+    "ownership_count": 5,
+    "ownership_rank": 158,
+    "percent_of_portfolios": "0.664%"
   },
   "superinvestors": [
     {
       "manager": "Bryan Lawrence - Oakcliff Capital",
-      "percent_portfolio": 30.61,
+      "percent_portfolio": 30.5,
       "recent_activity": "",
       "shares": 1030740,
-      "value": 70925000,
+      "value": 69132000,
       "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 1030740,
+          "percent_portfolio": "30.50",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$67.07"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 1030740,
+          "percent_portfolio": "28.42",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$64.31"
+        },
         {
           "period": "2025   Q3",
           "shares": 1030740,
@@ -235,11 +251,19 @@
     },
     {
       "manager": "Robert Vinall - RV Capital GmbH",
-      "percent_portfolio": 11.27,
-      "recent_activity": "Reduce 5.85%",
-      "shares": 752478,
-      "value": 48392000,
+      "percent_portfolio": 13.36,
+      "recent_activity": "Add 0.72%",
+      "shares": 757919,
+      "value": 51111000,
       "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 757919,
+          "percent_portfolio": "13.36",
+          "activity": "Add 0.72%",
+          "percent_change_portfolio": "0.10",
+          "reported_price": "$67.44"
+        },
         {
           "period": "2025   Q4",
           "shares": 752478,
@@ -340,11 +364,27 @@
     },
     {
       "manager": "William Von Mueffling - Cantillon Capital Management",
-      "percent_portfolio": 4.8,
-      "recent_activity": "Reduce 1.09%",
-      "shares": 12664026,
-      "value": 871411000,
+      "percent_portfolio": 5.01,
+      "recent_activity": "Reduce 11.87%",
+      "shares": 11245881,
+      "value": 754261000,
       "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 11245881,
+          "percent_portfolio": "5.01",
+          "activity": "Reduce 11.87%",
+          "percent_change_portfolio": "0.67",
+          "reported_price": "$67.07"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 12759904,
+          "percent_portfolio": "4.44",
+          "activity": "Add 0.76%",
+          "percent_change_portfolio": "0.03",
+          "reported_price": "$64.31"
+        },
         {
           "period": "2025   Q3",
           "shares": 12664026,
@@ -621,11 +661,27 @@
     },
     {
       "manager": "John Armitage - Egerton Capital",
-      "percent_portfolio": 4.54,
-      "recent_activity": "Reduce 22.37%",
-      "shares": 6254134,
-      "value": 430347000,
+      "percent_portfolio": 4.67,
+      "recent_activity": "Reduce 9.57%",
+      "shares": 6275179,
+      "value": 420876000,
       "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 6275179,
+          "percent_portfolio": "4.67",
+          "activity": "Reduce 9.57%",
+          "percent_change_portfolio": "0.49",
+          "reported_price": "$67.07"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 6939581,
+          "percent_portfolio": "4.85",
+          "activity": "Add 10.96%",
+          "percent_change_portfolio": "0.48",
+          "reported_price": "$64.31"
+        },
         {
           "period": "2025   Q3",
           "shares": 6254134,
@@ -683,10 +739,71 @@
           "reported_price": "$27.93"
         }
       ]
+    },
+    {
+      "manager": "Viking Global Investors",
+      "percent_portfolio": 0.26,
+      "recent_activity": "Buy",
+      "shares": 1394329,
+      "value": 93518000,
+      "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 1394329,
+          "percent_portfolio": "0.26",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.26",
+          "reported_price": "$67.07"
+        }
+      ]
     }
   ],
   "activity": {
+    "Q1  2026": [
+      {
+        "manager": "Robert Vinall - RV Capital GmbH",
+        "action": "Add 0.72%",
+        "type": "Buy",
+        "shares_changed": 5441,
+        "portfolio_change": "0.10"
+      },
+      {
+        "manager": "Viking Global Investors",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 1394329,
+        "portfolio_change": "0.26"
+      },
+      {
+        "manager": "John Armitage - Egerton Capital",
+        "action": "Reduce 9.57%",
+        "type": "Sell",
+        "shares_changed": -664402,
+        "portfolio_change": "0.49"
+      },
+      {
+        "manager": "William Von Mueffling - Cantillon Capital Management",
+        "action": "Reduce 11.87%",
+        "type": "Sell",
+        "shares_changed": -1514023,
+        "portfolio_change": "0.67"
+      }
+    ],
     "Q4  2025": [
+      {
+        "manager": "John Armitage - Egerton Capital",
+        "action": "Add 10.96%",
+        "type": "Buy",
+        "shares_changed": 685447,
+        "portfolio_change": "0.48"
+      },
+      {
+        "manager": "William Von Mueffling - Cantillon Capital Management",
+        "action": "Add 0.76%",
+        "type": "Buy",
+        "shares_changed": 95878,
+        "portfolio_change": "0.03"
+      },
       {
         "manager": "Robert Vinall - RV Capital GmbH",
         "action": "Reduce 5.85%",
@@ -792,6 +909,13 @@
         "type": "Sell",
         "shares_changed": -6137360,
         "portfolio_change": "3.14"
+      },
+      {
+        "manager": "Abrams Bison Investments",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -1632000,
+        "portfolio_change": "4.91"
       }
     ],
     "Q3  2024": [
@@ -831,6 +955,13 @@
         "type": "Sell",
         "shares_changed": -708516,
         "portfolio_change": "0.15"
+      },
+      {
+        "manager": "Abrams Bison Investments",
+        "action": "Reduce 49.82%",
+        "type": "Sell",
+        "shares_changed": -1620000,
+        "portfolio_change": "4.87"
       }
     ],
     "Q1  2024": [
@@ -847,6 +978,13 @@
         "type": "Sell",
         "shares_changed": -292660,
         "portfolio_change": "0.05"
+      },
+      {
+        "manager": "Abrams Bison Investments",
+        "action": "Reduce 10.86%",
+        "type": "Sell",
+        "shares_changed": -396000,
+        "portfolio_change": "0.99"
       },
       {
         "manager": "Bryan Lawrence - Oakcliff Capital",
@@ -1228,15 +1366,75 @@
   "insiders": {
     "summary": {
       "buys": {
-        "count": 1,
-        "amount": 26380
+        "count": 6,
+        "amount": 37623
       },
       "sells": {
-        "count": 77,
-        "amount": 124326996
+        "count": 78,
+        "amount": 126327176
       }
     },
     "transactions": [
+      {
+        "filing_date": "02 Jun 2026 16:09",
+        "reporter": "CONKLING LORI A",
+        "relationship": "Director",
+        "transaction_date": "01 Jun 2026",
+        "transaction_type": "Purchase",
+        "shares": 25,
+        "price": 86.1,
+        "value": 2152
+      },
+      {
+        "filing_date": "04 May 2026 16:41",
+        "reporter": "CONKLING LORI A",
+        "relationship": "Director",
+        "transaction_date": "01 May 2026",
+        "transaction_type": "Purchase",
+        "shares": 25,
+        "price": 79.64,
+        "value": 1991
+      },
+      {
+        "filing_date": "29 Apr 2026 16:01",
+        "reporter": "HARRIS LAWRENCE E",
+        "relationship": "Director",
+        "transaction_date": "28 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 26000,
+        "price": 76.93,
+        "value": 2000180
+      },
+      {
+        "filing_date": "02 Apr 2026 16:05",
+        "reporter": "CONKLING LORI A",
+        "relationship": "Director",
+        "transaction_date": "01 Apr 2026",
+        "transaction_type": "Purchase",
+        "shares": 25,
+        "price": 68.38,
+        "value": 1710
+      },
+      {
+        "filing_date": "26 Mar 2026 16:01",
+        "reporter": "CONKLING LORI A",
+        "relationship": "Director",
+        "transaction_date": "25 Feb 2026",
+        "transaction_type": "Purchase",
+        "shares": 50,
+        "price": 73.21,
+        "value": 3660
+      },
+      {
+        "filing_date": "26 Mar 2026 16:01",
+        "reporter": "CONKLING LORI A",
+        "relationship": "Director",
+        "transaction_date": "02 Mar 2026",
+        "transaction_type": "Purchase",
+        "shares": 25,
+        "price": 69.21,
+        "value": 1730
+      },
       {
         "filing_date": "28 Jan 2026 16:05",
         "reporter": "NEMSER EARL H",
