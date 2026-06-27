@@ -1,8 +1,873 @@
 {
   "ticker": "BE",
-  "updated_at": "2026-06-26T03:56:11.173054",
-  "stats": {},
-  "superinvestors": [],
-  "activity": {},
-  "insiders": {}
+  "updated_at": "2026-06-27T03:55:12.587857",
+  "stats": {
+    "sector": "Utilities",
+    "ownership_count": 2,
+    "ownership_rank": 508,
+    "percent_of_portfolios": "0.016%"
+  },
+  "superinvestors": [
+    {
+      "manager": "Torray Funds",
+      "percent_portfolio": 1.27,
+      "recent_activity": "Add 94.99%",
+      "shares": 60031,
+      "value": 8134000,
+      "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 60031,
+          "percent_portfolio": "1.27",
+          "activity": "Add 94.99%",
+          "percent_change_portfolio": "0.62",
+          "reported_price": "$135.50"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 30786,
+          "percent_portfolio": "0.41",
+          "activity": "Reduce 15.96%",
+          "percent_change_portfolio": "0.08",
+          "reported_price": "$86.89"
+        },
+        {
+          "period": "2025   Q3",
+          "shares": 36631,
+          "percent_portfolio": "0.43",
+          "activity": "Reduce 47.16%",
+          "percent_change_portfolio": "0.38",
+          "reported_price": "$84.57"
+        },
+        {
+          "period": "2025   Q2",
+          "shares": 69320,
+          "percent_portfolio": "0.24",
+          "activity": "Add 50.80%",
+          "percent_change_portfolio": "0.08",
+          "reported_price": "$23.92"
+        },
+        {
+          "period": "2025   Q1",
+          "shares": 45969,
+          "percent_portfolio": "0.13",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.13",
+          "reported_price": "$19.67"
+        }
+      ]
+    },
+    {
+      "manager": "Polen Capital Management",
+      "percent_portfolio": 0.06,
+      "recent_activity": "Reduce 10.87%",
+      "shares": 67231,
+      "value": 9109000,
+      "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 67231,
+          "percent_portfolio": "0.06",
+          "activity": "Reduce 10.87%",
+          "percent_change_portfolio": "0.01",
+          "reported_price": "$135.49"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 75434,
+          "percent_portfolio": "0.03",
+          "activity": "Reduce 42.59%",
+          "percent_change_portfolio": "0.02",
+          "reported_price": "$86.88"
+        },
+        {
+          "period": "2025   Q3",
+          "shares": 131390,
+          "percent_portfolio": "0.04",
+          "activity": "Add 92.33%",
+          "percent_change_portfolio": "0.02",
+          "reported_price": "$84.57"
+        },
+        {
+          "period": "2025   Q2",
+          "shares": 68316,
+          "percent_portfolio": "0.01",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.01",
+          "reported_price": "$23.92"
+        }
+      ]
+    }
+  ],
+  "activity": {
+    "Q1  2026": [
+      {
+        "manager": "Torray Funds",
+        "action": "Add 94.99%",
+        "type": "Buy",
+        "shares_changed": 29245,
+        "portfolio_change": "0.62"
+      },
+      {
+        "manager": "Polen Capital Management",
+        "action": "Reduce 10.87%",
+        "type": "Sell",
+        "shares_changed": -8203,
+        "portfolio_change": "0.01"
+      }
+    ],
+    "Q4  2025": [
+      {
+        "manager": "Torray Funds",
+        "action": "Reduce 15.96%",
+        "type": "Sell",
+        "shares_changed": -5845,
+        "portfolio_change": "0.08"
+      },
+      {
+        "manager": "Polen Capital Management",
+        "action": "Reduce 42.59%",
+        "type": "Sell",
+        "shares_changed": -55956,
+        "portfolio_change": "0.02"
+      }
+    ],
+    "Q3  2025": [
+      {
+        "manager": "Polen Capital Management",
+        "action": "Add 92.33%",
+        "type": "Buy",
+        "shares_changed": 63074,
+        "portfolio_change": "0.02"
+      },
+      {
+        "manager": "Torray Funds",
+        "action": "Reduce 47.16%",
+        "type": "Sell",
+        "shares_changed": -32689,
+        "portfolio_change": "0.38"
+      }
+    ],
+    "Q2  2025": [
+      {
+        "manager": "Torray Funds",
+        "action": "Add 50.80%",
+        "type": "Buy",
+        "shares_changed": 23351,
+        "portfolio_change": "0.08"
+      },
+      {
+        "manager": "Polen Capital Management",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 68316,
+        "portfolio_change": "0.01"
+      }
+    ],
+    "Q1  2025": [
+      {
+        "manager": "Torray Funds",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 45969,
+        "portfolio_change": "0.13"
+      }
+    ],
+    "Q2  2021": [
+      {
+        "manager": "Lee Ainslie - Maverick Capital",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -4708,
+        "portfolio_change": "0.00"
+      }
+    ],
+    "Q1  2021": [
+      {
+        "manager": "Lee Ainslie - Maverick Capital",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 4708,
+        "portfolio_change": "0.00"
+      }
+    ],
+    "Q4  2020": [
+      {
+        "manager": "Lee Ainslie - Maverick Capital",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -11019,
+        "portfolio_change": "0.00"
+      }
+    ],
+    "Q3  2020": [
+      {
+        "manager": "Lee Ainslie - Maverick Capital",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 11019,
+        "portfolio_change": "0.00"
+      }
+    ],
+    "Q1  2020": [
+      {
+        "manager": "First Eagle Investment Management",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -354500,
+        "portfolio_change": "0.01"
+      }
+    ],
+    "Q4  2019": [
+      {
+        "manager": "First Eagle Investment Management",
+        "action": "Reduce 9.68%",
+        "type": "Sell",
+        "shares_changed": -38000,
+        "portfolio_change": "0.00"
+      }
+    ],
+    "Q1  2019": [
+      {
+        "manager": "ValueAct Capital",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -250000,
+        "portfolio_change": "0.06"
+      }
+    ],
+    "Q4  2018": [
+      {
+        "manager": "ValueAct Capital",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 250000,
+        "portfolio_change": "0.06"
+      }
+    ]
+  },
+  "insiders": {
+    "summary": {
+      "buys": {
+        "count": 0,
+        "amount": 0
+      },
+      "sells": {
+        "count": 61,
+        "amount": 435316541
+      }
+    },
+    "transactions": [
+      {
+        "filing_date": "17 Jun 2026 20:58",
+        "reporter": "JOSHI AMAN",
+        "relationship": "Chief Commercial Officer",
+        "transaction_date": "16 Jun 2026",
+        "transaction_type": "Sale",
+        "shares": 3558,
+        "price": 289.14,
+        "value": 1028760
+      },
+      {
+        "filing_date": "17 Jun 2026 20:55",
+        "reporter": "KURZYMSKI MACIEJ",
+        "relationship": "Chief Accounting Officer",
+        "transaction_date": "16 Jun 2026",
+        "transaction_type": "Sale",
+        "shares": 2259,
+        "price": 288.62,
+        "value": 651993
+      },
+      {
+        "filing_date": "17 Jun 2026 20:53",
+        "reporter": "CHITOORI SATISH",
+        "relationship": "Chief Operations Officer",
+        "transaction_date": "16 Jun 2026",
+        "transaction_type": "Sale",
+        "shares": 2837,
+        "price": 289.11,
+        "value": 820205
+      },
+      {
+        "filing_date": "17 Jun 2026 20:51",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "16 Jun 2026",
+        "transaction_type": "Sale",
+        "shares": 2842,
+        "price": 288.63,
+        "value": 820286
+      },
+      {
+        "filing_date": "03 Jun 2026 21:22",
+        "reporter": "CHAMBERS JOHN T",
+        "relationship": "Director",
+        "transaction_date": "28 May 2026",
+        "transaction_type": "Sale",
+        "shares": 55000,
+        "price": 297.69,
+        "value": 16372950
+      },
+      {
+        "filing_date": "18 May 2026 19:12",
+        "reporter": "CHITOORI SATISH",
+        "relationship": "Chief Operations Officer",
+        "transaction_date": "14 May 2026",
+        "transaction_type": "Sale",
+        "shares": 2111,
+        "price": 288.24,
+        "value": 608475
+      },
+      {
+        "filing_date": "18 May 2026 19:06",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "14 May 2026",
+        "transaction_type": "Sale",
+        "shares": 2879,
+        "price": 288.1,
+        "value": 829440
+      },
+      {
+        "filing_date": "18 May 2026 19:06",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "18 May 2026",
+        "transaction_type": "Sale",
+        "shares": 2746,
+        "price": 259.42,
+        "value": 712367
+      },
+      {
+        "filing_date": "18 May 2026 19:06",
+        "reporter": "JOSHI AMAN",
+        "relationship": "Chief Commercial Officer",
+        "transaction_date": "14 May 2026",
+        "transaction_type": "Sale",
+        "shares": 4813,
+        "price": 288.2,
+        "value": 1387107
+      },
+      {
+        "filing_date": "14 May 2026 20:01",
+        "reporter": "KURZYMSKI MACIEJ",
+        "relationship": "Chief Accounting Officer",
+        "transaction_date": "13 May 2026",
+        "transaction_type": "Sale",
+        "shares": 6229,
+        "price": 293.36,
+        "value": 1827339
+      },
+      {
+        "filing_date": "08 May 2026 18:00",
+        "reporter": "BUSH MARY K",
+        "relationship": "Director",
+        "transaction_date": "07 May 2026",
+        "transaction_type": "Sale",
+        "shares": 25000,
+        "price": 266.96,
+        "value": 6674000
+      },
+      {
+        "filing_date": "01 May 2026 17:17",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "29 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 35000,
+        "price": 279.0,
+        "value": 9765000
+      },
+      {
+        "filing_date": "16 Apr 2026 19:06",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "14 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 30000,
+        "price": 204.23,
+        "value": 6126900
+      },
+      {
+        "filing_date": "16 Apr 2026 19:06",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "15 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 25000,
+        "price": 225.13,
+        "value": 5628250
+      },
+      {
+        "filing_date": "16 Apr 2026 19:04",
+        "reporter": "CHITOORI SATISH",
+        "relationship": "Chief Operations Officer",
+        "transaction_date": "14 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 20000,
+        "price": 204.23,
+        "value": 4084600
+      },
+      {
+        "filing_date": "02 Apr 2026 20:38",
+        "reporter": "JOSHI AMAN",
+        "relationship": "Chief Commercial Officer",
+        "transaction_date": "01 Apr 2026",
+        "transaction_type": "Sale",
+        "shares": 10000,
+        "price": 135.88,
+        "value": 1358800
+      },
+      {
+        "filing_date": "20 Mar 2026 18:15",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "19 Mar 2026",
+        "transaction_type": "Sale",
+        "shares": 15410,
+        "price": 150.47,
+        "value": 2318743
+      },
+      {
+        "filing_date": "17 Mar 2026 21:28",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "16 Mar 2026",
+        "transaction_type": "Sale",
+        "shares": 13901,
+        "price": 152.59,
+        "value": 2121154
+      },
+      {
+        "filing_date": "17 Mar 2026 21:28",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "16 Mar 2026",
+        "transaction_type": "Sale",
+        "shares": 15906,
+        "price": 154.82,
+        "value": 2462567
+      },
+      {
+        "filing_date": "17 Mar 2026 21:28",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "17 Mar 2026",
+        "transaction_type": "Sale",
+        "shares": 13074,
+        "price": 153.44,
+        "value": 2006075
+      },
+      {
+        "filing_date": "17 Mar 2026 21:23",
+        "reporter": "CHITOORI SATISH",
+        "relationship": "Chief Operations Officer",
+        "transaction_date": "16 Mar 2026",
+        "transaction_type": "Sale",
+        "shares": 3042,
+        "price": 152.59,
+        "value": 464179
+      },
+      {
+        "filing_date": "17 Mar 2026 21:23",
+        "reporter": "CHITOORI SATISH",
+        "relationship": "Chief Operations Officer",
+        "transaction_date": "16 Mar 2026",
+        "transaction_type": "Sale",
+        "shares": 15922,
+        "price": 154.81,
+        "value": 2464885
+      },
+      {
+        "filing_date": "17 Mar 2026 21:22",
+        "reporter": "KURZYMSKI MACIEJ",
+        "relationship": "See Remarks",
+        "transaction_date": "16 Mar 2026",
+        "transaction_type": "Sale",
+        "shares": 7800,
+        "price": 151.85,
+        "value": 1184430
+      },
+      {
+        "filing_date": "17 Mar 2026 21:19",
+        "reporter": "JOSHI AMAN",
+        "relationship": "Chief Commercial Officer",
+        "transaction_date": "16 Mar 2026",
+        "transaction_type": "Sale",
+        "shares": 19944,
+        "price": 154.85,
+        "value": 3088328
+      },
+      {
+        "filing_date": "27 Feb 2026 21:31",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "25 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 25244,
+        "price": 177.93,
+        "value": 4491665
+      },
+      {
+        "filing_date": "27 Feb 2026 21:31",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "25 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 20000,
+        "price": 180.0,
+        "value": 3600000
+      },
+      {
+        "filing_date": "27 Feb 2026 19:55",
+        "reporter": "PINKUS GARY S",
+        "relationship": "Director",
+        "transaction_date": "27 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 1250,
+        "price": 165.8,
+        "value": 207250
+      },
+      {
+        "filing_date": "27 Feb 2026 19:33",
+        "reporter": "JOSHI AMAN",
+        "relationship": "Chief Commercial Officer",
+        "transaction_date": "25 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 10000,
+        "price": 175.6,
+        "value": 1756000
+      },
+      {
+        "filing_date": "26 Feb 2026 19:37",
+        "reporter": "SRIDHAR KR",
+        "relationship": "Chairman & CEO",
+        "transaction_date": "24 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 200000,
+        "price": 170.0,
+        "value": 34000000
+      },
+      {
+        "filing_date": "19 Feb 2026 20:10",
+        "reporter": "CHITOORI SATISH",
+        "relationship": "Chief Operations Officer",
+        "transaction_date": "17 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 1521,
+        "price": 139.37,
+        "value": 211982
+      },
+      {
+        "filing_date": "19 Feb 2026 20:09",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "17 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 3332,
+        "price": 139.56,
+        "value": 465014
+      },
+      {
+        "filing_date": "19 Feb 2026 20:05",
+        "reporter": "JOSHI AMAN",
+        "relationship": "Chief Commercial Officer",
+        "transaction_date": "17 Feb 2026",
+        "transaction_type": "Sale",
+        "shares": 3746,
+        "price": 139.81,
+        "value": 523728
+      },
+      {
+        "filing_date": "18 Dec 2025 16:38",
+        "reporter": "CHITOORI SATISH",
+        "relationship": "Chief Operations Officer",
+        "transaction_date": "16 Dec 2025",
+        "transaction_type": "Sale",
+        "shares": 431,
+        "price": 88.12,
+        "value": 37980
+      },
+      {
+        "filing_date": "18 Dec 2025 16:36",
+        "reporter": "KURZYMSKI MACIEJ",
+        "relationship": "See Remarks",
+        "transaction_date": "16 Dec 2025",
+        "transaction_type": "Sale",
+        "shares": 3264,
+        "price": 86.48,
+        "value": 282271
+      },
+      {
+        "filing_date": "01 Dec 2025 16:14",
+        "reporter": "JOSHI AMAN",
+        "relationship": "Chief Commercial Officer",
+        "transaction_date": "26 Nov 2025",
+        "transaction_type": "Sale",
+        "shares": 15000,
+        "price": 97.8,
+        "value": 1467000
+      },
+      {
+        "filing_date": "18 Nov 2025 17:12",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "14 Nov 2025",
+        "transaction_type": "Sale",
+        "shares": 2733,
+        "price": 108.26,
+        "value": 295875
+      },
+      {
+        "filing_date": "18 Nov 2025 17:12",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "17 Nov 2025",
+        "transaction_type": "Sale",
+        "shares": 1583,
+        "price": 105.97,
+        "value": 167751
+      },
+      {
+        "filing_date": "18 Nov 2025 17:11",
+        "reporter": "JOSHI AMAN",
+        "relationship": "Chief Commercial Officer",
+        "transaction_date": "14 Nov 2025",
+        "transaction_type": "Sale",
+        "shares": 4543,
+        "price": 109.13,
+        "value": 495778
+      },
+      {
+        "filing_date": "18 Nov 2025 17:10",
+        "reporter": "CHITOORI SATISH",
+        "relationship": "Chief Operations Officer",
+        "transaction_date": "14 Nov 2025",
+        "transaction_type": "Sale",
+        "shares": 2085,
+        "price": 104.08,
+        "value": 217007
+      },
+      {
+        "filing_date": "07 Nov 2025 20:29",
+        "reporter": "SNABE JIM H.",
+        "relationship": "Director",
+        "transaction_date": "05 Nov 2025",
+        "transaction_type": "Sale",
+        "shares": 20000,
+        "price": 143.04,
+        "value": 2860800
+      },
+      {
+        "filing_date": "07 Nov 2025 20:29",
+        "reporter": "ZERVIGON EDDY",
+        "relationship": "Director",
+        "transaction_date": "05 Nov 2025",
+        "transaction_type": "Sale",
+        "shares": 20000,
+        "price": 141.28,
+        "value": 2825600
+      },
+      {
+        "filing_date": "07 Nov 2025 20:27",
+        "reporter": "KURZYMSKI MACIEJ",
+        "relationship": "See Remarks",
+        "transaction_date": "05 Nov 2025",
+        "transaction_type": "Sale",
+        "shares": 13105,
+        "price": 144.09,
+        "value": 1888299
+      },
+      {
+        "filing_date": "07 Nov 2025 20:24",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "05 Nov 2025",
+        "transaction_type": "Sale",
+        "shares": 36666,
+        "price": 141.0,
+        "value": 5169906
+      },
+      {
+        "filing_date": "05 Nov 2025 20:47",
+        "reporter": "BUSH MARY K",
+        "relationship": "Director",
+        "transaction_date": "05 Nov 2025",
+        "transaction_type": "Sale",
+        "shares": 36000,
+        "price": 142.82,
+        "value": 5141520
+      },
+      {
+        "filing_date": "18 Sep 2025 17:54",
+        "reporter": "KURZYMSKI MACIEJ",
+        "relationship": "See Remarks",
+        "transaction_date": "16 Sep 2025",
+        "transaction_type": "Sale",
+        "shares": 2474,
+        "price": 70.47,
+        "value": 174343
+      },
+      {
+        "filing_date": "18 Sep 2025 17:14",
+        "reporter": "CHITOORI SATISH",
+        "relationship": "Chief Operations Officer",
+        "transaction_date": "16 Sep 2025",
+        "transaction_type": "Sale",
+        "shares": 400,
+        "price": 71.16,
+        "value": 28464
+      },
+      {
+        "filing_date": "29 Aug 2025 21:29",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "28 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 25000,
+        "price": 52.0,
+        "value": 1300000
+      },
+      {
+        "filing_date": "29 Aug 2025 21:20",
+        "reporter": "SRIDHAR KR",
+        "relationship": "Chairman & CEO",
+        "transaction_date": "29 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 37955,
+        "price": 53.39,
+        "value": 2026417
+      },
+      {
+        "filing_date": "29 Aug 2025 21:20",
+        "reporter": "SRIDHAR KR",
+        "relationship": "Chairman & CEO",
+        "transaction_date": "28 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 39000,
+        "price": 53.79,
+        "value": 2097810
+      },
+      {
+        "filing_date": "29 Aug 2025 21:20",
+        "reporter": "SRIDHAR KR",
+        "relationship": "Chairman & CEO",
+        "transaction_date": "27 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 60000,
+        "price": 49.7,
+        "value": 2982000
+      },
+      {
+        "filing_date": "29 Aug 2025 21:20",
+        "reporter": "SRIDHAR KR",
+        "relationship": "Chairman & CEO",
+        "transaction_date": "26 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 60000,
+        "price": 49.98,
+        "value": 2998800
+      },
+      {
+        "filing_date": "29 Aug 2025 21:20",
+        "reporter": "SRIDHAR KR",
+        "relationship": "Chairman & CEO",
+        "transaction_date": "25 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 60000,
+        "price": 48.97,
+        "value": 2938200
+      },
+      {
+        "filing_date": "26 Aug 2025 16:05",
+        "reporter": "ZERVIGON EDDY",
+        "relationship": "Director",
+        "transaction_date": "22 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 10000,
+        "price": 48.62,
+        "value": 486200
+      },
+      {
+        "filing_date": "20 Aug 2025 16:49",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "18 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 1465,
+        "price": 46.35,
+        "value": 67903
+      },
+      {
+        "filing_date": "15 Aug 2025 18:32",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "13 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 45000,
+        "price": 43.31,
+        "value": 1948950
+      },
+      {
+        "filing_date": "15 Aug 2025 18:32",
+        "reporter": "SODERBERG SHAWN MARIE",
+        "relationship": "See Remarks",
+        "transaction_date": "14 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 2901,
+        "price": 43.44,
+        "value": 126019
+      },
+      {
+        "filing_date": "15 Aug 2025 18:27",
+        "reporter": "CHITOORI SATISH",
+        "relationship": "Chief Operations Officer",
+        "transaction_date": "13 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 20000,
+        "price": 45.0,
+        "value": 900000
+      },
+      {
+        "filing_date": "15 Aug 2025 18:27",
+        "reporter": "CHITOORI SATISH",
+        "relationship": "Chief Operations Officer",
+        "transaction_date": "14 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 2128,
+        "price": 43.44,
+        "value": 92440
+      },
+      {
+        "filing_date": "15 Aug 2025 18:26",
+        "reporter": "JOSHI AMAN",
+        "relationship": "Chief Commercial Officer",
+        "transaction_date": "14 Aug 2025",
+        "transaction_type": "Sale",
+        "shares": 4870,
+        "price": 43.36,
+        "value": 211163
+      },
+      {
+        "filing_date": "18 Jul 2025 17:09",
+        "reporter": "KURZYMSKI MACIEJ",
+        "relationship": "See Remarks",
+        "transaction_date": "16 Jul 2025",
+        "transaction_type": "Sale",
+        "shares": 1012,
+        "price": 25.27,
+        "value": 25573
+      },
+      {
+        "filing_date": "14 Jul 2025 16:16",
+        "reporter": "SK ECOPLANT CO., LTD.",
+        "relationship": "10%",
+        "transaction_date": "10 Jul 2025",
+        "transaction_type": "Sale",
+        "shares": 10000000,
+        "price": 27.6,
+        "value": 276000000
+      }
+    ]
+  }
 }

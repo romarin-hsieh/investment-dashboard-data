@@ -1,8 +1,87 @@
 {
   "ticker": "DIA",
-  "updated_at": "2026-06-26T04:01:40.706091",
-  "stats": {},
-  "superinvestors": [],
-  "activity": {},
-  "insiders": {}
+  "updated_at": "2026-06-27T04:06:32.693965",
+  "stats": {
+    "sector": "",
+    "ownership_count": 1,
+    "ownership_rank": 886,
+    "percent_of_portfolios": "0.001%"
+  },
+  "superinvestors": [
+    {
+      "manager": "Arnold Van Den Berg - Century Management",
+      "percent_portfolio": 0.06,
+      "recent_activity": "Reduce 50.95%",
+      "shares": 569,
+      "value": 264000,
+      "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 569,
+          "percent_portfolio": "0.06",
+          "activity": "Reduce 50.95%",
+          "percent_change_portfolio": "0.06",
+          "reported_price": "$463.97"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 1160,
+          "percent_portfolio": "0.13",
+          "activity": "Add 161.26%",
+          "percent_change_portfolio": "0.08",
+          "reported_price": "$480.17"
+        },
+        {
+          "period": "2025   Q3",
+          "shares": 444,
+          "percent_portfolio": "0.05",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.05",
+          "reported_price": "$463.96"
+        }
+      ]
+    }
+  ],
+  "activity": {
+    "Q1  2026": [
+      {
+        "manager": "Arnold Van Den Berg - Century Management",
+        "action": "Reduce 50.95%",
+        "type": "Sell",
+        "shares_changed": -591,
+        "portfolio_change": "0.06"
+      }
+    ],
+    "Q4  2025": [
+      {
+        "manager": "Arnold Van Den Berg - Century Management",
+        "action": "Add 161.26%",
+        "type": "Buy",
+        "shares_changed": 716,
+        "portfolio_change": "0.08"
+      }
+    ],
+    "Q3  2025": [
+      {
+        "manager": "Arnold Van Den Berg - Century Management",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 444,
+        "portfolio_change": "0.05"
+      }
+    ]
+  },
+  "insiders": {
+    "summary": {
+      "buys": {
+        "count": 0,
+        "amount": 0
+      },
+      "sells": {
+        "count": 0,
+        "amount": 0
+      }
+    },
+    "transactions": []
+  }
 }
