@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0802,
         "position": 63458589,
-        "value": 5931474391,
+        "value": 6262728303,
         "pctChange": -0.0113
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.064899996,
         "position": 51326495,
-        "value": 4797487550,
+        "value": 5065411916,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.047,
         "position": 37149630,
-        "value": 3472375961,
+        "value": 3666297075,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0422,
         "position": 33373068,
-        "value": 3119380706,
+        "value": 3293588162,
         "pctChange": 0.0076
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Newlands Management Operations LLC                          ",
         "pctHeld": 0.0305,
         "position": 24158860,
-        "value": 2258128673,
+        "value": 2384237952,
         "pctChange": 0
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0272,
         "position": 21505352,
-        "value": 2010105277,
+        "value": 2122363241,
         "pctChange": 0.015700001
       },
       {
@@ -99,7 +99,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0228,
         "position": 18057391,
-        "value": 1687824358,
+        "value": 1782083961,
         "pctChange": -0.1575
       },
       {
@@ -108,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.018,
         "position": 14268817,
-        "value": 1333706342,
+        "value": 1408189584,
         "pctChange": -0.5918
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Index Venture Associates VI Ltd",
         "pctHeld": 0.0146,
         "position": 11574318,
-        "value": 1081851517,
+        "value": 1142269471,
         "pctChange": 0
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.014400001,
         "position": 11420694,
-        "value": 1067492282,
+        "value": 1127108318,
         "pctChange": 0.069
       }
     ]
@@ -136,7 +136,7 @@
     "insidersPercentHeld": 0.0072000003,
     "institutionsPercentHeld": 0.73524004,
     "institutionsFloatPercentHeld": 0.74057,
-    "institutionsCount": 1736
+    "institutionsCount": 1737
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-06-26T11:27:15.000Z",
+        "firm": "BTIG",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 125,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-06-17T15:26:26.000Z",
         "firm": "Argus Research",
@@ -3367,28 +3377,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.003316546,
-    "postMarketChange": -0.30999756,
-    "postMarketTime": "2026-06-25T23:59:28.000Z",
-    "postMarketPrice": 93.16,
+    "postMarketChangePercent": -0.005978356,
+    "postMarketChange": -0.59000397,
+    "postMarketTime": "2026-06-26T23:59:47.000Z",
+    "postMarketPrice": 98.1,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0385228,
-    "regularMarketChange": -3.745,
-    "regularMarketTime": "2026-06-25T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0558468,
+    "regularMarketChange": 5.22,
+    "regularMarketTime": "2026-06-26T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 93.47,
-    "regularMarketDayHigh": 99.19,
-    "regularMarketDayLow": 92.8,
-    "regularMarketVolume": 22819516,
-    "averageDailyVolume10Day": 37634180,
-    "averageDailyVolume3Month": 31369988,
-    "regularMarketPreviousClose": 97.215,
+    "regularMarketPrice": 98.69,
+    "regularMarketDayHigh": 99.44,
+    "regularMarketDayLow": 93.08,
+    "regularMarketVolume": 43832496,
+    "averageDailyVolume10Day": 38232830,
+    "averageDailyVolume3Month": 31744887,
+    "regularMarketPreviousClose": 93.47,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 98.85,
+    "regularMarketOpen": 93.2,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "HOOD",
     "underlyingSymbol": null,
@@ -3400,13 +3410,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 84170211328
+    "marketCap": 88870846464
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 78879211520,
-    "forwardPE": 32.29462,
+    "enterpriseValue": 83579846656,
+    "forwardPE": 34.098175,
     "profitMargins": 0.41123,
     "floatShares": 784168809,
     "sharesOutstanding": 791184698,
@@ -3423,7 +3433,7 @@
     "impliedSharesOutstanding": 900505057,
     "category": null,
     "bookValue": 10.34,
-    "priceToBook": 9.039652,
+    "priceToBook": 9.544488,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3432,12 +3442,12 @@
     "earningsQuarterlyGrowth": 0.042,
     "netIncomeToCommon": 1896999936,
     "trailingEps": 2.06,
-    "forwardEps": 2.89429,
+    "forwardEps": 2.89096,
     "pegRatio": 2.63,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 17.099,
-    "52WeekChange": 0.10589206,
-    "SandP52WeekChange": 0.19808924,
+    "enterpriseToRevenue": 18.118,
+    "52WeekChange": 0.1886065,
+    "SandP52WeekChange": 0.19130671,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3548,17 +3558,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 33322,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "VERMA SHIV",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-06-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 801,
         "filerUrl": "",
         "transactionText": "",
@@ -3592,22 +3591,33 @@
       },
       {
         "maxAge": 1,
-        "shares": 71176,
+        "shares": 801,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "QUIRK STEVEN M",
-        "filerRelation": "Officer",
+        "filerName": "BHATT BAIJU PRAFULKUMAR",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 801,
+        "shares": 33322,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BHATT BAIJU PRAFULKUMAR",
-        "filerRelation": "Director",
+        "filerName": "VERMA SHIV",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-06-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 71176,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "QUIRK STEVEN M",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-01T00:00:00.000Z",
         "ownership": "D"
@@ -3878,18 +3888,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 211,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HEGEMAN JOHN WILLIAM",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 422,
         "value": 0,
         "filerUrl": "",
@@ -3950,14 +3948,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 5835,
-        "value": 416392,
+        "shares": 211,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 70.55 - 73.28 per share.",
-        "filerName": "PINNER JEFFREY TSVI",
-        "filerRelation": "Chief Technology Officer",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HEGEMAN JOHN WILLIAM",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-03-20T00:00:00.000Z",
+        "startDate": "2026-03-31T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3982,6 +3980,18 @@
         "moneyText": "",
         "startDate": "2026-03-20T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5835,
+        "value": 416392,
+        "filerUrl": "",
+        "transactionText": "Sale at price 70.55 - 73.28 per share.",
+        "filerName": "PINNER JEFFREY TSVI",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2026-03-20T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -4206,18 +4216,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 129,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HEGEMAN JOHN WILLIAM",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-12-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 258,
         "value": 0,
         "filerUrl": "",
@@ -4333,6 +4331,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 129,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HEGEMAN JOHN WILLIAM",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-12-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 801,
         "filerUrl": "",
         "transactionText": "",
@@ -4438,17 +4448,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 53845,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PINNER JEFFREY TSVI",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-12-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 61331,
         "filerUrl": "",
         "transactionText": "",
@@ -4465,6 +4464,17 @@
         "transactionText": "",
         "filerName": "WARNICK JASON",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-12-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 53845,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "PINNER JEFFREY TSVI",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-12-01T00:00:00.000Z",
         "ownership": "D"
@@ -4694,29 +4704,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 750000,
-        "value": 104799314,
-        "filerUrl": "",
-        "transactionText": "Sale at price 138.47 - 143.03 per share.",
-        "filerName": "TENEV VLADIMIR",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-10-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 750000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "TENEV VLADIMIR",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-10-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 800,
         "filerUrl": "",
         "transactionText": "",
@@ -4772,6 +4759,29 @@
       },
       {
         "maxAge": 1,
+        "shares": 750000,
+        "value": 104799314,
+        "filerUrl": "",
+        "transactionText": "Sale at price 138.47 - 143.03 per share.",
+        "filerName": "TENEV VLADIMIR",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-10-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 750000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "TENEV VLADIMIR",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-10-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 800,
         "filerUrl": "",
         "transactionText": "",
@@ -4790,18 +4800,6 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-10-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 102,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HEGEMAN JOHN WILLIAM",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-09-30T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4859,6 +4857,18 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BHATT BAIJU PRAFULKUMAR",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-09-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 102,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HEGEMAN JOHN WILLIAM",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-09-30T00:00:00.000Z",
@@ -4972,17 +4982,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 53844,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PINNER JEFFREY TSVI",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-08-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 61329,
         "value": 0,
         "filerUrl": "",
@@ -5012,6 +5011,17 @@
         "transactionText": "",
         "filerName": "WARNICK JASON",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-08-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 53844,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "PINNER JEFFREY TSVI",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-08-29T00:00:00.000Z",
         "ownership": "D"
@@ -5207,7 +5217,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 93.47,
+    "currentPrice": 98.69,
     "targetHighPrice": 155,
     "targetLowPrice": 52,
     "targetMeanPrice": 101.98333,
@@ -5235,6 +5245,6 @@
     "profitMargins": 0.41123,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-06-26T06:09:43.337Z",
+  "lastUpdated": "2026-06-27T05:53:26.548Z",
   "source": "Static Build (yahoo-finance2)"
 }
