@@ -442,7 +442,7 @@
     "exchange": "ASE",
     "exchangeName": "NYSE American",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "UMAC",
     "underlyingSymbol": null,
@@ -663,24 +663,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 9625,
-        "value": 178763,
-        "filerUrl": "",
-        "transactionText": "Sale at price 18.57 per share.",
-        "filerName": "CAMDEN ANDREW ROSS",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-03-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 13750,
         "value": 255306,
         "filerUrl": "",
         "transactionText": "Sale at price 18.57 per share.",
         "filerName": "WRIGHT STACEY ROCHELLE",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 9625,
+        "value": 178763,
+        "filerUrl": "",
+        "transactionText": "Sale at price 18.57 per share.",
+        "filerName": "CAMDEN ANDREW ROSS",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2026-03-16T00:00:00.000Z",
         "ownership": "D"
@@ -1607,6 +1607,6 @@
     "profitMargins": -0.32716,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-06-28T06:17:39.913Z",
+  "lastUpdated": "2026-06-29T06:45:44.772Z",
   "source": "Static Build (yahoo-finance2)"
 }
