@@ -4,7 +4,7 @@
       {
         "period": "0m",
         "strongBuy": 5,
-        "buy": 10,
+        "buy": 11,
         "hold": 0,
         "sell": 0,
         "strongSell": 0
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.056799997,
         "position": 28142025,
-        "value": 726908503,
+        "value": 719872997,
         "pctChange": 0.0088
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.045300003,
         "position": 22462422,
-        "value": 580204358,
+        "value": 574588753,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Lone Pine Capital Llc",
         "pctHeld": 0.0402,
         "position": 19921430,
-        "value": 514570535,
+        "value": 509590177,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0315,
         "position": 15627257,
-        "value": 403652047,
+        "value": 399745232,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Marshall Wace LLP",
         "pctHeld": 0.0189,
         "position": 9374298,
-        "value": 242138116,
+        "value": 239794542,
         "pctChange": 1.9422001
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0172,
         "position": 8523976,
-        "value": 220174299,
+        "value": 218043305,
         "pctChange": 0.0175
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Two Sigma Investments, LP",
         "pctHeld": 0.015800001,
         "position": 7837097,
-        "value": 202432214,
+        "value": 200472940,
         "pctChange": 0.981
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Value Aligned Research Advisors, LLC                          ",
         "pctHeld": 0.015800001,
         "position": 7848232,
-        "value": 202719831,
+        "value": 200757773,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0154,
         "position": 7613660,
-        "value": 196660837,
+        "value": 194757422,
         "pctChange": 0.0359
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Scoggin Management, LP",
         "pctHeld": 0.0150999995,
         "position": 7500000,
-        "value": 193724999,
+        "value": 191849999,
         "pctChange": 0.1858
       }
     ]
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-06-29T14:02:52.000Z",
+        "firm": "Citigroup",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 36,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-06-15T15:11:07.000Z",
         "firm": "B of A Securities",
@@ -1137,24 +1147,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0009949522,
-    "postMarketChange": -0.025699615,
-    "postMarketTime": "2026-06-26T23:58:21.000Z",
-    "postMarketPrice": 25.8043,
+    "postMarketChangePercent": 0,
+    "postMarketChange": 0,
+    "postMarketTime": "2026-06-29T23:59:40.000Z",
+    "postMarketPrice": 25.58,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.00882577,
-    "regularMarketChange": -0.22999954,
-    "regularMarketTime": "2026-06-26T20:00:01.000Z",
+    "regularMarketChangePercent": -0.00967867,
+    "regularMarketChange": -0.25,
+    "regularMarketTime": "2026-06-29T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 25.83,
-    "regularMarketDayHigh": 26.845,
-    "regularMarketDayLow": 24.435,
-    "regularMarketVolume": 66302284,
-    "averageDailyVolume10Day": 29777090,
-    "averageDailyVolume3Month": 30326935,
-    "regularMarketPreviousClose": 26.06,
+    "regularMarketPrice": 25.58,
+    "regularMarketDayHigh": 26.75,
+    "regularMarketDayLow": 23.92,
+    "regularMarketVolume": 25399289,
+    "averageDailyVolume10Day": 30188660,
+    "averageDailyVolume3Month": 30254693,
+    "regularMarketPreviousClose": 25.83,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 25.2,
+    "regularMarketOpen": 26.57,
     "exchange": "NCM",
     "exchangeName": "NasdaqCM",
     "exchangeDataDelayedBy": 0,
@@ -1170,15 +1180,15 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 12799607808
+    "marketCap": 12675725312
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 15484833792,
-    "forwardPE": 139.62161,
+    "enterpriseValue": 15360951296,
+    "forwardPE": 138.27026,
     "profitMargins": 0,
-    "floatShares": 382273704,
+    "floatShares": 381921875,
     "sharesOutstanding": 495532645,
     "sharesShort": 108654174,
     "sharesShortPriorMonth": "1973-06-30T06:06:54.000Z",
@@ -1192,8 +1202,7 @@
     "beta": 4.256,
     "impliedSharesOutstanding": 495532645,
     "category": null,
-    "bookValue": 0.334,
-    "priceToBook": 77.335335,
+    "bookValue": -0.185,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1204,10 +1213,10 @@
     "forwardEps": 0.185,
     "lastSplitFactor": "3:2",
     "lastSplitDate": 1084492800,
-    "enterpriseToRevenue": 92.138,
-    "enterpriseToEbitda": -107.636,
-    "52WeekChange": 4.89726,
-    "SandP52WeekChange": 0.18518603,
+    "enterpriseToRevenue": 91.401,
+    "enterpriseToEbitda": -106.775,
+    "52WeekChange": 4.840183,
+    "SandP52WeekChange": 0.19911206,
     "lastDividendValue": 5,
     "lastDividendDate": "2021-12-14T00:00:00.000Z",
     "latestShareClass": null,
@@ -1235,6 +1244,39 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "TANIMOTO WILLIAM JOSEPH",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-06-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 56023,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "PRAGER LISA A.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 56023,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MOTZ CATHERINE J.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-23T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 63026,
@@ -1274,17 +1316,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "CARTER WALTER E.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 56023,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PRAGER LISA A.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-23T00:00:00.000Z",
@@ -1497,6 +1528,18 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "PRAGER LISA A.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-03-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1733,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BUCELLA MICHAEL C",
         "filerRelation": "Director",
         "moneyText": "",
@@ -1510,18 +1553,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "CARTER WALTER E.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1733,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "PRAGER LISA A.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-31T00:00:00.000Z",
@@ -1635,11 +1666,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 2720,
+        "shares": 2176,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CARTER WALTER E.",
+        "filerName": "PRAGER LISA A.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
@@ -1647,11 +1678,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 2176,
+        "shares": 2720,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "PRAGER LISA A.",
+        "filerName": "CARTER WALTER E.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
@@ -1728,6 +1759,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 2190,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "PRAGER LISA A.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-09-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 3554688,
         "value": 0,
         "filerUrl": "",
@@ -1745,18 +1788,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "CARTER WALTER E.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-09-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2190,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "PRAGER LISA A.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-09-30T00:00:00.000Z",
@@ -1882,6 +1913,17 @@
         "shares": 21661,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "PRAGER LISA A.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 21661,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "MOTZ CATHERINE J.",
         "filerRelation": "Director",
         "moneyText": "",
@@ -1927,17 +1969,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "CARTER WALTER E.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 21661,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PRAGER LISA A.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-20T00:00:00.000Z",
@@ -2187,6 +2218,18 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "PRAGER LISA A.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-12-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2651,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "MOTZ CATHERINE J.",
         "filerRelation": "Director",
         "moneyText": "",
@@ -2255,18 +2298,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2651,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "PRAGER LISA A.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-12-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1000000,
         "value": 0,
         "filerUrl": "",
@@ -2312,6 +2343,30 @@
         "moneyText": "",
         "startDate": "2024-10-09T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3206,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "PRAGER LISA A.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-09-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3206,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MOTZ CATHERINE J.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-09-30T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2368,30 +2423,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "CARTER WALTER E.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-09-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3206,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "PRAGER LISA A.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-09-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3206,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MOTZ CATHERINE J.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2024-09-30T00:00:00.000Z",
@@ -2502,14 +2533,14 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 25.83,
+    "currentPrice": 25.58,
     "targetHighPrice": 66.5,
     "targetLowPrice": 27,
-    "targetMeanPrice": 36.34375,
-    "targetMedianPrice": 32.5,
+    "targetMeanPrice": 36.32353,
+    "targetMedianPrice": 33,
     "recommendationMean": 1.33333,
     "recommendationKey": "strong_buy",
-    "numberOfAnalystOpinions": 16,
+    "numberOfAnalystOpinions": 17,
     "totalCash": 2629995008,
     "totalCashPerShare": 5.307,
     "ebitda": -143863008,
@@ -2530,6 +2561,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-06-29T06:47:50.678Z",
+  "lastUpdated": "2026-06-30T06:12:53.879Z",
   "source": "Static Build (yahoo-finance2)"
 }

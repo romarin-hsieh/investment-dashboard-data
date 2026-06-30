@@ -4,10 +4,10 @@
       {
         "period": "0m",
         "strongBuy": 4,
-        "buy": 17,
+        "buy": 18,
         "hold": 3,
-        "sell": 1,
-        "strongSell": 0
+        "sell": 0,
+        "strongSell": 1
       },
       {
         "period": "-1m",
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1038,
         "position": 35769222,
-        "value": 20976860678,
+        "value": 23317240612,
         "pctChange": 0.0073
       },
       {
@@ -54,7 +54,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0917,
         "position": 31623418,
-        "value": 18545553872,
+        "value": 20614673880,
         "pctChange": -0.0642
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0639,
         "position": 22034861,
-        "value": 12922344502,
+        "value": 14364085296,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0508,
         "position": 17512148,
-        "value": 10269999408,
+        "value": 11415819123,
         "pctChange": 0.225
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0498,
         "position": 17172653,
-        "value": 10070902561,
+        "value": 11194509121,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.044899996,
         "position": 15465766,
-        "value": 9069898659,
+        "value": 10081823615,
         "pctChange": -0.0147
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0345,
         "position": 11880038,
-        "value": 6967048430,
+        "value": 7744359229,
         "pctChange": 10.1696005
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0275,
         "position": 9477201,
-        "value": 5557904642,
+        "value": 6177997834,
         "pctChange": 0.021
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.024600001,
         "position": 8489612,
-        "value": 4978733061,
+        "value": 5534208312,
         "pctChange": -0.2952
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.023,
         "position": 7939106,
-        "value": 4655888810,
+        "value": 5175344458,
         "pctChange": -0.112399995
       }
     ]
@@ -187,7 +187,7 @@
           "reportedDate": 1777579656
         }
       ],
-      "currentQuarterEstimate": 3.28772,
+      "currentQuarterEstimate": 3.28311,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-06-29T14:37:37.000Z",
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 900,
+        "priorPriceTarget": 660
+      },
       {
         "epochGradeDate": "2026-06-15T16:35:57.000Z",
         "firm": "Morgan Stanley",
@@ -5917,24 +5927,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0034955882,
-    "postMarketChange": 2.0499878,
-    "postMarketTime": "2026-06-26T23:59:59.000Z",
-    "postMarketPrice": 588.5,
+    "postMarketChangePercent": -0.0017488105,
+    "postMarketChange": -1.1400146,
+    "postMarketTime": "2026-06-29T23:59:52.000Z",
+    "postMarketPrice": 650.74,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.13168688,
-    "regularMarketChange": -88.94,
-    "regularMarketTime": "2026-06-26T20:00:01.000Z",
+    "regularMarketChangePercent": 0.11156999,
+    "regularMarketChange": 65.43,
+    "regularMarketTime": "2026-06-29T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 586.45,
-    "regularMarketDayHigh": 647.41,
-    "regularMarketDayLow": 579.51,
-    "regularMarketVolume": 23404387,
-    "averageDailyVolume10Day": 13506670,
-    "averageDailyVolume3Month": 8387270,
-    "regularMarketPreviousClose": 675.39,
+    "regularMarketPrice": 651.88,
+    "regularMarketDayHigh": 652.98,
+    "regularMarketDayLow": 590,
+    "regularMarketVolume": 11223777,
+    "averageDailyVolume10Day": 14006500,
+    "averageDailyVolume3Month": 8433244,
+    "regularMarketPreviousClose": 586.45,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 646.76,
+    "regularMarketOpen": 600.42,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -5950,13 +5960,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 202138845184
+    "marketCap": 224691404800
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 200625831936,
-    "forwardPE": 32.48325,
+    "enterpriseValue": 223178391552,
+    "forwardPE": 36.0928,
     "profitMargins": 0.55286,
     "floatShares": 342128036,
     "sharesOutstanding": 344682131,
@@ -5973,7 +5983,7 @@
     "impliedSharesOutstanding": 344682131,
     "category": null,
     "bookValue": 20.915,
-    "priceToBook": 28.039684,
+    "priceToBook": 31.16806,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-06-27T00:00:00.000Z",
@@ -5981,15 +5991,15 @@
     "mostRecentQuarter": "2026-04-03T00:00:00.000Z",
     "earningsQuarterlyGrowth": 5.163,
     "netIncomeToCommon": 6350000128,
-    "trailingEps": 16.71,
-    "forwardEps": 18.05392,
+    "trailingEps": 16.69,
+    "forwardEps": 18.06122,
     "pegRatio": 0.52,
     "lastSplitFactor": "1323:1000",
     "lastSplitDate": 1740355200,
-    "enterpriseToRevenue": 17.035,
-    "enterpriseToEbitda": 51.076,
-    "52WeekChange": 8.164713,
-    "SandP52WeekChange": 0.18518603,
+    "enterpriseToRevenue": 18.95,
+    "enterpriseToEbitda": 56.817,
+    "52WeekChange": 9.187217,
+    "SandP52WeekChange": 0.19911206,
     "lastDividendValue": 0.15,
     "lastDividendDate": "2026-06-05T00:00:00.000Z",
     "latestShareClass": null,
@@ -6018,6 +6028,39 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 52,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "TAN IRVING",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-06-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "DAVIS BRIAN SCOTT",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-06-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 51,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SHIHAB AHMED MOHAMMED",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-06-17T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 3280,
@@ -7707,56 +7750,20 @@
         "moneyText": "",
         "startDate": "2024-11-20T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3759,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "ALEXY KIMBERLY E.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-11-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3759,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CAULFIELD THOMAS",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-11-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4385,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "STREETER STEPHANIE A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-11-20T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 586.45,
-    "targetHighPrice": 685,
+    "currentPrice": 651.88,
+    "targetHighPrice": 1050,
     "targetLowPrice": 360,
-    "targetMeanPrice": 554.13043,
-    "targetMedianPrice": 575,
-    "recommendationMean": 1.56,
+    "targetMeanPrice": 584.7917,
+    "targetMedianPrice": 582.5,
+    "recommendationMean": 1.52,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 23,
+    "numberOfAnalystOpinions": 24,
     "totalCash": 3236999936,
     "totalCashPerShare": 9.391,
     "ebitda": 3928000000,
@@ -7779,6 +7786,6 @@
     "profitMargins": 0.55286,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-06-29T06:47:45.361Z",
+  "lastUpdated": "2026-06-30T06:12:47.804Z",
   "source": "Static Build (yahoo-finance2)"
 }

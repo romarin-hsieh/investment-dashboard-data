@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0779,
         "position": 322741137,
-        "value": 44067072679,
+        "value": 43912158312,
         "pctChange": 0.037
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0654,
         "position": 271198613,
-        "value": 37029456798,
+        "value": 36899282622,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.051599998,
         "position": 213904380,
-        "value": 29206502609,
+        "value": 29103829420,
         "pctChange": 0.0429
       },
       {
@@ -72,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.033800002,
         "position": 140010460,
-        "value": 19117027268,
+        "value": 19049822845,
         "pctChange": 0.0629
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0279,
         "position": 115629047,
-        "value": 15787989301,
+        "value": 15732487852,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.023,
         "position": 95478649,
-        "value": 13036654093,
+        "value": 12990824749,
         "pctChange": -0.0046
       },
       {
@@ -99,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0207,
         "position": 85599509,
-        "value": 11687756384,
+        "value": 11646668985,
         "pctChange": 0.2163
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0173,
         "position": 71718998,
-        "value": 9792511505,
+        "value": 9758086692,
         "pctChange": -0.0368
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0165,
         "position": 68483813,
-        "value": 9350779367,
+        "value": 9317907429,
         "pctChange": -0.0887
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Bank Of New York Mellon Corporation",
         "pctHeld": 0.0107,
         "position": 44289134,
-        "value": 6047238059,
+        "value": 6025979463,
         "pctChange": -0.0497
       }
     ]
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-06-29T17:21:22.000Z",
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 168,
+        "priorPriceTarget": 171
+      },
       {
         "epochGradeDate": "2026-06-16T09:10:28.000Z",
         "firm": "B of A Securities",
@@ -4297,24 +4307,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0038084395,
-    "postMarketChange": 0.5200043,
-    "postMarketTime": "2026-06-27T00:00:00.000Z",
-    "postMarketPrice": 137.06,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.00734286,
-    "regularMarketChange": -1.01001,
-    "regularMarketTime": "2026-06-26T20:01:21.000Z",
+    "postMarketChangePercent": -0.00018302472,
+    "postMarketChange": -0.024902344,
+    "postMarketTime": "2026-06-29T23:59:42.000Z",
+    "postMarketPrice": 136.0351,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.00351542,
+    "regularMarketChange": -0.479996,
+    "regularMarketTime": "2026-06-29T20:03:45.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 136.54,
-    "regularMarketDayHigh": 137.535,
-    "regularMarketDayLow": 135.915,
-    "regularMarketVolume": 9899924,
-    "averageDailyVolume10Day": 20665080,
-    "averageDailyVolume3Month": 18952464,
-    "regularMarketPreviousClose": 137.55,
+    "regularMarketPrice": 136.06,
+    "regularMarketDayHigh": 137.39,
+    "regularMarketDayLow": 135.3925,
+    "regularMarketVolume": 11888577,
+    "averageDailyVolume10Day": 20091680,
+    "averageDailyVolume3Month": 18841776,
+    "regularMarketPreviousClose": 136.54,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 136.97,
+    "regularMarketOpen": 136.58,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -4325,18 +4335,18 @@
     "shortName": "Exxon Mobil Corporation",
     "longName": "Exxon Mobil Corporation",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 565951070208
+    "marketCap": 563961528320
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 611792060416,
-    "forwardPE": 12.63445,
+    "enterpriseValue": 609802518528,
+    "forwardPE": 12.5900345,
     "profitMargins": 0.077649996,
     "floatShares": 4136201323,
     "sharesOutstanding": 4144947162,
@@ -4353,7 +4363,7 @@
     "impliedSharesOutstanding": 4144947162,
     "category": null,
     "bookValue": 62.069,
-    "priceToBook": 2.1998098,
+    "priceToBook": 2.1920764,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4361,15 +4371,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": -0.458,
     "netIncomeToCommon": 25314000896,
-    "trailingEps": 5.94,
+    "trailingEps": 5.95,
     "forwardEps": 10.80696,
     "pegRatio": 1.13,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 995500800,
-    "enterpriseToRevenue": 1.877,
-    "enterpriseToEbitda": 10.923,
-    "52WeekChange": 0.26660478,
-    "SandP52WeekChange": 0.18518603,
+    "enterpriseToRevenue": 1.871,
+    "enterpriseToEbitda": 10.888,
+    "52WeekChange": 0.26215208,
+    "SandP52WeekChange": 0.19911206,
     "lastDividendValue": 1.03,
     "lastDividendDate": "2026-05-15T00:00:00.000Z",
     "latestShareClass": null,
@@ -5159,7 +5169,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 136.54,
+    "currentPrice": 136.06,
     "targetHighPrice": 185,
     "targetLowPrice": 130,
     "targetMeanPrice": 170.2857,
@@ -5189,6 +5199,6 @@
     "profitMargins": 0.077649996,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-06-29T06:47:52.561Z",
+  "lastUpdated": "2026-06-30T06:12:55.817Z",
   "source": "Static Build (yahoo-finance2)"
 }

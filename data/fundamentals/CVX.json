@@ -45,7 +45,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0769,
         "position": 153137916,
-        "value": 26195771537,
+        "value": 25799144895,
         "pctChange": 0.0056
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0727,
         "position": 144720031,
-        "value": 24755808149,
+        "value": 24380983799,
         "pctChange": 0.024300002
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0615,
         "position": 122484427,
-        "value": 20952185783,
+        "value": 20634951566,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Berkshire Hathaway, Inc",
         "pctHeld": 0.0424,
         "position": 84375856,
-        "value": 14433333721,
+        "value": 14214800563,
         "pctChange": -0.35169998
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0219,
         "position": 43677102,
-        "value": 7471404961,
+        "value": 7358281427,
         "pctChange": 0.0015
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0212,
         "position": 42313738,
-        "value": 7238187918,
+        "value": 7128595492,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0185,
         "position": 36847021,
-        "value": 6303051322,
+        "value": 6207617672,
         "pctChange": 0.0149
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Charles Schwab Investment Management, Inc.",
         "pctHeld": 0.018099999,
         "position": 36118480,
-        "value": 6178427100,
+        "value": 6084880369,
         "pctChange": 0.0023
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0139,
         "position": 27630227,
-        "value": 4726426563,
+        "value": 4654864376,
         "pctChange": 0.0508
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.011,
         "position": 21887438,
-        "value": 3744065090,
+        "value": 3687376706,
         "pctChange": 0.0194
       }
     ]
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-06-29T16:47:00.000Z",
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 210,
+        "priorPriceTarget": 214
+      },
       {
         "epochGradeDate": "2026-05-27T12:25:59.000Z",
         "firm": "Mizuho",
@@ -4597,24 +4607,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.005104638,
-    "postMarketChange": 0.87319946,
-    "postMarketTime": "2026-06-26T23:59:58.000Z",
-    "postMarketPrice": 171.9332,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.00685095,
-    "regularMarketChange": -1.18001,
-    "regularMarketTime": "2026-06-26T20:01:04.000Z",
+    "postMarketChangePercent": 0.0012168447,
+    "postMarketChange": 0.20500183,
+    "postMarketTime": "2026-06-29T23:59:38.000Z",
+    "postMarketPrice": 168.675,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.015140899,
+    "regularMarketChange": -2.59,
+    "regularMarketTime": "2026-06-29T20:03:56.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 171.06,
-    "regularMarketDayHigh": 172.24,
-    "regularMarketDayLow": 169.93,
-    "regularMarketVolume": 13047947,
-    "averageDailyVolume10Day": 10247730,
-    "averageDailyVolume3Month": 10354746,
-    "regularMarketPreviousClose": 172.24,
+    "regularMarketPrice": 168.47,
+    "regularMarketDayHigh": 171.6,
+    "regularMarketDayLow": 168.37,
+    "regularMarketVolume": 8628635,
+    "averageDailyVolume10Day": 10258630,
+    "averageDailyVolume3Month": 10330265,
+    "regularMarketPreviousClose": 171.06,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 172.24,
+    "regularMarketOpen": 171.37,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -4625,18 +4635,18 @@
     "shortName": "Chevron Corporation",
     "longName": "Chevron Corporation",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 340682702848
+    "marketCap": 335524462592
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 384016121856,
-    "forwardPE": 13.548845,
+    "enterpriseValue": 378894581760,
+    "forwardPE": 13.343704,
     "profitMargins": 0.059270002,
     "floatShares": 1882394459,
     "sharesOutstanding": 1991597732,
@@ -4653,7 +4663,7 @@
     "impliedSharesOutstanding": 1991597732,
     "category": null,
     "bookValue": 92.906,
-    "priceToBook": 1.8412158,
+    "priceToBook": 1.8133383,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4661,15 +4671,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": -0.369,
     "netIncomeToCommon": 11009000448,
-    "trailingEps": 5.75,
+    "trailingEps": 5.74,
     "forwardEps": 12.62543,
     "pegRatio": 0.69,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1095033600,
-    "enterpriseToRevenue": 2.067,
-    "enterpriseToEbitda": 10.131,
-    "52WeekChange": 0.19463646,
-    "SandP52WeekChange": 0.18518603,
+    "enterpriseToRevenue": 2.04,
+    "enterpriseToEbitda": 9.996,
+    "52WeekChange": 0.1765486,
+    "SandP52WeekChange": 0.19911206,
     "lastDividendValue": 1.78,
     "lastDividendDate": "2026-05-19T00:00:00.000Z",
     "latestShareClass": null,
@@ -6347,7 +6357,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 171.06,
+    "currentPrice": 168.47,
     "targetHighPrice": 236,
     "targetLowPrice": 170,
     "targetMeanPrice": 217.13635,
@@ -6377,6 +6387,6 @@
     "profitMargins": 0.059270002,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-06-29T06:46:13.348Z",
+  "lastUpdated": "2026-06-30T06:11:13.537Z",
   "source": "Static Build (yahoo-finance2)"
 }
