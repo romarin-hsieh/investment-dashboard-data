@@ -45,7 +45,7 @@
         "organization": "Berkshire Hathaway, Inc",
         "pctHeld": 0.22219999,
         "position": 151610700,
-        "value": 51681056156,
+        "value": 51282319275,
         "pctChange": 0
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0614,
         "position": 41910309,
-        "value": 14286386336,
+        "value": 14176162019,
         "pctChange": -0.010199999
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0484,
         "position": 33010215,
-        "value": 11252522250,
+        "value": 11165705223,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0428,
         "position": 29227721,
-        "value": 9963145677,
+        "value": 9886276628,
         "pctChange": -0.008
       },
       {
@@ -81,7 +81,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0299,
         "position": 20408323,
-        "value": 6956789243,
+        "value": 6903115254,
         "pctChange": -0.0297
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0208,
         "position": 14166474,
-        "value": 4829067726,
+        "value": 4791809830,
         "pctChange": 0.1148
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0188,
         "position": 12808752,
-        "value": 4366247444,
+        "value": 4332560364,
         "pctChange": -0.0296
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.0136,
         "position": 9250373,
-        "value": 3153267193,
+        "value": 3128938667,
         "pctChange": 0.0251
       },
       {
@@ -117,7 +117,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0136,
         "position": 9264998,
-        "value": 3158252563,
+        "value": 3133885573,
         "pctChange": 0.1018
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0117,
         "position": 7952555,
-        "value": 2710866987,
+        "value": 2689951728,
         "pctChange": 1
       }
     ]
@@ -134,8 +134,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.2233,
-    "institutionsPercentHeld": 0.65328,
-    "institutionsFloatPercentHeld": 0.84109,
+    "institutionsPercentHeld": 0.65323997,
+    "institutionsFloatPercentHeld": 0.84105,
     "institutionsCount": 3671
   },
   "earnings": {
@@ -261,6 +261,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-06-30T13:24:12.000Z",
+        "firm": "Piper Sandler",
+        "toGrade": "Overweight",
+        "fromGrade": "Neutral",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 396,
+        "priorPriceTarget": 0
+      },
+      {
+        "epochGradeDate": "2026-06-30T10:02:43.000Z",
+        "firm": "BTIG",
+        "toGrade": "Sell",
+        "fromGrade": "Sell",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 324,
+        "priorPriceTarget": 285
+      },
       {
         "epochGradeDate": "2026-06-24T15:02:18.000Z",
         "firm": "Truist Securities",
@@ -5547,24 +5567,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0068023545,
-    "postMarketChange": 2.3187866,
-    "postMarketTime": "2026-06-29T23:59:05.000Z",
-    "postMarketPrice": 343.1988,
+    "postMarketChangePercent": 0.0022172949,
+    "postMarketChange": 0.75,
+    "postMarketTime": "2026-06-30T23:58:56.000Z",
+    "postMarketPrice": 339,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.00152785,
-    "regularMarketChange": 0.52002,
-    "regularMarketTime": "2026-06-29T20:00:03.000Z",
+    "regularMarketChangePercent": -0.0077153402,
+    "regularMarketChange": -2.63,
+    "regularMarketTime": "2026-06-30T20:02:22.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 340.88,
-    "regularMarketDayHigh": 344.05,
-    "regularMarketDayLow": 339.29,
-    "regularMarketVolume": 2589370,
-    "averageDailyVolume10Day": 3670540,
-    "averageDailyVolume3Month": 3150769,
-    "regularMarketPreviousClose": 340.36,
+    "regularMarketPrice": 338.25,
+    "regularMarketDayHigh": 344.13,
+    "regularMarketDayLow": 336.572,
+    "regularMarketVolume": 2226488,
+    "averageDailyVolume10Day": 3670620,
+    "averageDailyVolume3Month": 3139487,
+    "regularMarketPreviousClose": 340.88,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 341.78,
+    "regularMarketOpen": 342,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -5580,13 +5600,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 232591441920
+    "marketCap": 230796918784
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 239183446016,
-    "forwardPE": 16.913706,
+    "enterpriseValue": 237388922880,
+    "forwardPE": 16.78321,
     "profitMargins": 0.16305,
     "floatShares": 529253329,
     "sharesOutstanding": 682326443,
@@ -5596,14 +5616,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0177,
     "heldPercentInsiders": 0.2233,
-    "heldPercentInstitutions": 0.65328,
+    "heldPercentInstitutions": 0.65323997,
     "shortRatio": 4.23,
     "shortPercentOfFloat": 0.0228,
     "beta": 1.058,
     "impliedSharesOutstanding": 682326443,
     "category": null,
     "bookValue": 49.846,
-    "priceToBook": 6.838663,
+    "priceToBook": 6.7859006,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -5611,14 +5631,14 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.15,
     "netIncomeToCommon": 11086999552,
-    "trailingEps": 16.02,
+    "trailingEps": 16.03,
     "forwardEps": 20.15407,
     "pegRatio": 1.62,
     "lastSplitFactor": "10000:8753",
     "lastSplitDate": 1128297600,
-    "enterpriseToRevenue": 3.476,
-    "52WeekChange": 0.068656325,
-    "SandP52WeekChange": 0.19911206,
+    "enterpriseToRevenue": 3.45,
+    "52WeekChange": 0.056893945,
+    "SandP52WeekChange": 0.20045471,
     "lastDividendValue": 0.95,
     "lastDividendDate": "2026-04-02T00:00:00.000Z",
     "latestShareClass": null,
@@ -5709,24 +5729,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 15000,
-        "value": 5348672,
-        "filerUrl": "",
-        "transactionText": "Sale at price 356.14 - 357.13 per share.",
-        "filerName": "RADHAKRISHNAN RAVIKUMAR S",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2026-02-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 12737,
         "value": 4597930,
         "filerUrl": "",
         "transactionText": "Sale at price 360.99 per share.",
         "filerName": "SEEGER LAUREEN E",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 15000,
+        "value": 5348672,
+        "filerUrl": "",
+        "transactionText": "Sale at price 356.14 - 357.13 per share.",
+        "filerName": "RADHAKRISHNAN RAVIKUMAR S",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2026-02-09T00:00:00.000Z",
         "ownership": "D"
@@ -5777,6 +5797,42 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 123033,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SQUERI STEPHEN J",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-01-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 27140,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SEEGER LAUREEN E",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 39882,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BUCKMINSTER DOUGLAS E",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-30T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -5834,6 +5890,18 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "JOABAR RAYMOND D",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11750,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MCNEAL GLENDA G",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-30T00:00:00.000Z",
@@ -5918,54 +5986,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "TABISH DOUGLAS J",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 11750,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MCNEAL GLENDA G",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 123033,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SQUERI STEPHEN J",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-01-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 27140,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SEEGER LAUREEN E",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 39882,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BUCKMINSTER DOUGLAS E",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-30T00:00:00.000Z",
@@ -6190,9 +6210,9 @@
       {
         "maxAge": 1,
         "shares": 50000,
-        "value": 3271500,
+        "value": 15474837,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 65.43 per share.",
+        "transactionText": "Sale at price 309.27 - 309.62 per share.",
         "filerName": "MCNEAL GLENDA G",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -6202,9 +6222,9 @@
       {
         "maxAge": 1,
         "shares": 50000,
-        "value": 15474837,
+        "value": 3271500,
         "filerUrl": "",
-        "transactionText": "Sale at price 309.27 - 309.62 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 65.43 per share.",
         "filerName": "MCNEAL GLENDA G",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -6393,6 +6413,54 @@
       },
       {
         "maxAge": 1,
+        "shares": 32787,
+        "value": 10374463,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 316.42 per share.",
+        "filerName": "WILLIAMS ANRE D.",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 103015,
+        "value": 32596006,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 316.42 per share.",
+        "filerName": "SQUERI STEPHEN J",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 26329,
+        "value": 8331022,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 316.42 per share.",
+        "filerName": "SEEGER LAUREEN E",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 38398,
+        "value": 12149895,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 316.42 per share.",
+        "filerName": "BUCKMINSTER DOUGLAS E",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 18434,
         "value": 5832886,
         "filerUrl": "",
@@ -6489,6 +6557,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 9826,
+        "value": 3109143,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 316.42 per share.",
+        "filerName": "MCNEAL GLENDA G",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 5760,
         "value": 1822579,
         "filerUrl": "",
@@ -6561,66 +6641,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 9826,
-        "value": 3109143,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 316.42 per share.",
-        "filerName": "MCNEAL GLENDA G",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 32787,
-        "value": 10374463,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 316.42 per share.",
-        "filerName": "WILLIAMS ANRE D.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 103015,
-        "value": 32596006,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 316.42 per share.",
-        "filerName": "SQUERI STEPHEN J",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-01-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 26329,
-        "value": 8331022,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 316.42 per share.",
-        "filerName": "SEEGER LAUREEN E",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 38398,
-        "value": 12149895,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 316.42 per share.",
-        "filerName": "BUCKMINSTER DOUGLAS E",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 6000,
         "value": 1820880,
         "filerUrl": "",
@@ -6657,18 +6677,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1300,
-        "value": 374010,
-        "filerUrl": "",
-        "transactionText": "Sale at price 287.70 per share.",
-        "filerName": "HERENA MONIQUE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-11-07T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 170632,
         "value": 48897715,
         "filerUrl": "",
@@ -6687,6 +6695,18 @@
         "transactionText": "Conversion of Exercise of derivative security at price 97.98 - 100.96 per share.",
         "filerName": "SQUERI STEPHEN J",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2024-11-07T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1300,
+        "value": 374010,
+        "filerUrl": "",
+        "transactionText": "Sale at price 287.70 per share.",
+        "filerName": "HERENA MONIQUE",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-11-07T00:00:00.000Z",
         "ownership": "D"
@@ -6744,7 +6764,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 340.88,
+    "currentPrice": 338.25,
     "targetHighPrice": 450,
     "targetLowPrice": 285,
     "targetMeanPrice": 363.7321,
@@ -6772,6 +6792,6 @@
     "profitMargins": 0.16305,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-06-30T06:10:54.481Z",
+  "lastUpdated": "2026-07-01T06:26:00.463Z",
   "source": "Static Build (yahoo-finance2)"
 }
