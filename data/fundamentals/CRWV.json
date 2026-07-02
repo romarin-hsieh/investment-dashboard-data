@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 4,
+        "buy": 20,
+        "hold": 11,
+        "sell": 1,
+        "strongSell": 1
+      },
+      {
+        "period": "-2m",
         "strongBuy": 3,
         "buy": 19,
         "hold": 11,
@@ -18,17 +26,9 @@
         "strongSell": 1
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 2,
         "buy": 20,
-        "hold": 10,
-        "sell": 1,
-        "strongSell": 1
-      },
-      {
-        "period": "-3m",
-        "strongBuy": 3,
-        "buy": 18,
         "hold": 10,
         "sell": 1,
         "strongSell": 1
@@ -45,7 +45,7 @@
         "organization": "Magnetar Financial LLC",
         "pctHeld": 0.1532,
         "position": 68566394,
-        "value": 6825098921,
+        "value": 5875111302,
         "pctChange": 0.0055
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Nvidia Corp                          ",
         "pctHeld": 0.105500005,
         "position": 47213353,
-        "value": 4699617200,
+        "value": 4045476036,
         "pctChange": 0.9447
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0399,
         "position": 17877647,
-        "value": 1779540998,
+        "value": 1531846139,
         "pctChange": 0.96849996
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.028399998,
         "position": 12710358,
-        "value": 1265189046,
+        "value": 1089086994,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0278,
         "position": 12437395,
-        "value": 1238018309,
+        "value": 1065698160,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.021,
         "position": 9378232,
-        "value": 933509221,
+        "value": 803573786,
         "pctChange": 0.2965
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Jane Street Group, LLC",
         "pctHeld": 0.0198,
         "position": 8856691,
-        "value": 881595030,
+        "value": 758885546,
         "pctChange": 0.4351
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Value Aligned Research Advisors, LLC                          ",
         "pctHeld": 0.0185,
         "position": 8280763,
-        "value": 824267156,
+        "value": 709537157,
         "pctChange": 0.3737
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Situational Awareness Partners LP",
         "pctHeld": 0.016,
         "position": 7177919,
-        "value": 714490063,
+        "value": 615039971,
         "pctChange": 1
       },
       {
@@ -126,17 +126,17 @@
         "organization": "Situational Awareness LP                          ",
         "pctHeld": 0.016,
         "position": 7177919,
-        "value": 714490063,
+        "value": 615039971,
         "pctChange": 0.1769
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.18545,
-    "institutionsPercentHeld": 0.57246,
-    "institutionsFloatPercentHeld": 0.7028,
-    "institutionsCount": 1021
+    "insidersPercentHeld": 0.185,
+    "institutionsPercentHeld": 0.57251,
+    "institutionsFloatPercentHeld": 0.70246005,
+    "institutionsCount": 1020
   },
   "earnings": {
     "maxAge": 86400,
@@ -1467,24 +1467,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.017882247,
-    "postMarketChange": 1.7799988,
-    "postMarketTime": "2026-06-30T23:59:32.000Z",
-    "postMarketPrice": 101.32,
+    "postMarketChangePercent": 0.008344565,
+    "postMarketChange": 0.71500397,
+    "postMarketTime": "2026-07-01T23:59:53.000Z",
+    "postMarketPrice": 86.4,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0421945,
-    "regularMarketChange": 4.03,
-    "regularMarketTime": "2026-06-30T20:00:00.000Z",
+    "regularMarketChangePercent": -0.13919,
+    "regularMarketChange": -13.855,
+    "regularMarketTime": "2026-07-01T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 99.54,
-    "regularMarketDayHigh": 99.79,
-    "regularMarketDayLow": 93.88,
-    "regularMarketVolume": 17948226,
-    "averageDailyVolume10Day": 32582020,
-    "averageDailyVolume3Month": 31079888,
-    "regularMarketPreviousClose": 95.51,
+    "regularMarketPrice": 85.685,
+    "regularMarketDayHigh": 90.26,
+    "regularMarketDayLow": 85.01,
+    "regularMarketVolume": 59681417,
+    "averageDailyVolume10Day": 34040170,
+    "averageDailyVolume3Month": 31449619,
+    "regularMarketPreviousClose": 99.54,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 95.1,
+    "regularMarketOpen": 88.865,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -1500,13 +1500,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 54306074624
+    "marketCap": 46747197440
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 87187070976,
-    "forwardPE": -102.09022,
+    "enterpriseValue": 79628197888,
+    "forwardPE": -87.88025,
     "profitMargins": -0.25566,
     "floatShares": 313599291,
     "sharesOutstanding": 447573939,
@@ -1515,14 +1515,14 @@
     "sharesShortPreviousMonthDate": "2026-05-15T00:00:00.000Z",
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1265,
-    "heldPercentInsiders": 0.18545,
-    "heldPercentInstitutions": 0.57246,
+    "heldPercentInsiders": 0.185,
+    "heldPercentInstitutions": 0.57251,
     "shortRatio": 2.46,
     "shortPercentOfFloat": 0.2299,
     "impliedSharesOutstanding": 545570346,
     "category": null,
     "bookValue": 8.945,
-    "priceToBook": 11.128005,
+    "priceToBook": 9.579095,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1532,10 +1532,10 @@
     "trailingEps": -2.72,
     "forwardEps": -0.97502,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 14.001,
-    "enterpriseToEbitda": 28.832,
-    "52WeekChange": -0.38752085,
-    "SandP52WeekChange": 0.20045471,
+    "enterpriseToRevenue": 12.788,
+    "enterpriseToEbitda": 26.332,
+    "52WeekChange": -0.43542862,
+    "SandP52WeekChange": 0.20165813,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1714,18 +1714,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 58429,
-        "value": 6818584,
-        "filerUrl": "",
-        "transactionText": "Sale at price 108.09 - 119.26 per share.",
-        "filerName": "AGRAWAL NITIN",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-06-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 307692,
         "value": 35893071,
         "filerUrl": "",
@@ -1746,6 +1734,18 @@
         "moneyText": "",
         "startDate": "2026-06-16T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 58429,
+        "value": 6818584,
+        "filerUrl": "",
+        "transactionText": "Sale at price 108.09 - 119.26 per share.",
+        "filerName": "AGRAWAL NITIN",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-06-16T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1979,18 +1979,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 112111,
-        "value": 14636919,
-        "filerUrl": "",
-        "transactionText": "Sale at price 130.21 - 131.80 per share.",
-        "filerName": "MAGNETAR FINANCIAL, L.L.C.",
-        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2026-06-02T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 307692,
         "value": 37654872,
         "filerUrl": "",
@@ -2008,6 +1996,18 @@
         "transactionText": "",
         "filerName": "INTRATOR MICHAEL N",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-06-02T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 112111,
+        "value": 14636919,
+        "filerUrl": "",
+        "transactionText": "Sale at price 130.21 - 131.80 per share.",
+        "filerName": "MAGNETAR FINANCIAL, L.L.C.",
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
         "moneyText": "",
         "startDate": "2026-06-02T00:00:00.000Z",
         "ownership": "I"
@@ -2038,18 +2038,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 742307,
-        "value": 78668181,
-        "filerUrl": "",
-        "transactionText": "Sale at price 103.77 - 108.20 per share.",
-        "filerName": "COGEN JACK D",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-28T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 898,
         "value": 98780,
         "filerUrl": "",
@@ -2059,6 +2047,18 @@
         "moneyText": "",
         "startDate": "2026-05-28T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 742307,
+        "value": 78668181,
+        "filerUrl": "",
+        "transactionText": "Sale at price 103.77 - 108.20 per share.",
+        "filerName": "COGEN JACK D",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-28T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2109,6 +2109,29 @@
       },
       {
         "maxAge": 1,
+        "shares": 307693,
+        "value": 32843315,
+        "filerUrl": "",
+        "transactionText": "Sale at price 105.70 - 109.16 per share.",
+        "filerName": "INTRATOR MICHAEL N",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-05-26T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 107693,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "INTRATOR MICHAEL N",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-05-26T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 11580,
         "value": 1245045,
         "filerUrl": "",
@@ -2133,26 +2156,49 @@
       },
       {
         "maxAge": 1,
-        "shares": 307693,
-        "value": 32843315,
+        "shares": 13129,
+        "value": 1310537,
         "filerUrl": "",
-        "transactionText": "Sale at price 105.70 - 109.16 per share.",
+        "transactionText": "Sale at price 99.82 per share.",
         "filerName": "INTRATOR MICHAEL N",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-05-26T00:00:00.000Z",
-        "ownership": "D/I"
+        "startDate": "2026-05-20T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 107693,
+        "shares": 23443,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "INTRATOR MICHAEL N",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-05-26T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-05-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 6377,
+        "value": 636552,
+        "filerUrl": "",
+        "transactionText": "Sale at price 99.82 per share.",
+        "filerName": "JAIN SACHIN",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-05-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 15644,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "JAIN SACHIN",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-05-20T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2288,52 +2334,6 @@
         "transactionText": "",
         "filerName": "MCBEE BRANNIN",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-05-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 13129,
-        "value": 1310537,
-        "filerUrl": "",
-        "transactionText": "Sale at price 99.82 per share.",
-        "filerName": "INTRATOR MICHAEL N",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 23443,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "INTRATOR MICHAEL N",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 6377,
-        "value": 636552,
-        "filerUrl": "",
-        "transactionText": "Sale at price 99.82 per share.",
-        "filerName": "JAIN SACHIN",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-05-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 15644,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "JAIN SACHIN",
-        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2026-05-20T00:00:00.000Z",
         "ownership": "D"
@@ -2517,11 +2517,35 @@
         "value": 20677149,
         "filerUrl": "",
         "transactionText": "Sale at price 129.73 - 133.00 per share.",
+        "filerName": "MAGNETAR FINANCIAL, L.L.C.",
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "moneyText": "",
+        "startDate": "2026-05-07T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 159168,
+        "value": 20677149,
+        "filerUrl": "",
+        "transactionText": "Sale at price 129.73 - 133.00 per share.",
         "filerName": "MAGNETAR FINANCIAL LLC",
         "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
         "moneyText": "",
         "startDate": "2026-05-07T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7335,
+        "value": 961839,
+        "filerUrl": "",
+        "transactionText": "Sale at price 131.13 per share.",
+        "filerName": "JAIN SACHIN",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-05-06T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2572,15 +2596,26 @@
       },
       {
         "maxAge": 1,
-        "shares": 7335,
-        "value": 961839,
+        "shares": 307693,
+        "value": 39257705,
         "filerUrl": "",
-        "transactionText": "Sale at price 131.13 per share.",
-        "filerName": "JAIN SACHIN",
-        "filerRelation": "Chief Operating Officer",
+        "transactionText": "Sale at price 123.40 - 128.97 per share.",
+        "filerName": "INTRATOR MICHAEL N",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-05-06T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-05-05T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 107693,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "INTRATOR MICHAEL N",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-05-05T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2628,29 +2663,6 @@
         "moneyText": "",
         "startDate": "2026-05-05T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 307693,
-        "value": 39257705,
-        "filerUrl": "",
-        "transactionText": "Sale at price 123.40 - 128.97 per share.",
-        "filerName": "INTRATOR MICHAEL N",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-05T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 107693,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "INTRATOR MICHAEL N",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-05T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2970,18 +2982,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 323452,
-        "value": 38251434,
-        "filerUrl": "",
-        "transactionText": "Sale at price 118.26 per share.",
-        "filerName": "MAGNETAR FINANCIAL, L.L.C.",
-        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2026-04-21T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 307693,
         "value": 35822995,
         "filerUrl": "",
@@ -2999,6 +2999,18 @@
         "transactionText": "",
         "filerName": "INTRATOR MICHAEL N",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-04-21T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 323452,
+        "value": 38251434,
+        "filerUrl": "",
+        "transactionText": "Sale at price 118.26 per share.",
+        "filerName": "MAGNETAR FINANCIAL, L.L.C.",
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
         "moneyText": "",
         "startDate": "2026-04-21T00:00:00.000Z",
         "ownership": "I"
@@ -3146,6 +3158,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 3953,
+        "value": 474360,
+        "filerUrl": "",
+        "transactionText": "Sale at price 120.00 per share.",
+        "filerName": "JAIN SACHIN",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-04-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2604094,
         "value": 309022617,
         "filerUrl": "",
@@ -3190,18 +3214,6 @@
         "moneyText": "",
         "startDate": "2026-04-15T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3953,
-        "value": 474360,
-        "filerUrl": "",
-        "transactionText": "Sale at price 120.00 per share.",
-        "filerName": "JAIN SACHIN",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-04-15T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -3294,25 +3306,13 @@
         "moneyText": "",
         "startDate": "2026-04-13T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 22915,
-        "value": 2539396,
-        "filerUrl": "",
-        "transactionText": "Sale at price 104.54 - 113.77 per share.",
-        "filerName": "MCBEE BRANNIN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-13T00:00:00.000Z",
-        "ownership": "I"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 99.54,
+    "currentPrice": 85.685,
     "targetHighPrice": 303,
     "targetLowPrice": 36,
     "targetMeanPrice": 143.41176,
@@ -3341,6 +3341,6 @@
     "profitMargins": -0.25566,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-01T06:24:28.186Z",
+  "lastUpdated": "2026-07-02T05:57:31.117Z",
   "source": "Static Build (yahoo-finance2)"
 }

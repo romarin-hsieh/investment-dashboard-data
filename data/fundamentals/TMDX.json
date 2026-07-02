@@ -20,8 +20,8 @@
       {
         "period": "-2m",
         "strongBuy": 2,
-        "buy": 7,
-        "hold": 2,
+        "buy": 6,
+        "hold": 3,
         "sell": 0,
         "strongSell": 0
       },
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1532,
         "position": 5293331,
-        "value": 351583035,
+        "value": 359152500,
         "pctChange": -0.0189
       },
       {
@@ -54,7 +54,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.1475,
         "position": 5096243,
-        "value": 338492450,
+        "value": 345780079,
         "pctChange": 0.0038
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0555,
         "position": 1919535,
-        "value": 127495511,
+        "value": 130240446,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0428,
         "position": 1478152,
-        "value": 98178853,
+        "value": 100292610,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0382,
         "position": 1319479,
-        "value": 87639792,
+        "value": 89526648,
         "pctChange": 0.0348
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.03,
         "position": 1037974,
-        "value": 68942231,
+        "value": 70426534,
         "pctChange": 0.5162
       },
       {
@@ -99,7 +99,7 @@
         "organization": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
         "pctHeld": 0.0272,
         "position": 939523,
-        "value": 62403115,
+        "value": 63746634,
         "pctChange": -0.0575
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Nomura Asset Management International Inc",
         "pctHeld": 0.0256,
         "position": 885841,
-        "value": 58837557,
+        "value": 60104310,
         "pctChange": 0.0644
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0251,
         "position": 866282,
-        "value": 57538448,
+        "value": 58777232,
         "pctChange": -0.103199996
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024300002,
         "position": 839155,
-        "value": 55736673,
+        "value": 56936665,
         "pctChange": 0.0278
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.03426,
-    "institutionsPercentHeld": 1.10001,
-    "institutionsFloatPercentHeld": 1.13903,
-    "institutionsCount": 553
+    "institutionsPercentHeld": 1.08885,
+    "institutionsFloatPercentHeld": 1.12748,
+    "institutionsCount": 548
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1778011520
         }
       ],
-      "currentQuarterEstimate": 0.5382,
+      "currentQuarterEstimate": 0.51963,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-01T16:04:23.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 120,
+        "priorPriceTarget": 120
+      },
       {
         "epochGradeDate": "2026-06-30T15:25:56.000Z",
         "firm": "Canaccord Genuity",
@@ -1447,24 +1457,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0036134524,
-    "postMarketChange": 0.2400055,
-    "postMarketTime": "2026-06-30T23:52:46.000Z",
-    "postMarketPrice": 66.66,
+    "postMarketChangePercent": 0.0022107817,
+    "postMarketChange": 0.15000153,
+    "postMarketTime": "2026-07-01T23:58:38.000Z",
+    "postMarketPrice": 68,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0129292,
-    "regularMarketChange": -0.870003,
-    "regularMarketTime": "2026-06-30T20:00:00.000Z",
+    "regularMarketChangePercent": 0.0215297,
+    "regularMarketChange": 1.43,
+    "regularMarketTime": "2026-07-01T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 66.42,
-    "regularMarketDayHigh": 67.4,
-    "regularMarketDayLow": 64.8448,
-    "regularMarketVolume": 1389485,
-    "averageDailyVolume10Day": 1275480,
-    "averageDailyVolume3Month": 1332988,
-    "regularMarketPreviousClose": 67.29,
+    "regularMarketPrice": 67.85,
+    "regularMarketDayHigh": 71.67,
+    "regularMarketDayLow": 67.44,
+    "regularMarketVolume": 1050267,
+    "averageDailyVolume10Day": 1362630,
+    "averageDailyVolume3Month": 1344498,
+    "regularMarketPreviousClose": 66.42,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 67.23,
+    "regularMarketOpen": 67.68,
     "exchange": "NGM",
     "exchangeName": "NasdaqGM",
     "exchangeDataDelayedBy": 0,
@@ -1480,13 +1490,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 2295535616
+    "marketCap": 2344957952
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 2697211648,
-    "forwardPE": 20.619709,
+    "enterpriseValue": 2746633728,
+    "forwardPE": 21.204515,
     "profitMargins": 0.27037,
     "floatShares": 33431115,
     "sharesOutstanding": 34560911,
@@ -1496,14 +1506,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.22219999,
     "heldPercentInsiders": 0.03426,
-    "heldPercentInstitutions": 1.10001,
+    "heldPercentInstitutions": 1.08885,
     "shortRatio": 6.27,
     "shortPercentOfFloat": 0.3466,
     "beta": 1.88,
     "impliedSharesOutstanding": 34560911,
     "category": null,
     "bookValue": 14.3,
-    "priceToBook": 4.644755,
+    "priceToBook": 4.7447553,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1514,10 +1524,10 @@
     "trailingEps": 4.37,
     "forwardEps": 3.19979,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 4.242,
-    "enterpriseToEbitda": 21.518,
-    "52WeekChange": -0.48278248,
-    "SandP52WeekChange": 0.20045471,
+    "enterpriseToRevenue": 4.319,
+    "enterpriseToEbitda": 21.912,
+    "52WeekChange": -0.46863496,
+    "SandP52WeekChange": 0.20165813,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1566,6 +1576,18 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2922,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "WEILL DAVID",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-20T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1642,18 +1664,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2922,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "WEILL DAVID",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 15409,
         "value": 0,
         "filerUrl": "",
@@ -1666,11 +1676,23 @@
       },
       {
         "maxAge": 1,
-        "shares": 1193,
-        "value": 178497,
+        "shares": 3571,
+        "value": 524294,
         "filerUrl": "",
-        "transactionText": "Sale at price 149.62 per share.",
-        "filerName": "LOVELL STEPHANIE",
+        "transactionText": "Sale at price 146.82 per share.",
+        "filerName": "WEILL DAVID",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-03-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3571,
+        "value": 50708,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 14.20 per share.",
+        "filerName": "WEILL DAVID",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-04T00:00:00.000Z",
@@ -1702,23 +1724,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 3571,
-        "value": 524294,
+        "shares": 1193,
+        "value": 178497,
         "filerUrl": "",
-        "transactionText": "Sale at price 146.82 per share.",
-        "filerName": "WEILL DAVID",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3571,
-        "value": 50708,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 14.20 per share.",
-        "filerName": "WEILL DAVID",
+        "transactionText": "Sale at price 149.62 per share.",
+        "filerName": "LOVELL STEPHANIE",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-04T00:00:00.000Z",
@@ -1946,6 +1956,18 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "WEILL DAVID",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2134,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "KANIA EDWIN M JR",
         "filerRelation": "Director",
         "moneyText": "",
@@ -2007,18 +2029,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BASILE EDWARD M.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2134,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "WEILL DAVID",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-22T00:00:00.000Z",
@@ -2545,7 +2555,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 66.42,
+    "currentPrice": 67.85,
     "targetHighPrice": 142,
     "targetLowPrice": 80,
     "targetMeanPrice": 117.33333,
@@ -2575,6 +2585,6 @@
     "profitMargins": 0.27037,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-01T06:24:50.265Z",
+  "lastUpdated": "2026-07-02T05:57:53.129Z",
   "source": "Static Build (yahoo-finance2)"
 }

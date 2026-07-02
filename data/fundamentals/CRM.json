@@ -4,13 +4,21 @@
       {
         "period": "0m",
         "strongBuy": 6,
+        "buy": 34,
+        "hold": 9,
+        "sell": 0,
+        "strongSell": 2
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 6,
         "buy": 33,
         "hold": 10,
         "sell": 0,
         "strongSell": 2
       },
       {
-        "period": "-1m",
+        "period": "-2m",
         "strongBuy": 7,
         "buy": 36,
         "hold": 10,
@@ -18,18 +26,10 @@
         "strongSell": 2
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 8,
         "buy": 36,
         "hold": 11,
-        "sell": 0,
-        "strongSell": 1
-      },
-      {
-        "period": "-3m",
-        "strongBuy": 8,
-        "buy": 37,
-        "hold": 12,
         "sell": 0,
         "strongSell": 1
       }
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.09729999,
         "position": 79691184,
-        "value": 12484421177,
+        "value": 13007991623,
         "pctChange": -0.0123000005
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.072399996,
         "position": 59333776,
-        "value": 9295229565,
+        "value": 9685052002,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0598,
         "position": 48953388,
-        "value": 7669037943,
+        "value": 7990661314,
         "pctChange": -0.0225
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0387,
         "position": 31675603,
-        "value": 4962300081,
+        "value": 5170408542,
         "pctChange": 0.6663
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0271,
         "position": 22225157,
-        "value": 3481793177,
+        "value": 3627812282,
         "pctChange": 0.020299999
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.023699999,
         "position": 19419407,
-        "value": 3042244371,
+        "value": 3169829721,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.020399999,
         "position": 16711525,
-        "value": 2618027567,
+        "value": 2727822154,
         "pctChange": -0.1505
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Harris Associates L.P.",
         "pctHeld": 0.0182,
         "position": 14917993,
-        "value": 2337052838,
+        "value": 2435063933,
         "pctChange": 0.5236
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.0167,
         "position": 13705564,
-        "value": 2147113706,
+        "value": 2237159153,
         "pctChange": 0.44759998
       },
       {
@@ -126,17 +126,17 @@
         "organization": "Arrowstreet Capital, Limited Partnership",
         "pctHeld": 0.0155,
         "position": 12659217,
-        "value": 1983192981,
+        "value": 2066363936,
         "pctChange": 1.3021001
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.029860001,
-    "institutionsPercentHeld": 0.94271004,
-    "institutionsFloatPercentHeld": 0.97172,
-    "institutionsCount": 3725
+    "insidersPercentHeld": 0.029849999,
+    "institutionsPercentHeld": 0.94201,
+    "institutionsFloatPercentHeld": 0.97099,
+    "institutionsCount": 3672
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-01T12:39:58.000Z",
+        "firm": "Guggenheim",
+        "toGrade": "Buy",
+        "fromGrade": "Neutral",
+        "action": "up",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 228,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-06-16T16:05:58.000Z",
         "firm": "Needham",
@@ -9477,24 +9487,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0007021614,
-    "postMarketChange": 0.11000061,
-    "postMarketTime": "2026-07-01T00:00:00.000Z",
-    "postMarketPrice": 156.77,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.00804147,
-    "regularMarketChange": -1.26999,
-    "regularMarketTime": "2026-06-30T20:00:03.000Z",
+    "postMarketChangePercent": -0.003409881,
+    "postMarketChange": -0.55659485,
+    "postMarketTime": "2026-07-01T23:59:56.000Z",
+    "postMarketPrice": 162.6734,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.0419379,
+    "regularMarketChange": 6.56999,
+    "regularMarketTime": "2026-07-01T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 156.66,
-    "regularMarketDayHigh": 157.69,
-    "regularMarketDayLow": 154.07,
-    "regularMarketVolume": 10830229,
-    "averageDailyVolume10Day": 20748110,
-    "averageDailyVolume3Month": 15235140,
-    "regularMarketPreviousClose": 157.93,
+    "regularMarketPrice": 163.23,
+    "regularMarketDayHigh": 165.81,
+    "regularMarketDayLow": 161.2,
+    "regularMarketVolume": 13957646,
+    "averageDailyVolume10Day": 20539770,
+    "averageDailyVolume3Month": 15317795,
+    "regularMarketPreviousClose": 156.66,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 155.09,
+    "regularMarketOpen": 162.22,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -9505,18 +9515,18 @@
     "shortName": "Salesforce, Inc.",
     "longName": "Salesforce, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 128304545792
+    "marketCap": 133685362688
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 159015534592,
-    "forwardPE": 10.098061,
+    "enterpriseValue": 164396367872,
+    "forwardPE": 10.521552,
     "profitMargins": 0.18733,
     "floatShares": 793651950,
     "sharesOutstanding": 819000000,
@@ -9525,15 +9535,15 @@
     "sharesShortPreviousMonthDate": "2026-05-15T00:00:00.000Z",
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0721,
-    "heldPercentInsiders": 0.029860001,
-    "heldPercentInstitutions": 0.94271004,
+    "heldPercentInsiders": 0.029849999,
+    "heldPercentInstitutions": 0.94201,
     "shortRatio": 3.69,
     "shortPercentOfFloat": 0.0834,
     "beta": 1.151,
     "impliedSharesOutstanding": 819000000,
     "category": null,
     "bookValue": 41.801,
-    "priceToBook": 3.7477574,
+    "priceToBook": 3.9049306,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-01-31T00:00:00.000Z",
@@ -9543,13 +9553,13 @@
     "netIncomeToCommon": 8023000064,
     "trailingEps": 8.63,
     "forwardEps": 15.51387,
-    "pegRatio": 0.76,
+    "pegRatio": 0.75,
     "lastSplitFactor": "4:1",
     "lastSplitDate": 1366243200,
-    "enterpriseToRevenue": 3.713,
-    "enterpriseToEbitda": 12.332,
-    "52WeekChange": -0.41918284,
-    "SandP52WeekChange": 0.20045471,
+    "enterpriseToRevenue": 3.838,
+    "enterpriseToEbitda": 12.749,
+    "52WeekChange": -0.39367038,
+    "SandP52WeekChange": 0.20165813,
     "lastDividendValue": 0.44,
     "lastDividendDate": "2026-06-11T00:00:00.000Z",
     "latestShareClass": null,
@@ -9582,6 +9592,17 @@
     "transactions": [
       {
         "maxAge": 1,
+        "shares": 2541,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MILANO MIGUEL",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-06-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 3354,
         "filerUrl": "",
         "transactionText": "",
@@ -9598,17 +9619,6 @@
         "transactionText": "",
         "filerName": "NILES SABASTIAN",
         "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-06-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2541,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MILANO MIGUEL",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-06-22T00:00:00.000Z",
         "ownership": "D"
@@ -9670,6 +9680,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1663,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MILANO MIGUEL",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2026-05-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 442,
         "filerUrl": "",
         "transactionText": "",
@@ -9686,17 +9707,6 @@
         "transactionText": "",
         "filerName": "NILES SABASTIAN",
         "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1663,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MILANO MIGUEL",
-        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2026-05-22T00:00:00.000Z",
         "ownership": "D"
@@ -9780,6 +9790,29 @@
       },
       {
         "maxAge": 1,
+        "shares": 16084,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MILANO MIGUEL",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2026-03-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7118,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MILANO MIGUEL",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2026-03-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 27790,
         "value": 0,
         "filerUrl": "",
@@ -9831,29 +9864,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "NILES SABASTIAN",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-03-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16084,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MILANO MIGUEL",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-03-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 7118,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MILANO MIGUEL",
         "filerRelation": "President",
         "moneyText": "",
         "startDate": "2026-03-20T00:00:00.000Z",
@@ -9963,6 +9973,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1663,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MILANO MIGUEL",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2026-02-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 442,
         "filerUrl": "",
         "transactionText": "",
@@ -9978,17 +9999,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "NILES SABASTIAN",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-02-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1663,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MILANO MIGUEL",
         "filerRelation": "President",
         "moneyText": "",
         "startDate": "2026-02-20T00:00:00.000Z",
@@ -11307,12 +11317,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 2250,
-        "value": 554976,
+        "shares": 4278,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 242.54 - 253.81 per share.",
-        "filerName": "BENIOFF MARC RUSSELL",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "KIRK DAVID BLAIR",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-09-10T00:00:00.000Z",
         "ownership": "I"
@@ -11322,14 +11332,14 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 156.66,
+    "currentPrice": 163.23,
     "targetHighPrice": 475,
     "targetLowPrice": 160,
-    "targetMeanPrice": 246.79654,
-    "targetMedianPrice": 240.5,
+    "targetMeanPrice": 246.4419,
+    "targetMedianPrice": 240,
     "recommendationMean": 1.62745,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 52,
+    "numberOfAnalystOpinions": 53,
     "totalCash": 11836999680,
     "totalCashPerShare": 14.453,
     "ebitda": 12894999552,
@@ -11352,6 +11362,6 @@
     "profitMargins": 0.18733,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-01T06:24:11.722Z",
+  "lastUpdated": "2026-07-02T05:57:14.355Z",
   "source": "Static Build (yahoo-finance2)"
 }

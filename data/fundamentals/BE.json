@@ -6,11 +6,19 @@
         "strongBuy": 5,
         "buy": 9,
         "hold": 12,
+        "sell": 2,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 5,
+        "buy": 9,
+        "hold": 12,
         "sell": 1,
         "strongSell": 1
       },
       {
-        "period": "-1m",
+        "period": "-2m",
         "strongBuy": 5,
         "buy": 9,
         "hold": 11,
@@ -18,20 +26,12 @@
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 4,
         "buy": 9,
         "hold": 13,
         "sell": 1,
         "strongSell": 0
-      },
-      {
-        "period": "-3m",
-        "strongBuy": 4,
-        "buy": 9,
-        "hold": 11,
-        "sell": 3,
-        "strongSell": 1
       }
     ],
     "maxAge": 86400
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0881,
         "position": 25060806,
-        "value": 7585906282,
+        "value": 7255103337,
         "pctChange": 0.0374
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Ameriprise Financial, Inc.",
         "pctHeld": 0.0805,
         "position": 22889027,
-        "value": 6928508752,
+        "value": 6626373316,
         "pctChange": -0.201
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.045100003,
         "position": 12829781,
-        "value": 3883574865,
+        "value": 3714221599,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.041500002,
         "position": 11796818,
-        "value": 3570896952,
+        "value": 3415178811,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0321,
         "position": 9120513,
-        "value": 2760779396,
+        "value": 2640388513,
         "pctChange": 3.5012
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0269,
         "position": 7644234,
-        "value": 2313909725,
+        "value": 2213005743,
         "pctChange": -0.1826
       },
       {
@@ -99,7 +99,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0228,
         "position": 6473617,
-        "value": 1959563944,
+        "value": 1874112121,
         "pctChange": 0.0727
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Situational Awareness Partners LP",
         "pctHeld": 0.0228,
         "position": 6485408,
-        "value": 1963133080,
+        "value": 1877525616,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Situational Awareness LP                          ",
         "pctHeld": 0.0228,
         "position": 6485408,
-        "value": 1963133080,
+        "value": 1877525616,
         "pctChange": -0.35639998
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0209,
         "position": 5947076,
-        "value": 1800179977,
+        "value": 1721678502,
         "pctChange": 0.1269
       }
     ]
@@ -134,8 +134,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.05834,
-    "institutionsPercentHeld": 0.87903,
-    "institutionsFloatPercentHeld": 0.93348,
+    "institutionsPercentHeld": 0.87846,
+    "institutionsFloatPercentHeld": 0.93288004,
     "institutionsCount": 1305
   },
   "earnings": {
@@ -187,7 +187,7 @@
           "reportedDate": 1777406823
         }
       ],
-      "currentQuarterEstimate": 0.3886,
+      "currentQuarterEstimate": 0.39406,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -259,6 +259,36 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-01T15:59:49.000Z",
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 350,
+        "priorPriceTarget": 322
+      },
+      {
+        "epochGradeDate": "2026-07-01T13:58:08.000Z",
+        "firm": "Roth Capital",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 285,
+        "priorPriceTarget": 225
+      },
+      {
+        "epochGradeDate": "2026-07-01T12:56:02.000Z",
+        "firm": "Evercore ISI Group",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 350,
+        "priorPriceTarget": 295
+      },
       {
         "epochGradeDate": "2026-06-23T12:56:11.000Z",
         "firm": "Barclays",
@@ -2645,24 +2675,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.09207134,
-    "postMarketChange": 27.869995,
-    "postMarketTime": "2026-06-30T23:59:58.000Z",
-    "postMarketPrice": 330.57,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.100687,
-    "regularMarketChange": 27.69,
-    "regularMarketTime": "2026-06-30T20:00:03.000Z",
+    "postMarketChangePercent": 0.017271157,
+    "postMarketChange": 5,
+    "postMarketTime": "2026-07-01T23:59:56.000Z",
+    "postMarketPrice": 294.5,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.043607604,
+    "regularMarketChange": -13.2,
+    "regularMarketTime": "2026-07-01T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 302.7,
-    "regularMarketDayHigh": 308.82,
-    "regularMarketDayLow": 279.4,
-    "regularMarketVolume": 11256643,
-    "averageDailyVolume10Day": 16913360,
-    "averageDailyVolume3Month": 11525341,
-    "regularMarketPreviousClose": 275.01,
+    "regularMarketPrice": 289.5,
+    "regularMarketDayHigh": 320,
+    "regularMarketDayLow": 286.25,
+    "regularMarketVolume": 15540282,
+    "averageDailyVolume10Day": 17947900,
+    "averageDailyVolume3Month": 11636600,
+    "regularMarketPreviousClose": 302.7,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 279.7,
+    "regularMarketOpen": 290.63,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -2673,18 +2703,18 @@
     "shortName": "Bloom Energy Corporation",
     "longName": "Bloom Energy Corporation",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 86101164032
+    "marketCap": 82346500096
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 86589079552,
-    "forwardPE": 69.3706,
+    "enterpriseValue": 82834423808,
+    "forwardPE": 66.37944,
     "profitMargins": 0.00246,
     "floatShares": 278991079,
     "sharesOutstanding": 284443868,
@@ -2694,14 +2724,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1047,
     "heldPercentInsiders": 0.05834,
-    "heldPercentInstitutions": 0.87903,
+    "heldPercentInstitutions": 0.87846,
     "shortRatio": 2.84,
     "shortPercentOfFloat": 0.119799994,
     "beta": 3.746,
     "impliedSharesOutstanding": 284443868,
     "category": null,
     "bookValue": 3.242,
-    "priceToBook": 93.36829,
+    "priceToBook": 89.29673,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2709,13 +2739,13 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": 6033000,
     "trailingEps": -0.03,
-    "forwardEps": 4.36352,
-    "pegRatio": 1.34,
+    "forwardEps": 4.36129,
+    "pegRatio": 1.61,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 35.357,
-    "enterpriseToEbitda": 373.89,
-    "52WeekChange": 11.427022,
-    "SandP52WeekChange": 0.20045471,
+    "enterpriseToRevenue": 33.823,
+    "enterpriseToEbitda": 357.677,
+    "52WeekChange": 11.832447,
+    "SandP52WeekChange": 0.20165813,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -2803,42 +2833,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1417,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "IMMELT JEFFREY R",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1063,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BUSH MARY KATE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1063,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BOSKIN MICHAEL J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1063,
         "value": 0,
         "filerUrl": "",
@@ -2868,6 +2862,42 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "PINKUS GARY S.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1417,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "IMMELT JEFFREY R",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1063,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BUSH MARY KATE",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1063,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BOSKIN MICHAEL J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-21T00:00:00.000Z",
@@ -2946,18 +2976,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 3500,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "BUSH MARY KATE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 4813,
         "value": 1387107,
         "filerUrl": "",
@@ -2976,6 +2994,18 @@
         "transactionText": "Sale at price 288.24 per share.",
         "filerName": "CHITOORI SATISH PRABHU",
         "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3500,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "BUSH MARY KATE",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-14T00:00:00.000Z",
         "ownership": "D"
@@ -3174,24 +3204,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 300000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SRIDHAR K. R.",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-02-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1250,
         "value": 207250,
         "filerUrl": "",
         "transactionText": "Sale at price 165.80 per share.",
         "filerName": "PINKUS GARY S.",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-02-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 300000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SRIDHAR K. R.",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-02-27T00:00:00.000Z",
         "ownership": "D"
@@ -3330,18 +3360,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 331,
-        "value": 28761,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 86.89 per share.",
-        "filerName": "IMMELT JEFFREY R",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-12-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 357,
         "value": 30658,
         "filerUrl": "",
@@ -3359,6 +3377,18 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 86.89 per share.",
         "filerName": "PINKUS GARY S.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-12-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 331,
+        "value": 28761,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 86.89 per share.",
+        "filerName": "IMMELT JEFFREY R",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
@@ -3450,18 +3480,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 36000,
-        "value": 5141520,
-        "filerUrl": "",
-        "transactionText": "Sale at price 142.82 per share.",
-        "filerName": "BUSH MARY KATE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 20000,
         "value": 2860800,
         "filerUrl": "",
@@ -3492,6 +3510,18 @@
         "transactionText": "Sale at price 144.09 per share.",
         "filerName": "KURZYMSKI MACIEJ",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-11-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 36000,
+        "value": 5141520,
+        "filerUrl": "",
+        "transactionText": "Sale at price 142.82 per share.",
+        "filerName": "BUSH MARY KATE",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-11-05T00:00:00.000Z",
         "ownership": "D"
@@ -3534,11 +3564,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 339,
-        "value": 28669,
+        "shares": 236,
+        "value": 19959,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 84.57 per share.",
-        "filerName": "IMMELT JEFFREY R",
+        "filerName": "PINKUS GARY S.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-09-30T00:00:00.000Z",
@@ -3546,11 +3576,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 236,
-        "value": 19959,
+        "shares": 339,
+        "value": 28669,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 84.57 per share.",
-        "filerName": "PINKUS GARY S.",
+        "filerName": "IMMELT JEFFREY R",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-09-30T00:00:00.000Z",
@@ -3738,11 +3768,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1201,
-        "value": 28728,
+        "shares": 836,
+        "value": 19997,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 23.92 per share.",
-        "filerName": "IMMELT JEFFREY R",
+        "filerName": "PINKUS GARY S.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-30T00:00:00.000Z",
@@ -3750,11 +3780,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 836,
-        "value": 19997,
+        "shares": 1201,
+        "value": 28728,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 23.92 per share.",
-        "filerName": "PINKUS GARY S.",
+        "filerName": "IMMELT JEFFREY R",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-30T00:00:00.000Z",
@@ -3814,30 +3844,6 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BUSH MARY KATE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 9877,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BOSKIN MICHAEL J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 9877,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BURGER BARBARA J",
         "filerRelation": "Director",
         "moneyText": "",
@@ -3886,6 +3892,30 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BUSH MARY KATE",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 9877,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BOSKIN MICHAEL J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 9877,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "CHAMBERS JOHN T",
         "filerRelation": "Director",
         "moneyText": "",
@@ -3914,18 +3944,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 42383,
-        "value": 811211,
-        "filerUrl": "",
-        "transactionText": "Sale at price 19.14 per share.",
-        "filerName": "SRIDHAR K. R.",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-05-13T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3966,6 +3984,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 42383,
+        "value": 811211,
+        "filerUrl": "",
+        "transactionText": "Sale at price 19.14 per share.",
+        "filerName": "SRIDHAR K. R.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-05-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 80000,
         "filerUrl": "",
         "transactionText": "",
@@ -3977,11 +4007,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1462,
-        "value": 28743,
+        "shares": 1017,
+        "value": 19994,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 19.66 per share.",
-        "filerName": "IMMELT JEFFREY R",
+        "filerName": "PINKUS GARY S.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-03-31T00:00:00.000Z",
@@ -3989,11 +4019,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1017,
-        "value": 19994,
+        "shares": 1462,
+        "value": 28743,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 19.66 per share.",
-        "filerName": "PINKUS GARY S.",
+        "filerName": "IMMELT JEFFREY R",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-03-31T00:00:00.000Z",
@@ -4108,11 +4138,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1294,
-        "value": 28740,
+        "shares": 900,
+        "value": 19989,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 22.21 per share.",
-        "filerName": "IMMELT JEFFREY R",
+        "filerName": "PINKUS GARY S.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2024-12-31T00:00:00.000Z",
@@ -4120,11 +4150,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 900,
-        "value": 19989,
+        "shares": 1294,
+        "value": 28740,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 22.21 per share.",
-        "filerName": "PINKUS GARY S.",
+        "filerName": "IMMELT JEFFREY R",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2024-12-31T00:00:00.000Z",
@@ -4239,11 +4269,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 2722,
-        "value": 28744,
+        "shares": 1893,
+        "value": 19990,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 10.56 per share.",
-        "filerName": "IMMELT JEFFREY R",
+        "filerName": "PINKUS GARY S.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2024-09-30T00:00:00.000Z",
@@ -4251,11 +4281,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1893,
-        "value": 19990,
+        "shares": 2722,
+        "value": 28744,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 10.56 per share.",
-        "filerName": "PINKUS GARY S.",
+        "filerName": "IMMELT JEFFREY R",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2024-09-30T00:00:00.000Z",
@@ -4337,11 +4367,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 302.7,
-    "targetHighPrice": 380,
+    "currentPrice": 289.5,
+    "targetHighPrice": 390,
     "targetLowPrice": 55,
-    "targetMeanPrice": 266.928,
-    "targetMedianPrice": 281,
+    "targetMeanPrice": 275.848,
+    "targetMedianPrice": 285,
     "recommendationMean": 2.28571,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 25,
@@ -4366,6 +4396,6 @@
     "profitMargins": 0.00246,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-01T06:26:05.536Z",
+  "lastUpdated": "2026-07-02T05:59:10.163Z",
   "source": "Static Build (yahoo-finance2)"
 }

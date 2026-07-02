@@ -4,24 +4,24 @@
       {
         "period": "0m",
         "strongBuy": 2,
-        "buy": 10,
-        "hold": 10,
-        "sell": 2,
+        "buy": 11,
+        "hold": 12,
+        "sell": 1,
         "strongSell": 0
       },
       {
         "period": "-1m",
         "strongBuy": 2,
         "buy": 11,
-        "hold": 10,
-        "sell": 2,
+        "hold": 11,
+        "sell": 1,
         "strongSell": 0
       },
       {
         "period": "-2m",
         "strongBuy": 2,
-        "buy": 9,
-        "hold": 11,
+        "buy": 11,
+        "hold": 10,
         "sell": 2,
         "strongSell": 0
       },
@@ -30,7 +30,7 @@
         "strongBuy": 2,
         "buy": 9,
         "hold": 11,
-        "sell": 1,
+        "sell": 2,
         "strongSell": 0
       }
     ],
@@ -45,7 +45,7 @@
         "organization": "IDG China Capital Fund III Associates L.P.",
         "pctHeld": 0.0392,
         "position": 9003674,
-        "value": 563900112,
+        "value": 557777611,
         "pctChange": -0.096499994
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Idg-accel China Capital II Associates L.P.",
         "pctHeld": 0.0304,
         "position": 6996111,
-        "value": 438166439,
+        "value": 433409081,
         "pctChange": 0
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Marshall Wace LLP",
         "pctHeld": 0.0252,
         "position": 5800350,
-        "value": 363275926,
+        "value": 359331686,
         "pctChange": -0.41869998
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0239,
         "position": 5489236,
-        "value": 343790856,
+        "value": 340058174,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.022,
         "position": 5059120,
-        "value": 316852691,
+        "value": 313412487,
         "pctChange": -0.1084
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0217,
         "position": 4981737,
-        "value": 312006193,
+        "value": 308618610,
         "pctChange": 2.4104
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.02,
         "position": 4607007,
-        "value": 288536853,
+        "value": 285404087,
         "pctChange": 1
       },
       {
@@ -108,7 +108,7 @@
         "organization": "ARK Investment Management, LLC",
         "pctHeld": 0.0196,
         "position": 4509482,
-        "value": 282428862,
+        "value": 279362413,
         "pctChange": 0.0888
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Southpoint Capital Advisors Lp",
         "pctHeld": 0.014400001,
         "position": 3300000,
-        "value": 206679003,
+        "value": 204435002,
         "pctChange": 1.75
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Sumitomo Mitsui Trust Group, Inc.",
         "pctHeld": 0.0127,
         "position": 2917764,
-        "value": 182739562,
+        "value": 180755482,
         "pctChange": 0.1328
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.02562,
-    "institutionsPercentHeld": 0.63649,
-    "institutionsFloatPercentHeld": 0.65322995,
-    "institutionsCount": 709
+    "institutionsPercentHeld": 0.63723,
+    "institutionsFloatPercentHeld": 0.65398,
+    "institutionsCount": 715
   },
   "earnings": {
     "maxAge": 86400,
@@ -249,6 +249,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-01T13:35:49.000Z",
+        "firm": "Compass Point",
+        "toGrade": "Neutral",
+        "fromGrade": "Sell",
+        "action": "up",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 55,
+        "priorPriceTarget": 97
+      },
+      {
+        "epochGradeDate": "2026-07-01T13:21:06.000Z",
+        "firm": "Susquehanna",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 69,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-06-05T13:32:54.000Z",
         "firm": "Mizuho",
@@ -825,24 +845,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0070844465,
-    "postMarketChange": 0.44369888,
-    "postMarketTime": "2026-07-01T00:00:00.000Z",
-    "postMarketPrice": 63.0737,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.175487,
-    "regularMarketChange": -13.33,
-    "regularMarketTime": "2026-06-30T20:00:02.000Z",
+    "postMarketChangePercent": 0.0061339964,
+    "postMarketChange": 0.38000107,
+    "postMarketTime": "2026-07-01T23:59:53.000Z",
+    "postMarketPrice": 62.33,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.0108574,
+    "regularMarketChange": -0.68,
+    "regularMarketTime": "2026-07-01T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 62.63,
-    "regularMarketDayHigh": 73.2,
-    "regularMarketDayLow": 62.52,
-    "regularMarketVolume": 37457224,
-    "averageDailyVolume10Day": 11444460,
-    "averageDailyVolume3Month": 13994280,
-    "regularMarketPreviousClose": 75.96,
+    "regularMarketPrice": 61.95,
+    "regularMarketDayHigh": 66.25,
+    "regularMarketDayLow": 61.8,
+    "regularMarketVolume": 24428741,
+    "averageDailyVolume10Day": 15174680,
+    "averageDailyVolume3Month": 14559687,
+    "regularMarketPreviousClose": 62.63,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 72.25,
+    "regularMarketOpen": 63.71,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -853,18 +873,18 @@
     "shortName": "Circle Internet Group, Inc.",
     "longName": "Circle Internet Group",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 16740416512
+    "marketCap": 16558658560
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 14067241984,
-    "forwardPE": 28.125563,
+    "enterpriseValue": 13898210304,
+    "forwardPE": 27.82019,
     "profitMargins": -0.02762,
     "floatShares": 190956106,
     "sharesOutstanding": 229857799,
@@ -874,13 +894,13 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.089700006,
     "heldPercentInsiders": 0.02562,
-    "heldPercentInstitutions": 0.63649,
+    "heldPercentInstitutions": 0.63723,
     "shortRatio": 1.67,
     "shortPercentOfFloat": 0.099,
     "impliedSharesOutstanding": 267290681,
     "category": null,
     "bookValue": 13.839,
-    "priceToBook": 4.525616,
+    "priceToBook": 4.4764795,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -892,10 +912,10 @@
     "forwardEps": 2.2268,
     "pegRatio": 4.34,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 4.915,
-    "enterpriseToEbitda": -105.463,
-    "52WeekChange": -0.6054641,
-    "SandP52WeekChange": 0.20045471,
+    "enterpriseToRevenue": 4.856,
+    "enterpriseToEbitda": -104.195,
+    "52WeekChange": -0.6519076,
+    "SandP52WeekChange": 0.20165813,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1065,6 +1085,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 8120,
+        "value": 714560,
+        "filerUrl": "",
+        "transactionText": "Sale at price 88.00 per share.",
+        "filerName": "FOX-GEEN JEREMY",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-06-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 56200,
         "value": 4660769,
         "filerUrl": "",
@@ -1089,18 +1121,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 8120,
-        "value": 714560,
-        "filerUrl": "",
-        "transactionText": "Sale at price 88.00 per share.",
-        "filerName": "FOX-GEEN JEREMY",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-06-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1666,
         "value": 164534,
         "filerUrl": "",
@@ -1109,17 +1129,6 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 280797,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-06-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1159,6 +1168,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 280797,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ALLAIRE JEREMY D",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-06-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 10000,
         "value": 1110000,
         "filerUrl": "",
@@ -1179,30 +1199,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2018,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HOROWITZ BRADLEY J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2018,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BURNS M MICHELE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-15T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1272,6 +1268,30 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "KOENIGSBAUER KIRK JAMES",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2018,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HOROWITZ BRADLEY J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2018,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BURNS M MICHELE",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-15T00:00:00.000Z",
@@ -1351,18 +1371,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2434,
-        "value": 242670,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 99.70 per share.",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7200,
         "value": 72792,
         "filerUrl": "",
@@ -1395,6 +1403,18 @@
         "moneyText": "",
         "startDate": "2026-05-01T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2434,
+        "value": 242670,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 99.70 per share.",
+        "filerName": "ALLAIRE JEREMY D",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-05-01T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1494,18 +1514,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2434,
-        "value": 220861,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 90.74 per share.",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7200,
         "value": 72792,
         "filerUrl": "",
@@ -1538,6 +1546,18 @@
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2434,
+        "value": 220861,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 90.74 per share.",
+        "filerName": "ALLAIRE JEREMY D",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1589,18 +1609,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 11670,
-        "value": 1315303,
-        "filerUrl": "",
-        "transactionText": "Sale at price 112.64 - 113.33 per share.",
-        "filerName": "BURNS M MICHELE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 3819,
         "value": 431547,
         "filerUrl": "",
@@ -1618,6 +1626,18 @@
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 0.08 per share.",
         "filerName": "DATE RAJEEV V",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-03-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11670,
+        "value": 1315303,
+        "filerUrl": "",
+        "transactionText": "Sale at price 112.64 - 113.33 per share.",
+        "filerName": "BURNS M MICHELE",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-12T00:00:00.000Z",
@@ -1685,30 +1705,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 115000,
-        "value": 11167250,
-        "filerUrl": "",
-        "transactionText": "Sale at price 93.00 - 103.09 per share.",
-        "filerName": "BURNS M MICHELE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 165000,
-        "value": 13200,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 0.08 per share.",
-        "filerName": "BURNS M MICHELE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 11438,
         "value": 1042134,
         "filerUrl": "",
@@ -1745,26 +1741,26 @@
       },
       {
         "maxAge": 1,
-        "shares": 237793,
-        "value": 0,
+        "shares": 115000,
+        "value": 11167250,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Sale at price 93.00 - 103.09 per share.",
+        "filerName": "BURNS M MICHELE",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-03-02T00:00:00.000Z",
+        "startDate": "2026-03-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 2435,
-        "value": 234101,
+        "shares": 165000,
+        "value": 13200,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 96.14 per share.",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 0.08 per share.",
+        "filerName": "BURNS M MICHELE",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-03-02T00:00:00.000Z",
+        "startDate": "2026-03-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1876,38 +1872,26 @@
       },
       {
         "maxAge": 1,
-        "shares": 15625,
-        "value": 1406875,
+        "shares": 237793,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 90.04 per share.",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "ALLAIRE JEREMY D",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-02-26T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
-        "value": 820000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 82.00 per share.",
-        "filerName": "BURNS M MICHELE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-02-26T00:00:00.000Z",
+        "startDate": "2026-03-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 800,
+        "shares": 2435,
+        "value": 234101,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 0.08 per share.",
-        "filerName": "BURNS M MICHELE",
-        "filerRelation": "Director",
+        "transactionText": "Conversion of Exercise of derivative security at price 96.14 per share.",
+        "filerName": "ALLAIRE JEREMY D",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-02-26T00:00:00.000Z",
+        "startDate": "2026-03-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2031,6 +2015,42 @@
       },
       {
         "maxAge": 1,
+        "shares": 15625,
+        "value": 1406875,
+        "filerUrl": "",
+        "transactionText": "Sale at price 90.04 per share.",
+        "filerName": "ALLAIRE JEREMY D",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-02-26T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "value": 820000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 82.00 per share.",
+        "filerName": "BURNS M MICHELE",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-02-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "value": 800,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 0.08 per share.",
+        "filerName": "BURNS M MICHELE",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-02-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1527,
         "value": 91315,
         "filerUrl": "",
@@ -2103,18 +2123,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 7813,
-        "value": 703717,
-        "filerUrl": "",
-        "transactionText": "Sale at price 90.07 per share.",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-12-22T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
         "shares": 3048,
         "value": 274381,
         "filerUrl": "",
@@ -2151,6 +2159,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 7813,
+        "value": 703717,
+        "filerUrl": "",
+        "transactionText": "Sale at price 90.07 per share.",
+        "filerName": "ALLAIRE JEREMY D",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-12-22T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
         "shares": 39564,
         "value": 399992,
         "filerUrl": "",
@@ -2160,18 +2180,6 @@
         "moneyText": "",
         "startDate": "2025-12-18T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 7813,
-        "value": 703561,
-        "filerUrl": "",
-        "transactionText": "Sale at price 90.05 per share.",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-12-12T00:00:00.000Z",
-        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -2281,6 +2289,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 7813,
+        "value": 703561,
+        "filerUrl": "",
+        "transactionText": "Sale at price 90.05 per share.",
+        "filerName": "ALLAIRE JEREMY D",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-12-12T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
         "shares": 238500,
         "value": 0,
         "filerUrl": "",
@@ -2316,18 +2336,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1634,
-        "value": 124086,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 75.94 per share.",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-12-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 100000,
         "value": 7708004,
         "filerUrl": "",
@@ -2346,6 +2354,18 @@
         "transactionText": "Conversion of Exercise of derivative security at price 25.81 per share.",
         "filerName": "CHANDHOK NIKHIL",
         "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-12-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1634,
+        "value": 124086,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 75.94 per share.",
+        "filerName": "ALLAIRE JEREMY D",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-12-01T00:00:00.000Z",
         "ownership": "D"
@@ -2412,17 +2432,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 84627,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-11-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2662,
         "value": 225445,
         "filerUrl": "",
@@ -2444,6 +2453,17 @@
         "moneyText": "",
         "startDate": "2025-11-13T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 84627,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ALLAIRE JEREMY D",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-11-13T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2528,53 +2548,6 @@
         "moneyText": "",
         "startDate": "2025-08-29T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 357812,
-        "value": 45468960,
-        "filerUrl": "",
-        "transactionText": "Sale at price 127.08 per share.",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-08-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 357812,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-08-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 29946,
-        "value": 3805388,
-        "filerUrl": "",
-        "transactionText": "Sale at price 127.08 per share.",
-        "filerName": "BURNS M MICHELE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 48831,
-        "value": 6205199,
-        "filerUrl": "",
-        "transactionText": "Sale at price 127.08 per share.",
-        "filerName": "DATE RAJEEV V",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-18T00:00:00.000Z",
-        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -2673,6 +2646,53 @@
       },
       {
         "maxAge": 1,
+        "shares": 357812,
+        "value": 45468960,
+        "filerUrl": "",
+        "transactionText": "Sale at price 127.08 per share.",
+        "filerName": "ALLAIRE JEREMY D",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-08-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 357812,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ALLAIRE JEREMY D",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-08-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 29946,
+        "value": 3805388,
+        "filerUrl": "",
+        "transactionText": "Sale at price 127.08 per share.",
+        "filerName": "BURNS M MICHELE",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-08-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 48831,
+        "value": 6205199,
+        "filerUrl": "",
+        "transactionText": "Sale at price 127.08 per share.",
+        "filerName": "DATE RAJEEV V",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-08-18T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
         "shares": 1634,
         "value": 274675,
         "filerUrl": "",
@@ -2697,12 +2717,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 1634,
-        "value": 314594,
+        "shares": 7970,
+        "value": 199967,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 192.53 per share.",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 25.09 per share.",
+        "filerName": "TARBERT HEATH",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -2712,14 +2732,14 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 62.63,
+    "currentPrice": 61.95,
     "targetHighPrice": 243,
-    "targetLowPrice": 65,
-    "targetMeanPrice": 143.48409,
-    "targetMedianPrice": 146,
-    "recommendationMean": 2.25,
+    "targetLowPrice": 55,
+    "targetMeanPrice": 137.7674,
+    "targetMedianPrice": 142,
+    "recommendationMean": 2.12,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 22,
+    "numberOfAnalystOpinions": 23,
     "totalCash": 1517264000,
     "totalCashPerShare": 6.104,
     "ebitda": -133386000,
@@ -2742,6 +2762,6 @@
     "profitMargins": -0.02762,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-01T06:25:17.651Z",
+  "lastUpdated": "2026-07-02T05:58:20.699Z",
   "source": "Static Build (yahoo-finance2)"
 }
