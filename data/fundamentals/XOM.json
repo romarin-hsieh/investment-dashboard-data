@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0779,
         "position": 322741137,
-        "value": 43983161756,
+        "value": 44244581289,
         "pctChange": 0.037
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0654,
         "position": 271198613,
-        "value": 36958946648,
+        "value": 37178616863,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.051599998,
         "position": 213904380,
-        "value": 29150888645,
+        "value": 29324150670,
         "pctChange": 0.0429
       },
       {
@@ -72,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.033800002,
         "position": 140010460,
-        "value": 19080625317,
+        "value": 19194033448,
         "pctChange": 0.0629
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0279,
         "position": 115629047,
-        "value": 15757926384,
+        "value": 15851585629,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.023,
         "position": 95478649,
-        "value": 13011830169,
+        "value": 13089167641,
         "pctChange": -0.0046
       },
       {
@@ -99,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0207,
         "position": 85599509,
-        "value": 11665500982,
+        "value": 11734836375,
         "pctChange": 0.2163
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0173,
         "position": 71718998,
-        "value": 9773864959,
+        "value": 9831957173,
         "pctChange": -0.0368
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0165,
         "position": 68483813,
-        "value": 9332973952,
+        "value": 9388445673,
         "pctChange": -0.0887
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Bank Of New York Mellon Corporation",
         "pctHeld": 0.0107,
         "position": 44289134,
-        "value": 6035723127,
+        "value": 6071597217,
         "pctChange": -0.0497
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00084,
-    "institutionsPercentHeld": 0.68698996,
-    "institutionsFloatPercentHeld": 0.68757004,
-    "institutionsCount": 5662
+    "institutionsPercentHeld": 0.68682,
+    "institutionsFloatPercentHeld": 0.6874,
+    "institutionsCount": 5659
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-02T16:07:03.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 155,
+        "priorPriceTarget": 172
+      },
       {
         "epochGradeDate": "2026-06-29T17:21:22.000Z",
         "firm": "Morgan Stanley",
@@ -4307,46 +4317,46 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0003001821,
-    "postMarketChange": 0.040908813,
-    "postMarketTime": "2026-07-01T23:59:57.000Z",
-    "postMarketPrice": 136.3209,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.00321827,
-    "regularMarketChange": -0.440002,
-    "regularMarketTime": "2026-07-01T20:04:15.000Z",
+    "postMarketChangePercent": -0.002990763,
+    "postMarketChange": -0.41000366,
+    "postMarketTime": "2026-07-02T23:58:00.000Z",
+    "postMarketPrice": 136.68,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.00594363,
+    "regularMarketChange": 0.809998,
+    "regularMarketTime": "2026-07-02T20:03:29.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 136.28,
-    "regularMarketDayHigh": 137.49,
-    "regularMarketDayLow": 135.63,
-    "regularMarketVolume": 8560829,
-    "averageDailyVolume10Day": 19957050,
-    "averageDailyVolume3Month": 18201525,
-    "regularMarketPreviousClose": 136.72,
+    "regularMarketPrice": 137.09,
+    "regularMarketDayHigh": 139.12,
+    "regularMarketDayLow": 136.33,
+    "regularMarketVolume": 13667789,
+    "averageDailyVolume10Day": 19662540,
+    "averageDailyVolume3Month": 18013467,
+    "regularMarketPreviousClose": 136.28,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 136.53,
+    "regularMarketOpen": 137.15,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "XOM",
     "underlyingSymbol": null,
     "shortName": "Exxon Mobil Corporation",
     "longName": "Exxon Mobil Corporation",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 564873396224
+    "marketCap": 568230805504
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 610714386432,
-    "forwardPE": 12.610392,
+    "enterpriseValue": 614071795712,
+    "forwardPE": 12.685343,
     "profitMargins": 0.077649996,
     "floatShares": 4136201323,
     "sharesOutstanding": 4144947162,
@@ -4356,14 +4366,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0116,
     "heldPercentInsiders": 0.00084,
-    "heldPercentInstitutions": 0.68698996,
+    "heldPercentInstitutions": 0.68682,
     "shortRatio": 2.78,
     "shortPercentOfFloat": 0.0128999995,
     "beta": 0.149,
     "impliedSharesOutstanding": 4144947162,
     "category": null,
     "bookValue": 62.069,
-    "priceToBook": 2.195621,
+    "priceToBook": 2.2086709,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4376,10 +4386,10 @@
     "pegRatio": 1.13,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 995500800,
-    "enterpriseToRevenue": 1.873,
-    "enterpriseToEbitda": 10.904,
-    "52WeekChange": 0.2271949,
-    "SandP52WeekChange": 0.20165813,
+    "enterpriseToRevenue": 1.884,
+    "enterpriseToEbitda": 10.964,
+    "52WeekChange": 0.22183597,
+    "SandP52WeekChange": 0.19172204,
     "lastDividendValue": 1.03,
     "lastDividendDate": "2026-05-15T00:00:00.000Z",
     "latestShareClass": null,
@@ -4462,30 +4472,6 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "KELLNER LAWRENCE W.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2500,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "KARSNER ALEXANDER A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2500,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BRALY ANGELA F",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4510,31 +4496,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HARRIS JOHN D. II",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2500,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HOOLEY JOSEPH L.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2500,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "UBBEN JEFFREY W",
+        "filerName": "KELLNER LAWRENCE W.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-01-02T00:00:00.000Z",
@@ -4583,6 +4545,54 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "POWELL DINA H",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2500,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HOOLEY JOSEPH L.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2500,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "KARSNER ALEXANDER A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2500,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HARRIS JOHN D. II",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2500,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "UBBEN JEFFREY W",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-01-02T00:00:00.000Z",
@@ -4662,42 +4672,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 105400,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MIKELLS KATHRYN A",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-11-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 117800,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CHAPMAN NEIL A",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-11-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 102800,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "AMMANN DANIEL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-11-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 32600,
         "value": 0,
         "filerUrl": "",
@@ -4770,6 +4744,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 105400,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MIKELLS KATHRYN A",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-11-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 117800,
         "value": 0,
         "filerUrl": "",
@@ -4788,6 +4774,30 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "WOODS DARREN W.",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-11-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 117800,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CHAPMAN NEIL A",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-11-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 102800,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "AMMANN DANIEL",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-25T00:00:00.000Z",
         "ownership": "D"
@@ -4870,30 +4880,6 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "KELLNER LAWRENCE W.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2500,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "KARSNER ALEXANDER A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2500,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BRALY ANGELA F",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4918,31 +4904,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HARRIS JOHN D. II",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2500,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HOOLEY JOSEPH L.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2500,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "UBBEN JEFFREY W",
+        "filerName": "KELLNER LAWRENCE W.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-01-02T00:00:00.000Z",
@@ -4998,6 +4960,54 @@
       },
       {
         "maxAge": 1,
+        "shares": 2500,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HOOLEY JOSEPH L.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2500,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "KARSNER ALEXANDER A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2500,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HARRIS JOHN D. II",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2500,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "UBBEN JEFFREY W",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 946,
         "value": 0,
         "filerUrl": "",
@@ -5018,42 +5028,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-12-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 111600,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MIKELLS KATHRYN A",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-11-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 124000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CHAPMAN NEIL A",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-11-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 102800,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MALLON LIAM M.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-11-26T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -5142,6 +5116,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 111600,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MIKELLS KATHRYN A",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-11-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 124000,
         "value": 0,
         "filerUrl": "",
@@ -5163,13 +5149,37 @@
         "moneyText": "",
         "startDate": "2024-11-26T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 124000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CHAPMAN NEIL A",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-11-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 102800,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MALLON LIAM M.",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-11-26T00:00:00.000Z",
+        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 136.28,
+    "currentPrice": 137.09,
     "targetHighPrice": 185,
     "targetLowPrice": 130,
     "targetMeanPrice": 170.2857,
@@ -5199,6 +5209,6 @@
     "profitMargins": 0.077649996,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-02T06:01:01.060Z",
+  "lastUpdated": "2026-07-03T05:55:19.896Z",
   "source": "Static Build (yahoo-finance2)"
 }
