@@ -12,13 +12,21 @@
       {
         "period": "-1m",
         "strongBuy": 10,
+        "buy": 33,
+        "hold": 1,
+        "sell": 1,
+        "strongSell": 1
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 10,
         "buy": 34,
         "hold": 2,
         "sell": 1,
         "strongSell": 1
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 10,
         "buy": 34,
         "hold": 3,
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.0064600003,
-    "institutionsPercentHeld": 0.91941,
-    "institutionsFloatPercentHeld": 0.92538,
-    "institutionsCount": 1531
+    "institutionsPercentHeld": 0.91894996,
+    "institutionsFloatPercentHeld": 0.92491996,
+    "institutionsCount": 1534
   },
   "earnings": {
     "maxAge": 86400,
@@ -4932,8 +4940,8 @@
     "regularMarketDayHigh": 266.13,
     "regularMarketDayLow": 257.285,
     "regularMarketVolume": 3007293,
-    "averageDailyVolume10Day": 4817140,
-    "averageDailyVolume3Month": 5835698,
+    "averageDailyVolume10Day": 4817230,
+    "averageDailyVolume3Month": 5835712,
     "regularMarketPreviousClose": 264.48,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 261.74,
@@ -4968,10 +4976,10 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.041100003,
     "heldPercentInsiders": 0.0064600003,
-    "heldPercentInstitutions": 0.91941,
+    "heldPercentInstitutions": 0.91894996,
     "shortRatio": 2.38,
     "shortPercentOfFloat": 0.0509,
-    "beta": 1.553,
+    "beta": 1.543,
     "impliedSharesOutstanding": 355960189,
     "category": null,
     "bookValue": 11.208,
@@ -4989,8 +4997,8 @@
     "lastSplitFactor": null,
     "enterpriseToRevenue": 24.293,
     "enterpriseToEbitda": 2575.254,
-    "52WeekChange": 0.678118,
-    "SandP52WeekChange": 0.19172204,
+    "52WeekChange": 0.7082869,
+    "SandP52WeekChange": 0.20116603,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -5210,6 +5218,18 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "RICHARDSON JULIE G",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1072,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "ITTYCHERIA DEV C",
         "filerRelation": "Director",
         "moneyText": "",
@@ -5223,18 +5243,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "AGARWAL AMIT",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1072,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "RICHARDSON JULIE G",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-15T00:00:00.000Z",
@@ -5452,24 +5460,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 13409,
-        "value": 3582273,
-        "filerUrl": "",
-        "transactionText": "Sale at price 267.15 per share.",
-        "filerName": "WALTERS SEAN MICHAEL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-06-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7252,
         "value": 1937404,
         "filerUrl": "",
         "transactionText": "Sale at price 267.15 per share.",
         "filerName": "ACOCELLA KERRY",
         "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-06-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 13409,
+        "value": 3582273,
+        "filerUrl": "",
+        "transactionText": "Sale at price 267.15 per share.",
+        "filerName": "WALTERS SEAN MICHAEL",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-02T00:00:00.000Z",
         "ownership": "D"
@@ -5500,6 +5508,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 11070,
+        "value": 2957399,
+        "filerUrl": "",
+        "transactionText": "Sale at price 267.15 per share.",
+        "filerName": "LI YANBING",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-06-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 16323,
         "value": 4360761,
         "filerUrl": "",
@@ -5517,18 +5537,6 @@
         "filerUrl": "",
         "transactionText": "Sale at price 267.15 per share.",
         "filerName": "GALLOREESE DAVID",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-06-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 11070,
-        "value": 2957399,
-        "filerUrl": "",
-        "transactionText": "Sale at price 267.15 per share.",
-        "filerName": "LI YANBING",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-02T00:00:00.000Z",
@@ -5675,24 +5683,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 19834,
-        "value": 3914282,
-        "filerUrl": "",
-        "transactionText": "Sale at price 197.35 per share.",
-        "filerName": "LI YANBING",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-05-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 4363,
         "value": 817253,
         "filerUrl": "",
         "transactionText": "Sale at price 185.82 - 188.50 per share.",
         "filerName": "RICHARDSON JULIE G",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 19834,
+        "value": 3914282,
+        "filerUrl": "",
+        "transactionText": "Sale at price 197.35 per share.",
+        "filerName": "LI YANBING",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-08T00:00:00.000Z",
         "ownership": "D"
@@ -6319,6 +6327,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 23023,
+        "value": 2544866,
+        "filerUrl": "",
+        "transactionText": "Sale at price 110.54 per share.",
+        "filerName": "LI YANBING",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 40057,
         "value": 4427737,
         "filerUrl": "",
@@ -6336,18 +6356,6 @@
         "filerUrl": "",
         "transactionText": "Sale at price 110.54 per share.",
         "filerName": "GALLOREESE DAVID",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 23023,
-        "value": 2544866,
-        "filerUrl": "",
-        "transactionText": "Sale at price 110.54 per share.",
-        "filerName": "LI YANBING",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-02T00:00:00.000Z",
@@ -6485,6 +6493,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 77630,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "LI YANBING",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 132538,
         "value": 0,
         "filerUrl": "",
@@ -6502,18 +6522,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "GALLOREESE DAVID",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 77630,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "LI YANBING",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-05T00:00:00.000Z",
@@ -6649,29 +6657,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 348000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "POMEL OLIVIER",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-12-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 348000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "POMEL OLIVIER",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-12-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 15000,
         "value": 0,
         "filerUrl": "",
@@ -6692,6 +6677,29 @@
         "moneyText": "",
         "startDate": "2025-12-12T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 348000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "POMEL OLIVIER",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-12-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 348000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "POMEL OLIVIER",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-12-12T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -6781,9 +6789,9 @@
   "financialData": {
     "maxAge": 86400,
     "currentPrice": 260.36,
-    "targetHighPrice": 320,
+    "targetHighPrice": 330,
     "targetLowPrice": 139,
-    "targetMeanPrice": 242.11635,
+    "targetMeanPrice": 243.63809,
     "targetMedianPrice": 248.645,
     "recommendationMean": 1.41304,
     "recommendationKey": "strong_buy",
@@ -6810,6 +6818,6 @@
     "profitMargins": 0.03695,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-03T05:52:58.423Z",
+  "lastUpdated": "2026-07-04T05:45:23.523Z",
   "source": "Static Build (yahoo-finance2)"
 }

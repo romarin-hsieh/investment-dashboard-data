@@ -5,12 +5,20 @@
         "period": "0m",
         "strongBuy": 9,
         "buy": 31,
+        "hold": 5,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
+        "strongBuy": 9,
+        "buy": 31,
         "hold": 4,
         "sell": 0,
         "strongSell": 1
       },
       {
-        "period": "-1m",
+        "period": "-2m",
         "strongBuy": 9,
         "buy": 30,
         "hold": 4,
@@ -18,7 +26,7 @@
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 9,
         "buy": 30,
         "hold": 5,
@@ -127,8 +135,8 @@
     "maxAge": 1,
     "insidersPercentHeld": 0.00253,
     "institutionsPercentHeld": 0.81391,
-    "institutionsFloatPercentHeld": 0.81598,
-    "institutionsCount": 3949
+    "institutionsFloatPercentHeld": 0.81597,
+    "institutionsCount": 3953
   },
   "earnings": {
     "maxAge": 86400,
@@ -9032,8 +9040,8 @@
     "regularMarketDayHigh": 1064.64,
     "regularMarketDayLow": 950.28,
     "regularMarketVolume": 60943570,
-    "averageDailyVolume10Day": 63100320,
-    "averageDailyVolume3Month": 51299314,
+    "averageDailyVolume10Day": 63153070,
+    "averageDailyVolume3Month": 51307822,
     "regularMarketPreviousClose": 1032.28,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 1041.5,
@@ -9060,7 +9068,7 @@
     "enterpriseValue": 1082144784384,
     "forwardPE": 6.519448,
     "profitMargins": 0.55906,
-    "floatShares": 1125236984,
+    "floatShares": 1125270866,
     "sharesOutstanding": 1129393151,
     "sharesShort": 41592382,
     "sharesShortPriorMonth": "1971-02-12T19:37:23.000Z",
@@ -9085,13 +9093,13 @@
     "netIncomeToCommon": 50468999168,
     "trailingEps": 44.19,
     "forwardEps": 149.63844,
-    "pegRatio": 0.15,
+    "pegRatio": 0.14,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 957225600,
     "enterpriseToRevenue": 11.987,
     "enterpriseToEbitda": 15.862,
-    "52WeekChange": 6.977431,
-    "SandP52WeekChange": 0.19172204,
+    "52WeekChange": 7.13509,
+    "SandP52WeekChange": 0.20116603,
     "lastDividendValue": 0.15,
     "lastDividendDate": "2026-03-30T00:00:00.000Z",
     "latestShareClass": null,
@@ -9120,6 +9128,30 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 700,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "DUGLE LYNN A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1300,
+        "value": 1495559,
+        "filerUrl": "",
+        "transactionText": "Sale at price 1150.43 per share.",
+        "filerName": "DUGLE LYNN A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-30T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 28506,
@@ -9622,6 +9654,29 @@
       },
       {
         "maxAge": 1,
+        "shares": 30286,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BHATIA MANISH H",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-10-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 142419,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BHATIA MANISH H",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-10-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1377,
         "value": 0,
         "filerUrl": "",
@@ -9756,29 +9811,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "ALLEN SCOTT R",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-10-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 30286,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BHATIA MANISH H",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-10-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 142419,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BHATIA MANISH H",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-10-13T00:00:00.000Z",
@@ -10272,6 +10304,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 2338,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BEYER RICHARD M",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-10-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2338,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SWITZ ROBERT E",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-10-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 83015,
         "value": 0,
         "filerUrl": "",
@@ -10299,32 +10355,31 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BEYER RICHARD M",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-10-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2338,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SWITZ ROBERT E",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-10-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2338,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "SWAN ROBERT HOLMES",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-10-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 44426,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BHATIA MANISH H",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-10-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 132044,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BHATIA MANISH H",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-10-11T00:00:00.000Z",
         "ownership": "D"
@@ -10459,29 +10514,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 44426,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BHATIA MANISH H",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-10-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 132044,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BHATIA MANISH H",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-10-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 291,
         "value": 0,
         "filerUrl": "",
@@ -10537,7 +10569,7 @@
     "targetLowPrice": 361,
     "targetMeanPrice": 1486,
     "targetMedianPrice": 1550,
-    "recommendationMean": 1.44444,
+    "recommendationMean": 1.42222,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 42,
     "totalCash": 26022000640,
@@ -10562,6 +10594,6 @@
     "profitMargins": 0.55906,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-03T05:54:27.147Z",
+  "lastUpdated": "2026-07-04T05:46:53.513Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.02562,
-    "institutionsPercentHeld": 0.63705003,
-    "institutionsFloatPercentHeld": 0.65379995,
-    "institutionsCount": 715
+    "institutionsPercentHeld": 0.63729,
+    "institutionsFloatPercentHeld": 0.65404,
+    "institutionsCount": 716
   },
   "earnings": {
     "maxAge": 86400,
@@ -868,8 +868,8 @@
     "regularMarketDayHigh": 69.23,
     "regularMarketDayLow": 63.74,
     "regularMarketVolume": 17643362,
-    "averageDailyVolume10Day": 15968450,
-    "averageDailyVolume3Month": 14642925,
+    "averageDailyVolume10Day": 15975320,
+    "averageDailyVolume3Month": 14644033,
     "regularMarketPreviousClose": 61.95,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 63.81,
@@ -894,7 +894,7 @@
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 14561907712,
-    "forwardPE": 29.019222,
+    "forwardPE": 28.83586,
     "profitMargins": -0.02762,
     "floatShares": 190956106,
     "sharesOutstanding": 229857799,
@@ -904,7 +904,7 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.089700006,
     "heldPercentInsiders": 0.02562,
-    "heldPercentInstitutions": 0.63705003,
+    "heldPercentInstitutions": 0.63729,
     "shortRatio": 1.67,
     "shortPercentOfFloat": 0.099,
     "impliedSharesOutstanding": 267290681,
@@ -924,8 +924,8 @@
     "lastSplitFactor": null,
     "enterpriseToRevenue": 5.088,
     "enterpriseToEbitda": -109.171,
-    "52WeekChange": -0.65767866,
-    "SandP52WeekChange": 0.19172204,
+    "52WeekChange": -0.6885183,
+    "SandP52WeekChange": 0.20116603,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -951,6 +951,41 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 1831,
+        "value": 117916,
+        "filerUrl": "",
+        "transactionText": "Sale at price 64.40 per share.",
+        "filerName": "RAZZAGHI HOSSEIN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 50000,
+        "value": 3132444,
+        "filerUrl": "",
+        "transactionText": "Sale at price 62.29 - 63.57 per share.",
+        "filerName": "NEVILLE PATRICK SEAN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-07-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 50000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "NEVILLE PATRICK SEAN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-07-01T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 700144,
@@ -2700,42 +2735,6 @@
         "moneyText": "",
         "startDate": "2025-08-18T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1634,
-        "value": 274675,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 168.10 per share.",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-08-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1850,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SELIPSKY ADAM N",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-07-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1634,
-        "value": 314594,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 192.53 per share.",
-        "filerName": "ALLAIRE JEREMY D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-07-01T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
@@ -2745,9 +2744,9 @@
     "currentPrice": 64.62,
     "targetHighPrice": 243,
     "targetLowPrice": 55,
-    "targetMeanPrice": 137.7674,
+    "targetMeanPrice": 137.11522,
     "targetMedianPrice": 142,
-    "recommendationMean": 2.12,
+    "recommendationMean": 2.15385,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 23,
     "totalCash": 1517264000,
@@ -2772,6 +2771,6 @@
     "profitMargins": -0.02762,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-03T05:52:38.279Z",
+  "lastUpdated": "2026-07-04T05:45:03.420Z",
   "source": "Static Build (yahoo-finance2)"
 }

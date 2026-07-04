@@ -4,7 +4,7 @@
       {
         "period": "0m",
         "strongBuy": 15,
-        "buy": 48,
+        "buy": 47,
         "hold": 4,
         "sell": 0,
         "strongSell": 0
@@ -19,6 +19,14 @@
       },
       {
         "period": "-2m",
+        "strongBuy": 15,
+        "buy": 47,
+        "hold": 4,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
         "strongBuy": 14,
         "buy": 48,
         "hold": 5,
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.08898,
-    "institutionsPercentHeld": 0.67978996,
-    "institutionsFloatPercentHeld": 0.74619,
-    "institutionsCount": 7682
+    "institutionsPercentHeld": 0.67961,
+    "institutionsFloatPercentHeld": 0.746,
+    "institutionsCount": 7686
   },
   "earnings": {
     "maxAge": 86400,
@@ -179,7 +187,7 @@
           "reportedDate": 1777492860
         }
       ],
-      "currentQuarterEstimate": 1.81277,
+      "currentQuarterEstimate": 1.81436,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -10172,8 +10180,8 @@
     "regularMarketDayHigh": 246.72,
     "regularMarketDayLow": 241.08,
     "regularMarketVolume": 44741143,
-    "averageDailyVolume10Day": 84675810,
-    "averageDailyVolume3Month": 50924132,
+    "averageDailyVolume10Day": 84680980,
+    "averageDailyVolume3Month": 50924966,
     "regularMarketPreviousClose": 241.7,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 241.6025,
@@ -10198,7 +10206,7 @@
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 2702878703616,
-    "forwardPE": 24.56184,
+    "forwardPE": 24.505909,
     "profitMargins": 0.12224,
     "floatShares": 9779826044,
     "sharesOutstanding": 10757109436,
@@ -10207,10 +10215,10 @@
     "sharesShortPreviousMonthDate": "2026-05-15T00:00:00.000Z",
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "heldPercentInsiders": 0.08898,
-    "heldPercentInstitutions": 0.67978996,
+    "heldPercentInstitutions": 0.67961,
     "shortRatio": 2.38,
     "shortPercentOfFloat": 0.0101,
-    "beta": 1.444,
+    "beta": 1.461,
     "impliedSharesOutstanding": 10757109436,
     "category": null,
     "bookValue": 41.093,
@@ -10229,8 +10237,8 @@
     "lastSplitDate": 1654473600,
     "enterpriseToRevenue": 3.639,
     "enterpriseToEbitda": 17.342,
-    "52WeekChange": 0.08620918,
-    "SandP52WeekChange": 0.19172204,
+    "52WeekChange": 0.08591759,
+    "SandP52WeekChange": 0.20116603,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -10257,6 +10265,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 1000,
+        "value": 239770,
+        "filerUrl": "",
+        "transactionText": "Sale at price 239.77 per share.",
+        "filerName": "HERRINGTON DOUGLAS J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-01T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 1000,
@@ -11986,18 +12006,6 @@
         "moneyText": "",
         "startDate": "2024-11-21T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 14600,
-        "value": 2962048,
-        "filerUrl": "",
-        "transactionText": "Sale at price 202.88 per share.",
-        "filerName": "OLSAVSKY BRIAN T.",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2024-11-21T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
@@ -12007,11 +12015,11 @@
     "currentPrice": 242.67,
     "targetHighPrice": 370,
     "targetLowPrice": 207,
-    "targetMeanPrice": 312.98715,
+    "targetMeanPrice": 312.90628,
     "targetMedianPrice": 315,
-    "recommendationMean": 1.34328,
+    "recommendationMean": 1.34848,
     "recommendationKey": "strong_buy",
-    "numberOfAnalystOpinions": 63,
+    "numberOfAnalystOpinions": 62,
     "totalCash": 143088992256,
     "totalCashPerShare": 13.302,
     "ebitda": 155860992000,
@@ -12034,6 +12042,6 @@
     "profitMargins": 0.12224,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-03T05:51:38.061Z",
+  "lastUpdated": "2026-07-04T05:44:04.632Z",
   "source": "Static Build (yahoo-finance2)"
 }

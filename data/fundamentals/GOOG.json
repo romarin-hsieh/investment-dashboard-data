@@ -19,6 +19,14 @@
       },
       {
         "period": "-2m",
+        "strongBuy": 14,
+        "buy": 44,
+        "hold": 7,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
         "strongBuy": 13,
         "buy": 47,
         "hold": 6,
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.06641,
-    "institutionsPercentHeld": 0.6105,
-    "institutionsFloatPercentHeld": 0.65392995,
-    "institutionsCount": 6225
+    "institutionsPercentHeld": 0.61035,
+    "institutionsFloatPercentHeld": 0.65376997,
+    "institutionsCount": 6224
   },
   "earnings": {
     "maxAge": 86400,
@@ -179,7 +187,7 @@
           "reportedDate": 1777492895
         }
       ],
-      "currentQuarterEstimate": 2.88,
+      "currentQuarterEstimate": 2.88108,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -7262,8 +7270,8 @@
     "regularMarketDayHigh": 360.99,
     "regularMarketDayLow": 350.32,
     "regularMarketVolume": 15349624,
-    "averageDailyVolume10Day": 29936560,
-    "averageDailyVolume3Month": 21435466,
+    "averageDailyVolume10Day": 29938590,
+    "averageDailyVolume3Month": 21435793,
     "regularMarketPreviousClose": 357.89,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 356.15,
@@ -7288,7 +7296,7 @@
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 4284512993280,
-    "forwardPE": 24.443672,
+    "forwardPE": 24.46676,
     "profitMargins": 0.37919,
     "floatShares": 10823222800,
     "sharesOutstanding": 5499638298,
@@ -7298,9 +7306,9 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0043,
     "heldPercentInsiders": 0.06641,
-    "heldPercentInstitutions": 0.6105,
+    "heldPercentInstitutions": 0.61035,
     "shortRatio": 2.27,
-    "beta": 1.237,
+    "beta": 1.247,
     "impliedSharesOutstanding": 12202573129,
     "category": null,
     "bookValue": 39.514,
@@ -7314,13 +7322,13 @@
     "netIncomeToCommon": 160207994880,
     "trailingEps": 13.11,
     "forwardEps": 14.55771,
-    "pegRatio": 1.39,
+    "pegRatio": 1.4,
     "lastSplitFactor": "20:1",
     "lastSplitDate": 1658102400,
     "enterpriseToRevenue": 10.141,
     "enterpriseToEbitda": 26.56,
-    "52WeekChange": 0.97274995,
-    "SandP52WeekChange": 0.19172204,
+    "52WeekChange": 1.0059698,
+    "SandP52WeekChange": 0.20116603,
     "lastDividendValue": 0.22,
     "lastDividendDate": "2026-06-08T00:00:00.000Z",
     "latestShareClass": null,
@@ -7350,6 +7358,18 @@
     "transactions": [
       {
         "maxAge": 1,
+        "shares": 10622,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "WALKER JOHN KENT",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 112,
         "value": 39343,
         "filerUrl": "",
@@ -7359,6 +7379,18 @@
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8998,
+        "value": 3142916,
+        "filerUrl": "",
+        "transactionText": "Sale at price 345.18 - 351.90 per share.",
+        "filerName": "WALKER JOHN KENT",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-06-29T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -7565,22 +7597,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 6495,
+        "shares": 3666,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PORAT RUTH M",
-        "filerRelation": "President",
+        "filerName": "PICHAI SUNDAR",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-04-24T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 3666,
+        "shares": 6495,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PICHAI SUNDAR",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "PORAT RUTH M",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2026-04-24T00:00:00.000Z",
         "ownership": "D"
@@ -7691,22 +7723,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 8994,
+        "shares": 10998,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PORAT RUTH M",
-        "filerRelation": "President",
+        "filerName": "PICHAI SUNDAR",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-03-25T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 10998,
+        "shares": 8994,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PICHAI SUNDAR",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "PORAT RUTH M",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2026-03-25T00:00:00.000Z",
         "ownership": "D"
@@ -8046,17 +8078,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 955,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "O TOOLE AMIE THUENER",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-12-24T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 18374,
         "filerUrl": "",
         "transactionText": "",
@@ -8072,6 +8093,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "SCHINDLER PHILIPP",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-12-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 955,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "O TOOLE AMIE THUENER",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-24T00:00:00.000Z",
@@ -8387,17 +8419,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 17819,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "WALKER JOHN KENT",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-09-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 243508,
         "value": 0,
         "filerUrl": "",
@@ -8410,10 +8431,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 954,
+        "shares": 17819,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "O TOOLE AMIE THUENER",
+        "filerName": "WALKER JOHN KENT",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-25T00:00:00.000Z",
@@ -8436,6 +8457,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "SCHINDLER PHILIPP",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 954,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "O TOOLE AMIE THUENER",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-25T00:00:00.000Z",
@@ -8726,17 +8758,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 953,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "O TOOLE AMIE THUENER",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-06-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 18346,
         "filerUrl": "",
         "transactionText": "",
@@ -8752,6 +8773,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "SCHINDLER PHILIPP",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 953,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "O TOOLE AMIE THUENER",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-06-25T00:00:00.000Z",
@@ -9074,28 +9106,6 @@
         "moneyText": "",
         "startDate": "2025-03-25T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 18397,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ASHKENAZI ANAT",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-03-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 22165,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SCHINDLER PHILIPP",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-03-25T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
@@ -9132,6 +9142,6 @@
     "profitMargins": 0.37919,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-03T05:51:39.949Z",
+  "lastUpdated": "2026-07-04T05:44:06.702Z",
   "source": "Static Build (yahoo-finance2)"
 }
