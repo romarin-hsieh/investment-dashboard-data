@@ -126,9 +126,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.06961,
-    "institutionsPercentHeld": 0.83102,
-    "institutionsFloatPercentHeld": 0.89319,
-    "institutionsCount": 2223
+    "institutionsPercentHeld": 0.83096004,
+    "institutionsFloatPercentHeld": 0.89313006,
+    "institutionsCount": 2225
   },
   "earnings": {
     "maxAge": 86400,
@@ -3328,7 +3328,7 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0186,
     "heldPercentInsiders": 0.06961,
-    "heldPercentInstitutions": 0.83102,
+    "heldPercentInstitutions": 0.83096004,
     "shortRatio": 1.76,
     "shortPercentOfFloat": 0.0186,
     "beta": 1.345,
@@ -3501,6 +3501,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 64,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SANDERS RICHARD A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-08-07T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 64,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "LAWSON MARTIN R",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-08-07T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 8,
         "value": 0,
         "filerUrl": "",
@@ -3530,30 +3554,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "AGUZIN ALEJANDRO NICOLAS",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-07T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 64,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SANDERS RICHARD A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-07T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 64,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "LAWSON MARTIN R",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-08-07T00:00:00.000Z",
@@ -3606,6 +3606,6 @@
     "profitMargins": 0.060370002,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-04T05:44:28.162Z",
+  "lastUpdated": "2026-07-05T06:03:14.711Z",
   "source": "Static Build (yahoo-finance2)"
 }
