@@ -2268,7 +2268,7 @@
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "PM",
     "underlyingSymbol": null,
@@ -2480,6 +2480,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 33800,
+        "value": 6138418,
+        "filerUrl": "",
+        "transactionText": "Sale at price 181.61 per share.",
+        "filerName": "BABEAU EMMANUEL",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 4000,
         "value": 726760,
         "filerUrl": "",
@@ -2492,11 +2504,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 33800,
-        "value": 6138418,
+        "shares": 20000,
+        "value": 3651600,
         "filerUrl": "",
-        "transactionText": "Sale at price 181.61 per share.",
-        "filerName": "BABEAU EMMANUEL",
+        "transactionText": "Sale at price 182.58 per share.",
+        "filerName": "DE WILDE FREDERIC J",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-19T00:00:00.000Z",
@@ -2510,18 +2522,6 @@
         "transactionText": "Sale at price 182.18 per share.",
         "filerName": "OLCZAK JACEK",
         "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2026-02-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 20000,
-        "value": 3651600,
-        "filerUrl": "",
-        "transactionText": "Sale at price 182.58 per share.",
-        "filerName": "DE WILDE FREDERIC J",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-19T00:00:00.000Z",
         "ownership": "D"
@@ -2756,30 +2756,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2500,
-        "value": 378200,
-        "filerUrl": "",
-        "transactionText": "Sale at price 151.28 per share.",
-        "filerName": "GUERIN YANN",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-02-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
-        "value": 1486700,
-        "filerUrl": "",
-        "transactionText": "Sale at price 148.67 per share.",
-        "filerName": "BARTH WERNER",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 30000,
         "value": 4465500,
         "filerUrl": "",
@@ -2792,12 +2768,36 @@
       },
       {
         "maxAge": 1,
+        "shares": 2500,
+        "value": 378200,
+        "filerUrl": "",
+        "transactionText": "Sale at price 151.28 per share.",
+        "filerName": "GUERIN YANN",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-02-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 40643,
         "value": 6058246,
         "filerUrl": "",
         "transactionText": "Sale at price 149.06 per share.",
         "filerName": "CALANTZOPOULOS ANDRE",
         "filerRelation": "Chairman of the Board",
+        "moneyText": "",
+        "startDate": "2025-02-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "value": 1486700,
+        "filerUrl": "",
+        "transactionText": "Sale at price 148.67 per share.",
+        "filerName": "BARTH WERNER",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-20T00:00:00.000Z",
         "ownership": "D"
@@ -3008,18 +3008,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 7500,
-        "value": 974850,
-        "filerUrl": "",
-        "transactionText": "Sale at price 129.98 per share.",
-        "filerName": "BARTH WERNER",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-10-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 101918,
         "value": 13234052,
         "filerUrl": "",
@@ -3037,6 +3025,18 @@
         "filerUrl": "",
         "transactionText": "Sale at price 130.96 per share.",
         "filerName": "DE WILDE FREDERIC J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-10-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7500,
+        "value": 974850,
+        "filerUrl": "",
+        "transactionText": "Sale at price 129.98 per share.",
+        "filerName": "BARTH WERNER",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-10-23T00:00:00.000Z",
@@ -3111,6 +3111,6 @@
     "profitMargins": 0.26742,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-05T06:05:47.640Z",
+  "lastUpdated": "2026-07-06T06:29:15.397Z",
   "source": "Static Build (yahoo-finance2)"
 }
