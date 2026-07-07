@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1017,
         "position": 21633053,
-        "value": 7405210319,
+        "value": 7337282876,
         "pctChange": -0.0301
       },
       {
@@ -54,7 +54,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0759,
         "position": 16133981,
-        "value": 5522822996,
+        "value": 5472162552,
         "pctChange": 0.0083
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0661,
         "position": 14050703,
-        "value": 4809696109,
+        "value": 4765577125,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.056399997,
         "position": 11999445,
-        "value": 4107529988,
+        "value": 4069851921,
         "pctChange": -0.0651
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.026500002,
         "position": 5641527,
-        "value": 1931151093,
+        "value": 1913436788,
         "pctChange": 0.0091
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0253,
         "position": 5390073,
-        "value": 1845075875,
+        "value": 1828151131,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Massachusetts Financial Services Co.",
         "pctHeld": 0.0231,
         "position": 4903665,
-        "value": 1678573554,
+        "value": 1663176123,
         "pctChange": -0.054899998
       },
       {
@@ -108,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0175,
         "position": 3726502,
-        "value": 1275618890,
+        "value": 1263917733,
         "pctChange": -0.4802
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0168,
         "position": 3572486,
-        "value": 1222897673,
+        "value": 1211680124,
         "pctChange": -0.0583
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Dimensional Fund Advisors LP",
         "pctHeld": 0.0164,
         "position": 3484676,
-        "value": 1192839433,
+        "value": 1181897605,
         "pctChange": 0.0368
       }
     ]
@@ -261,6 +261,36 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-06T17:52:57.000Z",
+        "firm": "Raymond James",
+        "toGrade": "Strong Buy",
+        "fromGrade": "Strong Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 400,
+        "priorPriceTarget": 350
+      },
+      {
+        "epochGradeDate": "2026-07-06T14:35:02.000Z",
+        "firm": "Morgan Stanley",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 330,
+        "priorPriceTarget": 310
+      },
+      {
+        "epochGradeDate": "2026-07-06T10:29:05.000Z",
+        "firm": "HSBC",
+        "toGrade": "Hold",
+        "fromGrade": "Hold",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 351,
+        "priorPriceTarget": 321
+      },
       {
         "epochGradeDate": "2026-06-12T16:36:16.000Z",
         "firm": "Barclays",
@@ -4526,25 +4556,25 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0033302682,
-    "postMarketChange": -1.1399841,
-    "postMarketTime": "2026-07-02T23:20:59.000Z",
-    "postMarketPrice": 341.17,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.022981301,
-    "regularMarketChange": 7.69,
-    "regularMarketTime": "2026-07-02T20:00:02.000Z",
+    "preMarketSource": "DELAYED",
+    "postMarketChangePercent": -0.00050126313,
+    "postMarketChange": -0.17001343,
+    "postMarketTime": "2026-07-06T23:45:32.000Z",
+    "postMarketPrice": 339,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.00917293,
+    "regularMarketChange": -3.13998,
+    "regularMarketTime": "2026-07-06T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 342.31,
-    "regularMarketDayHigh": 342.31,
-    "regularMarketDayLow": 331.8,
-    "regularMarketVolume": 1035813,
+    "regularMarketPrice": 339.17,
+    "regularMarketDayHigh": 343.4521,
+    "regularMarketDayLow": 337,
+    "regularMarketVolume": 1094025,
     "averageDailyVolume10Day": 2612820,
-    "averageDailyVolume3Month": 1652070,
-    "regularMarketPreviousClose": 334.62,
+    "averageDailyVolume3Month": 1664457,
+    "regularMarketPreviousClose": 342.31,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 336.03,
+    "regularMarketOpen": 341.68,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -4555,18 +4585,18 @@
     "shortName": "The Travelers Companies, Inc.",
     "longName": "The Travelers Companies, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 72790401024
+    "marketCap": 72122703872
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 74917404672,
-    "forwardPE": 11.986324,
+    "enterpriseValue": 74249699328,
+    "forwardPE": 11.876374,
     "profitMargins": 0.15537,
     "floatShares": 211394342,
     "sharesOutstanding": 212644693,
@@ -4583,7 +4613,7 @@
     "impliedSharesOutstanding": 212644693,
     "category": null,
     "bookValue": 150.452,
-    "priceToBook": 2.2752109,
+    "priceToBook": 2.2543404,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4592,12 +4622,12 @@
     "earningsQuarterlyGrowth": 3.332,
     "netIncomeToCommon": 7549000192,
     "trailingEps": 33.51,
-    "forwardEps": 28.55838,
+    "forwardEps": 28.60059,
     "pegRatio": 2.36,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 894931200,
-    "enterpriseToRevenue": 1.531,
-    "enterpriseToEbitda": 7.085,
+    "enterpriseToRevenue": 1.517,
+    "enterpriseToEbitda": 7.022,
     "52WeekChange": 0.3217113,
     "SandP52WeekChange": 0.20116603,
     "lastDividendValue": 1.25,
@@ -4810,11 +4840,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 2867,
-        "value": 869980,
+        "shares": 6413,
+        "value": 1956549,
         "filerUrl": "",
-        "transactionText": "Sale at price 303.42 - 303.47 per share.",
-        "filerName": "KURTZMAN DIANE",
+        "transactionText": "Sale at price 305.06 per share.",
+        "filerName": "KLENK JEFFREY P",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-20T00:00:00.000Z",
@@ -4822,11 +4852,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 6413,
-        "value": 1956549,
+        "shares": 2867,
+        "value": 869980,
         "filerUrl": "",
-        "transactionText": "Sale at price 305.06 per share.",
-        "filerName": "KLENK JEFFREY P",
+        "transactionText": "Sale at price 303.42 - 303.47 per share.",
+        "filerName": "KURTZMAN DIANE",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-20T00:00:00.000Z",
@@ -5890,24 +5920,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 6500,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "KESS AVROHOM J",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-07-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2000,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "SCHNITZER ALAN D",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-07-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 6500,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "KESS AVROHOM J",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-07-21T00:00:00.000Z",
         "ownership": "D"
@@ -5958,6 +5988,18 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-05-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20286,
+        "value": 2689518,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 132.58 per share.",
+        "filerName": "FREY DANIEL S.",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-05-29T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6058,18 +6100,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 20286,
-        "value": 2689518,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 132.58 per share.",
-        "filerName": "FREY DANIEL S.",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-05-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2000,
         "value": 279660,
         "filerUrl": "",
@@ -6142,6 +6172,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 4052,
+        "value": 1107371,
+        "filerUrl": "",
+        "transactionText": "Sale at price 273.29 per share.",
+        "filerName": "MUNSON PAUL E",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-05-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 6148,
         "value": 1682954,
         "filerUrl": "",
@@ -6183,18 +6225,6 @@
         "filerUrl": "",
         "transactionText": "Sale at price 272.72 - 272.99 per share.",
         "filerName": "KLENK JEFFREY P",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-05-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4052,
-        "value": 1107371,
-        "filerUrl": "",
-        "transactionText": "Sale at price 273.29 per share.",
-        "filerName": "MUNSON PAUL E",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-05-29T00:00:00.000Z",
@@ -6433,7 +6463,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 342.31,
+    "currentPrice": 339.17,
     "targetHighPrice": 350,
     "targetLowPrice": 252,
     "targetMeanPrice": 314.08698,
@@ -6463,6 +6493,6 @@
     "profitMargins": 0.15537,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-06T06:29:34.813Z",
+  "lastUpdated": "2026-07-07T06:09:04.234Z",
   "source": "Static Build (yahoo-finance2)"
 }

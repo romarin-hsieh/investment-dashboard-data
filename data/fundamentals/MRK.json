@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.091400005,
         "position": 225830330,
-        "value": 29258577003,
+        "value": 28630768961,
         "pctChange": 0.0307
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0652,
         "position": 160987624,
-        "value": 20857556172,
+        "value": 20410010774,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.048299998,
         "position": 119325673,
-        "value": 15459833902,
+        "value": 15128108677,
         "pctChange": -0.006
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Wellington Management Group, LLP",
         "pctHeld": 0.0341,
         "position": 84314971,
-        "value": 10923847436,
+        "value": 10689451920,
         "pctChange": -0.024500001
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0273,
         "position": 67304305,
-        "value": 8719945591,
+        "value": 8532839705,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0241,
         "position": 59558154,
-        "value": 7716354286,
+        "value": 7550782691,
         "pctChange": -0.0082
       },
       {
@@ -99,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0214,
         "position": 52972983,
-        "value": 6863179548,
+        "value": 6715914720,
         "pctChange": 0.8141
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Charles Schwab Investment Management, Inc.",
         "pctHeld": 0.0201,
         "position": 49765225,
-        "value": 6447582429,
+        "value": 6309235164,
         "pctChange": 0.0247
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.019299999,
         "position": 47632487,
-        "value": 6171264899,
+        "value": 6038846643,
         "pctChange": 0.0598
       },
       {
@@ -126,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.018,
         "position": 44516010,
-        "value": 5767494146,
+        "value": 5643739693,
         "pctChange": 0.090100005
       }
     ]
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-06T12:58:29.000Z",
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 120,
+        "priorPriceTarget": 120
+      },
       {
         "epochGradeDate": "2026-06-30T17:39:23.000Z",
         "firm": "B of A Securities",
@@ -3737,24 +3747,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0022384112,
-    "postMarketChange": 0.29000854,
-    "postMarketTime": "2026-07-02T23:59:46.000Z",
-    "postMarketPrice": 129.85,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.033421,
-    "regularMarketChange": 4.18999,
-    "regularMarketTime": "2026-07-02T20:03:21.000Z",
+    "postMarketChangePercent": 0.005679139,
+    "postMarketChange": 0.7200012,
+    "postMarketTime": "2026-07-06T23:58:54.000Z",
+    "postMarketPrice": 127.5,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.0214572,
+    "regularMarketChange": -2.78,
+    "regularMarketTime": "2026-07-06T20:01:25.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 129.56,
-    "regularMarketDayHigh": 129.61,
-    "regularMarketDayLow": 125.99,
-    "regularMarketVolume": 5209580,
+    "regularMarketPrice": 126.78,
+    "regularMarketDayHigh": 130.0033,
+    "regularMarketDayLow": 125.624,
+    "regularMarketVolume": 9219156,
     "averageDailyVolume10Day": 13394100,
-    "averageDailyVolume3Month": 10419327,
-    "regularMarketPreviousClose": 125.37,
+    "averageDailyVolume3Month": 10509968,
+    "regularMarketPreviousClose": 129.56,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 126.175,
+    "regularMarketOpen": 129.31,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -3765,18 +3775,18 @@
     "shortName": "Merck & Company, Inc.",
     "longName": "Merck & Co., Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 319990464512
+    "marketCap": 313124356096
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 363458461696,
-    "forwardPE": 13.515219,
+    "enterpriseValue": 356592353280,
+    "forwardPE": 13.22522,
     "profitMargins": 0.13586001,
     "floatShares": 2465724506,
     "sharesOutstanding": 2469824415,
@@ -3793,7 +3803,7 @@
     "impliedSharesOutstanding": 2469824415,
     "category": null,
     "bookValue": 18.576,
-    "priceToBook": 6.974591,
+    "priceToBook": 6.8249354,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3801,12 +3811,12 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": 8935000064,
     "trailingEps": 3.55,
-    "forwardEps": 9.64491,
+    "forwardEps": 9.56155,
     "pegRatio": 6.4,
     "lastSplitFactor": "1048:1000",
     "lastSplitDate": 1622678400,
-    "enterpriseToRevenue": 5.526,
-    "enterpriseToEbitda": 12.314,
+    "enterpriseToRevenue": 5.422,
+    "enterpriseToEbitda": 12.081,
     "52WeekChange": 0.60148335,
     "SandP52WeekChange": 0.20116603,
     "lastDividendValue": 0.85,
@@ -3886,10 +3896,32 @@
       },
       {
         "maxAge": 1,
+        "shares": 1377,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WILLIAMS DAVID MICHAEL",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2026-04-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 4722,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "LI DEAN Y",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1377,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "OOSTHUIZEN JOHANNES JACOBUS",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-29T00:00:00.000Z",
@@ -3902,28 +3934,6 @@
         "transactionText": "",
         "filerName": "LITCHFIELD CAROLINE",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-04-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1377,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "WILLIAMS DAVID MICHAEL",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2026-04-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1377,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "OOSTHUIZEN JOHANNES JACOBUS",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-29T00:00:00.000Z",
         "ownership": "D"
@@ -4190,6 +4200,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 5026,
+        "value": 539792,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 107.40 per share.",
+        "filerName": "OOSTHUIZEN JOHANNES JACOBUS",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 5703,
         "value": 612502,
         "filerUrl": "",
@@ -4207,6 +4229,18 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 107.40 per share.",
         "filerName": "SMART DALTON E. III",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 6112,
+        "value": 656429,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 107.40 per share.",
+        "filerName": "WILLIAMS DAVID MICHAEL",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-26T00:00:00.000Z",
@@ -4238,42 +4272,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 5026,
-        "value": 539792,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 107.40 per share.",
-        "filerName": "OOSTHUIZEN JOHANNES JACOBUS",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 11583,
-        "value": 1244014,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 107.40 per share.",
-        "filerName": "ZACHARY JENNIFER L",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-01-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 6112,
-        "value": 656429,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 107.40 per share.",
-        "filerName": "WILLIAMS DAVID MICHAEL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 13880,
         "value": 1490712,
         "filerUrl": "",
@@ -4292,6 +4290,18 @@
         "transactionText": "Stock Award(Grant) at price 107.40 per share.",
         "filerName": "GUINDO CHIRFI",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11583,
+        "value": 1244014,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 107.40 per share.",
+        "filerName": "ZACHARY JENNIFER L",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2026-01-26T00:00:00.000Z",
         "ownership": "D"
@@ -4511,12 +4521,48 @@
       },
       {
         "maxAge": 1,
+        "shares": 9446,
+        "value": 925141,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 97.94 per share.",
+        "filerName": "DOWNING CRISTAL N.",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8664,
+        "value": 848552,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 97.94 per share.",
+        "filerName": "OOSTHUIZEN JOHANNES JACOBUS",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2586,
         "value": 253273,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 97.94 per share.",
         "filerName": "SMART DALTON E. III",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10246,
+        "value": 1003493,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 97.94 per share.",
+        "filerName": "WILLIAMS DAVID MICHAEL",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-01-27T00:00:00.000Z",
         "ownership": "D"
@@ -4547,54 +4593,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 9446,
-        "value": 925141,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 97.94 per share.",
-        "filerName": "DOWNING CRISTAL N.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8664,
-        "value": 848552,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 97.94 per share.",
-        "filerName": "OOSTHUIZEN JOHANNES JACOBUS",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 25423,
-        "value": 2489929,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 97.94 per share.",
-        "filerName": "ZACHARY JENNIFER L",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-01-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10246,
-        "value": 1003493,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 97.94 per share.",
-        "filerName": "WILLIAMS DAVID MICHAEL",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-01-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 28136,
         "value": 2755640,
         "filerUrl": "",
@@ -4613,6 +4611,18 @@
         "transactionText": "Stock Award(Grant) at price 97.94 per share.",
         "filerName": "GUINDO CHIRFI",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 25423,
+        "value": 2489929,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 97.94 per share.",
+        "filerName": "ZACHARY JENNIFER L",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-01-27T00:00:00.000Z",
         "ownership": "D"
@@ -4658,7 +4668,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 129.56,
+    "currentPrice": 126.78,
     "targetHighPrice": 155,
     "targetLowPrice": 100,
     "targetMeanPrice": 131.11111,
@@ -4687,6 +4697,6 @@
     "profitMargins": 0.13586001,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-06T06:29:06.848Z",
+  "lastUpdated": "2026-07-07T06:08:35.014Z",
   "source": "Static Build (yahoo-finance2)"
 }

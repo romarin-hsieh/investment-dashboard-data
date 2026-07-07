@@ -37,7 +37,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.085200004,
         "position": 260798584,
-        "value": 22300887474,
+        "value": 22806835374,
         "pctChange": -0.006
       },
       {
@@ -46,7 +46,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0656,
         "position": 200762402,
-        "value": 17167193423,
+        "value": 17556671442,
         "pctChange": 1
       },
       {
@@ -55,7 +55,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.052800003,
         "position": 161693928,
-        "value": 13826448128,
+        "value": 14140133510,
         "pctChange": -0.1293
       },
       {
@@ -64,7 +64,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.044299997,
         "position": 135493574,
-        "value": 11586055802,
+        "value": 11848912632,
         "pctChange": -0.0116
       },
       {
@@ -73,7 +73,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0422,
         "position": 129208607,
-        "value": 11048628260,
+        "value": 11299292287,
         "pctChange": -0.0126
       },
       {
@@ -82,7 +82,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0241,
         "position": 73848013,
-        "value": 6314743749,
+        "value": 6458008511,
         "pctChange": 0.0202
       },
       {
@@ -91,7 +91,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.0238,
         "position": 72893582,
-        "value": 6233130352,
+        "value": 6374543523,
         "pctChange": 0.9479
       },
       {
@@ -100,7 +100,7 @@
         "organization": "Wellington Management Group, LLP",
         "pctHeld": 0.0215,
         "position": 65846073,
-        "value": 5630497842,
+        "value": 5758238882,
         "pctChange": -0.09060001
       },
       {
@@ -109,7 +109,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0202,
         "position": 61671445,
-        "value": 5273525393,
+        "value": 5393167677,
         "pctChange": 1
       },
       {
@@ -118,7 +118,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.017,
         "position": 51973069,
-        "value": 4444217241,
+        "value": 4545044725,
         "pctChange": 0.0135
       }
     ]
@@ -253,6 +253,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-06T13:36:19.000Z",
+        "firm": "JP Morgan",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 93.5,
+        "priorPriceTarget": 86.5
+      },
       {
         "epochGradeDate": "2026-06-29T17:44:02.000Z",
         "firm": "Morgan Stanley",
@@ -5589,24 +5599,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.003040605,
-    "postMarketChange": -0.26000214,
-    "postMarketTime": "2026-07-02T23:45:17.000Z",
-    "postMarketPrice": 85.25,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.00500349,
-    "regularMarketChange": -0.43,
-    "regularMarketTime": "2026-07-02T20:03:54.000Z",
+    "postMarketChangePercent": 0.00034312648,
+    "postMarketChange": 0.030006409,
+    "postMarketTime": "2026-07-06T23:59:32.000Z",
+    "postMarketPrice": 87.48,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.0226873,
+    "regularMarketChange": 1.93999,
+    "regularMarketTime": "2026-07-06T20:02:36.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 85.51,
-    "regularMarketDayHigh": 86.74,
-    "regularMarketDayLow": 85.09,
-    "regularMarketVolume": 10421504,
+    "regularMarketPrice": 87.45,
+    "regularMarketDayHigh": 87.6299,
+    "regularMarketDayLow": 86.02,
+    "regularMarketVolume": 9877952,
     "averageDailyVolume10Day": 17006080,
-    "averageDailyVolume3Month": 16499656,
-    "regularMarketPreviousClose": 85.94,
+    "averageDailyVolume3Month": 16654254,
+    "regularMarketPreviousClose": 85.51,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 86.61,
+    "regularMarketOpen": 86,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -5617,18 +5627,18 @@
     "shortName": "Wells Fargo & Company",
     "longName": "Wells Fargo & Company",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 261676810240
+    "marketCap": 267613552640
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 286965792768,
-    "forwardPE": 10.847876,
+    "enterpriseValue": 292902567936,
+    "forwardPE": 11.093985,
     "profitMargins": 0.26742,
     "floatShares": 3051835177,
     "sharesOutstanding": 3060189494,
@@ -5645,7 +5655,7 @@
     "impliedSharesOutstanding": 3060189494,
     "category": null,
     "bookValue": 53.194,
-    "priceToBook": 1.6075121,
+    "priceToBook": 1.6439823,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -5654,11 +5664,11 @@
     "earningsQuarterlyGrowth": 0.073,
     "netIncomeToCommon": 20668999680,
     "trailingEps": 6.47,
-    "forwardEps": 7.88265,
+    "forwardEps": 7.89939,
     "pegRatio": 1.52,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1155513600,
-    "enterpriseToRevenue": 3.537,
+    "enterpriseToRevenue": 3.61,
     "52WeekChange": 0.03849888,
     "SandP52WeekChange": 0.20116603,
     "lastDividendValue": 0.45,
@@ -5893,6 +5903,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 49716,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FLOWERS DEREK A",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 59618,
         "filerUrl": "",
         "transactionText": "",
@@ -5915,17 +5936,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 61441,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "POWELL SCOTT E",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-02-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 49047,
         "filerUrl": "",
         "transactionText": "",
@@ -5942,6 +5952,17 @@
         "transactionText": "",
         "filerName": "ENGLE BRIDGET E.",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 61441,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "POWELL SCOTT E",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2026-02-05T00:00:00.000Z",
         "ownership": "D"
@@ -5981,17 +6002,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 49716,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FLOWERS DEREK A",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 23503,
         "filerUrl": "",
         "transactionText": "",
@@ -6018,6 +6028,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "HRANICKY KYLE G",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-12-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3375,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FLOWERS DEREK A",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-05T00:00:00.000Z",
@@ -6062,17 +6083,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "VAN BEURDEN SAUL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-12-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3375,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FLOWERS DEREK A",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-05T00:00:00.000Z",
@@ -6149,6 +6159,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 56770,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WILLIAMS ATHER III",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-03-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 29269,
         "filerUrl": "",
         "transactionText": "",
@@ -6171,22 +6192,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 62447,
+        "shares": 37255,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PATTERSON ELLEN REILLY",
-        "filerRelation": "General Counsel",
+        "filerName": "FLOWERS DEREK A",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-03-05T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 56770,
+        "shares": 62447,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WILLIAMS ATHER III",
-        "filerRelation": "Officer",
+        "filerName": "PATTERSON ELLEN REILLY",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-03-05T00:00:00.000Z",
         "ownership": "D"
@@ -6230,17 +6251,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "VAN BEURDEN SAUL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-03-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 37255,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FLOWERS DEREK A",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-03-05T00:00:00.000Z",
@@ -6297,6 +6307,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "RIVAS FERNANDO",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 49144,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FLOWERS DEREK A",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-05T00:00:00.000Z",
@@ -6396,17 +6417,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "VAN BEURDEN SAUL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 49144,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FLOWERS DEREK A",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-05T00:00:00.000Z",
@@ -6518,7 +6528,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 85.51,
+    "currentPrice": 87.45,
     "targetHighPrice": 113,
     "targetLowPrice": 85,
     "targetMeanPrice": 96.52273,
@@ -6543,6 +6553,6 @@
     "profitMargins": 0.26742,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-06T06:29:54.885Z",
+  "lastUpdated": "2026-07-07T06:09:23.917Z",
   "source": "Static Build (yahoo-finance2)"
 }
