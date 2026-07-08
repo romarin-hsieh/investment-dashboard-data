@@ -12,13 +12,21 @@
       {
         "period": "-1m",
         "strongBuy": 6,
+        "buy": 24,
+        "hold": 8,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 6,
         "buy": 23,
         "hold": 7,
         "sell": 0,
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 5,
         "buy": 23,
         "hold": 7,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0771,
         "position": 20726610,
-        "value": 23877884594,
+        "value": 22324216187,
         "pctChange": -0.0076
       },
       {
@@ -46,7 +54,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0682,
         "position": 18336935,
-        "value": 21124883313,
+        "value": 19750345143,
         "pctChange": -0.1468
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0652,
         "position": 17516600,
-        "value": 20179824548,
+        "value": 18866778758,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0424,
         "position": 11394498,
-        "value": 13126917921,
+        "value": 12272785405,
         "pctChange": -0.0066000004
       },
       {
@@ -73,7 +81,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0251,
         "position": 6752963,
-        "value": 7779683758,
+        "value": 7273481091,
         "pctChange": 0.0644
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0238,
         "position": 6385078,
-        "value": 7355865508,
+        "value": 6877239531,
         "pctChange": 0.0217
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.023699999,
         "position": 6369723,
-        "value": 7338175933,
+        "value": 6860700968,
         "pctChange": 0.0521
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0179,
         "position": 4798236,
-        "value": 5527759988,
+        "value": 5168083820,
         "pctChange": 1
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0159,
         "position": 4262860,
-        "value": 4910985400,
+        "value": 4591441061,
         "pctChange": 0.95379996
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Northern Trust Corporation",
         "pctHeld": 0.0104,
         "position": 2787345,
-        "value": 3211133042,
+        "value": 3002193430,
         "pctChange": -0.0114
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00104,
-    "institutionsPercentHeld": 0.79702,
-    "institutionsFloatPercentHeld": 0.79785,
-    "institutionsCount": 3876
+    "institutionsPercentHeld": 0.79703003,
+    "institutionsFloatPercentHeld": 0.79786,
+    "institutionsCount": 3877
   },
   "earnings": {
     "maxAge": 86400,
@@ -2233,24 +2241,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0009201578,
-    "postMarketChange": -1.0600586,
-    "postMarketTime": "2026-07-06T23:59:45.000Z",
-    "postMarketPrice": 1150.98,
+    "postMarketChangePercent": -0.0077710063,
+    "postMarketChange": -8.369995,
+    "postMarketTime": "2026-07-08T00:00:00.000Z",
+    "postMarketPrice": 1068.71,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.034974102,
-    "regularMarketChange": 38.9301,
-    "regularMarketTime": "2026-07-06T20:00:02.000Z",
+    "regularMarketChangePercent": -0.0650673,
+    "regularMarketChange": -74.9601,
+    "regularMarketTime": "2026-07-07T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 1152.04,
-    "regularMarketDayHigh": 1195.94,
-    "regularMarketDayLow": 1138.49,
-    "regularMarketVolume": 2607767,
-    "averageDailyVolume10Day": 3253000,
-    "averageDailyVolume3Month": 2740290,
-    "regularMarketPreviousClose": 1113.11,
+    "regularMarketPrice": 1077.08,
+    "regularMarketDayHigh": 1099.2556,
+    "regularMarketDayLow": 1028,
+    "regularMarketVolume": 4192802,
+    "averageDailyVolume10Day": 3136870,
+    "averageDailyVolume3Month": 2788037,
+    "regularMarketPreviousClose": 1152.04,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 1140.52,
+    "regularMarketOpen": 1096.84,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -2266,13 +2274,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 309576204288
+    "marketCap": 289432928256
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 304702193664,
-    "forwardPE": 46.939182,
+    "enterpriseValue": 284558917632,
+    "forwardPE": 43.852207,
     "profitMargins": 0.23809999,
     "floatShares": 268174493,
     "sharesOutstanding": 268719995,
@@ -2282,14 +2290,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0392,
     "heldPercentInsiders": 0.00104,
-    "heldPercentInstitutions": 0.79702,
+    "heldPercentInstitutions": 0.79703003,
     "shortRatio": 3.72,
     "shortPercentOfFloat": 0.039300002,
     "beta": 0.935,
     "impliedSharesOutstanding": 268719995,
     "category": null,
     "bookValue": 51.809,
-    "priceToBook": 22.236292,
+    "priceToBook": 20.789438,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2297,14 +2305,14 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 17.681,
     "netIncomeToCommon": 9374999552,
-    "trailingEps": 34.17,
+    "trailingEps": 34.22,
     "forwardEps": 24.56159,
-    "pegRatio": 1.92,
+    "pegRatio": 1.99,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 7.738,
-    "enterpriseToEbitda": 89.225,
-    "52WeekChange": 1.0990987,
-    "SandP52WeekChange": 0.20116603,
+    "enterpriseToRevenue": 7.227,
+    "enterpriseToEbitda": 83.326,
+    "52WeekChange": 1.0322263,
+    "SandP52WeekChange": 0.20533705,
     "lastDividendValue": 0.5,
     "lastDividendDate": "2026-06-16T00:00:00.000Z",
     "latestShareClass": null,
@@ -2361,50 +2369,6 @@
         "shares": 495,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AKINS NICHOLAS K",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 495,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RUCKER KIM K. W.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 495,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MALAVE JESUS JR.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 495,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MATTHEW HARRIS C",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 495,
-        "filerUrl": "",
-        "transactionText": "",
         "filerName": "REYNOLDS PAULA ROSPUT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -2446,6 +2410,50 @@
       },
       {
         "maxAge": 1,
+        "shares": 495,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "AKINS NICHOLAS K",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 495,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "RUCKER KIM K. W.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 495,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MALAVE JESUS JR.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 495,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MATTHEW HARRIS C",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 44496,
         "value": 5353535,
         "filerUrl": "",
@@ -2477,6 +2485,39 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 23824,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BAERT STEVEN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2744,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ABATE VICTOR",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4783,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "POTVIN MATTHEW JOSEPH",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-27T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2536,39 +2577,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 23824,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BAERT STEVEN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2744,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ABATE VICTOR",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4783,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "POTVIN MATTHEW JOSEPH",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 17730,
         "filerUrl": "",
         "transactionText": "",
@@ -2596,40 +2604,6 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MATTHEW HARRIS C",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1329,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RUCKER KIM K. W.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1329,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MALAVE JESUS JR.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1329,
-        "value": 575244,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 432.84 per share.",
         "filerName": "MATTHEW HARRIS C",
         "filerRelation": "Director",
         "moneyText": "",
@@ -2705,6 +2679,40 @@
       },
       {
         "maxAge": 1,
+        "shares": 1329,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "RUCKER KIM K. W.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1329,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MALAVE JESUS JR.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1329,
+        "value": 575244,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 432.84 per share.",
+        "filerName": "MATTHEW HARRIS C",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 17798,
         "value": 2246286,
         "filerUrl": "",
@@ -2729,6 +2737,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 8504,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BAERT STEVEN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-04-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 11906,
         "filerUrl": "",
         "transactionText": "",
@@ -2740,13 +2759,35 @@
       },
       {
         "maxAge": 1,
-        "shares": 8504,
+        "shares": 1778,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "BAERT STEVEN",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-04-03T00:00:00.000Z",
+        "startDate": "2025-02-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1778,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ABATE VICTOR",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-02-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2867,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "POTVIN MATTHEW JOSEPH",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-28T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2806,39 +2847,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1778,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BAERT STEVEN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1778,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ABATE VICTOR",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2867,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "POTVIN MATTHEW JOSEPH",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 26955,
         "filerUrl": "",
         "transactionText": "",
@@ -2872,18 +2880,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 14832,
-        "value": 1957824,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 132.00 per share.",
-        "filerName": "STRAZIK SCOTT",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2024-08-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 534,
         "value": 70488,
         "filerUrl": "",
@@ -2893,17 +2889,29 @@
         "moneyText": "",
         "startDate": "2024-08-22T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 14832,
+        "value": 1957824,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 132.00 per share.",
+        "filerName": "STRAZIK SCOTT",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2024-08-22T00:00:00.000Z",
+        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 1152.04,
+    "currentPrice": 1077.08,
     "targetHighPrice": 1424,
     "targetLowPrice": 836,
-    "targetMeanPrice": 1212.3333,
-    "targetMedianPrice": 1235,
+    "targetMeanPrice": 1222.6273,
+    "targetMedianPrice": 1250,
     "recommendationMean": 1.57895,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 34,
@@ -2929,6 +2937,6 @@
     "profitMargins": 0.23809999,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-07T06:07:57.597Z",
+  "lastUpdated": "2026-07-08T05:21:50.940Z",
   "source": "Static Build (yahoo-finance2)"
 }

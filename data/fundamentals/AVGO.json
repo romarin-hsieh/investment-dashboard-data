@@ -21,6 +21,14 @@
         "period": "-2m",
         "strongBuy": 7,
         "buy": 37,
+        "hold": 4,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 7,
+        "buy": 37,
         "hold": 3,
         "sell": 0,
         "strongSell": 0
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.081099994,
         "position": 385944774,
-        "value": 144304748642,
+        "value": 143100602832,
         "pctChange": 0.0159
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0647,
         "position": 308015865,
-        "value": 115167130043,
+        "value": 114206122048,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0402,
         "position": 191380232,
-        "value": 71557067576,
+        "value": 70959962187,
         "pctChange": 0.0068
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.027,
         "position": 128422947,
-        "value": 48017339099,
+        "value": 47616660131,
         "pctChange": 1
       },
       {
@@ -73,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.026099999,
         "position": 124112876,
-        "value": 46405803578,
+        "value": 46018572011,
         "pctChange": 0.0075
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.024400001,
         "position": 116188483,
-        "value": 43442873084,
+        "value": 43080365584,
         "pctChange": -0.0573
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.024400001,
         "position": 116025298,
-        "value": 43381858214,
+        "value": 43019859850,
         "pctChange": 0.3435
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024,
         "position": 114280922,
-        "value": 42729636038,
+        "value": 42373080119,
         "pctChange": 0.027
       },
       {
@@ -109,7 +117,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.019299999,
         "position": 91782808,
-        "value": 34317591351,
+        "value": 34031229438,
         "pctChange": -0.0211
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0178,
         "position": 84470754,
-        "value": 31583614405,
+        "value": 31320066065,
         "pctChange": -0.0126
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.0194,
-    "institutionsPercentHeld": 0.7984,
-    "institutionsFloatPercentHeld": 0.81419,
-    "institutionsCount": 6059
+    "institutionsPercentHeld": 0.79843,
+    "institutionsFloatPercentHeld": 0.81422997,
+    "institutionsCount": 6060
   },
   "earnings": {
     "maxAge": 86400,
@@ -253,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-07T16:07:52.000Z",
+        "firm": "Erste Group",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down",
+        "priceTargetAction": "",
+        "currentPriceTarget": 0,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-06-04T18:38:56.000Z",
         "firm": "UBS",
@@ -6399,24 +6417,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.00024069627,
-    "postMarketChange": 0.08999634,
-    "postMarketTime": "2026-07-06T23:59:44.000Z",
-    "postMarketPrice": 373.99,
+    "postMarketChangePercent": -0.00784833,
+    "postMarketChange": -2.9100037,
+    "postMarketTime": "2026-07-07T23:59:56.000Z",
+    "postMarketPrice": 367.87,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0373144,
-    "regularMarketChange": 13.45,
-    "regularMarketTime": "2026-07-06T20:00:01.000Z",
+    "regularMarketChangePercent": -0.00834446,
+    "regularMarketChange": -3.12,
+    "regularMarketTime": "2026-07-07T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 373.9,
-    "regularMarketDayHigh": 383.155,
-    "regularMarketDayLow": 371.18,
-    "regularMarketVolume": 22463868,
-    "averageDailyVolume10Day": 29599840,
-    "averageDailyVolume3Month": 26723596,
-    "regularMarketPreviousClose": 360.45,
+    "regularMarketPrice": 370.78,
+    "regularMarketDayHigh": 372.9599,
+    "regularMarketDayLow": 362.01,
+    "regularMarketVolume": 22775715,
+    "averageDailyVolume10Day": 27312690,
+    "averageDailyVolume3Month": 26539303,
+    "regularMarketPreviousClose": 373.9,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 374,
+    "regularMarketOpen": 366.555,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -6432,13 +6450,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 1778859245568
+    "marketCap": 1764015603712
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 1824138199040,
-    "forwardPE": 19.277388,
+    "enterpriseValue": 1809294557184,
+    "forwardPE": 19.11653,
     "profitMargins": 0.38848,
     "floatShares": 4698966810,
     "sharesOutstanding": 4757580198,
@@ -6448,14 +6466,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0128999995,
     "heldPercentInsiders": 0.0194,
-    "heldPercentInstitutions": 0.7984,
+    "heldPercentInstitutions": 0.79843,
     "shortRatio": 1.95,
     "shortPercentOfFloat": 0.013200001,
     "beta": 1.462,
     "impliedSharesOutstanding": 4757580198,
     "category": null,
     "bookValue": 18.43,
-    "priceToBook": 20.287575,
+    "priceToBook": 20.118284,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-11-02T00:00:00.000Z",
@@ -6463,15 +6481,15 @@
     "mostRecentQuarter": "2026-05-03T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.875,
     "netIncomeToCommon": 29316999168,
-    "trailingEps": 6.02,
+    "trailingEps": 5.97,
     "forwardEps": 19.39578,
-    "pegRatio": 0.41,
+    "pegRatio": 0.42,
     "lastSplitFactor": "10:1",
     "lastSplitDate": 1721001600,
-    "enterpriseToRevenue": 24.172,
-    "enterpriseToEbitda": 43.345,
-    "52WeekChange": 0.31464732,
-    "SandP52WeekChange": 0.20116603,
+    "enterpriseToRevenue": 23.975,
+    "enterpriseToEbitda": 42.992,
+    "52WeekChange": 0.36416483,
+    "SandP52WeekChange": 0.20533705,
     "lastDividendValue": 0.65,
     "lastDividendDate": "2026-06-22T00:00:00.000Z",
     "latestShareClass": null,
@@ -6921,6 +6939,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 38281,
+        "value": 12542615,
+        "filerUrl": "",
+        "transactionText": "Sale at price 322.29 - 345.01 per share.",
+        "filerName": "BRAZEAL MARK DAVID",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-12-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 6093,
         "value": 2028440,
         "filerUrl": "",
@@ -6938,18 +6968,6 @@
         "filerUrl": "",
         "transactionText": "Sale at price 322.33 - 345.99 per share.",
         "filerName": "KAWWAS CHARLIE B",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-12-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 38281,
-        "value": 12542615,
-        "filerUrl": "",
-        "transactionText": "Sale at price 322.29 - 345.01 per share.",
-        "filerName": "BRAZEAL MARK DAVID",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-17T00:00:00.000Z",
@@ -7113,8 +7131,8 @@
       },
       {
         "maxAge": 1,
-        "shares": 148514,
-        "value": 50000208,
+        "shares": 148154,
+        "value": 49879007,
         "filerUrl": "",
         "transactionText": "Sale at price 336.67 per share.",
         "filerName": "TAN HOCK E",
@@ -7125,8 +7143,8 @@
       },
       {
         "maxAge": 1,
-        "shares": 148154,
-        "value": 49879007,
+        "shares": 148514,
+        "value": 50000208,
         "filerUrl": "",
         "transactionText": "Sale at price 336.67 per share.",
         "filerName": "TAN HOCK E",
@@ -7860,7 +7878,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 373.9,
+    "currentPrice": 370.78,
     "targetHighPrice": 650,
     "targetLowPrice": 215.88,
     "targetMeanPrice": 523.72894,
@@ -7890,6 +7908,6 @@
     "profitMargins": 0.38848,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-07T06:05:44.016Z",
+  "lastUpdated": "2026-07-08T05:19:38.214Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -3,6 +3,14 @@
     "trend": [
       {
         "period": "0m",
+        "strongBuy": 7,
+        "buy": 17,
+        "hold": 8,
+        "sell": 1,
+        "strongSell": 1
+      },
+      {
+        "period": "-1m",
         "strongBuy": 6,
         "buy": 17,
         "hold": 9,
@@ -10,7 +18,7 @@
         "strongSell": 1
       },
       {
-        "period": "-1m",
+        "period": "-2m",
         "strongBuy": 6,
         "buy": 16,
         "hold": 10,
@@ -18,7 +26,7 @@
         "strongSell": 1
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 7,
         "buy": 17,
         "hold": 9,
@@ -37,7 +45,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0708,
         "position": 22735569,
-        "value": 5628190175,
+        "value": 6112002708,
         "pctChange": -0.36540002
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0657,
         "position": 21094282,
-        "value": 5221889573,
+        "value": 5670775546,
         "pctChange": -0.0688
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0499,
         "position": 16039889,
-        "value": 3970674570,
+        "value": 4312003144,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "BAILLIE GIFFORD & CO",
         "pctHeld": 0.0496,
         "position": 15924423,
-        "value": 3942090962,
+        "value": 4280962421,
         "pctChange": -0.0535
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0495,
         "position": 15883321,
-        "value": 3931916162,
+        "value": 4269912971,
         "pctChange": -0.118
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0427,
         "position": 13716196,
-        "value": 3395444361,
+        "value": 3687324786,
         "pctChange": 1
       },
       {
@@ -91,7 +99,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0422,
         "position": 13560451,
-        "value": 3356889686,
+        "value": 3645455860,
         "pctChange": 0.0635
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Capital International Investors",
         "pctHeld": 0.0339,
         "position": 10893165,
-        "value": 2696603028,
+        "value": 2928409400,
         "pctChange": 1
       },
       {
@@ -109,7 +117,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0224,
         "position": 7178719,
-        "value": 1777091910,
+        "value": 1929854932,
         "pctChange": 0.0271
       },
       {
@@ -118,17 +126,17 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0187,
         "position": 5993429,
-        "value": 1483673367,
+        "value": 1611213437,
         "pctChange": -0.0041
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.0065499996,
+    "insidersPercentHeld": 0.00656,
     "institutionsPercentHeld": 0.89614,
-    "institutionsFloatPercentHeld": 0.90205,
-    "institutionsCount": 1558
+    "institutionsFloatPercentHeld": 0.90206003,
+    "institutionsCount": 1559
   },
   "earnings": {
     "maxAge": 86400,
@@ -253,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-07T09:54:27.000Z",
+        "firm": "Scotiabank",
+        "toGrade": "Sector Outperform",
+        "fromGrade": "Sector Perform",
+        "action": "up",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 300,
+        "priorPriceTarget": 225
+      },
       {
         "epochGradeDate": "2026-06-15T14:06:35.000Z",
         "firm": "Citizens",
@@ -3539,24 +3557,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.010300961,
-    "postMarketChange": -2.550003,
-    "postMarketTime": "2026-07-06T23:59:03.000Z",
-    "postMarketPrice": 245,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.021203699,
-    "regularMarketChange": 5.14,
-    "regularMarketTime": "2026-07-06T20:00:03.000Z",
+    "postMarketChangePercent": -0.008818914,
+    "postMarketChange": -2.3707886,
+    "postMarketTime": "2026-07-08T00:00:00.000Z",
+    "postMarketPrice": 266.4592,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.0859624,
+    "regularMarketChange": 21.28,
+    "regularMarketTime": "2026-07-07T20:03:59.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 247.55,
-    "regularMarketDayHigh": 250.86,
-    "regularMarketDayLow": 239.64,
-    "regularMarketVolume": 1783173,
-    "averageDailyVolume10Day": 3371620,
-    "averageDailyVolume3Month": 4455921,
-    "regularMarketPreviousClose": 242.41,
+    "regularMarketPrice": 268.83,
+    "regularMarketDayHigh": 274,
+    "regularMarketDayLow": 254,
+    "regularMarketVolume": 6152115,
+    "averageDailyVolume10Day": 3414130,
+    "averageDailyVolume3Month": 4456837,
+    "regularMarketPreviousClose": 247.55,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 240.73,
+    "regularMarketOpen": 259.175,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -3567,27 +3585,27 @@
     "shortName": "Cloudflare, Inc.",
     "longName": "Cloudflare, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 87865286656
+    "marketCap": 95418392576
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 85044412416,
-    "forwardPE": 156.81319,
+    "enterpriseValue": 94382989312,
+    "forwardPE": 170.29323,
     "profitMargins": -0.037249997,
-    "floatShares": 317373809,
+    "floatShares": 317398551,
     "sharesOutstanding": 321184834,
     "sharesShort": 8937668,
     "sharesShortPriorMonth": "1970-04-15T02:26:29.000Z",
     "sharesShortPreviousMonthDate": "2026-05-15T00:00:00.000Z",
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0252,
-    "heldPercentInsiders": 0.0065499996,
+    "heldPercentInsiders": 0.00656,
     "heldPercentInstitutions": 0.89614,
     "shortRatio": 2.24,
     "shortPercentOfFloat": 0.031600002,
@@ -3595,21 +3613,21 @@
     "impliedSharesOutstanding": 354939564,
     "category": null,
     "bookValue": 4.32,
-    "priceToBook": 57.303238,
+    "priceToBook": 62.22916,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": -86740000,
-    "trailingEps": -0.24,
+    "trailingEps": -0.27,
     "forwardEps": 1.57863,
     "pegRatio": 2.38,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 36.522,
-    "enterpriseToEbitda": -2343.919,
-    "52WeekChange": 0.25698733,
-    "SandP52WeekChange": 0.20116603,
+    "enterpriseToRevenue": 40.532,
+    "enterpriseToEbitda": -2601.301,
+    "52WeekChange": 0.39427412,
+    "SandP52WeekChange": 0.20533705,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3653,7 +3671,31 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "LEDBETTER CARL",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 842,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "HAWKINS MARK J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 842,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SANDELL SCOTT D",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
@@ -4899,8 +4941,8 @@
         "shares": 21889,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "ZATLYN MICHELLE",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2025-11-14T00:00:00.000Z",
         "ownership": "D"
@@ -4910,8 +4952,8 @@
         "shares": 21889,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ZATLYN MICHELLE",
-        "filerRelation": "President",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-11-14T00:00:00.000Z",
         "ownership": "D"
@@ -4941,6 +4983,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 2520,
+        "value": 632096,
+        "filerUrl": "",
+        "transactionText": "Sale at price 245.68 - 257.23 per share.",
+        "filerName": "GRAHAM-CUMMING JOHN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-11-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1000,
         "value": 254150,
         "filerUrl": "",
@@ -4965,12 +5019,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 2520,
-        "value": 632096,
+        "shares": 18500,
+        "value": 4590035,
         "filerUrl": "",
-        "transactionText": "Sale at price 245.68 - 257.23 per share.",
-        "filerName": "GRAHAM-CUMMING JOHN",
-        "filerRelation": "Director",
+        "transactionText": "Conversion of Exercise of derivative security at price 248.11 per share.",
+        "filerName": "KRAMER DOUGLAS JAMES",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-03T00:00:00.000Z",
         "ownership": "D"
@@ -4983,18 +5037,6 @@
         "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
         "filerName": "GRAHAM-CUMMING JOHN",
         "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 18500,
-        "value": 4590035,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 248.11 per share.",
-        "filerName": "KRAMER DOUGLAS JAMES",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-03T00:00:00.000Z",
         "ownership": "D"
@@ -5342,17 +5384,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 157152,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-08-20T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 10000,
         "filerUrl": "",
         "transactionText": "",
@@ -5364,14 +5395,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 21888,
+        "shares": 157152,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "PRINCE MATTHEW",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-08-15T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2025-08-20T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5383,30 +5414,18 @@
         "moneyText": "",
         "startDate": "2025-08-15T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 15000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "KRAMER DOUGLAS JAMES",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-04T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 247.55,
+    "currentPrice": 268.83,
     "targetHighPrice": 305,
     "targetLowPrice": 136,
-    "targetMeanPrice": 243.64871,
-    "targetMedianPrice": 255,
-    "recommendationMean": 1.91176,
+    "targetMeanPrice": 246.06805,
+    "targetMedianPrice": 260,
+    "recommendationMean": 1.88235,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 31,
     "totalCash": 4163877888,
@@ -5430,6 +5449,6 @@
     "profitMargins": -0.037249997,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-07T06:08:38.573Z",
+  "lastUpdated": "2026-07-08T05:22:31.346Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -12,13 +12,21 @@
       {
         "period": "-1m",
         "strongBuy": 6,
+        "buy": 15,
+        "hold": 3,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 6,
         "buy": 16,
         "hold": 2,
         "sell": 0,
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 6,
         "buy": 16,
         "hold": 3,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.076,
         "position": 539258516,
-        "value": 32301585931,
+        "value": 32280015096,
         "pctChange": -0.0058999998
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Berkshire Hathaway, Inc",
         "pctHeld": 0.072399996,
         "position": 513624165,
-        "value": 30766088267,
+        "value": 30745542830,
         "pctChange": -0.0070999996
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0577,
         "position": 409704665,
-        "value": 24541310058,
+        "value": 24524921496,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0416,
         "position": 294909309,
-        "value": 17665068059,
+        "value": 17653271416,
         "pctChange": -0.012
       },
       {
@@ -73,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.027999999,
         "position": 198484617,
-        "value": 11889228861,
+        "value": 11881289294,
         "pctChange": -0.0759
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.023,
         "position": 163431813,
-        "value": 9789565848,
+        "value": 9783028425,
         "pctChange": 1
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0223,
         "position": 157925189,
-        "value": 9459719062,
+        "value": 9453401909,
         "pctChange": 0.0223
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.020299999,
         "position": 144289396,
-        "value": 8642935040,
+        "value": 8637163332,
         "pctChange": 0.0211
       },
       {
@@ -109,7 +117,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0186,
         "position": 132271796,
-        "value": 7923080782,
+        "value": 7917789789,
         "pctChange": -0.18129998
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0153,
         "position": 108670801,
-        "value": 6509381145,
+        "value": 6505034214,
         "pctChange": -0.0365
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.0734,
-    "institutionsPercentHeld": 0.70578,
-    "institutionsFloatPercentHeld": 0.76168996,
-    "institutionsCount": 4345
+    "institutionsPercentHeld": 0.70581,
+    "institutionsFloatPercentHeld": 0.76171994,
+    "institutionsCount": 4346
   },
   "earnings": {
     "maxAge": 86400,
@@ -179,7 +187,7 @@
           "reportedDate": 1776249884
         }
       ],
-      "currentQuarterEstimate": 1.10541,
+      "currentQuarterEstimate": 1.11684,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -253,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-07T13:35:05.000Z",
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 68,
+        "priorPriceTarget": 63
+      },
       {
         "epochGradeDate": "2026-07-06T15:38:57.000Z",
         "firm": "Evercore ISI Group",
@@ -4389,24 +4407,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0013355261,
-    "postMarketChange": 0.07999802,
-    "postMarketTime": "2026-07-06T23:58:59.000Z",
-    "postMarketPrice": 59.98,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0199217,
-    "regularMarketChange": 1.17,
-    "regularMarketTime": "2026-07-06T20:00:03.000Z",
+    "postMarketChangePercent": 0,
+    "postMarketChange": 0,
+    "postMarketTime": "2026-07-07T23:59:38.000Z",
+    "postMarketPrice": 59.86,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.000667795,
+    "regularMarketChange": -0.0400009,
+    "regularMarketTime": "2026-07-07T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 59.9,
-    "regularMarketDayHigh": 59.93,
-    "regularMarketDayLow": 58.92,
-    "regularMarketVolume": 34491606,
-    "averageDailyVolume10Day": 38683170,
-    "averageDailyVolume3Month": 36110285,
-    "regularMarketPreviousClose": 58.73,
+    "regularMarketPrice": 59.86,
+    "regularMarketDayHigh": 60.825,
+    "regularMarketDayLow": 59.79,
+    "regularMarketVolume": 29222675,
+    "averageDailyVolume10Day": 34167490,
+    "averageDailyVolume3Month": 36099838,
+    "regularMarketPreviousClose": 59.9,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 59.14,
+    "regularMarketOpen": 60.285,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -4417,18 +4435,18 @@
     "shortName": "Bank of America Corporation",
     "longName": "Bank of America Corporation",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 425085796352
+    "marketCap": 424801927168
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 398697791488,
-    "forwardPE": 11.768034,
+    "enterpriseValue": 398413922304,
+    "forwardPE": 11.710527,
     "profitMargins": 0.28956,
     "floatShares": 7069126845,
     "sharesOutstanding": 7096590651,
@@ -4438,14 +4456,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0,
     "heldPercentInsiders": 0.0734,
-    "heldPercentInstitutions": 0.70578,
+    "heldPercentInstitutions": 0.70581,
     "shortRatio": 0,
     "shortPercentOfFloat": 0,
     "beta": 1.175,
     "impliedSharesOutstanding": 7096590651,
     "category": null,
     "bookValue": 38.664,
-    "priceToBook": 1.5492448,
+    "priceToBook": 1.5482101,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4454,15 +4472,15 @@
     "earningsQuarterlyGrowth": 0.166,
     "netIncomeToCommon": 30256001024,
     "trailingEps": 4.03,
-    "forwardEps": 5.10767,
-    "pegRatio": 1.05,
+    "forwardEps": 5.11422,
+    "pegRatio": 1.07,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1093824000,
-    "enterpriseToRevenue": 3.638,
-    "52WeekChange": 0.20694613,
-    "SandP52WeekChange": 0.20116603,
+    "enterpriseToRevenue": 3.635,
+    "52WeekChange": 0.26956522,
+    "SandP52WeekChange": 0.20533705,
     "lastDividendValue": 0.28,
-    "lastDividendDate": "2026-06-05T00:00:00.000Z",
+    "lastDividendDate": "2026-03-06T00:00:00.000Z",
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -6201,11 +6219,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 59.9,
+    "currentPrice": 59.86,
     "targetHighPrice": 71,
-    "targetLowPrice": 57.5,
-    "targetMeanPrice": 64.11905,
-    "targetMedianPrice": 64,
+    "targetLowPrice": 58,
+    "targetMeanPrice": 65.30952,
+    "targetMedianPrice": 65,
     "recommendationMean": 1.5,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 21,
@@ -6226,6 +6244,6 @@
     "profitMargins": 0.28956,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-07T06:07:34.040Z",
+  "lastUpdated": "2026-07-08T05:21:27.507Z",
   "source": "Static Build (yahoo-finance2)"
 }
