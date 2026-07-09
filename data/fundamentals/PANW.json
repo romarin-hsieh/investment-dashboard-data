@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.7436,
         "position": 72431433,
-        "value": 24412290797,
+        "value": 23220792840,
         "pctChange": 0.216
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.5417,
         "position": 52765656,
-        "value": 17784137149,
+        "value": 16916141463,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.3643,
         "position": 35486318,
-        "value": 11960308921,
+        "value": 11376558557,
         "pctChange": 0.1699
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.3318,
         "position": 32318958,
-        "value": 10892781880,
+        "value": 10361134626,
         "pctChange": 0.060900003
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.2308,
         "position": 22476753,
-        "value": 7575565023,
+        "value": 7205822161,
         "pctChange": 0.1601
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.20120001,
         "position": 19601462,
-        "value": 6606476919,
+        "value": 6284032630,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.1984,
         "position": 19323515,
-        "value": 6512797660,
+        "value": 6194925603,
         "pctChange": 0.2085
       },
       {
@@ -108,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.1383,
         "position": 13469336,
-        "value": 4539705120,
+        "value": 4318134378,
         "pctChange": 0.1709
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Northern Trust Corporation",
         "pctHeld": 0.089099996,
         "position": 8680485,
-        "value": 2925670738,
+        "value": 2782876654,
         "pctChange": 0.1542
       },
       {
@@ -126,7 +126,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.0848,
         "position": 8255352,
-        "value": 2782383908,
+        "value": 2646583267,
         "pctChange": -0.065799996
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00759,
-    "institutionsPercentHeld": 0.83103997,
-    "institutionsFloatPercentHeld": 0.83739996,
-    "institutionsCount": 3358
+    "institutionsPercentHeld": 0.83068,
+    "institutionsFloatPercentHeld": 0.83703005,
+    "institutionsCount": 3367
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-08T14:49:18.000Z",
+        "firm": "Evercore ISI Group",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 320,
+        "priorPriceTarget": 375
+      },
       {
         "epochGradeDate": "2026-07-07T10:33:12.000Z",
         "firm": "Needham",
@@ -9197,24 +9207,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0076845367,
-    "postMarketChange": -2.5899963,
-    "postMarketTime": "2026-07-07T23:59:49.000Z",
-    "postMarketPrice": 334.45,
+    "postMarketChangePercent": 0.0016803278,
+    "postMarketChange": 0.5386963,
+    "postMarketTime": "2026-07-08T23:59:57.000Z",
+    "postMarketPrice": 321.1287,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0573098,
-    "regularMarketChange": -20.49,
-    "regularMarketTime": "2026-07-07T20:00:01.000Z",
+    "regularMarketChangePercent": -0.0488073,
+    "regularMarketChange": -16.45,
+    "regularMarketTime": "2026-07-08T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 337.04,
-    "regularMarketDayHigh": 362.835,
-    "regularMarketDayLow": 336,
-    "regularMarketVolume": 8756981,
-    "averageDailyVolume10Day": 8001090,
-    "averageDailyVolume3Month": 8383237,
-    "regularMarketPreviousClose": 357.53,
+    "regularMarketPrice": 320.59,
+    "regularMarketDayHigh": 336.798,
+    "regularMarketDayLow": 314.95,
+    "regularMarketVolume": 9326233,
+    "averageDailyVolume10Day": 8402940,
+    "averageDailyVolume3Month": 8337940,
+    "regularMarketPreviousClose": 337.04,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 359.87,
+    "regularMarketOpen": 336.798,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -9230,13 +9240,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 274687606784
+    "marketCap": 261280841728
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 273706598400,
-    "forwardPE": 81.81059,
+    "enterpriseValue": 260299849728,
+    "forwardPE": 77.817635,
     "profitMargins": 0.07947,
     "floatShares": 808194750,
     "sharesOutstanding": 815000000,
@@ -9246,29 +9256,29 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0276,
     "heldPercentInsiders": 0.00759,
-    "heldPercentInstitutions": 0.83103997,
+    "heldPercentInstitutions": 0.83068,
     "shortRatio": 2.36,
     "shortPercentOfFloat": 0.0278,
     "beta": 0.908,
     "impliedSharesOutstanding": 815000000,
     "category": null,
     "bookValue": 34.032,
-    "priceToBook": 9.90362,
+    "priceToBook": 9.420251,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-07-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-07-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
     "netIncomeToCommon": 842899968,
-    "trailingEps": 1.08,
-    "forwardEps": 4.11976,
+    "trailingEps": 1.09,
+    "forwardEps": 4.11937,
     "pegRatio": 5.83,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1734307200,
-    "enterpriseToRevenue": 25.806,
-    "enterpriseToEbitda": 184.501,
-    "52WeekChange": 0.6522379,
-    "SandP52WeekChange": 0.20533705,
+    "enterpriseToRevenue": 24.542,
+    "enterpriseToEbitda": 175.463,
+    "52WeekChange": 0.555809,
+    "SandP52WeekChange": 0.19469893,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -9344,6 +9354,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 20000,
+        "value": 5597911,
+        "filerUrl": "",
+        "transactionText": "Sale at price 277.89 - 281.64 per share.",
+        "filerName": "GOETZ JAMES JOSEPH",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-12T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 1468,
         "value": 399835,
         "filerUrl": "",
@@ -9365,18 +9387,6 @@
         "moneyText": "",
         "startDate": "2026-06-12T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 20000,
-        "value": 5597911,
-        "filerUrl": "",
-        "transactionText": "Sale at price 277.89 - 281.64 per share.",
-        "filerName": "GOETZ JAMES JOSEPH",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-12T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -9428,24 +9438,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 1100,
-        "value": 177540,
-        "filerUrl": "",
-        "transactionText": "Sale at price 161.40 per share.",
-        "filerName": "PAUL JOSHUA D.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 5000,
         "value": 802077,
         "filerUrl": "",
         "transactionText": "Sale at price 157.81 - 160.70 per share.",
         "filerName": "GOLECHHA DIPAK",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1100,
+        "value": 177540,
+        "filerUrl": "",
+        "transactionText": "Sale at price 161.40 per share.",
+        "filerName": "PAUL JOSHUA D.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
         "ownership": "D"
@@ -9512,6 +9522,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 24,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BAWA APARNA",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-02-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 165,
         "value": 0,
         "filerUrl": "",
@@ -9533,18 +9555,6 @@
         "moneyText": "",
         "startDate": "2026-02-12T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 24,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BAWA APARNA",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-02-12T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -9572,24 +9582,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 800,
-        "value": 147848,
-        "filerUrl": "",
-        "transactionText": "Sale at price 184.81 per share.",
-        "filerName": "PAUL JOSHUA D.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 904,
         "value": 167068,
         "filerUrl": "",
         "transactionText": "Sale at price 184.81 per share.",
         "filerName": "JENKINS WILLIAM D JR",
         "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2026-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 800,
+        "value": 147848,
+        "filerUrl": "",
+        "transactionText": "Sale at price 184.81 per share.",
+        "filerName": "PAUL JOSHUA D.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-02T00:00:00.000Z",
         "ownership": "D"
@@ -9644,6 +9654,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 2160,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BAWA APARNA",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-12-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2288,
         "value": 0,
         "filerUrl": "",
@@ -9668,11 +9690,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1881,
+        "shares": 2516,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "ESCHENBACH CARL M",
+        "filerName": "DONOVAN JOHN M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-09T00:00:00.000Z",
@@ -9680,11 +9702,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 2516,
+        "shares": 1881,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "DONOVAN JOHN M",
+        "filerName": "ESCHENBACH CARL M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-09T00:00:00.000Z",
@@ -9709,18 +9731,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "MCCARTHY MARY PAT",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-12-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2160,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BAWA APARNA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-09T00:00:00.000Z",
@@ -10088,24 +10098,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 100000,
-        "value": 19866061,
-        "filerUrl": "",
-        "transactionText": "Sale at price 195.66 - 203.85 per share.",
-        "filerName": "ZUK NIR",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-07-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 600,
         "value": 122400,
         "filerUrl": "",
         "transactionText": "Sale at price 204.00 per share.",
         "filerName": "PAUL JOSHUA D.",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-07-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 100000,
+        "value": 19866061,
+        "filerUrl": "",
+        "transactionText": "Sale at price 195.66 - 203.85 per share.",
+        "filerName": "ZUK NIR",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -10520,24 +10530,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 788404,
-        "value": 26083085,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 33.08 per share.",
-        "filerName": "ARORA NIKESH",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-01-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 120000,
         "value": 3870000,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 32.25 per share.",
         "filerName": "KLARICH LEE",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 788404,
+        "value": 26083085,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 33.08 per share.",
+        "filerName": "ARORA NIKESH",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-01-06T00:00:00.000Z",
         "ownership": "D"
@@ -10592,11 +10602,35 @@
       },
       {
         "maxAge": 1,
+        "shares": 978,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BAWA APARNA",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-12-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1003,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "KEY JOHN PHILLIP",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-12-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1092,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "DONOVAN JOHN M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2024-12-10T00:00:00.000Z",
@@ -10628,18 +10662,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1092,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "DONOVAN JOHN M",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-12-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 927,
         "value": 0,
         "filerUrl": "",
@@ -10664,14 +10686,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 978,
-        "value": 0,
+        "shares": 9000,
+        "value": 3648465,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BAWA APARNA",
+        "transactionText": "Sale at price 405.38 per share.",
+        "filerName": "ESCHENBACH CARL M",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2024-12-10T00:00:00.000Z",
+        "startDate": "2024-12-04T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -10688,23 +10710,23 @@
       },
       {
         "maxAge": 1,
-        "shares": 9000,
-        "value": 3648465,
-        "filerUrl": "",
-        "transactionText": "Sale at price 405.38 per share.",
-        "filerName": "ESCHENBACH CARL M",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-12-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 60000,
         "value": 3870198,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 64.50 per share.",
         "filerName": "KLARICH LEE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-12-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 200,
+        "value": 78048,
+        "filerUrl": "",
+        "transactionText": "Sale at price 390.24 per share.",
+        "filerName": "PAUL JOSHUA D.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-12-02T00:00:00.000Z",
@@ -10730,18 +10752,6 @@
         "transactionText": "Sale at price 390.24 per share.",
         "filerName": "GOLECHHA DIPAK",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2024-12-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 200,
-        "value": 78048,
-        "filerUrl": "",
-        "transactionText": "Sale at price 390.24 per share.",
-        "filerName": "PAUL JOSHUA D.",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-12-02T00:00:00.000Z",
         "ownership": "D"
@@ -10940,24 +10950,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 66666,
-        "value": 4411069,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 66.17 per share.",
-        "filerName": "ARORA NIKESH",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2024-09-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 60000,
         "value": 3870198,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 64.50 per share.",
         "filerName": "KLARICH LEE",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-09-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 66666,
+        "value": 4411069,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 66.17 per share.",
+        "filerName": "ARORA NIKESH",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2024-09-04T00:00:00.000Z",
         "ownership": "D"
@@ -11000,6 +11010,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 200,
+        "value": 71814,
+        "filerUrl": "",
+        "transactionText": "Sale at price 359.07 per share.",
+        "filerName": "PAUL JOSHUA D.",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-09-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 36000,
         "value": 12929956,
         "filerUrl": "",
@@ -11018,18 +11040,6 @@
         "transactionText": "Sale at price 359.07 per share.",
         "filerName": "GOLECHHA DIPAK",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2024-09-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 200,
-        "value": 71814,
-        "filerUrl": "",
-        "transactionText": "Sale at price 359.07 per share.",
-        "filerName": "PAUL JOSHUA D.",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-09-03T00:00:00.000Z",
         "ownership": "D"
@@ -11099,7 +11109,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 337.04,
+    "currentPrice": 320.59,
     "targetHighPrice": 433,
     "targetLowPrice": 162.34,
     "targetMeanPrice": 322.2049,
@@ -11128,6 +11138,6 @@
     "profitMargins": 0.07947,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-08T05:20:55.898Z",
+  "lastUpdated": "2026-07-09T06:03:58.638Z",
   "source": "Static Build (yahoo-finance2)"
 }

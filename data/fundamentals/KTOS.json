@@ -37,7 +37,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1689,
         "position": 31663184,
-        "value": 1593924687,
+        "value": 1595191243,
         "pctChange": 0.1173
       },
       {
@@ -46,7 +46,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0475,
         "position": 8911499,
-        "value": 448604861,
+        "value": 448961329,
         "pctChange": 0.088
       },
       {
@@ -55,7 +55,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0461,
         "position": 8650496,
-        "value": 435465969,
+        "value": 435811997,
         "pctChange": 1
       },
       {
@@ -64,7 +64,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.044099998,
         "position": 8274730,
-        "value": 416549909,
+        "value": 416880906,
         "pctChange": 1
       },
       {
@@ -73,7 +73,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.028099999,
         "position": 5264282,
-        "value": 265003956,
+        "value": 265214532,
         "pctChange": 0.184
       },
       {
@@ -82,7 +82,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0274,
         "position": 5137574,
-        "value": 258625475,
+        "value": 258830983,
         "pctChange": 0.90120006
       },
       {
@@ -91,7 +91,7 @@
         "organization": "Franklin Resources, Inc.",
         "pctHeld": 0.0212,
         "position": 3977702,
-        "value": 200237519,
+        "value": 200396631,
         "pctChange": -0.005
       },
       {
@@ -100,7 +100,7 @@
         "organization": "ARK Investment Management, LLC",
         "pctHeld": 0.0186,
         "position": 3491194,
-        "value": 175746706,
+        "value": 175886357,
         "pctChange": 0.0107
       },
       {
@@ -109,7 +109,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.0165,
         "position": 3093333,
-        "value": 155718383,
+        "value": 155842119,
         "pctChange": 0.1751
       },
       {
@@ -118,7 +118,7 @@
         "organization": "Nomura Asset Management International Inc",
         "pctHeld": 0.0148,
         "position": 2782153,
-        "value": 140053582,
+        "value": 140164871,
         "pctChange": 0.0775
       }
     ]
@@ -127,8 +127,8 @@
     "maxAge": 1,
     "insidersPercentHeld": 0.013359999,
     "institutionsPercentHeld": 0.94135004,
-    "institutionsFloatPercentHeld": 0.9541,
-    "institutionsCount": 915
+    "institutionsFloatPercentHeld": 0.95408994,
+    "institutionsCount": 912
   },
   "earnings": {
     "maxAge": 86400,
@@ -253,6 +253,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-08T17:29:51.000Z",
+        "firm": "Jefferies",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 80,
+        "priorPriceTarget": 80
+      },
       {
         "epochGradeDate": "2026-07-01T14:01:39.000Z",
         "firm": "Wedbush",
@@ -1569,24 +1579,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.003178384,
-    "postMarketChange": 0.15999985,
-    "postMarketTime": "2026-07-07T23:59:54.000Z",
-    "postMarketPrice": 50.5,
+    "postMarketChangePercent": 0.008138147,
+    "postMarketChange": 0.40999985,
+    "postMarketTime": "2026-07-08T23:59:48.000Z",
+    "postMarketPrice": 50.79,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0597684,
-    "regularMarketChange": -3.2,
-    "regularMarketTime": "2026-07-07T20:00:01.000Z",
+    "regularMarketChangePercent": 0.000794615,
+    "regularMarketChange": 0.0400009,
+    "regularMarketTime": "2026-07-08T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 50.34,
-    "regularMarketDayHigh": 54.52,
-    "regularMarketDayLow": 49.7651,
-    "regularMarketVolume": 3620120,
-    "averageDailyVolume10Day": 7450880,
-    "averageDailyVolume3Month": 4843246,
-    "regularMarketPreviousClose": 53.54,
+    "regularMarketPrice": 50.38,
+    "regularMarketDayHigh": 51.805,
+    "regularMarketDayLow": 49.66,
+    "regularMarketVolume": 3345166,
+    "averageDailyVolume10Day": 7426550,
+    "averageDailyVolume3Month": 4839175,
+    "regularMarketPreviousClose": 50.34,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 53.73,
+    "regularMarketOpen": 50.21,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -1602,13 +1612,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 9439756288
+    "marketCap": 9447257088
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 8160856064,
-    "forwardPE": 46.71666,
+    "enterpriseValue": 8168356864,
+    "forwardPE": 46.75378,
     "profitMargins": 0.020769998,
     "floatShares": 184757815,
     "sharesOutstanding": 187519984,
@@ -1625,7 +1635,7 @@
     "impliedSharesOutstanding": 187519984,
     "category": null,
     "bookValue": 18.197,
-    "priceToBook": 2.76639,
+    "priceToBook": 2.7685883,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-28T00:00:00.000Z",
@@ -1633,15 +1643,15 @@
     "mostRecentQuarter": "2026-03-29T00:00:00.000Z",
     "earningsQuarterlyGrowth": 1.644,
     "netIncomeToCommon": 29400000,
-    "trailingEps": 0.16,
-    "forwardEps": 1.07756,
+    "trailingEps": 0.17,
+    "forwardEps": 1.08991,
     "pegRatio": 36.41,
     "lastSplitFactor": "1:10",
     "lastSplitDate": 1252627200,
-    "enterpriseToRevenue": 5.767,
-    "enterpriseToEbitda": 100.503,
-    "52WeekChange": 0.13531804,
-    "SandP52WeekChange": 0.20533705,
+    "enterpriseToRevenue": 5.772,
+    "enterpriseToEbitda": 100.596,
+    "52WeekChange": 0.09474146,
+    "SandP52WeekChange": 0.19469893,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1780,24 +1790,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 7000,
-        "value": 400693,
-        "filerUrl": "",
-        "transactionText": "Sale at price 56.92 - 58.62 per share.",
-        "filerName": "FENDLEY STEVEN S",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-05-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2500,
         "value": 143225,
         "filerUrl": "",
         "transactionText": "Sale at price 57.29 per share.",
         "filerName": "DOORENBOS BOBBI",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7000,
+        "value": 400693,
+        "filerUrl": "",
+        "transactionText": "Sale at price 56.92 - 58.62 per share.",
+        "filerName": "FENDLEY STEVEN S",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-26T00:00:00.000Z",
         "ownership": "D"
@@ -1958,18 +1968,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 30500,
-        "value": 2171297,
-        "filerUrl": "",
-        "transactionText": "Sale at price 70.14 - 72.26 per share.",
-        "filerName": "HOGLUND WILLIAM A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-04-01T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 5000,
         "value": 348130,
         "filerUrl": "",
@@ -1979,6 +1977,18 @@
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 30500,
+        "value": 2171297,
+        "filerUrl": "",
+        "transactionText": "Sale at price 70.14 - 72.26 per share.",
+        "filerName": "HOGLUND WILLIAM A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2042,24 +2052,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 1516,
-        "value": 134883,
-        "filerUrl": "",
-        "transactionText": "Sale at price 87.55 - 90.95 per share.",
-        "filerName": "MENDOZA MARIE C",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-03-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 6270,
         "value": 559845,
         "filerUrl": "",
         "transactionText": "Sale at price 87.36 - 90.45 per share.",
         "filerName": "CERVANTES DE BURGREEN MARIA",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1516,
+        "value": 134883,
+        "filerUrl": "",
+        "transactionText": "Sale at price 87.55 - 90.95 per share.",
+        "filerName": "MENDOZA MARIE C",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2026-03-16T00:00:00.000Z",
         "ownership": "D"
@@ -2483,6 +2493,39 @@
       },
       {
         "maxAge": 1,
+        "shares": 15000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MILLS THOMAS E IV",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 150000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "DEMARCO ERIC M",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-01-02T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 75000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LUND DEANNA HOM",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 27500,
         "filerUrl": "",
         "transactionText": "",
@@ -2542,39 +2585,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "ADELMAN JONAH",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 150000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "DEMARCO ERIC M",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-01-02T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 75000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LUND DEANNA HOM",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 15000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MILLS THOMAS E IV",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-02T00:00:00.000Z",
@@ -3456,7 +3466,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 50.34,
+    "currentPrice": 50.38,
     "targetHighPrice": 150,
     "targetLowPrice": 60,
     "targetMeanPrice": 109.85714,
@@ -3486,6 +3496,6 @@
     "profitMargins": 0.020769998,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-08T05:20:01.571Z",
+  "lastUpdated": "2026-07-09T06:03:05.233Z",
   "source": "Static Build (yahoo-finance2)"
 }

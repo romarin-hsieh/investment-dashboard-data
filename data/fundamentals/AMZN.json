@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0684,
         "position": 735564992,
-        "value": 180934273589,
+        "value": 179198339759,
         "pctChange": 0.0016
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0587,
         "position": 631176205,
-        "value": 155256720209,
+        "value": 153767143980,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0363,
         "position": 390450321,
-        "value": 96042968291,
+        "value": 95121505295,
         "pctChange": 0.0046
       },
       {
@@ -72,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.033299997,
         "position": 358698691,
-        "value": 88232702479,
+        "value": 87386173349,
         "pctChange": 0.082100004
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0217,
         "position": 233228057,
-        "value": 57369436464,
+        "value": 56819018107,
         "pctChange": 0.036
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0162,
         "position": 173925856,
-        "value": 42782281315,
+        "value": 42371816189,
         "pctChange": 0.0764
       },
       {
@@ -99,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.015700001,
         "position": 168937577,
-        "value": 41555264468,
+        "value": 41156571683,
         "pctChange": 0.0556
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0117999995,
         "position": 127012849,
-        "value": 31242620054,
+        "value": 30942869653,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0114,
         "position": 122998950,
-        "value": 30255281195,
+        "value": 29965003598,
         "pctChange": -0.0608
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.011,
         "position": 118434267,
-        "value": 29132460490,
+        "value": 28852955548,
         "pctChange": 0.3154
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.08898,
-    "institutionsPercentHeld": 0.67961997,
-    "institutionsFloatPercentHeld": 0.74601,
-    "institutionsCount": 7689
+    "institutionsPercentHeld": 0.67934996,
+    "institutionsFloatPercentHeld": 0.74571,
+    "institutionsCount": 7694
   },
   "earnings": {
     "maxAge": 86400,
@@ -196,7 +196,7 @@
       "earningsDate": [
         "2026-07-30T20:00:00.000Z"
       ],
-      "isEarningsDateEstimate": true
+      "isEarningsDateEstimate": false
     },
     "financialsChart": {
       "yearly": [
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-08T14:54:47.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 340,
+        "priorPriceTarget": 350
+      },
       {
         "epochGradeDate": "2026-07-02T10:45:37.000Z",
         "firm": "Wells Fargo",
@@ -10167,24 +10177,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0032929408,
-    "postMarketChange": -0.80999756,
-    "postMarketTime": "2026-07-07T23:59:58.000Z",
-    "postMarketPrice": 245.17,
+    "postMarketChangePercent": -0.0022169778,
+    "postMarketChange": -0.5401001,
+    "postMarketTime": "2026-07-08T23:59:56.000Z",
+    "postMarketPrice": 243.0799,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0074541597,
-    "regularMarketChange": 1.82001,
-    "regularMarketTime": "2026-07-07T20:00:01.000Z",
+    "regularMarketChangePercent": -0.00959428,
+    "regularMarketChange": -2.36,
+    "regularMarketTime": "2026-07-08T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 245.98,
-    "regularMarketDayHigh": 248.915,
-    "regularMarketDayLow": 242.7,
-    "regularMarketVolume": 40399011,
-    "averageDailyVolume10Day": 78329330,
-    "averageDailyVolume3Month": 51359745,
-    "regularMarketPreviousClose": 244.15999,
+    "regularMarketPrice": 243.62,
+    "regularMarketDayHigh": 244.8,
+    "regularMarketDayLow": 240.52,
+    "regularMarketVolume": 27799758,
+    "averageDailyVolume10Day": 75250320,
+    "averageDailyVolume3Month": 51014741,
+    "regularMarketPreviousClose": 245.98,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 247.32,
+    "regularMarketOpen": 244.14,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -10200,13 +10210,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 2646033825792
+    "marketCap": 2620647014400
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 2738484674560,
-    "forwardPE": 24.841146,
+    "enterpriseValue": 2713098125312,
+    "forwardPE": 24.602812,
     "profitMargins": 0.12224,
     "floatShares": 9779826044,
     "sharesOutstanding": 10757109436,
@@ -10215,14 +10225,14 @@
     "sharesShortPreviousMonthDate": "2026-05-15T00:00:00.000Z",
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "heldPercentInsiders": 0.08898,
-    "heldPercentInstitutions": 0.67961997,
+    "heldPercentInstitutions": 0.67934996,
     "shortRatio": 2.38,
     "shortPercentOfFloat": 0.0101,
     "beta": 1.461,
     "impliedSharesOutstanding": 10757109436,
     "category": null,
     "bookValue": 41.093,
-    "priceToBook": 5.9859343,
+    "priceToBook": 5.9285035,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -10230,15 +10240,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.767,
     "netIncomeToCommon": 90797998080,
-    "trailingEps": 7.77,
-    "forwardEps": 9.90251,
+    "trailingEps": 7.7,
+    "forwardEps": 9.89192,
     "pegRatio": 1.83,
     "lastSplitFactor": "20:1",
     "lastSplitDate": 1654473600,
-    "enterpriseToRevenue": 3.687,
-    "enterpriseToEbitda": 17.57,
-    "52WeekChange": 0.12135303,
-    "SandP52WeekChange": 0.20533705,
+    "enterpriseToRevenue": 3.653,
+    "enterpriseToEbitda": 17.407,
+    "52WeekChange": 0.094724536,
+    "SandP52WeekChange": 0.19469893,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -10327,6 +10337,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 20000,
+        "value": 5268342,
+        "filerUrl": "",
+        "transactionText": "Sale at price 261.95 - 265.61 per share.",
+        "filerName": "JASSY ANDREW R.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-05-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2363,
+        "value": 620003,
+        "filerUrl": "",
+        "transactionText": "Sale at price 261.83 - 263.99 per share.",
+        "filerName": "REYNOLDS SHELLEY L",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-05-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 15450,
         "filerUrl": "",
         "transactionText": "",
@@ -10364,30 +10398,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "ZAPOLSKY DAVID A.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-05-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 20000,
-        "value": 5268342,
-        "filerUrl": "",
-        "transactionText": "Sale at price 261.95 - 265.61 per share.",
-        "filerName": "JASSY ANDREW R.",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2363,
-        "value": 620003,
-        "filerUrl": "",
-        "transactionText": "Sale at price 261.83 - 263.99 per share.",
-        "filerName": "REYNOLDS SHELLEY L",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-21T00:00:00.000Z",
@@ -10836,6 +10846,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 19872,
+        "value": 4310952,
+        "filerUrl": "",
+        "transactionText": "Sale at price 215.82 - 219.46 per share.",
+        "filerName": "JASSY ANDREW R.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-11-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2695,
+        "value": 583222,
+        "filerUrl": "",
+        "transactionText": "Sale at price 216.07 - 217.57 per share.",
+        "filerName": "REYNOLDS SHELLEY L",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-11-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 17750,
         "filerUrl": "",
         "transactionText": "",
@@ -10873,30 +10907,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "ZAPOLSKY DAVID A.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-11-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 19872,
-        "value": 4310952,
-        "filerUrl": "",
-        "transactionText": "Sale at price 215.82 - 219.46 per share.",
-        "filerName": "JASSY ANDREW R.",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-11-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2695,
-        "value": 583222,
-        "filerUrl": "",
-        "transactionText": "Sale at price 216.07 - 217.57 per share.",
-        "filerName": "REYNOLDS SHELLEY L",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-21T00:00:00.000Z",
@@ -11171,50 +11181,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 17087,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HERRINGTON DOUGLAS J",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 20923,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GARMAN MATTHEW S",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 17750,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ZAPOLSKY DAVID A.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 17750,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "OLSAVSKY BRIAN T.",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-08-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 19872,
         "value": 4403259,
         "filerUrl": "",
@@ -11245,6 +11211,50 @@
         "transactionText": "Sale at price 222.74 per share.",
         "filerName": "OLSAVSKY BRIAN T.",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-08-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17750,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "OLSAVSKY BRIAN T.",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-08-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17087,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HERRINGTON DOUGLAS J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20923,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GARMAN MATTHEW S",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17750,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ZAPOLSKY DAVID A.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-21T00:00:00.000Z",
         "ownership": "D"
@@ -11488,6 +11498,42 @@
       },
       {
         "maxAge": 1,
+        "shares": 19872,
+        "value": 4000320,
+        "filerUrl": "",
+        "transactionText": "Sale at price 200.75 - 202.81 per share.",
+        "filerName": "JASSY ANDREW R.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-05-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2695,
+        "value": 541129,
+        "filerUrl": "",
+        "transactionText": "Sale at price 200.73 - 201.48 per share.",
+        "filerName": "REYNOLDS SHELLEY L",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-05-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17750,
+        "value": 3577868,
+        "filerUrl": "",
+        "transactionText": "Sale at price 201.57 per share.",
+        "filerName": "OLSAVSKY BRIAN T.",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-05-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 17750,
         "filerUrl": "",
         "transactionText": "",
@@ -11526,42 +11572,6 @@
         "transactionText": "",
         "filerName": "ZAPOLSKY DAVID A.",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-05-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 19872,
-        "value": 4000320,
-        "filerUrl": "",
-        "transactionText": "Sale at price 200.75 - 202.81 per share.",
-        "filerName": "JASSY ANDREW R.",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-05-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2695,
-        "value": 541129,
-        "filerUrl": "",
-        "transactionText": "Sale at price 200.73 - 201.48 per share.",
-        "filerName": "REYNOLDS SHELLEY L",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-05-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 17750,
-        "value": 3577868,
-        "filerUrl": "",
-        "transactionText": "Sale at price 201.57 per share.",
-        "filerName": "OLSAVSKY BRIAN T.",
-        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-05-21T00:00:00.000Z",
         "ownership": "D"
@@ -11755,39 +11765,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 14620,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "OLSAVSKY BRIAN T.",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-02-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 15260,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HERRINGTON DOUGLAS J",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 14620,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ZAPOLSKY DAVID A.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 20784,
         "value": 4586006,
         "filerUrl": "",
@@ -11818,6 +11795,39 @@
         "transactionText": "Sale at price 223.14 per share.",
         "filerName": "OLSAVSKY BRIAN T.",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-02-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 14620,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "OLSAVSKY BRIAN T.",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-02-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 15260,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HERRINGTON DOUGLAS J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 14620,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ZAPOLSKY DAVID A.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-21T00:00:00.000Z",
         "ownership": "D"
@@ -11975,10 +11985,23 @@
       },
       {
         "maxAge": 1,
-        "shares": 15260,
+        "shares": 20784,
+        "value": 4160373,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HERRINGTON DOUGLAS J",
+        "transactionText": "Sale at price 196.46 - 202.74 per share.",
+        "filerName": "JASSY ANDREW R.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2024-11-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3791,
+        "value": 759090,
+        "filerUrl": "",
+        "transactionText": "Sale at price 198.74 - 202.40 per share.",
+        "filerName": "REYNOLDS SHELLEY L",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-11-21T00:00:00.000Z",
@@ -11987,19 +12010,9 @@
       {
         "maxAge": 1,
         "shares": 14600,
+        "value": 2962048,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ZAPOLSKY DAVID A.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-11-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 14600,
-        "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Sale at price 202.88 per share.",
         "filerName": "OLSAVSKY BRIAN T.",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -12011,7 +12024,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 245.98,
+    "currentPrice": 243.62,
     "targetHighPrice": 370,
     "targetLowPrice": 207,
     "targetMeanPrice": 312.90628,
@@ -12041,6 +12054,6 @@
     "profitMargins": 0.12224,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-08T05:19:39.888Z",
+  "lastUpdated": "2026-07-09T06:02:42.808Z",
   "source": "Static Build (yahoo-finance2)"
 }

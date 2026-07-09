@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1017,
         "position": 21633053,
-        "value": 7435929545,
+        "value": 7310673983,
         "pctChange": -0.0301
       },
       {
@@ -54,7 +54,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0759,
         "position": 16133981,
-        "value": 5545733466,
+        "value": 5452317578,
         "pctChange": 0.0083
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0661,
         "position": 14050703,
-        "value": 4829648296,
+        "value": 4748294606,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.056399997,
         "position": 11999445,
-        "value": 4124569361,
+        "value": 4055092472,
         "pctChange": -0.0651
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.026500002,
         "position": 5641527,
-        "value": 1939162137,
+        "value": 1906497648,
         "pctChange": 0.0091
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0253,
         "position": 5390073,
-        "value": 1852729851,
+        "value": 1821521282,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Massachusetts Financial Services Co.",
         "pctHeld": 0.0231,
         "position": 4903665,
-        "value": 1685536824,
+        "value": 1657144562,
         "pctChange": -0.054899998
       },
       {
@@ -108,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0175,
         "position": 3726502,
-        "value": 1280910573,
+        "value": 1259334094,
         "pctChange": -0.4802
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0168,
         "position": 3572486,
-        "value": 1227970652,
+        "value": 1207285927,
         "pctChange": -0.0583
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Dimensional Fund Advisors LP",
         "pctHeld": 0.0164,
         "position": 3484676,
-        "value": 1197787719,
+        "value": 1177611415,
         "pctChange": 0.0368
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.0026699998,
-    "institutionsPercentHeld": 0.87924004,
-    "institutionsFloatPercentHeld": 0.88158995,
-    "institutionsCount": 2293
+    "institutionsPercentHeld": 0.87916,
+    "institutionsFloatPercentHeld": 0.88151,
+    "institutionsCount": 2297
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,36 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-08T17:55:10.000Z",
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 350,
+        "priorPriceTarget": 314
+      },
+      {
+        "epochGradeDate": "2026-07-08T17:15:25.000Z",
+        "firm": "Morgan Stanley",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 333,
+        "priorPriceTarget": 330
+      },
+      {
+        "epochGradeDate": "2026-07-08T10:53:19.000Z",
+        "firm": "Keefe, Bruyette & Woods",
+        "toGrade": "Market Perform",
+        "fromGrade": "Outperform",
+        "action": "down",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 356,
+        "priorPriceTarget": 342
+      },
       {
         "epochGradeDate": "2026-07-06T17:52:57.000Z",
         "firm": "Raymond James",
@@ -4557,24 +4587,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0036656072,
-    "postMarketChange": 1.2599792,
-    "postMarketTime": "2026-07-07T23:55:41.000Z",
-    "postMarketPrice": 344.99,
+    "postMarketChangePercent": -0.0013611631,
+    "postMarketChange": -0.45999146,
+    "postMarketTime": "2026-07-08T23:52:40.000Z",
+    "postMarketPrice": 337.48,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0134446,
-    "regularMarketChange": 4.56,
-    "regularMarketTime": "2026-07-07T20:00:02.000Z",
+    "regularMarketChangePercent": -0.0168446,
+    "regularMarketChange": -5.79001,
+    "regularMarketTime": "2026-07-08T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 343.73,
-    "regularMarketDayHigh": 349.35,
-    "regularMarketDayLow": 342.13,
-    "regularMarketVolume": 1369853,
-    "averageDailyVolume10Day": 1988560,
-    "averageDailyVolume3Month": 1671745,
-    "regularMarketPreviousClose": 339.17,
+    "regularMarketPrice": 337.94,
+    "regularMarketDayHigh": 342.74,
+    "regularMarketDayLow": 337.725,
+    "regularMarketVolume": 940847,
+    "averageDailyVolume10Day": 1744450,
+    "averageDailyVolume3Month": 1679103,
+    "regularMarketPreviousClose": 343.73,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 343.51,
+    "regularMarketOpen": 340.825,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -4590,13 +4620,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 73092358144
+    "marketCap": 71861149696
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 75219361792,
-    "forwardPE": 12.002145,
+    "enterpriseValue": 73988145152,
+    "forwardPE": 11.799973,
     "profitMargins": 0.15537,
     "floatShares": 211394342,
     "sharesOutstanding": 212644693,
@@ -4606,14 +4636,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.028199999,
     "heldPercentInsiders": 0.0026699998,
-    "heldPercentInstitutions": 0.87924004,
+    "heldPercentInstitutions": 0.87916,
     "shortRatio": 3.94,
     "shortPercentOfFloat": 0.031600002,
     "beta": 0.473,
     "impliedSharesOutstanding": 212644693,
     "category": null,
     "bookValue": 150.452,
-    "priceToBook": 2.2846491,
+    "priceToBook": 2.246165,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4621,15 +4651,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 3.332,
     "netIncomeToCommon": 7549000192,
-    "trailingEps": 33.96,
-    "forwardEps": 28.63905,
+    "trailingEps": 32.95,
+    "forwardEps": 28.64091,
     "pegRatio": 2.36,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 894931200,
-    "enterpriseToRevenue": 1.537,
-    "enterpriseToEbitda": 7.114,
-    "52WeekChange": 0.34065294,
-    "SandP52WeekChange": 0.20533705,
+    "enterpriseToRevenue": 1.512,
+    "enterpriseToEbitda": 6.997,
+    "52WeekChange": 0.32359397,
+    "SandP52WeekChange": 0.19469893,
     "lastDividendValue": 1.25,
     "lastDividendDate": "2026-06-10T00:00:00.000Z",
     "latestShareClass": null,
@@ -5188,6 +5218,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 1341,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MUNSON PAUL E",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 9238,
         "value": 0,
         "filerUrl": "",
@@ -5217,18 +5259,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "KLENK JEFFREY P",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1341,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MUNSON PAUL E",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-18T00:00:00.000Z",
@@ -6112,18 +6142,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 36199,
-        "value": 9925639,
-        "filerUrl": "",
-        "transactionText": "Sale at price 274.20 per share.",
-        "filerName": "OLIVO MARIA",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-05-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 35456,
         "value": 9707111,
         "filerUrl": "",
@@ -6160,12 +6178,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 20286,
-        "value": 5547740,
+        "shares": 36199,
+        "value": 9925639,
         "filerUrl": "",
-        "transactionText": "Sale at price 273.48 per share.",
-        "filerName": "FREY DANIEL S.",
-        "filerRelation": "Chief Financial Officer",
+        "transactionText": "Sale at price 274.20 per share.",
+        "filerName": "OLIVO MARIA",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-05-29T00:00:00.000Z",
         "ownership": "D"
@@ -6190,6 +6208,18 @@
         "transactionText": "Sale at price 273.29 per share.",
         "filerName": "MUNSON PAUL E",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-05-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20286,
+        "value": 5547740,
+        "filerUrl": "",
+        "transactionText": "Sale at price 273.48 per share.",
+        "filerName": "FREY DANIEL S.",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-05-29T00:00:00.000Z",
         "ownership": "D"
@@ -6463,7 +6493,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 343.73,
+    "currentPrice": 337.94,
     "targetHighPrice": 351,
     "targetLowPrice": 252,
     "targetMeanPrice": 316.26086,
@@ -6493,6 +6523,6 @@
     "profitMargins": 0.15537,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-08T05:22:56.500Z",
+  "lastUpdated": "2026-07-09T06:05:58.107Z",
   "source": "Static Build (yahoo-finance2)"
 }

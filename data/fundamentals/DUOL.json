@@ -37,7 +37,7 @@
         "organization": "BAILLIE GIFFORD & CO",
         "pctHeld": 0.121199995,
         "position": 4875810,
-        "value": 643363114,
+        "value": 622007080,
         "pctChange": 0.003
       },
       {
@@ -46,7 +46,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0991,
         "position": 3986466,
-        "value": 526014176,
+        "value": 508553466,
         "pctChange": 0.0225
       },
       {
@@ -55,7 +55,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0428,
         "position": 1723132,
-        "value": 227367262,
+        "value": 219819948,
         "pctChange": 1
       },
       {
@@ -64,7 +64,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.040599998,
         "position": 1632650,
-        "value": 215428162,
+        "value": 208277160,
         "pctChange": 1
       },
       {
@@ -73,7 +73,7 @@
         "organization": "FIL LTD",
         "pctHeld": 0.0403,
         "position": 1622805,
-        "value": 214129114,
+        "value": 207021233,
         "pctChange": 2.2616
       },
       {
@@ -82,7 +82,7 @@
         "organization": "Two Sigma Investments, LP",
         "pctHeld": 0.0347,
         "position": 1395544,
-        "value": 184142026,
+        "value": 178029547,
         "pctChange": 6.6516
       },
       {
@@ -91,7 +91,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.033099998,
         "position": 1332301,
-        "value": 175797112,
+        "value": 169961638,
         "pctChange": 5.1119
       },
       {
@@ -100,7 +100,7 @@
         "organization": "Federated Hermes, Inc.",
         "pctHeld": 0.0311,
         "position": 1253026,
-        "value": 165336776,
+        "value": 159848526,
         "pctChange": 13.2037
       },
       {
@@ -109,7 +109,7 @@
         "organization": "STATE OF MICHIGAN RETIREMENT SYSTEM",
         "pctHeld": 0.0297,
         "position": 1193307,
-        "value": 157456855,
+        "value": 152230173,
         "pctChange": 1.1290001
       },
       {
@@ -118,7 +118,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0294,
         "position": 1183644,
-        "value": 156181822,
+        "value": 150997464,
         "pctChange": 0.0228
       }
     ]
@@ -126,9 +126,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01533,
-    "institutionsPercentHeld": 0.98567003,
-    "institutionsFloatPercentHeld": 1.00102,
-    "institutionsCount": 544
+    "institutionsPercentHeld": 0.98569,
+    "institutionsFloatPercentHeld": 1.00103,
+    "institutionsCount": 545
   },
   "earnings": {
     "maxAge": 86400,
@@ -185,7 +185,9 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": [],
+      "earningsDate": [
+        "2026-08-05T20:00:00.000Z"
+      ],
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
@@ -251,6 +253,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-07T10:20:33.000Z",
+        "firm": "Wells Fargo",
+        "toGrade": "Underweight",
+        "fromGrade": "Underweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 82,
+        "priorPriceTarget": 81
+      },
       {
         "epochGradeDate": "2026-06-29T13:25:39.000Z",
         "firm": "DA Davidson",
@@ -2077,24 +2089,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.00037895457,
-    "postMarketChange": 0.05000305,
-    "postMarketTime": "2026-07-07T23:37:16.000Z",
-    "postMarketPrice": 132,
+    "postMarketChangePercent": -0.0003723494,
+    "postMarketChange": -0.04750061,
+    "postMarketTime": "2026-07-08T23:54:43.000Z",
+    "postMarketPrice": 127.5225,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0171908,
-    "regularMarketChange": 2.23,
-    "regularMarketTime": "2026-07-07T20:00:01.000Z",
+    "regularMarketChangePercent": -0.0331944,
+    "regularMarketChange": -4.38,
+    "regularMarketTime": "2026-07-08T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 131.95,
-    "regularMarketDayHigh": 135,
-    "regularMarketDayLow": 130.34,
-    "regularMarketVolume": 1094691,
-    "averageDailyVolume10Day": 1622630,
-    "averageDailyVolume3Month": 1747803,
-    "regularMarketPreviousClose": 129.72,
+    "regularMarketPrice": 127.57,
+    "regularMarketDayHigh": 130.27,
+    "regularMarketDayLow": 126.11,
+    "regularMarketVolume": 867354,
+    "averageDailyVolume10Day": 1513250,
+    "averageDailyVolume3Month": 1711845,
+    "regularMarketPreviousClose": 131.95,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 133.01,
+    "regularMarketOpen": 129.97,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -2110,13 +2122,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 6147961344
+    "marketCap": 5943883776
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 4988225024,
-    "forwardPE": 16.81963,
+    "enterpriseValue": 4784146944,
+    "forwardPE": 16.261312,
     "profitMargins": 0.38441002,
     "floatShares": 39770953,
     "sharesOutstanding": 40237065,
@@ -2126,14 +2138,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1698,
     "heldPercentInsiders": 0.01533,
-    "heldPercentInstitutions": 0.98567003,
+    "heldPercentInstitutions": 0.98569,
     "shortRatio": 5.52,
     "shortPercentOfFloat": 0.22629999,
     "beta": 0.88,
     "impliedSharesOutstanding": 46593117,
     "category": null,
     "bookValue": 29.711,
-    "priceToBook": 4.441116,
+    "priceToBook": 4.293696,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2141,13 +2153,13 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.237,
     "netIncomeToCommon": 422390016,
-    "trailingEps": 8.89,
+    "trailingEps": 8.45,
     "forwardEps": 7.845,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 4.54,
-    "enterpriseToEbitda": 28.118,
-    "52WeekChange": -0.66118884,
-    "SandP52WeekChange": 0.20533705,
+    "enterpriseToRevenue": 4.354,
+    "enterpriseToEbitda": 26.967,
+    "52WeekChange": -0.6735253,
+    "SandP52WeekChange": 0.19469893,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -2368,8 +2380,9 @@
       {
         "maxAge": 1,
         "shares": 50000,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "VON AHN LUIS ARELLANO",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -2379,9 +2392,8 @@
       {
         "maxAge": 1,
         "shares": 50000,
-        "value": 0,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "",
         "filerName": "VON AHN LUIS ARELLANO",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -2474,12 +2486,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 60000,
-        "value": 6724800,
+        "shares": 1000,
+        "value": 110060,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 112.08 per share.",
-        "filerName": "HACKER SEVERIN",
-        "filerRelation": "Chief Technology Officer",
+        "transactionText": "Sale at price 110.06 per share.",
+        "filerName": "MEESE ROBERT",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-17T00:00:00.000Z",
         "ownership": "D"
@@ -2498,12 +2510,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 1000,
-        "value": 110060,
+        "shares": 60000,
+        "value": 6724800,
         "filerUrl": "",
-        "transactionText": "Sale at price 110.06 per share.",
-        "filerName": "MEESE ROBERT",
-        "filerRelation": "Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 112.08 per share.",
+        "filerName": "HACKER SEVERIN",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2026-02-17T00:00:00.000Z",
         "ownership": "D"
@@ -2523,8 +2535,9 @@
       {
         "maxAge": 1,
         "shares": 50000,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -2534,9 +2547,8 @@
       {
         "maxAge": 1,
         "shares": 50000,
-        "value": 0,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -2582,9 +2594,9 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 380800,
+        "value": 1727441,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
+        "transactionText": "Sale at price 169.57 - 176.68 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -2594,9 +2606,9 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 1727441,
+        "value": 380800,
         "filerUrl": "",
-        "transactionText": "Sale at price 169.57 - 176.68 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -2654,18 +2666,6 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 380800,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
-        "filerName": "HACKER SEVERIN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-11-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
         "value": 2631299,
         "filerUrl": "",
         "transactionText": "Sale at price 257.92 - 266.87 per share.",
@@ -2684,7 +2684,7 @@
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2025-10-20T00:00:00.000Z",
+        "startDate": "2025-11-04T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2708,7 +2708,7 @@
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2025-10-06T00:00:00.000Z",
+        "startDate": "2025-10-20T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2717,6 +2717,18 @@
         "value": 3216303,
         "filerUrl": "",
         "transactionText": "Sale at price 317.31 - 328.76 per share.",
+        "filerName": "HACKER SEVERIN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-10-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "value": 380800,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -2738,9 +2750,9 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 380800,
+        "value": 2889373,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
+        "transactionText": "Sale at price 286.77 - 290.78 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -2750,9 +2762,9 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 2889373,
+        "value": 380800,
         "filerUrl": "",
-        "transactionText": "Sale at price 286.77 - 290.78 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -2786,18 +2798,6 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 380800,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
-        "filerName": "HACKER SEVERIN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-09-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
         "value": 2685462,
         "filerUrl": "",
         "transactionText": "Sale at price 264.75 - 271.57 per share.",
@@ -2809,10 +2809,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 1378,
-        "value": 19871,
+        "shares": 10000,
+        "value": 380800,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 14.42 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
+        "filerName": "HACKER SEVERIN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-09-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10937,
+        "value": 3471322,
+        "filerUrl": "",
+        "transactionText": "Sale at price 311.38 - 321.33 per share.",
         "filerName": "SKARUPPA MATTHEW",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -2833,26 +2845,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 10937,
-        "value": 3471322,
+        "shares": 1378,
+        "value": 19871,
         "filerUrl": "",
-        "transactionText": "Sale at price 311.38 - 321.33 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 14.42 per share.",
         "filerName": "SKARUPPA MATTHEW",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-08-26T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HACKER SEVERIN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-08-20T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2869,14 +2870,13 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 380800,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
+        "transactionText": "",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2025-08-19T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2025-08-20T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2892,14 +2892,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 2471,
-        "value": 907091,
+        "shares": 10000,
+        "value": 380800,
         "filerUrl": "",
-        "transactionText": "Sale at price 364.64 - 369.86 per share.",
-        "filerName": "GLANCE NATALIE",
-        "filerRelation": "Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
+        "filerName": "HACKER SEVERIN",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2025-08-18T00:00:00.000Z",
+        "startDate": "2025-08-19T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2916,12 +2916,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 2533,
-        "value": 833433,
+        "shares": 2471,
+        "value": 907091,
         "filerUrl": "",
-        "transactionText": "Sale at price 329.03 per share.",
+        "transactionText": "Sale at price 364.64 - 369.86 per share.",
         "filerName": "GLANCE NATALIE",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 750,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "CHEN STEPHEN C",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-08-15T00:00:00.000Z",
         "ownership": "D"
@@ -2940,18 +2952,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1282,
-        "value": 421816,
-        "filerUrl": "",
-        "transactionText": "Sale at price 329.03 per share.",
-        "filerName": "CHEN STEPHEN C",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-08-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2797,
         "value": 920297,
         "filerUrl": "",
@@ -2964,10 +2964,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 750,
-        "value": 0,
+        "shares": 2533,
+        "value": 833433,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "Sale at price 329.03 per share.",
+        "filerName": "GLANCE NATALIE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1282,
+        "value": 421816,
+        "filerUrl": "",
+        "transactionText": "Sale at price 329.03 per share.",
         "filerName": "CHEN STEPHEN C",
         "filerRelation": "General Counsel",
         "moneyText": "",
@@ -3001,18 +3013,6 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 380800,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
-        "filerName": "HACKER SEVERIN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-08-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
         "value": 3444076,
         "filerUrl": "",
         "transactionText": "Sale at price 339.32 - 355.06 per share.",
@@ -3031,7 +3031,7 @@
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2025-07-21T00:00:00.000Z",
+        "startDate": "2025-08-05T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3055,7 +3055,7 @@
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2025-07-07T00:00:00.000Z",
+        "startDate": "2025-07-21T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3064,6 +3064,18 @@
         "value": 3928885,
         "filerUrl": "",
         "transactionText": "Sale at price 386.90 - 396.73 per share.",
+        "filerName": "HACKER SEVERIN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-07-07T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "value": 380800,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -3085,9 +3097,9 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 380800,
+        "value": 4711993,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
+        "transactionText": "Sale at price 466.43 - 481.35 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -3097,9 +3109,9 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 4711993,
+        "value": 380800,
         "filerUrl": "",
-        "transactionText": "Sale at price 466.43 - 481.35 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -3229,17 +3241,6 @@
       {
         "maxAge": 1,
         "shares": 60000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HACKER SEVERIN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-06-06T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 60000,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Gift at price 0.00 per share.",
@@ -3251,23 +3252,23 @@
       },
       {
         "maxAge": 1,
-        "shares": 5000,
+        "shares": 60000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "VON AHN LUIS ARELLANO",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "HACKER SEVERIN",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2025-06-05T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2025-06-06T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 380800,
+        "shares": 5000,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
-        "filerName": "HACKER SEVERIN",
-        "filerRelation": "Chief Technology Officer",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "VON AHN LUIS ARELLANO",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-06-05T00:00:00.000Z",
         "ownership": "D"
@@ -3287,9 +3288,8 @@
       {
         "maxAge": 1,
         "shares": 5000,
-        "value": 0,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "",
         "filerName": "VON AHN LUIS ARELLANO",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -3305,7 +3305,7 @@
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2025-05-19T00:00:00.000Z",
+        "startDate": "2025-06-05T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3314,6 +3314,18 @@
         "value": 5247039,
         "filerUrl": "",
         "transactionText": "Sale at price 517.74 - 530.64 per share.",
+        "filerName": "HACKER SEVERIN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-05-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "value": 380800,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -3358,6 +3370,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 1635,
+        "value": 869346,
+        "filerUrl": "",
+        "transactionText": "Sale at price 531.71 per share.",
+        "filerName": "MEESE ROBERT",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-05-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 3304,
         "value": 1756770,
         "filerUrl": "",
@@ -3375,18 +3399,6 @@
         "filerUrl": "",
         "transactionText": "Sale at price 531.71 per share.",
         "filerName": "GLANCE NATALIE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-05-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1635,
-        "value": 869346,
-        "filerUrl": "",
-        "transactionText": "Sale at price 531.71 per share.",
-        "filerName": "MEESE ROBERT",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-05-15T00:00:00.000Z",
@@ -3455,9 +3467,9 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 380800,
+        "value": 4959527,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
+        "transactionText": "Sale at price 480.97 - 502.26 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -3467,9 +3479,9 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 4959527,
+        "value": 380800,
         "filerUrl": "",
-        "transactionText": "Sale at price 480.97 - 502.26 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -3503,17 +3515,6 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HACKER SEVERIN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-04-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
         "value": 3143601,
         "filerUrl": "",
         "transactionText": "Sale at price 309.73 - 323.88 per share.",
@@ -3525,14 +3526,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 8000,
-        "value": 59840,
+        "shares": 10000,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 7.48 per share.",
-        "filerName": "VON AHN LUIS ARELLANO",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "",
+        "filerName": "HACKER SEVERIN",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2025-04-15T00:00:00.000Z",
+        "startDate": "2025-04-21T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3549,10 +3549,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 380800,
+        "shares": 8000,
+        "value": 59840,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 7.48 per share.",
+        "filerName": "VON AHN LUIS ARELLANO",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-04-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "value": 2924302,
+        "filerUrl": "",
+        "transactionText": "Sale at price 276.80 - 314.80 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -3562,9 +3574,9 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 2924302,
+        "value": 380800,
         "filerUrl": "",
-        "transactionText": "Sale at price 276.80 - 314.80 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 38.08 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -3598,18 +3610,6 @@
       {
         "maxAge": 1,
         "shares": 5000,
-        "value": 40750,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 8.15 per share.",
-        "filerName": "MUNSON GILLIAN M",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-03-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5000,
         "value": 1550000,
         "filerUrl": "",
         "transactionText": "Sale at price 310.00 per share.",
@@ -3621,14 +3621,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 374838,
+        "shares": 5000,
+        "value": 40750,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 14.42 - 38.08 per share.",
-        "filerName": "HACKER SEVERIN",
-        "filerRelation": "Chief Technology Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 8.15 per share.",
+        "filerName": "MUNSON GILLIAN M",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2025-03-19T00:00:00.000Z",
+        "startDate": "2025-03-20T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3645,26 +3645,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
-        "value": 458200,
+        "shares": 10000,
+        "value": 374838,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 22.91 per share.",
-        "filerName": "SHELTON JAMES H",
-        "filerRelation": "Director",
+        "transactionText": "Conversion of Exercise of derivative security at price 14.42 - 38.08 per share.",
+        "filerName": "HACKER SEVERIN",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2025-03-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8000,
-        "value": 59840,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 7.48 per share.",
-        "filerName": "VON AHN LUIS ARELLANO",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-03-17T00:00:00.000Z",
+        "startDate": "2025-03-19T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3693,14 +3681,26 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 144200,
+        "shares": 20000,
+        "value": 458200,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 14.42 per share.",
-        "filerName": "HACKER SEVERIN",
-        "filerRelation": "Chief Technology Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 22.91 per share.",
+        "filerName": "SHELTON JAMES H",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2025-03-05T00:00:00.000Z",
+        "startDate": "2025-03-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8000,
+        "value": 59840,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 7.48 per share.",
+        "filerName": "VON AHN LUIS ARELLANO",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-03-17T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3729,6 +3729,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 10000,
+        "value": 144200,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 14.42 per share.",
+        "filerName": "HACKER SEVERIN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-03-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 10181,
         "value": 22704,
         "filerUrl": "",
@@ -3737,18 +3749,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-24T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
-        "value": 144200,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 14.42 per share.",
-        "filerName": "HACKER SEVERIN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-02-19T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3777,10 +3777,34 @@
       },
       {
         "maxAge": 1,
-        "shares": 8000,
-        "value": 59840,
+        "shares": 10000,
+        "value": 144200,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 7.48 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 14.42 per share.",
+        "filerName": "HACKER SEVERIN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-02-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1272,
+        "value": 553676,
+        "filerUrl": "",
+        "transactionText": "Sale at price 435.28 per share.",
+        "filerName": "MEESE ROBERT",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8000,
+        "value": 3478281,
+        "filerUrl": "",
+        "transactionText": "Sale at price 428.85 - 441.29 per share.",
         "filerName": "VON AHN LUIS ARELLANO",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -3813,12 +3837,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 1272,
-        "value": 553676,
+        "shares": 2064,
+        "value": 898091,
         "filerUrl": "",
-        "transactionText": "Sale at price 435.28 per share.",
-        "filerName": "MEESE ROBERT",
-        "filerRelation": "Officer",
+        "transactionText": "Sale at price 435.00 - 435.28 per share.",
+        "filerName": "CHEN STEPHEN C",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-02-18T00:00:00.000Z",
         "ownership": "D"
@@ -3826,23 +3850,11 @@
       {
         "maxAge": 1,
         "shares": 8000,
-        "value": 3478281,
+        "value": 59840,
         "filerUrl": "",
-        "transactionText": "Sale at price 428.85 - 441.29 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 7.48 per share.",
         "filerName": "VON AHN LUIS ARELLANO",
         "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-02-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2064,
-        "value": 898091,
-        "filerUrl": "",
-        "transactionText": "Sale at price 435.00 - 435.28 per share.",
-        "filerName": "CHEN STEPHEN C",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-02-18T00:00:00.000Z",
         "ownership": "D"
@@ -3862,17 +3874,6 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HACKER SEVERIN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-02-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
         "value": 3914552,
         "filerUrl": "",
         "transactionText": "Sale at price 386.68 - 409.40 per share.",
@@ -3885,13 +3886,12 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 144200,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 14.42 per share.",
+        "transactionText": "",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2025-01-21T00:00:00.000Z",
+        "startDate": "2025-02-05T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3908,10 +3908,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 8000,
-        "value": 59840,
+        "shares": 10000,
+        "value": 144200,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 7.48 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 14.42 per share.",
+        "filerName": "HACKER SEVERIN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-01-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8000,
+        "value": 2568015,
+        "filerUrl": "",
+        "transactionText": "Sale at price 318.29 - 323.52 per share.",
         "filerName": "VON AHN LUIS ARELLANO",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -3921,9 +3933,9 @@
       {
         "maxAge": 1,
         "shares": 8000,
-        "value": 2568015,
+        "value": 59840,
         "filerUrl": "",
-        "transactionText": "Sale at price 318.29 - 323.52 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 7.48 per share.",
         "filerName": "VON AHN LUIS ARELLANO",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -3945,8 +3957,9 @@
       {
         "maxAge": 1,
         "shares": 10000,
+        "value": 3362318,
         "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Sale at price 333.34 - 347.04 per share.",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -3956,9 +3969,8 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 3362318,
         "filerUrl": "",
-        "transactionText": "Sale at price 333.34 - 347.04 per share.",
+        "transactionText": "",
         "filerName": "HACKER SEVERIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -3970,7 +3982,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 131.95,
+    "currentPrice": 127.57,
     "targetHighPrice": 145,
     "targetLowPrice": 81,
     "targetMeanPrice": 106.31294,
@@ -4000,6 +4012,6 @@
     "profitMargins": 0.38441002,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-08T05:21:01.604Z",
+  "lastUpdated": "2026-07-09T06:04:04.232Z",
   "source": "Static Build (yahoo-finance2)"
 }

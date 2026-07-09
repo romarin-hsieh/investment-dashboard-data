@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.082100004,
         "position": 136190947,
-        "value": 47966453195,
+        "value": 47330439644,
         "pctChange": -0.028299998
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0645,
         "position": 107005168,
-        "value": 37687221475,
+        "value": 37187505904,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0496,
         "position": 82306015,
-        "value": 28988179487,
+        "value": 28603809292,
         "pctChange": -0.0058999998
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0277,
         "position": 45979950,
-        "value": 16194138951,
+        "value": 15979411967,
         "pctChange": -0.0188
       },
       {
@@ -81,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0271,
         "position": 44908229,
-        "value": 15816678801,
+        "value": 15606956769,
         "pctChange": -0.038599998
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.027,
         "position": 44883639,
-        "value": 15808018203,
+        "value": 15598411006,
         "pctChange": 0.0191
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0247,
         "position": 41075869,
-        "value": 14466921563,
+        "value": 14275096703,
         "pctChange": -0.0004
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0227,
         "position": 37604815,
-        "value": 13244416302,
+        "value": 13068801311,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "TCI Fund Management Ltd",
         "pctHeld": 0.0184,
         "position": 30468133,
-        "value": 10730876814,
+        "value": 10588590224,
         "pctChange": 0.099
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0152,
         "position": 25178201,
-        "value": 8867762699,
+        "value": 8750180162,
         "pctChange": 0.0286
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00081,
-    "institutionsPercentHeld": 0.91565,
-    "institutionsFloatPercentHeld": 0.9164,
-    "institutionsCount": 5800
+    "institutionsPercentHeld": 0.91576,
+    "institutionsFloatPercentHeld": 0.91651,
+    "institutionsCount": 5801
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-08T09:37:13.000Z",
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 420,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-07-07T11:13:03.000Z",
         "firm": "Baird",
@@ -6107,24 +6117,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0011357876,
-    "postMarketChange": -0.4000244,
-    "postMarketTime": "2026-07-07T23:59:01.000Z",
-    "postMarketPrice": 351.8,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.014135701,
-    "regularMarketChange": -5.04999,
-    "regularMarketTime": "2026-07-07T20:00:02.000Z",
+    "postMarketChangePercent": -0.0029637695,
+    "postMarketChange": -1.0299988,
+    "postMarketTime": "2026-07-08T23:58:50.000Z",
+    "postMarketPrice": 346.5,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.0132595,
+    "regularMarketChange": -4.67001,
+    "regularMarketTime": "2026-07-08T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 352.2,
-    "regularMarketDayHigh": 356,
-    "regularMarketDayLow": 346.92,
-    "regularMarketVolume": 7318950,
-    "averageDailyVolume10Day": 10454130,
-    "averageDailyVolume3Month": 8160117,
-    "regularMarketPreviousClose": 357.25,
+    "regularMarketPrice": 347.53,
+    "regularMarketDayHigh": 351.55,
+    "regularMarketDayLow": 345.69,
+    "regularMarketVolume": 10083304,
+    "averageDailyVolume10Day": 10364240,
+    "averageDailyVolume3Month": 8213911,
+    "regularMarketPreviousClose": 352.2,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 348.39,
+    "regularMarketOpen": 350.295,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -6135,18 +6145,18 @@
     "shortName": "Visa Inc.",
     "longName": "Visa Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 669794172928
+    "marketCap": 660912996352
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 674290401280,
-    "forwardPE": 23.683601,
+    "enterpriseValue": 665490096128,
+    "forwardPE": 23.369568,
     "profitMargins": 0.51679003,
     "floatShares": 1688174702,
     "sharesOutstanding": 1659709932,
@@ -6156,14 +6166,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0112,
     "heldPercentInsiders": 0.00081,
-    "heldPercentInstitutions": 0.91565,
+    "heldPercentInstitutions": 0.91576,
     "shortRatio": 2.72,
     "shortPercentOfFloat": 0.0128,
     "beta": 0.754,
     "impliedSharesOutstanding": 1901743800,
     "category": null,
     "bookValue": 18.642,
-    "priceToBook": 18.892822,
+    "priceToBook": 18.642313,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-09-30T00:00:00.000Z",
@@ -6171,15 +6181,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.315,
     "netIncomeToCommon": 22033000448,
-    "trailingEps": 11.31,
-    "forwardEps": 14.8704,
+    "trailingEps": 11.33,
+    "forwardEps": 14.87105,
     "pegRatio": 1.57,
     "lastSplitFactor": "4:1",
     "lastSplitDate": 1426723200,
-    "enterpriseToRevenue": 15.671,
-    "enterpriseToEbitda": 22.37,
-    "52WeekChange": -0.006628096,
-    "SandP52WeekChange": 0.20533705,
+    "enterpriseToRevenue": 15.467,
+    "enterpriseToEbitda": 22.078,
+    "52WeekChange": -0.028594613,
+    "SandP52WeekChange": 0.19469893,
     "lastDividendValue": 0.67,
     "lastDividendDate": "2026-05-12T00:00:00.000Z",
     "latestShareClass": null,
@@ -6210,14 +6220,26 @@
     "transactions": [
       {
         "maxAge": 1,
-        "shares": 10490,
-        "value": 1152012,
+        "shares": 2027,
+        "value": 729720,
+        "filerUrl": "",
+        "transactionText": "Sale at price 360.00 per share.",
+        "filerName": "ROTTENBERG JULIE B",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-07-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2027,
+        "value": 222605,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
-        "filerName": "MCINERNEY RYAN",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "ROTTENBERG JULIE B",
+        "filerRelation": "General Counsel",
         "moneyText": "",
-        "startDate": "2026-07-01T00:00:00.000Z",
+        "startDate": "2026-07-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6234,10 +6256,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 20970,
-        "value": 2302925,
+        "shares": 10490,
+        "value": 1152012,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
+        "filerName": "MCINERNEY RYAN",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-07-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20970,
+        "value": 7134967,
+        "filerUrl": "",
+        "transactionText": "Sale at price 340.25 per share.",
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -6247,9 +6281,9 @@
       {
         "maxAge": 1,
         "shares": 20970,
-        "value": 7134967,
+        "value": 2302925,
         "filerUrl": "",
-        "transactionText": "Sale at price 340.25 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -6271,9 +6305,9 @@
       {
         "maxAge": 1,
         "shares": 31455,
-        "value": 3454388,
+        "value": 10699204,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
+        "transactionText": "Sale at price 340.14 per share.",
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -6283,9 +6317,9 @@
       {
         "maxAge": 1,
         "shares": 31455,
-        "value": 10699204,
+        "value": 3454388,
         "filerUrl": "",
-        "transactionText": "Sale at price 340.14 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -6354,31 +6388,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CARNEY LLOYD",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 861,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "LUNDGREN JOHN F",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 861,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MORRISON DENISE M",
+        "filerName": "LIST-STOLL TERI L.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-01-27T00:00:00.000Z",
@@ -6414,7 +6424,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "LIST-STOLL TERI L.",
+        "filerName": "FERNANDEZ CARBAJAL FRANCISCO JAVIER",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-01-27T00:00:00.000Z",
@@ -6426,10 +6436,46 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "FERNANDEZ CARBAJAL FRANCISCO JAVIER",
+        "filerName": "LUNDGREN JOHN F",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-01-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 861,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CARNEY LLOYD",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 861,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MORRISON DENISE M",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10485,
+        "value": 3661152,
+        "filerUrl": "",
+        "transactionText": "Sale at price 349.18 per share.",
+        "filerName": "MCINERNEY RYAN",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-01-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6446,14 +6492,26 @@
       },
       {
         "maxAge": 1,
-        "shares": 10485,
-        "value": 3661152,
+        "shares": 2027,
+        "value": 699315,
         "filerUrl": "",
-        "transactionText": "Sale at price 349.18 per share.",
+        "transactionText": "Sale at price 345.00 per share.",
+        "filerName": "ROTTENBERG JULIE B",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-12-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10485,
+        "value": 3565636,
+        "filerUrl": "",
+        "transactionText": "Sale at price 340.07 per share.",
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-01-02T00:00:00.000Z",
+        "startDate": "2025-12-11T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6482,30 +6540,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 10485,
-        "value": 3565636,
-        "filerUrl": "",
-        "transactionText": "Sale at price 340.07 per share.",
-        "filerName": "MCINERNEY RYAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-12-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2027,
-        "value": 699315,
-        "filerUrl": "",
-        "transactionText": "Sale at price 345.00 per share.",
-        "filerName": "ROTTENBERG JULIE B",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-12-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1535,
         "value": 0,
         "filerUrl": "",
@@ -6518,11 +6552,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 23743,
-        "value": 7838626,
+        "shares": 7556,
+        "value": 2504436,
         "filerUrl": "",
-        "transactionText": "Sale at price 330.14 per share.",
-        "filerName": "TANEJA RAJAT",
+        "transactionText": "Sale at price 331.45 per share.",
+        "filerName": "FABARA PAUL D",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-02T00:00:00.000Z",
@@ -6530,11 +6564,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 7556,
-        "value": 2504436,
+        "shares": 23743,
+        "value": 7838626,
         "filerUrl": "",
-        "transactionText": "Sale at price 331.45 per share.",
-        "filerName": "FABARA PAUL D",
+        "transactionText": "Sale at price 330.14 per share.",
+        "filerName": "TANEJA RAJAT",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-02T00:00:00.000Z",
@@ -6597,6 +6631,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 2172,
+        "value": 707917,
+        "filerUrl": "",
+        "transactionText": "Sale at price 325.93 per share.",
+        "filerName": "FABARA PAUL D",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-11-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 6305,
         "value": 2080650,
         "filerUrl": "",
@@ -6609,15 +6655,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 2172,
-        "value": 707917,
+        "shares": 7800,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 325.93 per share.",
-        "filerName": "FABARA PAUL D",
-        "filerRelation": "Officer",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "MCINERNEY RYAN",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-11-21T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2025-11-19T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -6698,18 +6744,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 7800,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "MCINERNEY RYAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-11-19T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 900,
         "value": 302832,
         "filerUrl": "",
@@ -6718,18 +6752,6 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-11-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10485,
-        "value": 1151463,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
-        "filerName": "MCINERNEY RYAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-11-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6746,6 +6768,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 10485,
+        "value": 1151463,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
+        "filerName": "MCINERNEY RYAN",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-11-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 251,
         "value": 0,
         "filerUrl": "",
@@ -6754,18 +6788,6 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-10-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10485,
-        "value": 1151463,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
-        "filerName": "MCINERNEY RYAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-10-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6789,7 +6811,7 @@
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-09-02T00:00:00.000Z",
+        "startDate": "2025-10-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6806,10 +6828,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 2027,
-        "value": 222605,
+        "shares": 10485,
+        "value": 1151463,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
+        "filerName": "MCINERNEY RYAN",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-09-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2027,
+        "value": 697329,
+        "filerUrl": "",
+        "transactionText": "Sale at price 344.02 per share.",
         "filerName": "ROTTENBERG JULIE B",
         "filerRelation": "General Counsel",
         "moneyText": "",
@@ -6819,9 +6853,9 @@
       {
         "maxAge": 1,
         "shares": 2027,
-        "value": 697329,
+        "value": 222605,
         "filerUrl": "",
-        "transactionText": "Sale at price 344.02 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
         "filerName": "ROTTENBERG JULIE B",
         "filerRelation": "General Counsel",
         "moneyText": "",
@@ -6853,18 +6887,6 @@
       {
         "maxAge": 1,
         "shares": 10485,
-        "value": 1151463,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
-        "filerName": "MCINERNEY RYAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-08-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10485,
         "value": 3597718,
         "filerUrl": "",
         "transactionText": "Sale at price 343.13 per share.",
@@ -6876,14 +6898,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 8630,
-        "value": 697477,
+        "shares": 10485,
+        "value": 1151463,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-07-01T00:00:00.000Z",
+        "startDate": "2025-08-14T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6900,14 +6922,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 11636,
-        "value": 2452869,
+        "shares": 8630,
+        "value": 697477,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 210.80 per share.",
-        "filerName": "FABARA PAUL D",
-        "filerRelation": "Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
+        "filerName": "MCINERNEY RYAN",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-06-11T00:00:00.000Z",
+        "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6920,6 +6942,42 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-06-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11636,
+        "value": 2452869,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 210.80 per share.",
+        "filerName": "FABARA PAUL D",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 46214,
+        "value": 17099180,
+        "filerUrl": "",
+        "transactionText": "Sale at price 370.00 per share.",
+        "filerName": "FABARA PAUL D",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 50000,
+        "value": 18443688,
+        "filerUrl": "",
+        "transactionText": "Sale at price 367.75 - 370.00 per share.",
+        "filerName": "TANEJA RAJAT",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2025-06-05T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6948,26 +7006,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 50000,
-        "value": 18443688,
+        "shares": 8620,
+        "value": 3127077,
         "filerUrl": "",
-        "transactionText": "Sale at price 367.75 - 370.00 per share.",
-        "filerName": "TANEJA RAJAT",
-        "filerRelation": "President",
+        "transactionText": "Sale at price 362.77 per share.",
+        "filerName": "MCINERNEY RYAN",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-06-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 46214,
-        "value": 17099180,
-        "filerUrl": "",
-        "transactionText": "Sale at price 370.00 per share.",
-        "filerName": "FABARA PAUL D",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-06-05T00:00:00.000Z",
+        "startDate": "2025-06-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6984,14 +7030,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 8620,
-        "value": 3127077,
+        "shares": 17670,
+        "value": 6316131,
         "filerUrl": "",
-        "transactionText": "Sale at price 362.77 per share.",
-        "filerName": "MCINERNEY RYAN",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Sale at price 357.45 per share.",
+        "filerName": "FABARA PAUL D",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-06-02T00:00:00.000Z",
+        "startDate": "2025-05-12T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7008,14 +7054,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 17670,
-        "value": 6316131,
+        "shares": 14813,
+        "value": 5259168,
         "filerUrl": "",
-        "transactionText": "Sale at price 357.45 per share.",
+        "transactionText": "Sale at price 355.04 per share.",
         "filerName": "FABARA PAUL D",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-05-12T00:00:00.000Z",
+        "startDate": "2025-05-08T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7032,14 +7078,26 @@
       },
       {
         "maxAge": 1,
-        "shares": 14813,
-        "value": 5259168,
+        "shares": 2575,
+        "value": 889868,
         "filerUrl": "",
-        "transactionText": "Sale at price 355.04 per share.",
-        "filerName": "FABARA PAUL D",
-        "filerRelation": "Officer",
+        "transactionText": "Sale at price 345.58 per share.",
+        "filerName": "ROTTENBERG JULIE B",
+        "filerRelation": "General Counsel",
         "moneyText": "",
-        "startDate": "2025-05-08T00:00:00.000Z",
+        "startDate": "2025-05-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8620,
+        "value": 2978900,
+        "filerUrl": "",
+        "transactionText": "Sale at price 345.58 per share.",
+        "filerName": "MCINERNEY RYAN",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-05-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7069,25 +7127,13 @@
       {
         "maxAge": 1,
         "shares": 8620,
-        "value": 2978900,
+        "value": 3020793,
         "filerUrl": "",
-        "transactionText": "Sale at price 345.58 per share.",
+        "transactionText": "Sale at price 350.44 per share.",
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-05-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2575,
-        "value": 889868,
-        "filerUrl": "",
-        "transactionText": "Sale at price 345.58 per share.",
-        "filerName": "ROTTENBERG JULIE B",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-05-01T00:00:00.000Z",
+        "startDate": "2025-04-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7100,30 +7146,6 @@
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8620,
-        "value": 3020793,
-        "filerUrl": "",
-        "transactionText": "Sale at price 350.44 per share.",
-        "filerName": "MCINERNEY RYAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 39350,
-        "value": 7033812,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 178.75 per share.",
-        "filerName": "FABARA PAUL D",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-03-19T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7147,7 +7169,7 @@
         "filerName": "FABARA PAUL D",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-03-14T00:00:00.000Z",
+        "startDate": "2025-03-19T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7164,14 +7186,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 8620,
-        "value": 696668,
+        "shares": 39350,
+        "value": 7033812,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
-        "filerName": "MCINERNEY RYAN",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 178.75 per share.",
+        "filerName": "FABARA PAUL D",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-03-03T00:00:00.000Z",
+        "startDate": "2025-03-14T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7188,6 +7210,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 8620,
+        "value": 696668,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
+        "filerName": "MCINERNEY RYAN",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-03-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1092,
         "filerUrl": "",
         "transactionText": "",
@@ -7195,18 +7229,6 @@
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-02-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 18641,
-        "value": 2047155,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
-        "filerName": "MAHON TULLIER KELLY",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-07T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7247,6 +7269,42 @@
       },
       {
         "maxAge": 1,
+        "shares": 18641,
+        "value": 2047155,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
+        "filerName": "MAHON TULLIER KELLY",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-07T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2572,
+        "value": 874480,
+        "filerUrl": "",
+        "transactionText": "Sale at price 340.00 per share.",
+        "filerName": "ROTTENBERG JULIE B",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-02-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8620,
+        "value": 2930800,
+        "filerUrl": "",
+        "transactionText": "Sale at price 340.00 per share.",
+        "filerName": "MCINERNEY RYAN",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-02-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2572,
         "value": 207869,
         "filerUrl": "",
@@ -7267,66 +7325,6 @@
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-02-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8620,
-        "value": 2930800,
-        "filerUrl": "",
-        "transactionText": "Sale at price 340.00 per share.",
-        "filerName": "MCINERNEY RYAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-02-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2572,
-        "value": 874480,
-        "filerUrl": "",
-        "transactionText": "Sale at price 340.00 per share.",
-        "filerName": "ROTTENBERG JULIE B",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-02-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 777,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CARNEY LLOYD",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-01-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 777,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "LUNDGREN JOHN F",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-01-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 777,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MORRISON DENISE M",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-01-28T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7379,10 +7377,46 @@
       },
       {
         "maxAge": 1,
-        "shares": 8620,
-        "value": 696668,
+        "shares": 777,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "LUNDGREN JOHN F",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 777,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CARNEY LLOYD",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 777,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MORRISON DENISE M",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8620,
+        "value": 2739264,
+        "filerUrl": "",
+        "transactionText": "Sale at price 317.78 per share.",
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7392,9 +7426,9 @@
       {
         "maxAge": 1,
         "shares": 8620,
-        "value": 2739264,
+        "value": 696668,
         "filerUrl": "",
-        "transactionText": "Sale at price 317.78 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7415,10 +7449,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 69767,
-        "value": 696668,
+        "shares": 8620,
+        "value": 2731678,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
+        "transactionText": "Sale at price 316.90 per share.",
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7427,10 +7461,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 8620,
-        "value": 2731678,
+        "shares": 69767,
+        "value": 696668,
         "filerUrl": "",
-        "transactionText": "Sale at price 316.90 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7585,23 +7619,11 @@
       {
         "maxAge": 1,
         "shares": 2572,
-        "value": 207869,
+        "value": 741996,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
+        "transactionText": "Sale at price 288.49 per share.",
         "filerName": "ROTTENBERG JULIE B",
         "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2024-11-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8620,
-        "value": 696668,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
-        "filerName": "MCINERNEY RYAN",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2024-11-01T00:00:00.000Z",
         "ownership": "D"
@@ -7621,9 +7643,9 @@
       {
         "maxAge": 1,
         "shares": 2572,
-        "value": 741996,
+        "value": 207869,
         "filerUrl": "",
-        "transactionText": "Sale at price 288.49 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
         "filerName": "ROTTENBERG JULIE B",
         "filerRelation": "General Counsel",
         "moneyText": "",
@@ -7639,7 +7661,7 @@
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2024-10-01T00:00:00.000Z",
+        "startDate": "2024-11-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7663,7 +7685,7 @@
         "filerName": "MCINERNEY RYAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2024-09-03T00:00:00.000Z",
+        "startDate": "2024-10-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7676,6 +7698,42 @@
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2024-09-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8620,
+        "value": 696668,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
+        "filerName": "MCINERNEY RYAN",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2024-09-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2572,
+        "value": 707300,
+        "filerUrl": "",
+        "transactionText": "Sale at price 275.00 per share.",
+        "filerName": "ROTTENBERG JULIE B",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2024-08-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8620,
+        "value": 2370500,
+        "filerUrl": "",
+        "transactionText": "Sale at price 275.00 per share.",
+        "filerName": "MCINERNEY RYAN",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2024-08-29T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7704,34 +7762,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 8620,
-        "value": 2370500,
+        "shares": 37806,
+        "value": 10118235,
         "filerUrl": "",
-        "transactionText": "Sale at price 275.00 per share.",
-        "filerName": "MCINERNEY RYAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2024-08-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2572,
-        "value": 707300,
-        "filerUrl": "",
-        "transactionText": "Sale at price 275.00 per share.",
-        "filerName": "ROTTENBERG JULIE B",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2024-08-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 27707,
-        "value": 2239280,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
+        "transactionText": "Sale at price 267.64 per share.",
         "filerName": "MAHON TULLIER KELLY",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -7740,10 +7774,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 37806,
-        "value": 10118235,
+        "shares": 27707,
+        "value": 2239280,
         "filerUrl": "",
-        "transactionText": "Sale at price 267.64 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 80.82 per share.",
         "filerName": "MAHON TULLIER KELLY",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -7766,7 +7800,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 352.2,
+    "currentPrice": 347.53,
     "targetHighPrice": 450,
     "targetLowPrice": 330,
     "targetMeanPrice": 401.15817,
@@ -7796,6 +7830,6 @@
     "profitMargins": 0.51679003,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-08T05:23:03.805Z",
+  "lastUpdated": "2026-07-09T06:06:05.406Z",
   "source": "Static Build (yahoo-finance2)"
 }
