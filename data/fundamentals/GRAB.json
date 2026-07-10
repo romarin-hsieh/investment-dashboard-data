@@ -45,7 +45,7 @@
         "organization": "Uber Technologies, Inc",
         "pctHeld": 0.135,
         "position": 535902982,
-        "value": 2041790330,
+        "value": 2079303631,
         "pctChange": 0
       },
       {
@@ -54,7 +54,7 @@
         "organization": "SB Investment Advisers (UK) LTD",
         "pctHeld": 0.1012,
         "position": 401796672,
-        "value": 1530845297,
+        "value": 1558971133,
         "pctChange": 0
       },
       {
@@ -63,7 +63,7 @@
         "organization": "TOYOTA MOTOR CORP/",
         "pctHeld": 0.056199998,
         "position": 222906079,
-        "value": 849272148,
+        "value": 864875612,
         "pctChange": 0
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.037,
         "position": 146818418,
-        "value": 559378164,
+        "value": 569655478,
         "pctChange": 0.1345
       },
       {
@@ -81,7 +81,7 @@
         "organization": "MUFG Bank Ltd",
         "pctHeld": 0.036,
         "position": 142913428,
-        "value": 544500152,
+        "value": 554504116,
         "pctChange": 0
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0336,
         "position": 133501940,
-        "value": 508642383,
+        "value": 517987542,
         "pctChange": 0.1868
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0256,
         "position": 101722628,
-        "value": 387563206,
+        "value": 394683808,
         "pctChange": 0.3015
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Wellington Management Group, LLP",
         "pctHeld": 0.0195,
         "position": 77459014,
-        "value": 295118838,
+        "value": 300540983,
         "pctChange": 1.2709
       },
       {
@@ -117,7 +117,7 @@
         "organization": "London & Capital Asset Management Limited",
         "pctHeld": 0.015800001,
         "position": 62656751,
-        "value": 238722217,
+        "value": 243108201,
         "pctChange": 65.0936
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Aspex Management (HK) Ltd",
         "pctHeld": 0.0149,
         "position": 59304024,
-        "value": 225948328,
+        "value": 230099619,
         "pctChange": 0.0616
       }
     ]
@@ -134,8 +134,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.19143,
-    "institutionsPercentHeld": 0.67067003,
-    "institutionsFloatPercentHeld": 0.82945,
+    "institutionsPercentHeld": 0.66772,
+    "institutionsFloatPercentHeld": 0.8258,
     "institutionsCount": 791
   },
   "earnings": {
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-09T13:34:03.000Z",
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 5,
+        "priorPriceTarget": 7
+      },
       {
         "epochGradeDate": "2026-05-06T17:50:23.000Z",
         "firm": "China Renaissance",
@@ -907,24 +917,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0022834993,
-    "postMarketChange": 0.008700132,
-    "postMarketTime": "2026-07-08T23:59:31.000Z",
-    "postMarketPrice": 3.8187,
+    "postMarketChangePercent": -0.000051554944,
+    "postMarketChange": -0.00020003319,
+    "postMarketTime": "2026-07-09T23:58:20.000Z",
+    "postMarketPrice": 3.8798,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.030534402,
-    "regularMarketChange": -0.12,
-    "regularMarketTime": "2026-07-08T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0183727,
+    "regularMarketChange": 0.0700002,
+    "regularMarketTime": "2026-07-09T20:00:01.000Z",
     "priceHint": 4,
-    "regularMarketPrice": 3.81,
-    "regularMarketDayHigh": 4,
-    "regularMarketDayLow": 3.8,
-    "regularMarketVolume": 34825042,
-    "averageDailyVolume10Day": 51676130,
-    "averageDailyVolume3Month": 53243911,
-    "regularMarketPreviousClose": 3.93,
+    "regularMarketPrice": 3.88,
+    "regularMarketDayHigh": 3.88,
+    "regularMarketDayLow": 3.78,
+    "regularMarketVolume": 28295254,
+    "averageDailyVolume10Day": 51865680,
+    "averageDailyVolume3Month": 53297144,
+    "regularMarketPreviousClose": 3.81,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 3.92,
+    "regularMarketOpen": 3.84,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -940,15 +950,15 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 15582899200
+    "marketCap": 15869200384
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 4,
-    "enterpriseValue": 11072900096,
-    "forwardPE": 26.768776,
+    "enterpriseValue": 11359200256,
+    "forwardPE": 27.260592,
     "profitMargins": 0.106979996,
-    "floatShares": 2779236800,
+    "floatShares": 2776578300,
     "sharesOutstanding": 3964000000,
     "sharesShort": 241618723,
     "sharesShortPriorMonth": "1977-03-07T16:47:47.000Z",
@@ -956,14 +966,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0591,
     "heldPercentInsiders": 0.19143,
-    "heldPercentInstitutions": 0.67067003,
+    "heldPercentInstitutions": 0.66772,
     "shortRatio": 4.92,
     "shortPercentOfFloat": 0.0705,
     "beta": 0.875,
     "impliedSharesOutstanding": 4090000000,
     "category": null,
     "bookValue": 1.593,
-    "priceToBook": 2.3917136,
+    "priceToBook": 2.435656,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -975,10 +985,10 @@
     "forwardEps": 0.14233,
     "pegRatio": 1.08,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 3.117,
-    "enterpriseToEbitda": 35.041,
-    "52WeekChange": -0.23647296,
-    "SandP52WeekChange": 0.19469893,
+    "enterpriseToRevenue": 3.198,
+    "enterpriseToEbitda": 35.947,
+    "52WeekChange": -0.22560978,
+    "SandP52WeekChange": 0.2011286,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1208,10 +1218,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 7474,
-        "value": 4246,
+        "shares": 38000,
+        "value": 136405,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 0.48 - 0.60 per share.",
+        "transactionText": "Sale at price 3.59 per share.",
         "filerName": "ONG CHIN YIN",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -1220,10 +1230,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 38000,
-        "value": 136405,
+        "shares": 7474,
+        "value": 4246,
         "filerUrl": "",
-        "transactionText": "Sale at price 3.59 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 0.48 - 0.60 per share.",
         "filerName": "ONG CHIN YIN",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -1240,61 +1250,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 569064,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "KANDAL PHILIPP WOLFGANG JOSEF",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 746186,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "OEY PETER HENRY",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-04-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 417117,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ONG CHIN YIN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 627280,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PARADATHETH SUTHEN THOMAS",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2026-04-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 691974,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HUNGATE ALEXANDER CHARLES",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-04-15T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1371,6 +1326,61 @@
       },
       {
         "maxAge": 1,
+        "shares": 569064,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KANDAL PHILIPP WOLFGANG JOSEF",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 746186,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "OEY PETER HENRY",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-04-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 417117,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ONG CHIN YIN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 627280,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "PARADATHETH SUTHEN THOMAS",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2026-04-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 691974,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HUNGATE ALEXANDER CHARLES",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2026-04-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 400000,
         "value": 1471280,
         "filerUrl": "",
@@ -1421,7 +1431,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 3.81,
+    "currentPrice": 3.88,
     "targetHighPrice": 8,
     "targetLowPrice": 4.5,
     "targetMeanPrice": 5.97192,
@@ -1450,6 +1460,6 @@
     "profitMargins": 0.106979996,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-09T06:03:17.720Z",
+  "lastUpdated": "2026-07-10T06:02:33.551Z",
   "source": "Static Build (yahoo-finance2)"
 }

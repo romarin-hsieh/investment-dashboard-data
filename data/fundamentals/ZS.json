@@ -13,12 +13,20 @@
         "period": "-1m",
         "strongBuy": 8,
         "buy": 30,
-        "hold": 9,
+        "hold": 8,
         "sell": 0,
         "strongSell": 0
       },
       {
         "period": "-2m",
+        "strongBuy": 8,
+        "buy": 30,
+        "hold": 9,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
         "strongBuy": 7,
         "buy": 32,
         "hold": 9,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.053000003,
         "position": 8568317,
-        "value": 1229981931,
+        "value": 1260570755,
         "pctChange": 0.0942
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0367,
         "position": 5930635,
-        "value": 851342672,
+        "value": 872514992,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.028800001,
         "position": 4660890,
-        "value": 669070773,
+        "value": 685710114,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "First Trust Advisors LP",
         "pctHeld": 0.0218,
         "position": 3518678,
-        "value": 505106237,
+        "value": 517667890,
         "pctChange": 0.3623
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.018099999,
         "position": 2924939,
-        "value": 419875002,
+        "value": 430317011,
         "pctChange": 0.2125
       },
       {
@@ -82,7 +90,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0147,
         "position": 2384518,
-        "value": 342297566,
+        "value": 350810276,
         "pctChange": 0.0201
       },
       {
@@ -91,7 +99,7 @@
         "organization": "American Century Companies Inc",
         "pctHeld": 0.0147,
         "position": 2384425,
-        "value": 342284216,
+        "value": 350796594,
         "pctChange": -0.0072000003
       },
       {
@@ -100,7 +108,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0135,
         "position": 2190318,
-        "value": 314420155,
+        "value": 322239573,
         "pctChange": -0.5164
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0128999995,
         "position": 2086910,
-        "value": 299575936,
+        "value": 307026189,
         "pctChange": 0.0083
       },
       {
@@ -118,7 +126,7 @@
         "organization": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
         "pctHeld": 0.012200001,
         "position": 1965114,
-        "value": 282092120,
+        "value": 289107562,
         "pctChange": 0.17709999
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.34958,
-    "institutionsPercentHeld": 0.55856,
-    "institutionsFloatPercentHeld": 0.85877,
-    "institutionsCount": 1192
+    "institutionsPercentHeld": 0.55891,
+    "institutionsFloatPercentHeld": 0.85931,
+    "institutionsCount": 1193
   },
   "earnings": {
     "maxAge": 86400,
@@ -6797,24 +6805,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.00034833193,
-    "postMarketChange": 0.05000305,
-    "postMarketTime": "2026-07-08T23:58:18.000Z",
-    "postMarketPrice": 143.6,
+    "postMarketChangePercent": -0.0008156275,
+    "postMarketChange": -0.11999512,
+    "postMarketTime": "2026-07-09T23:59:48.000Z",
+    "postMarketPrice": 147,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0397993,
-    "regularMarketChange": -5.95,
-    "regularMarketTime": "2026-07-08T20:00:01.000Z",
+    "regularMarketChangePercent": 0.024869299,
+    "regularMarketChange": 3.56999,
+    "regularMarketTime": "2026-07-09T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 143.55,
-    "regularMarketDayHigh": 149,
-    "regularMarketDayLow": 142.12,
-    "regularMarketVolume": 2660229,
-    "averageDailyVolume10Day": 2852900,
-    "averageDailyVolume3Month": 4688461,
-    "regularMarketPreviousClose": 149.5,
+    "regularMarketPrice": 147.12,
+    "regularMarketDayHigh": 147.8599,
+    "regularMarketDayLow": 138.64,
+    "regularMarketVolume": 2308515,
+    "averageDailyVolume10Day": 2853070,
+    "averageDailyVolume3Month": 4644963,
+    "regularMarketPreviousClose": 143.55,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 146.0001,
+    "regularMarketOpen": 140.95,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -6830,13 +6838,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 23213402112
+    "marketCap": 23790704640
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 21542457344,
-    "forwardPE": 31.225801,
+    "enterpriseValue": 22119761920,
+    "forwardPE": 32.002365,
     "profitMargins": -0.024389999,
     "floatShares": 105082084,
     "sharesOutstanding": 161709525,
@@ -6846,28 +6854,28 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0734,
     "heldPercentInsiders": 0.34958,
-    "heldPercentInstitutions": 0.55856,
+    "heldPercentInstitutions": 0.55891,
     "shortRatio": 1.62,
     "shortPercentOfFloat": 0.1129,
     "beta": 0.958,
     "impliedSharesOutstanding": 161709525,
     "category": null,
     "bookValue": 14.635,
-    "priceToBook": 9.808678,
+    "priceToBook": 10.052613,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-07-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-07-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
     "netIncomeToCommon": -77388000,
-    "trailingEps": -0.46,
+    "trailingEps": -0.49,
     "forwardEps": 4.59716,
-    "pegRatio": 1.64,
+    "pegRatio": 1.56,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 6.788,
-    "enterpriseToEbitda": -354.34,
-    "52WeekChange": -0.5464455,
-    "SandP52WeekChange": 0.19469893,
+    "enterpriseToRevenue": 6.97,
+    "enterpriseToEbitda": -363.836,
+    "52WeekChange": -0.5153285,
+    "SandP52WeekChange": 0.2011286,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -7243,24 +7251,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 3438,
-        "value": 793557,
-        "filerUrl": "",
-        "transactionText": "Sale at price 230.82 per share.",
-        "filerName": "JUDGE RAJ",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-12-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 4100,
         "value": 946359,
         "filerUrl": "",
         "transactionText": "Sale at price 230.82 per share.",
         "filerName": "RICH MICHAEL J",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-12-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3438,
+        "value": 793557,
+        "filerUrl": "",
+        "transactionText": "Sale at price 230.82 per share.",
+        "filerName": "JUDGE RAJ",
+        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2025-12-16T00:00:00.000Z",
         "ownership": "D"
@@ -7375,24 +7383,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 4524,
-        "value": 1269880,
-        "filerUrl": "",
-        "transactionText": "Sale at price 280.70 per share.",
-        "filerName": "JUDGE RAJ",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-09-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 11718,
         "value": 3289216,
         "filerUrl": "",
         "transactionText": "Sale at price 280.70 per share.",
         "filerName": "RICH MICHAEL J",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4524,
+        "value": 1269880,
+        "filerUrl": "",
+        "transactionText": "Sale at price 280.70 per share.",
+        "filerName": "JUDGE RAJ",
+        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2025-09-16T00:00:00.000Z",
         "ownership": "D"
@@ -7483,6 +7491,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 4287,
+        "value": 1301971,
+        "filerUrl": "",
+        "transactionText": "Sale at price 303.70 per share.",
+        "filerName": "RICH MICHAEL J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2957,
         "value": 898047,
         "filerUrl": "",
@@ -7501,18 +7521,6 @@
         "transactionText": "Sale at price 303.70 per share.",
         "filerName": "NAIR SYAM",
         "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-06-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4287,
-        "value": 1301971,
-        "filerUrl": "",
-        "transactionText": "Sale at price 303.70 per share.",
-        "filerName": "RICH MICHAEL J",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-06-17T00:00:00.000Z",
         "ownership": "D"
@@ -8062,7 +8070,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 143.55,
+    "currentPrice": 147.12,
     "targetHighPrice": 250,
     "targetLowPrice": 145,
     "targetMeanPrice": 192.57614,
@@ -8091,6 +8099,6 @@
     "profitMargins": -0.024389999,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-09T06:06:25.090Z",
+  "lastUpdated": "2026-07-10T06:05:43.285Z",
   "source": "Static Build (yahoo-finance2)"
 }
