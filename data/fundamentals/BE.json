@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0881,
         "position": 25060806,
-        "value": 6441128082,
+        "value": 6130123770,
         "pctChange": 0.0374
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Ameriprise Financial, Inc.",
         "pctHeld": 0.0805,
         "position": 22889027,
-        "value": 5882937468,
+        "value": 5598884908,
         "pctChange": -0.201
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.045100003,
         "position": 12829781,
-        "value": 3297510171,
+        "value": 3138292738,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.041500002,
         "position": 11796818,
-        "value": 3032018032,
+        "value": 2885619658,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0321,
         "position": 9120513,
-        "value": 2344154151,
+        "value": 2230968690,
         "pctChange": 3.5012
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0269,
         "position": 7644234,
-        "value": 1964720938,
+        "value": 1869856083,
         "pctChange": -0.1826
       },
       {
@@ -99,7 +99,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0228,
         "position": 6473617,
-        "value": 1663848970,
+        "value": 1583511458,
         "pctChange": 0.0727
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Situational Awareness Partners LP",
         "pctHeld": 0.0228,
         "position": 6485408,
-        "value": 1666879492,
+        "value": 1586395654,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Situational Awareness LP                          ",
         "pctHeld": 0.0228,
         "position": 6485408,
-        "value": 1666879492,
+        "value": 1586395654,
         "pctChange": -0.35639998
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0209,
         "position": 5947076,
-        "value": 1528517408,
+        "value": 1454714263,
         "pctChange": 0.1269
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.05834,
-    "institutionsPercentHeld": 0.87955004,
-    "institutionsFloatPercentHeld": 0.93404,
-    "institutionsCount": 1323
+    "institutionsPercentHeld": 0.8796,
+    "institutionsFloatPercentHeld": 0.93408996,
+    "institutionsCount": 1329
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-10T12:04:37.000Z",
+        "firm": "Susquehanna",
+        "toGrade": "Positive",
+        "fromGrade": "Positive",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 298,
+        "priorPriceTarget": 293
+      },
       {
         "epochGradeDate": "2026-07-09T09:07:34.000Z",
         "firm": "Baird",
@@ -2697,46 +2707,46 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0008559693,
-    "postMarketChange": -0.22000122,
-    "postMarketTime": "2026-07-09T23:59:56.000Z",
-    "postMarketPrice": 256.8,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0107358005,
-    "regularMarketChange": 2.73,
-    "regularMarketTime": "2026-07-09T20:00:03.000Z",
+    "postMarketChangePercent": -0.02056334,
+    "postMarketChange": -5.029999,
+    "postMarketTime": "2026-07-11T00:00:00.000Z",
+    "postMarketPrice": 239.58,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.048284102,
+    "regularMarketChange": -12.41,
+    "regularMarketTime": "2026-07-10T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 257.02,
-    "regularMarketDayHigh": 275.97,
-    "regularMarketDayLow": 253.32,
-    "regularMarketVolume": 10006408,
-    "averageDailyVolume10Day": 18744920,
-    "averageDailyVolume3Month": 12161449,
-    "regularMarketPreviousClose": 254.29,
+    "regularMarketPrice": 244.61,
+    "regularMarketDayHigh": 251.01,
+    "regularMarketDayLow": 229.5501,
+    "regularMarketVolume": 14713773,
+    "averageDailyVolume10Day": 18694600,
+    "averageDailyVolume3Month": 12184511,
+    "regularMarketPreviousClose": 257.02,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 276.08,
+    "regularMarketOpen": 251.205,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "BE",
     "underlyingSymbol": null,
     "shortName": "Bloom Energy Corporation",
     "longName": "Bloom Energy Corporation",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 73107759104
+    "marketCap": 69577818112
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 73595691008,
-    "forwardPE": 58.373703,
+    "enterpriseValue": 70065741824,
+    "forwardPE": 55.55518,
     "profitMargins": 0.00246,
     "floatShares": 278999612,
     "sharesOutstanding": 284443868,
@@ -2746,14 +2756,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1047,
     "heldPercentInsiders": 0.05834,
-    "heldPercentInstitutions": 0.87955004,
+    "heldPercentInstitutions": 0.8796,
     "shortRatio": 2.84,
     "shortPercentOfFloat": 0.119799994,
     "beta": 3.737,
     "impliedSharesOutstanding": 284443868,
     "category": null,
     "bookValue": 3.242,
-    "priceToBook": 79.27822,
+    "priceToBook": 75.45034,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2761,13 +2771,13 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": 6033000,
     "trailingEps": -0.05,
-    "forwardEps": 4.40301,
+    "forwardEps": 4.45259,
     "pegRatio": 1.23,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 30.051,
-    "enterpriseToEbitda": 317.784,
-    "52WeekChange": 8.837137,
-    "SandP52WeekChange": 0.2011286,
+    "enterpriseToRevenue": 28.61,
+    "enterpriseToEbitda": 302.542,
+    "52WeekChange": 9.118897,
+    "SandP52WeekChange": 0.20510244,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -2831,11 +2841,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 3558,
-        "value": 1028760,
+        "shares": 2842,
+        "value": 820286,
         "filerUrl": "",
-        "transactionText": "Sale at price 289.14 per share.",
-        "filerName": "JOSHI AMAN",
+        "transactionText": "Sale at price 288.63 per share.",
+        "filerName": "SODERBERG SHAWN MARIE",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-16T00:00:00.000Z",
@@ -2843,12 +2853,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 2842,
-        "value": 820286,
+        "shares": 2837,
+        "value": 820205,
         "filerUrl": "",
-        "transactionText": "Sale at price 288.63 per share.",
-        "filerName": "SODERBERG SHAWN MARIE",
-        "filerRelation": "Officer",
+        "transactionText": "Sale at price 289.11 per share.",
+        "filerName": "CHITOORI SATISH PRABHU",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2026-06-16T00:00:00.000Z",
         "ownership": "D"
@@ -2867,12 +2877,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 2837,
-        "value": 820205,
+        "shares": 3558,
+        "value": 1028760,
         "filerUrl": "",
-        "transactionText": "Sale at price 289.11 per share.",
-        "filerName": "CHITOORI SATISH PRABHU",
-        "filerRelation": "Chief Operating Officer",
+        "transactionText": "Sale at price 289.14 per share.",
+        "filerName": "JOSHI AMAN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-16T00:00:00.000Z",
         "ownership": "D"
@@ -3046,24 +3056,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 4813,
-        "value": 1387107,
-        "filerUrl": "",
-        "transactionText": "Sale at price 288.20 per share.",
-        "filerName": "JOSHI AMAN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2111,
         "value": 608475,
         "filerUrl": "",
         "transactionText": "Sale at price 288.24 per share.",
         "filerName": "CHITOORI SATISH PRABHU",
         "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4813,
+        "value": 1387107,
+        "filerUrl": "",
+        "transactionText": "Sale at price 288.20 per share.",
+        "filerName": "JOSHI AMAN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-14T00:00:00.000Z",
         "ownership": "D"
@@ -3202,6 +3212,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 18964,
+        "value": 2929064,
+        "filerUrl": "",
+        "transactionText": "Sale at price 152.59 - 154.81 per share.",
+        "filerName": "CHITOORI SATISH PRABHU",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-03-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 7800,
         "value": 1184430,
         "filerUrl": "",
@@ -3220,18 +3242,6 @@
         "transactionText": "Sale at price 154.85 per share.",
         "filerName": "JOSHI AMAN",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 18964,
-        "value": 2929064,
-        "filerUrl": "",
-        "transactionText": "Sale at price 152.59 - 154.81 per share.",
-        "filerName": "CHITOORI SATISH PRABHU",
-        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2026-03-16T00:00:00.000Z",
         "ownership": "D"
@@ -3322,18 +3332,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 1756000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 175.60 per share.",
-        "filerName": "JOSHI AMAN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 45244,
         "value": 8091665,
         "filerUrl": "",
@@ -3343,6 +3341,18 @@
         "moneyText": "",
         "startDate": "2026-02-25T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "value": 1756000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 175.60 per share.",
+        "filerName": "JOSHI AMAN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-25T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -3382,18 +3392,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 3746,
-        "value": 523728,
-        "filerUrl": "",
-        "transactionText": "Sale at price 139.81 per share.",
-        "filerName": "JOSHI AMAN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 3332,
         "value": 465014,
         "filerUrl": "",
@@ -3412,6 +3410,18 @@
         "transactionText": "Sale at price 139.37 per share.",
         "filerName": "CHITOORI SATISH PRABHU",
         "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-02-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3746,
+        "value": 523728,
+        "filerUrl": "",
+        "transactionText": "Sale at price 139.81 per share.",
+        "filerName": "JOSHI AMAN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-17T00:00:00.000Z",
         "ownership": "D"
@@ -3514,18 +3524,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 4543,
-        "value": 495778,
-        "filerUrl": "",
-        "transactionText": "Sale at price 109.13 per share.",
-        "filerName": "JOSHI AMAN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-11-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2085,
         "value": 217007,
         "filerUrl": "",
@@ -3538,12 +3536,36 @@
       },
       {
         "maxAge": 1,
+        "shares": 4543,
+        "value": 495778,
+        "filerUrl": "",
+        "transactionText": "Sale at price 109.13 per share.",
+        "filerName": "JOSHI AMAN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-11-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 20000,
         "value": 2860800,
         "filerUrl": "",
         "transactionText": "Sale at price 143.04 per share.",
         "filerName": "SNABE JIM HAGEMANN",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-11-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 36666,
+        "value": 5169906,
+        "filerUrl": "",
+        "transactionText": "Sale at price 141.00 per share.",
+        "filerName": "SODERBERG SHAWN MARIE",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-05T00:00:00.000Z",
         "ownership": "D"
@@ -3568,18 +3590,6 @@
         "transactionText": "Sale at price 141.28 per share.",
         "filerName": "ZERVIGON EDDY",
         "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 36666,
-        "value": 5169906,
-        "filerUrl": "",
-        "transactionText": "Sale at price 141.00 per share.",
-        "filerName": "SODERBERG SHAWN MARIE",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-05T00:00:00.000Z",
         "ownership": "D"
@@ -3754,18 +3764,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 4870,
-        "value": 211163,
-        "filerUrl": "",
-        "transactionText": "Sale at price 43.36 per share.",
-        "filerName": "JOSHI AMAN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 47901,
         "value": 2074969,
         "filerUrl": "",
@@ -3784,6 +3782,18 @@
         "transactionText": "Sale at price 43.44 - 45.00 per share.",
         "filerName": "CHITOORI SATISH PRABHU",
         "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2025-08-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4870,
+        "value": 211163,
+        "filerUrl": "",
+        "transactionText": "Sale at price 43.36 per share.",
+        "filerName": "JOSHI AMAN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-14T00:00:00.000Z",
         "ownership": "D"
@@ -3970,18 +3980,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 4658,
-        "value": 91856,
-        "filerUrl": "",
-        "transactionText": "Sale at price 19.72 per share.",
-        "filerName": "JOSHI AMAN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2780,
         "value": 54822,
         "filerUrl": "",
@@ -3999,6 +3997,18 @@
         "filerUrl": "",
         "transactionText": "Sale at price 19.73 per share.",
         "filerName": "CHITOORI SATISH PRABHU",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4658,
+        "value": 91856,
+        "filerUrl": "",
+        "transactionText": "Sale at price 19.72 per share.",
+        "filerName": "JOSHI AMAN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-05-14T00:00:00.000Z",
@@ -4149,24 +4159,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 13971,
-        "value": 353466,
-        "filerUrl": "",
-        "transactionText": "Sale at price 25.30 per share.",
-        "filerName": "JOSHI AMAN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7868,
         "value": 200005,
         "filerUrl": "",
         "transactionText": "Sale at price 25.42 per share.",
         "filerName": "CHITOORI SATISH PRABHU",
         "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2025-02-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 13971,
+        "value": 353466,
+        "filerUrl": "",
+        "transactionText": "Sale at price 25.30 per share.",
+        "filerName": "JOSHI AMAN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-14T00:00:00.000Z",
         "ownership": "D"
@@ -4425,7 +4435,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 257.02,
+    "currentPrice": 244.61,
     "targetHighPrice": 390,
     "targetLowPrice": 55,
     "targetMeanPrice": 282.488,
@@ -4454,6 +4464,6 @@
     "profitMargins": 0.00246,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-10T06:03:49.277Z",
+  "lastUpdated": "2026-07-11T05:14:17.159Z",
   "source": "Static Build (yahoo-finance2)"
 }

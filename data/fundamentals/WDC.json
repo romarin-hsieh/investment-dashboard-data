@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1038,
         "position": 35769222,
-        "value": 20676398340,
+        "value": 20838612984,
         "pctChange": 0.0073
       },
       {
@@ -54,7 +54,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0917,
         "position": 31623418,
-        "value": 18279916388,
+        "value": 18423329670,
         "pctChange": -0.0642
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0639,
         "position": 22034861,
-        "value": 12737251132,
+        "value": 12837179979,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0508,
         "position": 17512148,
-        "value": 10122896937,
+        "value": 10202315127,
         "pctChange": 0.225
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0498,
         "position": 17172653,
-        "value": 9926651857,
+        "value": 10004530425,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.044899996,
         "position": 15465766,
-        "value": 8939985847,
+        "value": 9010123624,
         "pctChange": -0.0147
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0345,
         "position": 11880038,
-        "value": 6867255820,
+        "value": 6921132199,
         "pctChange": 10.1696005
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0275,
         "position": 9477201,
-        "value": 5478295922,
+        "value": 5521275352,
         "pctChange": 0.021
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.024600001,
         "position": 8489612,
-        "value": 4907420112,
+        "value": 4945920793,
         "pctChange": -0.2952
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.023,
         "position": 7939106,
-        "value": 4589200126,
+        "value": 4625204243,
         "pctChange": -0.112399995
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00543,
-    "institutionsPercentHeld": 1.0125,
-    "institutionsFloatPercentHeld": 1.01803,
-    "institutionsCount": 1992
+    "institutionsPercentHeld": 1.01172,
+    "institutionsFloatPercentHeld": 1.01725,
+    "institutionsCount": 2011
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-10T12:36:19.000Z",
+        "firm": "Wells Fargo",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 730,
+        "priorPriceTarget": 575
+      },
       {
         "epochGradeDate": "2026-07-08T12:36:46.000Z",
         "firm": "Susquehanna",
@@ -5947,28 +5957,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.016988164,
-    "postMarketChange": 9.820007,
-    "postMarketTime": "2026-07-09T23:59:56.000Z",
-    "postMarketPrice": 587.87,
+    "postMarketChangePercent": -0.00011157589,
+    "postMarketChange": -0.06500244,
+    "postMarketTime": "2026-07-10T23:59:35.000Z",
+    "postMarketPrice": 582.52,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.050426997,
-    "regularMarketChange": 27.75,
-    "regularMarketTime": "2026-07-09T20:00:00.000Z",
+    "regularMarketChangePercent": 0.0078454,
+    "regularMarketChange": 4.53503,
+    "regularMarketTime": "2026-07-10T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 578.05,
-    "regularMarketDayHigh": 601.5,
-    "regularMarketDayLow": 574.0001,
-    "regularMarketVolume": 6709978,
-    "averageDailyVolume10Day": 10183060,
-    "averageDailyVolume3Month": 8357256,
-    "regularMarketPreviousClose": 550.3,
+    "regularMarketPrice": 582.585,
+    "regularMarketDayHigh": 585.2,
+    "regularMarketDayLow": 562.76,
+    "regularMarketVolume": 4789214,
+    "averageDailyVolume10Day": 10186080,
+    "averageDailyVolume3Month": 8394385,
+    "regularMarketPreviousClose": 578.05,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 594.48,
+    "regularMarketOpen": 563.995,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "WDC",
     "underlyingSymbol": null,
@@ -5980,13 +5990,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 199243513856
+    "marketCap": 200806662144
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 197730500608,
-    "forwardPE": 31.400026,
+    "enterpriseValue": 199293632512,
+    "forwardPE": 31.646372,
     "profitMargins": 0.55286,
     "floatShares": 342128036,
     "sharesOutstanding": 344682131,
@@ -5996,14 +6006,14 @@
     "dateShortInterest": "2026-06-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0767,
     "heldPercentInsiders": 0.00543,
-    "heldPercentInstitutions": 1.0125,
+    "heldPercentInstitutions": 1.01172,
     "shortRatio": 3.94,
     "shortPercentOfFloat": 0.0866,
     "beta": 2.166,
     "impliedSharesOutstanding": 344682131,
     "category": null,
     "bookValue": 20.915,
-    "priceToBook": 27.638058,
+    "priceToBook": 27.854889,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-06-27T00:00:00.000Z",
@@ -6011,17 +6021,17 @@
     "mostRecentQuarter": "2026-04-03T00:00:00.000Z",
     "earningsQuarterlyGrowth": 5.163,
     "netIncomeToCommon": 6350000128,
-    "trailingEps": 17.57,
-    "forwardEps": 18.40922,
+    "trailingEps": 16.84,
+    "forwardEps": 18.46172,
     "pegRatio": 0.49,
     "lastSplitFactor": "1323:1000",
     "lastSplitDate": 1740355200,
-    "enterpriseToRevenue": 16.79,
-    "enterpriseToEbitda": 50.339,
-    "52WeekChange": 7.8848753,
-    "SandP52WeekChange": 0.2011286,
-    "lastDividendValue": 0.125,
-    "lastDividendDate": "2026-03-05T00:00:00.000Z",
+    "enterpriseToRevenue": 16.922,
+    "enterpriseToEbitda": 50.737,
+    "52WeekChange": 7.7397947,
+    "SandP52WeekChange": 0.20510244,
+    "lastDividendValue": 0.15,
+    "lastDividendDate": "2026-06-05T00:00:00.000Z",
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -6266,22 +6276,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 9,
+        "shares": 35,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GUBBI VIDYADHARA K",
-        "filerRelation": "Officer",
+        "filerName": "TAN IRVING",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-05-21T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 35,
+        "shares": 9,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TAN IRVING",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "GUBBI VIDYADHARA K",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-21T00:00:00.000Z",
         "ownership": "D"
@@ -6465,7 +6475,7 @@
         "shares": 23,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TREGILLIS CYNTHIA LOCK",
+        "filerName": "DAVIS BRIAN SCOTT",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-03T00:00:00.000Z",
@@ -6476,7 +6486,7 @@
         "shares": 23,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DAVIS BRIAN SCOTT",
+        "filerName": "TREGILLIS CYNTHIA LOCK",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-03T00:00:00.000Z",
@@ -6829,22 +6839,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 6,
+        "shares": 21,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GUBBI VIDYADHARA K",
-        "filerRelation": "Officer",
+        "filerName": "TAN IRVING",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-11-25T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 21,
+        "shares": 6,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TAN IRVING",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "GUBBI VIDYADHARA K",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-25T00:00:00.000Z",
         "ownership": "D"
@@ -7163,6 +7173,17 @@
         "shares": 1,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "TREGILLIS CYNTHIA LOCK",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "DAVIS BRIAN SCOTT",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -7175,17 +7196,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "GUBBI VIDYADHARA K",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "TREGILLIS CYNTHIA LOCK",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-27T00:00:00.000Z",
@@ -7291,6 +7301,17 @@
         "shares": 3,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "TREGILLIS CYNTHIA LOCK",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "DAVIS BRIAN SCOTT",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -7303,17 +7324,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "GUBBI VIDYADHARA K",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "TREGILLIS CYNTHIA LOCK",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-25T00:00:00.000Z",
@@ -7776,7 +7786,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 578.05,
+    "currentPrice": 582.585,
     "targetHighPrice": 1050,
     "targetLowPrice": 375,
     "targetMeanPrice": 606.125,
@@ -7806,6 +7816,6 @@
     "profitMargins": 0.55286,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-10T06:05:34.666Z",
+  "lastUpdated": "2026-07-11T05:16:01.457Z",
   "source": "Static Build (yahoo-finance2)"
 }
