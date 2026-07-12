@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01877,
-    "institutionsPercentHeld": 0.83822,
-    "institutionsFloatPercentHeld": 0.85426,
-    "institutionsCount": 506
+    "institutionsPercentHeld": 0.83755994,
+    "institutionsFloatPercentHeld": 0.85359,
+    "institutionsCount": 508
   },
   "earnings": {
     "maxAge": 86400,
@@ -1784,7 +1784,7 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketSource": "FREE_REALTIME",
+    "preMarketSource": "DELAYED",
     "postMarketChangePercent": 0.0018613734,
     "postMarketChange": 0.040000916,
     "postMarketTime": "2026-07-10T23:59:06.000Z",
@@ -1798,8 +1798,8 @@
     "regularMarketDayHigh": 22.57,
     "regularMarketDayLow": 21.2012,
     "regularMarketVolume": 4964829,
-    "averageDailyVolume10Day": 9288150,
-    "averageDailyVolume3Month": 9247391,
+    "averageDailyVolume10Day": 8929720,
+    "averageDailyVolume3Month": 9203622,
     "regularMarketPreviousClose": 21.92,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 22.5,
@@ -1828,15 +1828,15 @@
     "profitMargins": -0.01612,
     "floatShares": 220201660,
     "sharesOutstanding": 225619195,
-    "sharesShort": 30013348,
-    "sharesShortPriorMonth": "1970-12-24T03:38:19.000Z",
-    "sharesShortPreviousMonthDate": "2026-05-15T00:00:00.000Z",
-    "dateShortInterest": "2026-06-15T00:00:00.000Z",
-    "sharesPercentSharesOut": 0.1204,
+    "sharesShort": 36399726,
+    "sharesShortPriorMonth": "1970-12-20T20:21:40.000Z",
+    "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
+    "dateShortInterest": "2026-06-30T00:00:00.000Z",
+    "sharesPercentSharesOut": 0.146,
     "heldPercentInsiders": 0.01877,
-    "heldPercentInstitutions": 0.83822,
-    "shortRatio": 3.07,
-    "shortPercentOfFloat": 0.1345,
+    "heldPercentInstitutions": 0.83755994,
+    "shortRatio": 3.7,
+    "shortPercentOfFloat": 0.16319999,
     "beta": 1.37,
     "impliedSharesOutstanding": 249257621,
     "category": null,
@@ -1854,8 +1854,8 @@
     "lastSplitFactor": null,
     "enterpriseToRevenue": 3.68,
     "enterpriseToEbitda": 59.628,
-    "52WeekChange": 0.56571424,
-    "SandP52WeekChange": 0.20510244,
+    "52WeekChange": 0.519802,
+    "SandP52WeekChange": 0.20847368,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -2232,18 +2232,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1932331,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "STEINBERG DAVID A.",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-05-09T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 25000,
         "value": 0,
         "filerUrl": "",
@@ -2253,6 +2241,18 @@
         "moneyText": "",
         "startDate": "2025-05-09T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1932331,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "STEINBERG DAVID A.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-05-09T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2688,6 +2688,6 @@
     "profitMargins": -0.01612,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-11T05:13:51.640Z",
+  "lastUpdated": "2026-07-12T05:27:13.430Z",
   "source": "Static Build (yahoo-finance2)"
 }

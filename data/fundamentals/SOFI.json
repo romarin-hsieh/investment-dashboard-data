@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01432,
-    "institutionsPercentHeld": 0.56663,
-    "institutionsFloatPercentHeld": 0.57486,
-    "institutionsCount": 1168
+    "institutionsPercentHeld": 0.56688,
+    "institutionsFloatPercentHeld": 0.57512003,
+    "institutionsCount": 1171
   },
   "earnings": {
     "maxAge": 86400,
@@ -2068,10 +2068,10 @@
     "priceHint": 2,
     "regularMarketPrice": 18.78,
     "regularMarketDayHigh": 19.74,
-    "regularMarketDayLow": 18.62,
+    "regularMarketDayLow": 18.6203,
     "regularMarketVolume": 91350769,
-    "averageDailyVolume10Day": 81188270,
-    "averageDailyVolume3Month": 74821893,
+    "averageDailyVolume10Day": 81487010,
+    "averageDailyVolume3Month": 75090822,
     "regularMarketPreviousClose": 18.62,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 19.14,
@@ -2100,15 +2100,15 @@
     "profitMargins": 0.14761,
     "floatShares": 1262961331,
     "sharesOutstanding": 1282741200,
-    "sharesShort": 195788409,
-    "sharesShortPriorMonth": "1975-06-26T09:00:36.000Z",
-    "sharesShortPreviousMonthDate": "2026-05-15T00:00:00.000Z",
-    "dateShortInterest": "2026-06-15T00:00:00.000Z",
-    "sharesPercentSharesOut": 0.1526,
+    "sharesShort": 188100006,
+    "sharesShortPriorMonth": "1975-11-25T08:47:47.000Z",
+    "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
+    "dateShortInterest": "2026-06-30T00:00:00.000Z",
+    "sharesPercentSharesOut": 0.1466,
     "heldPercentInsiders": 0.01432,
-    "heldPercentInstitutions": 0.56663,
-    "shortRatio": 2.69,
-    "shortPercentOfFloat": 0.1548,
+    "heldPercentInstitutions": 0.56688,
+    "shortRatio": 2.25,
+    "shortPercentOfFloat": 0.1487,
     "beta": 2.149,
     "impliedSharesOutstanding": 1282741200,
     "category": null,
@@ -2126,8 +2126,8 @@
     "pegRatio": 0.83,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 5.742,
-    "52WeekChange": -0.12169814,
-    "SandP52WeekChange": 0.20510244,
+    "52WeekChange": -0.11954993,
+    "SandP52WeekChange": 0.20847368,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -2633,18 +2633,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 250000,
-        "value": 1832500,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 7.33 per share.",
-        "filerName": "FREIBERG STEVEN J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-02-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 5000,
         "value": 105220,
         "filerUrl": "",
@@ -2654,6 +2642,18 @@
         "moneyText": "",
         "startDate": "2026-02-06T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 250000,
+        "value": 1832500,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 7.33 per share.",
+        "filerName": "FREIBERG STEVEN J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-02-06T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -3455,6 +3455,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 30599,
+        "value": 500001,
+        "filerUrl": "",
+        "transactionText": "Purchase at price 16.34 per share.",
+        "filerName": "SCHUPPENHAUER ERIC",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-12-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 271751,
         "filerUrl": "",
         "transactionText": "",
@@ -3515,18 +3527,6 @@
         "transactionText": "",
         "filerName": "LAPOINTE CHRISTOPHER",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2024-12-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 30599,
-        "value": 500001,
-        "filerUrl": "",
-        "transactionText": "Purchase at price 16.34 per share.",
-        "filerName": "SCHUPPENHAUER ERIC",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-12-16T00:00:00.000Z",
         "ownership": "D"
@@ -3737,6 +3737,6 @@
     "profitMargins": 0.14761,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-11T05:12:53.672Z",
+  "lastUpdated": "2026-07-12T05:26:13.606Z",
   "source": "Static Build (yahoo-finance2)"
 }
