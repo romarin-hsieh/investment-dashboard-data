@@ -754,14 +754,14 @@
     "postMarketTime": "2026-07-10T23:59:51.000Z",
     "postMarketPrice": 73.58,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0075798305,
-    "regularMarketChange": -0.559998,
+    "regularMarketChangePercent": -0.0075798263,
+    "regularMarketChange": -0.55999756,
     "regularMarketTime": "2026-07-10T20:00:01.000Z",
     "priceHint": 2,
     "regularMarketPrice": 73.32,
     "regularMarketDayHigh": 74.08,
     "regularMarketDayLow": 71.3004,
-    "regularMarketVolume": 7308254,
+    "regularMarketVolume": 7403608,
     "averageDailyVolume10Day": 16674840,
     "averageDailyVolume3Month": 22692835,
     "regularMarketPreviousClose": 73.88,
@@ -770,7 +770,7 @@
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "ASTS",
     "underlyingSymbol": null,
@@ -790,7 +790,7 @@
     "enterpriseValue": 22447353856,
     "forwardPE": -357.30994,
     "profitMargins": 0,
-    "floatShares": 266015729,
+    "floatShares": 265964942,
     "sharesOutstanding": 298746383,
     "sharesShort": 64715042,
     "sharesShortPriorMonth": "1971-09-26T18:57:34.000Z",
@@ -1087,18 +1087,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 773400,
-        "filerUrl": "",
-        "transactionText": "Sale at price 77.34 per share.",
-        "filerName": "GUPTA SHANTI B.",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2025-12-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 675,
         "value": 49079,
         "filerUrl": "",
@@ -1108,6 +1096,18 @@
         "moneyText": "",
         "startDate": "2025-12-10T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "value": 773400,
+        "filerUrl": "",
+        "transactionText": "Sale at price 77.34 per share.",
+        "filerName": "GUPTA SHANTI B.",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2025-12-10T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1387,24 +1387,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 50000,
-        "value": 1782500,
-        "filerUrl": "",
-        "transactionText": "Sale at price 35.65 per share.",
-        "filerName": "WISNIEWSKI SCOTT",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2025-06-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 15000,
         "value": 541200,
         "filerUrl": "",
         "transactionText": "Sale at price 36.08 per share.",
         "filerName": "GUPTA SHANTI B.",
         "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2025-06-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 50000,
+        "value": 1782500,
+        "filerUrl": "",
+        "transactionText": "Sale at price 35.65 per share.",
+        "filerName": "WISNIEWSKI SCOTT",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2025-06-09T00:00:00.000Z",
         "ownership": "D"
@@ -1723,6 +1723,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 80000,
+        "value": 2066400,
+        "filerUrl": "",
+        "transactionText": "Sale at price 25.83 per share.",
+        "filerName": "GUPTA SHANTI B.",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2024-09-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2700,
         "value": 62427,
         "filerUrl": "",
@@ -1741,18 +1753,6 @@
         "transactionText": "Sale at price 26.12 - 26.13 per share.",
         "filerName": "WISNIEWSKI SCOTT",
         "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2024-09-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 80000,
-        "value": 2066400,
-        "filerUrl": "",
-        "transactionText": "Sale at price 25.83 per share.",
-        "filerName": "GUPTA SHANTI B.",
-        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2024-09-30T00:00:00.000Z",
         "ownership": "D"
@@ -1934,6 +1934,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-12T05:25:24.044Z",
+  "lastUpdated": "2026-07-13T05:35:14.154Z",
   "source": "Static Build (yahoo-finance2)"
 }

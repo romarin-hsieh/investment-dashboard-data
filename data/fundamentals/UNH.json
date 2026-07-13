@@ -5576,7 +5576,7 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketSource": "DELAYED",
+    "preMarketSource": "FREE_REALTIME",
     "postMarketChangePercent": 0.00007064853,
     "postMarketChange": 0.02999878,
     "postMarketTime": "2026-07-10T23:59:31.000Z",
@@ -5598,13 +5598,14 @@
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "UNH",
     "underlyingSymbol": null,
     "shortName": "UnitedHealth Group Incorporated",
     "longName": "UnitedHealth Group Incorporated",
     "currency": "USD",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
@@ -7511,6 +7512,6 @@
     "profitMargins": 0.02678,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-12T05:29:08.568Z",
+  "lastUpdated": "2026-07-13T05:38:58.237Z",
   "source": "Static Build (yahoo-finance2)"
 }

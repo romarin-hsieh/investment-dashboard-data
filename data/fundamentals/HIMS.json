@@ -1646,7 +1646,7 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketSource": "DELAYED",
+    "preMarketSource": "FREE_REALTIME",
     "postMarketChangePercent": -0.0037841839,
     "postMarketChange": -0.13010025,
     "postMarketTime": "2026-07-10T23:59:55.000Z",
@@ -1668,7 +1668,7 @@
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "HIMS",
     "underlyingSymbol": null,
@@ -1806,6 +1806,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 12063,
+        "value": 370518,
+        "filerUrl": "",
+        "transactionText": "Sale at price 30.25 - 31.50 per share.",
+        "filerName": "BECKLUND IRENE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-06-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 14027,
         "value": 441850,
         "filerUrl": "",
@@ -1826,40 +1838,6 @@
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2026-06-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 12063,
-        "value": 370518,
-        "filerUrl": "",
-        "transactionText": "Sale at price 30.25 - 31.50 per share.",
-        "filerName": "BECKLUND IRENE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-06-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 86264,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "CHI MICHAEL Y",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-06-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 282597,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ELSHENAWY MOHAMED",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2026-06-15T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1897,11 +1875,44 @@
       },
       {
         "maxAge": 1,
-        "shares": 32919,
+        "shares": 154991,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AUTOR DEBORAH M",
-        "filerRelation": "Officer and Director",
+        "filerName": "DUDUM ANDREW",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-06-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 86264,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "CHI MICHAEL Y",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-06-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 282597,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ELSHENAWY MOHAMED",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2026-06-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 42261,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BOUGHTON SOLEIL",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-15T00:00:00.000Z",
         "ownership": "D"
@@ -1930,6 +1941,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 32919,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "AUTOR DEBORAH M",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-06-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 4091,
         "filerUrl": "",
         "transactionText": "",
@@ -1946,28 +1968,6 @@
         "transactionText": "",
         "filerName": "CARROLL PATRICK HARRISON",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-06-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 42261,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BOUGHTON SOLEIL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-06-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 154991,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "DUDUM ANDREW",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-06-15T00:00:00.000Z",
         "ownership": "D"
@@ -1999,8 +1999,8 @@
         "shares": 3656,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AUTOR DEBORAH M",
-        "filerRelation": "Officer and Director",
+        "filerName": "PENDARVIS CHRISTIANE",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-11T00:00:00.000Z",
         "ownership": "D"
@@ -2010,8 +2010,8 @@
         "shares": 3656,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PENDARVIS CHRISTIANE",
-        "filerRelation": "Director",
+        "filerName": "AUTOR DEBORAH M",
+        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2026-06-11T00:00:00.000Z",
         "ownership": "D"
@@ -2185,12 +2185,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 97289,
-        "value": 2402065,
+        "shares": 4812,
+        "value": 118808,
         "filerUrl": "",
         "transactionText": "Sale at price 24.69 per share.",
-        "filerName": "CHI MICHAEL Y",
-        "filerRelation": "Chief Operating Officer",
+        "filerName": "BOUGHTON SOLEIL",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-17T00:00:00.000Z",
         "ownership": "D"
@@ -2209,69 +2209,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 4812,
-        "value": 118808,
+        "shares": 97289,
+        "value": 2402065,
         "filerUrl": "",
         "transactionText": "Sale at price 24.69 per share.",
-        "filerName": "BOUGHTON SOLEIL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 72108,
-        "filerUrl": "",
-        "transactionText": "",
         "filerName": "CHI MICHAEL Y",
         "filerRelation": "Chief Operating Officer",
         "moneyText": "",
-        "startDate": "2026-03-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 32919,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "AUTOR DEBORAH M",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2026-03-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 105200,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "OKUPE OLUYEMI",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-03-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 15211,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PENDARVIS CHRISTIANE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 17987,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BECKLUND IRENE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-13T00:00:00.000Z",
+        "startDate": "2026-03-17T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2281,6 +2226,17 @@
         "transactionText": "",
         "filerName": "DUDUM ANDREW",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-03-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 72108,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "CHI MICHAEL Y",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2026-03-13T00:00:00.000Z",
         "ownership": "D"
@@ -2303,6 +2259,50 @@
         "transactionText": "",
         "filerName": "BOUGHTON SOLEIL",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 15211,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "PENDARVIS CHRISTIANE",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-03-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 105200,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "OKUPE OLUYEMI",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-03-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17987,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BECKLUND IRENE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 32919,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "AUTOR DEBORAH M",
+        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2026-03-13T00:00:00.000Z",
         "ownership": "D"
@@ -2453,30 +2453,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 10021,
-        "value": 367871,
-        "filerUrl": "",
-        "transactionText": "Sale at price 36.71 per share.",
-        "filerName": "CARROLL PATRICK HARRISON",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-12-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 13750,
-        "value": 504762,
-        "filerUrl": "",
-        "transactionText": "Sale at price 36.71 per share.",
-        "filerName": "CHI MICHAEL Y",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2025-12-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 8411,
         "value": 308768,
         "filerUrl": "",
@@ -2501,6 +2477,41 @@
       },
       {
         "maxAge": 1,
+        "shares": 10021,
+        "value": 367871,
+        "filerUrl": "",
+        "transactionText": "Sale at price 36.71 per share.",
+        "filerName": "CARROLL PATRICK HARRISON",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-12-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 13750,
+        "value": 504762,
+        "filerUrl": "",
+        "transactionText": "Sale at price 36.71 per share.",
+        "filerName": "CHI MICHAEL Y",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2025-12-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 164369,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "DUDUM ANDREW",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-12-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 72106,
         "filerUrl": "",
         "transactionText": "",
@@ -2512,11 +2523,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 7054,
+        "shares": 41421,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AUTOR DEBORAH M",
-        "filerRelation": "Officer and Director",
+        "filerName": "BOUGHTON SOLEIL",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-15T00:00:00.000Z",
         "ownership": "D"
@@ -2545,10 +2556,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 16521,
+        "shares": 7054,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "CARROLL PATRICK HARRISON",
+        "filerName": "AUTOR DEBORAH M",
         "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2025-12-15T00:00:00.000Z",
@@ -2556,22 +2567,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 41421,
+        "shares": 16521,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BOUGHTON SOLEIL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-12-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 164369,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "DUDUM ANDREW",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "CARROLL PATRICK HARRISON",
+        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2025-12-15T00:00:00.000Z",
         "ownership": "D"
@@ -2890,6 +2890,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 2637,
+        "value": 133168,
+        "filerUrl": "",
+        "transactionText": "Sale at price 50.50 per share.",
+        "filerName": "BOUGHTON SOLEIL",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8410,
+        "value": 424705,
+        "filerUrl": "",
+        "transactionText": "Sale at price 50.50 per share.",
+        "filerName": "BECKLUND IRENE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 65110,
         "value": 3292906,
         "filerUrl": "",
@@ -2926,30 +2950,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 8410,
-        "value": 424705,
-        "filerUrl": "",
-        "transactionText": "Sale at price 50.50 per share.",
-        "filerName": "BECKLUND IRENE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-09-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2637,
-        "value": 133168,
-        "filerUrl": "",
-        "transactionText": "Sale at price 50.50 per share.",
-        "filerName": "BOUGHTON SOLEIL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-09-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 175661,
         "value": 9384625,
         "filerUrl": "",
@@ -2974,18 +2974,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 4150,
-        "value": 232400,
-        "filerUrl": "",
-        "transactionText": "Sale at price 56.00 per share.",
-        "filerName": "CHI MICHAEL Y",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-09-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 145000,
         "value": 8026076,
         "filerUrl": "",
@@ -2998,10 +2986,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 76256,
-        "value": 25680,
+        "shares": 4150,
+        "value": 232400,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 5.01 - 11.53 per share.",
+        "transactionText": "Sale at price 56.00 per share.",
         "filerName": "CHI MICHAEL Y",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -3015,6 +3003,29 @@
         "transactionText": "",
         "filerName": "SCHULTZ KARE",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-09-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 41420,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BOUGHTON SOLEIL",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 76256,
+        "value": 25680,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 5.01 - 11.53 per share.",
+        "filerName": "CHI MICHAEL Y",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-15T00:00:00.000Z",
         "ownership": "D"
@@ -3049,17 +3060,6 @@
         "transactionText": "",
         "filerName": "CARROLL PATRICK HARRISON",
         "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-09-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 41420,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BOUGHTON SOLEIL",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-15T00:00:00.000Z",
         "ownership": "D"
@@ -3366,6 +3366,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 8023,
+        "value": 463294,
+        "filerUrl": "",
+        "transactionText": "Sale at price 56.80 - 59.75 per share.",
+        "filerName": "BOUGHTON SOLEIL",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8485,
+        "value": 506979,
+        "filerUrl": "",
+        "transactionText": "Sale at price 59.75 per share.",
+        "filerName": "BECKLUND IRENE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 240771,
         "value": 13813792,
         "filerUrl": "",
@@ -3390,30 +3414,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 8485,
-        "value": 506979,
-        "filerUrl": "",
-        "transactionText": "Sale at price 59.75 per share.",
-        "filerName": "BECKLUND IRENE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-06-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8023,
-        "value": 463294,
-        "filerUrl": "",
-        "transactionText": "Sale at price 56.80 - 59.75 per share.",
-        "filerName": "BOUGHTON SOLEIL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-06-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 289703,
         "value": 304564,
         "filerUrl": "",
@@ -3422,17 +3422,6 @@
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-06-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 87106,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "CHI MICHAEL Y",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-06-13T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3453,6 +3442,28 @@
         "transactionText": "",
         "filerName": "MANUEL ANJA L.",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 41420,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BOUGHTON SOLEIL",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 87106,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "CHI MICHAEL Y",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-06-13T00:00:00.000Z",
         "ownership": "D"
@@ -3486,17 +3497,6 @@
         "transactionText": "",
         "filerName": "CARROLL PATRICK HARRISON",
         "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-06-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 41420,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BOUGHTON SOLEIL",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-06-13T00:00:00.000Z",
         "ownership": "D"
@@ -3535,6 +3535,6 @@
     "profitMargins": -0.00559,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-12T05:26:04.112Z",
+  "lastUpdated": "2026-07-13T05:35:54.777Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -6726,7 +6726,7 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketSource": "DELAYED",
+    "preMarketSource": "FREE_REALTIME",
     "postMarketChangePercent": 0.0014932218,
     "postMarketChange": 0.21000671,
     "postMarketTime": "2026-07-10T23:59:59.000Z",
@@ -6748,7 +6748,7 @@
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "ORCL",
     "underlyingSymbol": null,
@@ -6831,18 +6831,6 @@
       {
         "maxAge": 1,
         "shares": 400000,
-        "value": 16372000,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 40.93 per share.",
-        "filerName": "HENLEY JEFFREY O",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2026-06-24T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 400000,
         "value": 63664040,
         "filerUrl": "",
         "transactionText": "Sale at price 156.06 - 165.57 per share.",
@@ -6854,10 +6842,22 @@
       },
       {
         "maxAge": 1,
+        "shares": 400000,
+        "value": 16372000,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 40.93 per share.",
+        "filerName": "HENLEY JEFFREY O",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-06-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2114,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MOORMAN CHARLES W IV",
+        "filerName": "CHIZEN BRUCE R",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-29T00:00:00.000Z",
@@ -6868,7 +6868,7 @@
         "shares": 2114,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "CHIZEN BRUCE R",
+        "filerName": "MOORMAN CHARLES W IV",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-29T00:00:00.000Z",
@@ -7111,21 +7111,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 46460,
+        "shares": 109212,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HENLEY JEFFREY O",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-09-19T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 20884,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LEVEY STUART A",
+        "filerName": "SICILIA MICHAEL D",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-19T00:00:00.000Z",
@@ -7144,6 +7133,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 20884,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LEVEY STUART A",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 17440,
         "filerUrl": "",
         "transactionText": "",
@@ -7155,14 +7155,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 109212,
+        "shares": 46460,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SICILIA MICHAEL D",
-        "filerRelation": "Officer",
+        "filerName": "HENLEY JEFFREY O",
+        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2025-09-19T00:00:00.000Z",
-        "ownership": "D"
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -7178,21 +7178,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 19753,
+        "shares": 52673,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HENLEY JEFFREY O",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-09-15T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 26337,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LEVEY STUART A",
+        "filerName": "SICILIA MICHAEL D",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-15T00:00:00.000Z",
@@ -7211,6 +7200,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 26337,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LEVEY STUART A",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 13169,
         "filerUrl": "",
         "transactionText": "",
@@ -7222,25 +7222,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 52673,
+        "shares": 19753,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SICILIA MICHAEL D",
-        "filerRelation": "Officer",
+        "filerName": "HENLEY JEFFREY O",
+        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2025-09-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 11500,
-        "value": 3519000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 306.00 per share.",
-        "filerName": "PARRETT WILLIAM GREGORY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-09-12T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -7254,6 +7242,18 @@
         "moneyText": "",
         "startDate": "2025-09-12T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11500,
+        "value": 3519000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 306.00 per share.",
+        "filerName": "PARRETT WILLIAM GREGORY",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-09-12T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -7281,14 +7281,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 25000,
+        "shares": 50000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HENLEY JEFFREY O",
-        "filerRelation": "Officer and Director",
+        "filerName": "SICILIA MICHAEL D",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-04T00:00:00.000Z",
-        "ownership": "I"
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -7314,14 +7314,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 50000,
+        "shares": 25000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SICILIA MICHAEL D",
-        "filerRelation": "Officer",
+        "filerName": "HENLEY JEFFREY O",
+        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2025-08-04T00:00:00.000Z",
-        "ownership": "D"
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -7386,18 +7386,6 @@
       {
         "maxAge": 1,
         "shares": 1260508,
-        "value": 64449774,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
-        "filerName": "CATZ SAFRA A",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-06-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1260508,
         "value": 267244339,
         "filerUrl": "",
         "transactionText": "Sale at price 210.35 - 214.25 per share.",
@@ -7409,10 +7397,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 3739492,
-        "value": 191200226,
+        "shares": 1260508,
+        "value": 64449774,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
+        "filerName": "CATZ SAFRA A",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-06-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3739492,
+        "value": 794635666,
+        "filerUrl": "",
+        "transactionText": "Sale at price 210.64 - 216.82 per share.",
         "filerName": "CATZ SAFRA A",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7422,9 +7422,9 @@
       {
         "maxAge": 1,
         "shares": 3739492,
-        "value": 794635666,
+        "value": 191200226,
         "filerUrl": "",
-        "transactionText": "Sale at price 210.64 - 216.82 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
         "filerName": "CATZ SAFRA A",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7446,9 +7446,9 @@
       {
         "maxAge": 1,
         "shares": 3694918,
-        "value": 188921157,
+        "value": 764007886,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
+        "transactionText": "Sale at price 203.36 - 213.19 per share.",
         "filerName": "CATZ SAFRA A",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7458,9 +7458,9 @@
       {
         "maxAge": 1,
         "shares": 3694918,
-        "value": 764007886,
+        "value": 188921157,
         "filerUrl": "",
-        "transactionText": "Sale at price 203.36 - 213.19 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
         "filerName": "CATZ SAFRA A",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7494,18 +7494,6 @@
       {
         "maxAge": 1,
         "shares": 400000,
-        "value": 16144000,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 40.36 per share.",
-        "filerName": "HENLEY JEFFREY O",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-06-12T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 400000,
         "value": 76169016,
         "filerUrl": "",
         "transactionText": "Sale at price 190.41 - 191.00 per share.",
@@ -7517,14 +7505,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 2986,
+        "shares": 400000,
+        "value": 16144000,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MOORMAN CHARLES W IV",
-        "filerRelation": "Director",
+        "transactionText": "Conversion of Exercise of derivative security at price 40.36 per share.",
+        "filerName": "HENLEY JEFFREY O",
+        "filerRelation": "Officer and Director",
         "moneyText": "",
-        "startDate": "2025-05-30T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2025-06-12T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -7542,7 +7531,7 @@
         "shares": 2986,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BOSKIN MICHAEL J",
+        "filerName": "MOORMAN CHARLES W IV",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-30T00:00:00.000Z",
@@ -7575,17 +7564,6 @@
         "shares": 2986,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SELIGMAN NAOMI O",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2986,
-        "filerUrl": "",
-        "transactionText": "",
         "filerName": "PANETTA LEON E",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7598,6 +7576,28 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "CONRADES GEORGE HENRY",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2986,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BOSKIN MICHAEL J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2986,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SELIGMAN NAOMI O",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-30T00:00:00.000Z",
@@ -7652,9 +7652,9 @@
       {
         "maxAge": 1,
         "shares": 17500,
-        "value": 761075,
+        "value": 2646651,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 43.49 per share.",
+        "transactionText": "Sale at price 151.24 per share.",
         "filerName": "PANETTA LEON E",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7664,9 +7664,9 @@
       {
         "maxAge": 1,
         "shares": 17500,
-        "value": 2646651,
+        "value": 761075,
         "filerUrl": "",
-        "transactionText": "Sale at price 151.24 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 43.49 per share.",
         "filerName": "PANETTA LEON E",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7724,9 +7724,9 @@
       {
         "maxAge": 1,
         "shares": 3805082,
-        "value": 194553843,
+        "value": 705455414,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
+        "transactionText": "Sale at price 185.12 - 190.10 per share.",
         "filerName": "CATZ SAFRA A",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7736,9 +7736,9 @@
       {
         "maxAge": 1,
         "shares": 3805082,
-        "value": 705455414,
+        "value": 194553843,
         "filerUrl": "",
-        "transactionText": "Sale at price 185.12 - 190.10 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
         "filerName": "CATZ SAFRA A",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7782,17 +7782,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 33035,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HENLEY JEFFREY O",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2024-09-20T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 66070,
         "filerUrl": "",
         "transactionText": "",
@@ -7815,6 +7804,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 33035,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HENLEY JEFFREY O",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2024-09-20T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 6320,
         "value": 1042800,
         "filerUrl": "",
@@ -7824,17 +7824,6 @@
         "moneyText": "",
         "startDate": "2024-09-16T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 19752,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HENLEY JEFFREY O",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2024-09-13T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -7871,6 +7860,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 19752,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HENLEY JEFFREY O",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2024-09-13T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 12500,
         "filerUrl": "",
         "transactionText": "",
@@ -7879,17 +7879,6 @@
         "moneyText": "",
         "startDate": "2024-09-05T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 50000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HENLEY JEFFREY O",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2024-08-05T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -7915,14 +7904,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 15000,
-        "value": 652650,
+        "shares": 50000,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 43.51 per share.",
-        "filerName": "PANETTA LEON E",
-        "filerRelation": "Director",
+        "transactionText": "",
+        "filerName": "HENLEY JEFFREY O",
+        "filerRelation": "Officer and Director",
         "moneyText": "",
-        "startDate": "2024-07-18T00:00:00.000Z",
+        "startDate": "2024-08-05T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -7939,10 +7927,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 2250000,
-        "value": 91057500,
+        "shares": 15000,
+        "value": 652650,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 40.47 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 43.51 per share.",
+        "filerName": "PANETTA LEON E",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-07-18T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2250000,
+        "value": 322049910,
+        "filerUrl": "",
+        "transactionText": "Sale at price 142.53 - 146.30 per share.",
         "filerName": "ELLISON LAWRENCE JOSEPH",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -7952,9 +7952,9 @@
       {
         "maxAge": 1,
         "shares": 2250000,
-        "value": 322049910,
+        "value": 91057500,
         "filerUrl": "",
-        "transactionText": "Sale at price 142.53 - 146.30 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 40.47 per share.",
         "filerName": "ELLISON LAWRENCE JOSEPH",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -7996,6 +7996,6 @@
     "profitMargins": 0.25368,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-12T05:25:36.813Z",
+  "lastUpdated": "2026-07-13T05:35:27.364Z",
   "source": "Static Build (yahoo-finance2)"
 }
