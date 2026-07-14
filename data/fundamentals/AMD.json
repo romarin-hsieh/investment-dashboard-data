@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.08930001,
         "position": 145574284,
-        "value": 81214439433,
+        "value": 77793443759,
         "pctChange": -0.013200001
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.065,
         "position": 105940266,
-        "value": 59103016550,
+        "value": 56613420299,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.045900002,
         "position": 74771220,
-        "value": 41714117021,
+        "value": 39956993351,
         "pctChange": -0.002
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024400001,
         "position": 39791086,
-        "value": 22199049551,
+        "value": 21263959030,
         "pctChange": 0.0587
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0231,
         "position": 37603675,
-        "value": 20978714796,
+        "value": 20095028434,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0177,
         "position": 28846470,
-        "value": 16093157570,
+        "value": 15415265525,
         "pctChange": 0.41919997
       },
       {
@@ -99,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0149,
         "position": 24248547,
-        "value": 13528022241,
+        "value": 12958181386,
         "pctChange": 0.1596
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0146,
         "position": 23781608,
-        "value": 13267521635,
+        "value": 12708653847,
         "pctChange": -0.050300002
       },
       {
@@ -117,7 +117,7 @@
         "organization": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
         "pctHeld": 0.0117999995,
         "position": 19192764,
-        "value": 10707451389,
+        "value": 10256421435,
         "pctChange": 0.030199999
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Northern Trust Corporation",
         "pctHeld": 0.0101,
         "position": 16427217,
-        "value": 9164580332,
+        "value": 8778540733,
         "pctChange": -0.0111
       }
     ]
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-13T18:02:21.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 675,
+        "priorPriceTarget": 600
+      },
       {
         "epochGradeDate": "2026-07-10T12:58:42.000Z",
         "firm": "Stifel",
@@ -7637,24 +7647,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0033698487,
-    "postMarketChange": 1.8800049,
-    "postMarketTime": "2026-07-10T23:59:57.000Z",
-    "postMarketPrice": 559.77,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0204309,
-    "regularMarketChange": 11.169983,
-    "regularMarketTime": "2026-07-10T20:00:01.000Z",
+    "postMarketChangePercent": -0.0053145206,
+    "postMarketChange": -2.8400269,
+    "postMarketTime": "2026-07-13T23:56:46.000Z",
+    "postMarketPrice": 531.55,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.042122997,
+    "regularMarketChange": -23.5,
+    "regularMarketTime": "2026-07-13T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 557.89,
-    "regularMarketDayHigh": 560.25,
-    "regularMarketDayLow": 540.05,
-    "regularMarketVolume": 20704530,
-    "averageDailyVolume10Day": 30150850,
-    "averageDailyVolume3Month": 36446714,
-    "regularMarketPreviousClose": 546.72003,
+    "regularMarketPrice": 534.39,
+    "regularMarketDayHigh": 551.86,
+    "regularMarketDayLow": 526.9696,
+    "regularMarketVolume": 22515430,
+    "averageDailyVolume10Day": 30155870,
+    "averageDailyVolume3Month": 36671552,
+    "regularMarketPreviousClose": 557.89,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 544.005,
+    "regularMarketOpen": 537.57,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -7665,18 +7675,18 @@
     "shortName": "Advanced Micro Devices, Inc.",
     "longName": "Advanced Micro Devices, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 909695778816
+    "marketCap": 871376683008
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 901219811328,
-    "forwardPE": 42.005203,
+    "enterpriseValue": 862900649984,
+    "forwardPE": 40.235817,
     "profitMargins": 0.13374,
     "floatShares": 1621991068,
     "sharesOutstanding": 1630600639,
@@ -7693,7 +7703,7 @@
     "impliedSharesOutstanding": 1630600639,
     "category": null,
     "bookValue": 39.547,
-    "priceToBook": 14.107012,
+    "priceToBook": 13.512782,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-27T00:00:00.000Z",
@@ -7706,8 +7716,8 @@
     "pegRatio": 1.34,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 966902400,
-    "enterpriseToRevenue": 24.062,
-    "enterpriseToEbitda": 121.295,
+    "enterpriseToRevenue": 23.039,
+    "enterpriseToEbitda": 116.137,
     "52WeekChange": 2.8148932,
     "SandP52WeekChange": 0.20847368,
     "latestShareClass": null,
@@ -9288,7 +9298,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 557.89,
+    "currentPrice": 534.39,
     "targetHighPrice": 700,
     "targetLowPrice": 320,
     "targetMeanPrice": 516.125,
@@ -9318,6 +9328,6 @@
     "profitMargins": 0.13374,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-13T05:37:18.425Z",
+  "lastUpdated": "2026-07-14T04:51:27.705Z",
   "source": "Static Build (yahoo-finance2)"
 }

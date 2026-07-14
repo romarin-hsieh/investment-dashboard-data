@@ -45,7 +45,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0708,
         "position": 22735569,
-        "value": 6102226580,
+        "value": 6127917884,
         "pctChange": -0.36540002
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0657,
         "position": 21094282,
-        "value": 5661705160,
+        "value": 5685541801,
         "pctChange": -0.0688
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0499,
         "position": 16039889,
-        "value": 4305106109,
+        "value": 4323231262,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "BAILLIE GIFFORD & CO",
         "pctHeld": 0.0496,
         "position": 15924423,
-        "value": 4274115036,
+        "value": 4292109711,
         "pctChange": -0.0535
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0495,
         "position": 15883321,
-        "value": 4263083259,
+        "value": 4281031489,
         "pctChange": -0.118
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0427,
         "position": 13716196,
-        "value": 3681426922,
+        "value": 3696926291,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0422,
         "position": 13560451,
-        "value": 3639624965,
+        "value": 3654948341,
         "pctChange": 0.0635
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Capital International Investors",
         "pctHeld": 0.0339,
         "position": 10893165,
-        "value": 2923725419,
+        "value": 2936034749,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0224,
         "position": 7178719,
-        "value": 1926768135,
+        "value": 1934880123,
         "pctChange": 0.0271
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0187,
         "position": 5993429,
-        "value": 1608636307,
+        "value": 1615408911,
         "pctChange": -0.0041
       }
     ]
@@ -261,6 +261,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-13T18:20:17.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 300,
+        "priorPriceTarget": 265
+      },
+      {
+        "epochGradeDate": "2026-07-13T12:28:08.000Z",
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 300,
+        "priorPriceTarget": 250
+      },
       {
         "epochGradeDate": "2026-07-10T11:48:36.000Z",
         "firm": "BTIG",
@@ -3567,24 +3587,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0007450883,
-    "postMarketChange": -0.19998169,
-    "postMarketTime": "2026-07-10T23:58:11.000Z",
-    "postMarketPrice": 268.2,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.026831,
-    "regularMarketChange": -7.39999,
-    "regularMarketTime": "2026-07-10T20:02:59.000Z",
+    "postMarketChangePercent": -0.005553015,
+    "postMarketChange": -1.4967041,
+    "postMarketTime": "2026-07-13T23:17:47.000Z",
+    "postMarketPrice": 268.0333,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.00421015,
+    "regularMarketChange": 1.13,
+    "regularMarketTime": "2026-07-13T20:04:37.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 268.4,
-    "regularMarketDayHigh": 280.14,
-    "regularMarketDayLow": 266.84,
-    "regularMarketVolume": 2023301,
-    "averageDailyVolume10Day": 3502090,
-    "averageDailyVolume3Month": 4130085,
-    "regularMarketPreviousClose": 275.8,
+    "regularMarketPrice": 269.53,
+    "regularMarketDayHigh": 276.3821,
+    "regularMarketDayLow": 263.37,
+    "regularMarketVolume": 1913315,
+    "averageDailyVolume10Day": 3502150,
+    "averageDailyVolume3Month": 4089655,
+    "regularMarketPreviousClose": 268.4,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 279.74,
+    "regularMarketOpen": 266.71,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -3595,18 +3615,18 @@
     "shortName": "Cloudflare, Inc.",
     "longName": "Cloudflare, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 95265775616
+    "marketCap": 95666855936
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 94230994944,
-    "forwardPE": 170.02084,
+    "enterpriseValue": 94630412288,
+    "forwardPE": 170.73665,
     "profitMargins": -0.037249997,
     "floatShares": 317402086,
     "sharesOutstanding": 321184834,
@@ -3623,7 +3643,7 @@
     "impliedSharesOutstanding": 354939564,
     "category": null,
     "bookValue": 4.32,
-    "priceToBook": 62.129627,
+    "priceToBook": 62.3912,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3634,8 +3654,8 @@
     "forwardEps": 1.57863,
     "pegRatio": 2.38,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 40.467,
-    "enterpriseToEbitda": -2597.112,
+    "enterpriseToRevenue": 40.638,
+    "enterpriseToEbitda": -2608.12,
     "52WeekChange": 0.46746862,
     "SandP52WeekChange": 0.20847368,
     "latestShareClass": null,
@@ -4242,10 +4262,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 156493,
-        "value": 33167769,
+        "shares": 659,
+        "value": 147367,
         "filerUrl": "",
-        "transactionText": "Sale at price 208.48 - 222.69 per share.",
+        "transactionText": "Sale at price 223.62 - 224.32 per share.",
         "filerName": "PRINCE MATTHEW",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -4254,10 +4274,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 659,
-        "value": 147367,
+        "shares": 156493,
+        "value": 33167769,
         "filerUrl": "",
-        "transactionText": "Sale at price 223.62 - 224.32 per share.",
+        "transactionText": "Sale at price 208.48 - 222.69 per share.",
         "filerName": "PRINCE MATTHEW",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -5432,7 +5452,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 268.4,
+    "currentPrice": 269.53,
     "targetHighPrice": 314,
     "targetLowPrice": 136,
     "targetMeanPrice": 247.51968,
@@ -5461,6 +5481,6 @@
     "profitMargins": -0.037249997,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-13T05:38:29.218Z",
+  "lastUpdated": "2026-07-14T04:52:35.826Z",
   "source": "Static Build (yahoo-finance2)"
 }
