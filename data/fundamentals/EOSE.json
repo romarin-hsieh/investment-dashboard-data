@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0709,
         "position": 24083779,
-        "value": 104764436,
+        "value": 103319410,
         "pctChange": 0.028099999
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Driehaus Capital Management, LLC",
         "pctHeld": 0.0438,
         "position": 14869170,
-        "value": 64680888,
+        "value": 63788738,
         "pctChange": 0.042
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0437,
         "position": 14835437,
-        "value": 64534149,
+        "value": 63644024,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Two Sigma Investments, LP",
         "pctHeld": 0.041500002,
         "position": 14074001,
-        "value": 61221903,
+        "value": 60377463,
         "pctChange": 1.6307001
       },
       {
@@ -81,7 +81,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.023599999,
         "position": 8017930,
-        "value": 34877994,
+        "value": 34396919,
         "pctChange": 0.0427
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.023,
         "position": 7812894,
-        "value": 33986088,
+        "value": 33517314,
         "pctChange": 0.084300004
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Marshall Wace LLP",
         "pctHeld": 0.0195,
         "position": 6611495,
-        "value": 28760002,
+        "value": 28363313,
         "pctChange": 35.293602
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Susquehanna International Group, LLP",
         "pctHeld": 0.0187,
         "position": 6350481,
-        "value": 27624591,
+        "value": 27243563,
         "pctChange": -0.0346
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Citadel Advisors Llc",
         "pctHeld": 0.018,
         "position": 6100772,
-        "value": 26538357,
+        "value": 26172311,
         "pctChange": 1.478
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Electron Capital Partners, LLC",
         "pctHeld": 0.015800001,
         "position": 5379661,
-        "value": 23401524,
+        "value": 23078745,
         "pctChange": -0.121199995
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.012200001,
-    "institutionsPercentHeld": 0.60548997,
-    "institutionsFloatPercentHeld": 0.61297,
-    "institutionsCount": 410
+    "institutionsPercentHeld": 0.60632,
+    "institutionsFloatPercentHeld": 0.6138,
+    "institutionsCount": 411
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-14T10:43:06.000Z",
+        "firm": "Truist Securities",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 7,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-07-13T11:32:25.000Z",
         "firm": "Stifel",
@@ -767,24 +777,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0,
-    "postMarketChange": 0,
-    "postMarketTime": "2026-07-13T23:22:41.000Z",
-    "postMarketPrice": 4.35,
+    "postMarketChangePercent": 0.011655057,
+    "postMarketChange": 0.05000019,
+    "postMarketTime": "2026-07-14T23:59:26.000Z",
+    "postMarketPrice": 4.34,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.01136368,
-    "regularMarketChange": -0.05000019,
-    "regularMarketTime": "2026-07-13T20:00:01.000Z",
+    "regularMarketChangePercent": -0.01379309,
+    "regularMarketChange": -0.059999943,
+    "regularMarketTime": "2026-07-14T20:00:01.000Z",
     "priceHint": 4,
-    "regularMarketPrice": 4.35,
-    "regularMarketDayHigh": 4.41,
-    "regularMarketDayLow": 4.055,
-    "regularMarketVolume": 29997687,
-    "averageDailyVolume10Day": 26209130,
-    "averageDailyVolume3Month": 26895693,
-    "regularMarketPreviousClose": 4.4,
+    "regularMarketPrice": 4.29,
+    "regularMarketDayHigh": 4.5551,
+    "regularMarketDayLow": 4.26,
+    "regularMarketVolume": 18535283,
+    "averageDailyVolume10Day": 27065920,
+    "averageDailyVolume3Month": 26887975,
+    "regularMarketPreviousClose": 4.35,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 4.2501,
+    "regularMarketOpen": 4.41,
     "exchange": "NCM",
     "exchangeName": "NasdaqCM",
     "exchangeDataDelayedBy": 0,
@@ -800,13 +810,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 1543389184
+    "marketCap": 1522100992
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 4,
     "enterpriseValue": 2291779072,
-    "forwardPE": -91.69477,
+    "forwardPE": -90.430016,
     "profitMargins": -2.96125,
     "floatShares": 333097212,
     "sharesOutstanding": 354802119,
@@ -816,7 +826,7 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.3093,
     "heldPercentInsiders": 0.012200001,
-    "heldPercentInstitutions": 0.60548997,
+    "heldPercentInstitutions": 0.60632,
     "shortRatio": 4.52,
     "shortPercentOfFloat": 0.3125,
     "beta": 2.693,
@@ -830,13 +840,13 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 32.621,
     "netIncomeToCommon": -1013340032,
-    "trailingEps": -6.37,
+    "trailingEps": -6.28,
     "forwardEps": -0.04744,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 14.26,
     "enterpriseToEbitda": -8.569,
-    "52WeekChange": -0.18063313,
-    "SandP52WeekChange": 0.20847368,
+    "52WeekChange": -0.15860736,
+    "SandP52WeekChange": 0.20365608,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1083,11 +1093,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 7681,
-        "value": 54305,
+        "shares": 23111,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 7.07 per share.",
-        "filerName": "WALTERS MARIAN",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "NIXON GREGORY S",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-19T00:00:00.000Z",
@@ -1095,11 +1105,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 23111,
-        "value": 0,
+        "shares": 7681,
+        "value": 54305,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "NIXON GREGORY S",
+        "transactionText": "Sale at price 7.07 per share.",
+        "filerName": "WALTERS MARIAN",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-19T00:00:00.000Z",
@@ -1316,11 +1326,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 18473,
-        "value": 266565,
+        "shares": 75000,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 14.43 per share.",
-        "filerName": "DIMITRIEF ALEXANDER",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "STIDOLPH RUSSELL MONOKI",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-05T00:00:00.000Z",
@@ -1328,11 +1338,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 75000,
-        "value": 0,
+        "shares": 18473,
+        "value": 266565,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "STIDOLPH RUSSELL MONOKI",
+        "transactionText": "Conversion of Exercise of derivative security at price 14.43 per share.",
+        "filerName": "DIMITRIEF ALEXANDER",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-05T00:00:00.000Z",
@@ -1352,11 +1362,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 68473,
-        "value": 325565,
+        "shares": 16000,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 1.18 - 14.43 per share.",
-        "filerName": "WALTERS MARIAN",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "MCNEIL JEFFREY H",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-04T00:00:00.000Z",
@@ -1364,11 +1374,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 16000,
-        "value": 0,
+        "shares": 68473,
+        "value": 325565,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "MCNEIL JEFFREY H",
+        "transactionText": "Conversion of Exercise of derivative security at price 1.18 - 14.43 per share.",
+        "filerName": "WALTERS MARIAN",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-04T00:00:00.000Z",
@@ -1825,7 +1835,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 4.35,
+    "currentPrice": 4.29,
     "targetHighPrice": 18,
     "targetLowPrice": 5,
     "targetMeanPrice": 9.375,
@@ -1852,6 +1862,6 @@
     "profitMargins": -2.96125,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-14T04:50:14.904Z",
+  "lastUpdated": "2026-07-15T04:51:07.500Z",
   "source": "Static Build (yahoo-finance2)"
 }

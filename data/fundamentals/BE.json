@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0881,
         "position": 25060806,
-        "value": 5851447730,
+        "value": 6099800027,
         "pctChange": 0.0374
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Ameriprise Financial, Inc.",
         "pctHeld": 0.0805,
         "position": 22889027,
-        "value": 5344359039,
+        "value": 5571189032,
         "pctChange": -0.201
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.045100003,
         "position": 12829781,
-        "value": 2995625636,
+        "value": 3122768617,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.041500002,
         "position": 11796818,
-        "value": 2754439099,
+        "value": 2871345429,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0321,
         "position": 9120513,
-        "value": 2129548630,
+        "value": 2219932808,
         "pctChange": 3.5012
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0269,
         "position": 7644234,
-        "value": 1784852238,
+        "value": 1860606508,
         "pctChange": -0.1826
       },
       {
@@ -99,7 +99,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0228,
         "position": 6473617,
-        "value": 1511524868,
+        "value": 1575678338,
         "pctChange": 0.0727
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Situational Awareness Partners LP",
         "pctHeld": 0.0228,
         "position": 6485408,
-        "value": 1514277949,
+        "value": 1578548267,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Situational Awareness LP                          ",
         "pctHeld": 0.0228,
         "position": 6485408,
-        "value": 1514277949,
+        "value": 1578548267,
         "pctChange": -0.35639998
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0209,
         "position": 5947076,
-        "value": 1388582807,
+        "value": 1447518262,
         "pctChange": 0.1269
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.05834,
-    "institutionsPercentHeld": 0.87988,
-    "institutionsFloatPercentHeld": 0.93439,
-    "institutionsCount": 1329
+    "institutionsPercentHeld": 0.8803,
+    "institutionsFloatPercentHeld": 0.93483,
+    "institutionsCount": 1337
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-14T10:16:22.000Z",
+        "firm": "Truist Securities",
+        "toGrade": "Hold",
+        "fromGrade": "Hold",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 250,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-07-10T12:04:37.000Z",
         "firm": "Susquehanna",
@@ -2707,24 +2717,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.012463076,
-    "postMarketChange": -2.9100037,
-    "postMarketTime": "2026-07-13T23:56:20.000Z",
-    "postMarketPrice": 230.58,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.0454601,
-    "regularMarketChange": -11.12,
-    "regularMarketTime": "2026-07-13T20:00:02.000Z",
+    "postMarketChangePercent": 0.009449478,
+    "postMarketChange": 2.300003,
+    "postMarketTime": "2026-07-14T23:59:58.000Z",
+    "postMarketPrice": 245.7,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.0424429,
+    "regularMarketChange": 9.90999,
+    "regularMarketTime": "2026-07-14T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 233.49,
-    "regularMarketDayHigh": 246.71,
-    "regularMarketDayLow": 228.3001,
-    "regularMarketVolume": 9377450,
-    "averageDailyVolume10Day": 18862470,
-    "averageDailyVolume3Month": 12273903,
-    "regularMarketPreviousClose": 244.61,
+    "regularMarketPrice": 243.4,
+    "regularMarketDayHigh": 252,
+    "regularMarketDayLow": 234.53,
+    "regularMarketVolume": 8767622,
+    "averageDailyVolume10Day": 14153250,
+    "averageDailyVolume3Month": 12029195,
+    "regularMarketPreviousClose": 233.49,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 231.38,
+    "regularMarketOpen": 246.59,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -2735,18 +2745,18 @@
     "shortName": "Bloom Energy Corporation",
     "longName": "Bloom Energy Corporation",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 66414800896
+    "marketCap": 69233639424
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 66902724608,
-    "forwardPE": 52.501637,
+    "forwardPE": 54.729958,
     "profitMargins": 0.00246,
     "floatShares": 278999612,
     "sharesOutstanding": 284443868,
@@ -2756,14 +2766,14 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.068,
     "heldPercentInsiders": 0.05834,
-    "heldPercentInstitutions": 0.87988,
+    "heldPercentInstitutions": 0.8803,
     "shortRatio": 1.4,
     "shortPercentOfFloat": 0.077800006,
     "beta": 3.737,
     "impliedSharesOutstanding": 284443868,
     "category": null,
     "bookValue": 3.242,
-    "priceToBook": 72.020355,
+    "priceToBook": 75.07711,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2776,8 +2786,8 @@
     "lastSplitFactor": null,
     "enterpriseToRevenue": 27.318,
     "enterpriseToEbitda": 288.884,
-    "52WeekChange": 8.422573,
-    "SandP52WeekChange": 0.20847368,
+    "52WeekChange": 8.225207,
+    "SandP52WeekChange": 0.20365608,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3224,24 +3234,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 18964,
-        "value": 2929064,
-        "filerUrl": "",
-        "transactionText": "Sale at price 152.59 - 154.81 per share.",
-        "filerName": "CHITOORI SATISH PRABHU",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-03-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7800,
         "value": 1184430,
         "filerUrl": "",
         "transactionText": "Sale at price 151.85 per share.",
         "filerName": "KURZYMSKI MACIEJ",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-03-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 18964,
+        "value": 2929064,
+        "filerUrl": "",
+        "transactionText": "Sale at price 152.59 - 154.81 per share.",
+        "filerName": "CHITOORI SATISH PRABHU",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2026-03-16T00:00:00.000Z",
         "ownership": "D"
@@ -4418,24 +4428,13 @@
         "moneyText": "",
         "startDate": "2024-07-16T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4118,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SODERBERG SHAWN MARIE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-07-15T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 233.49,
+    "currentPrice": 243.4,
     "targetHighPrice": 390,
     "targetLowPrice": 55,
     "targetMeanPrice": 281.43076,
@@ -4464,6 +4463,6 @@
     "profitMargins": 0.00246,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-14T04:51:34.797Z",
+  "lastUpdated": "2026-07-15T04:52:29.055Z",
   "source": "Static Build (yahoo-finance2)"
 }

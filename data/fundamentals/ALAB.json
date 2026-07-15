@@ -19,6 +19,14 @@
       },
       {
         "period": "-2m",
+        "strongBuy": 7,
+        "buy": 11,
+        "hold": 8,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
         "strongBuy": 6,
         "buy": 12,
         "hold": 6,
@@ -37,7 +45,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.1489,
         "position": 25529885,
-        "value": 9243094552,
+        "value": 9236201764,
         "pctChange": 0.0077
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0668,
         "position": 11449769,
-        "value": 4145388726,
+        "value": 4142297414,
         "pctChange": -0.1171
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.042600002,
         "position": 7309778,
-        "value": 2646505035,
+        "value": 2644531475,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.037,
         "position": 6340732,
-        "value": 2295661943,
+        "value": 2293950015,
         "pctChange": 1
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Atreides Management, LP",
         "pctHeld": 0.0196,
         "position": 3365787,
-        "value": 1218583142,
+        "value": 1217674416,
         "pctChange": 1.089
       },
       {
@@ -82,7 +90,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0194,
         "position": 3333606,
-        "value": 1206932011,
+        "value": 1206031974,
         "pctChange": 0.0754
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Fred Alger Management, LLC",
         "pctHeld": 0.015,
         "position": 2573005,
-        "value": 931556428,
+        "value": 930861745,
         "pctChange": 0.32990003
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Alliancebernstein L.P.",
         "pctHeld": 0.0147,
         "position": 2512695,
-        "value": 909721194,
+        "value": 909042794,
         "pctChange": 0.1538
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0146,
         "position": 2508264,
-        "value": 908116950,
+        "value": 907439746,
         "pctChange": 0.0326
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Amundi",
         "pctHeld": 0.011,
         "position": 1880830,
-        "value": 680954478,
+        "value": 680446675,
         "pctChange": 0.77879995
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.10734,
-    "institutionsPercentHeld": 0.75202006,
-    "institutionsFloatPercentHeld": 0.84245,
-    "institutionsCount": 976
+    "institutionsPercentHeld": 0.75152,
+    "institutionsFloatPercentHeld": 0.84189004,
+    "institutionsCount": 980
   },
   "earnings": {
     "maxAge": 86400,
@@ -1223,24 +1231,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.019472415,
-    "postMarketChange": -7.049988,
-    "postMarketTime": "2026-07-13T23:59:56.000Z",
-    "postMarketPrice": 355,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.12330196,
-    "regularMarketChange": -50.920013,
-    "regularMarketTime": "2026-07-13T20:00:01.000Z",
+    "postMarketChangePercent": 0.0128202,
+    "postMarketChange": 4.638092,
+    "postMarketTime": "2026-07-14T23:59:54.000Z",
+    "postMarketPrice": 366.4181,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.000745723,
+    "regularMarketChange": -0.269989,
+    "regularMarketTime": "2026-07-14T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 362.05,
-    "regularMarketDayHigh": 403.51,
-    "regularMarketDayLow": 350.095,
-    "regularMarketVolume": 6245835,
-    "averageDailyVolume10Day": 5277860,
-    "averageDailyVolume3Month": 6135200,
-    "regularMarketPreviousClose": 412.97,
+    "regularMarketPrice": 361.78,
+    "regularMarketDayHigh": 392.1999,
+    "regularMarketDayLow": 360.7,
+    "regularMarketVolume": 3280447,
+    "averageDailyVolume10Day": 5249140,
+    "averageDailyVolume3Month": 6112555,
+    "regularMarketPreviousClose": 362.05,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 400.685,
+    "regularMarketOpen": 392,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -1251,18 +1259,18 @@
     "shortName": "Astera Labs, Inc.",
     "longName": "Astera Labs, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 62058242048
+    "marketCap": 62011961344
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 60915621888,
-    "forwardPE": 84.05419,
+    "enterpriseValue": 60869341184,
+    "forwardPE": 83.99151,
     "profitMargins": 0.26724002,
     "floatShares": 153984322,
     "sharesOutstanding": 171407939,
@@ -1272,14 +1280,14 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.074,
     "heldPercentInsiders": 0.10734,
-    "heldPercentInstitutions": 0.75202006,
+    "heldPercentInstitutions": 0.75152,
     "shortRatio": 1.96,
     "shortPercentOfFloat": 0.097399995,
     "beta": 3.671,
     "impliedSharesOutstanding": 171407939,
     "category": null,
     "bookValue": 8.722,
-    "priceToBook": 41.50997,
+    "priceToBook": 41.47902,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1287,13 +1295,13 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 1.524,
     "netIncomeToCommon": 267624992,
-    "trailingEps": 1.49,
+    "trailingEps": 1.48,
     "forwardEps": 4.30734,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 60.828,
-    "enterpriseToEbitda": 261.009,
-    "52WeekChange": 3.5722985,
-    "SandP52WeekChange": 0.20847368,
+    "enterpriseToRevenue": 60.782,
+    "enterpriseToEbitda": 260.811,
+    "52WeekChange": 2.919987,
+    "SandP52WeekChange": 0.20365608,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1319,6 +1327,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 12499,
+        "value": 5624550,
+        "filerUrl": "",
+        "transactionText": "Sale at price 450.00 per share.",
+        "filerName": "DYCKERHOFF STEFAN A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-07-01T00:00:00.000Z",
+        "ownership": "D/I"
+      },
       {
         "maxAge": 1,
         "shares": 136974,
@@ -1354,18 +1374,6 @@
         "moneyText": "",
         "startDate": "2026-07-01T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 12499,
-        "value": 5624550,
-        "filerUrl": "",
-        "transactionText": "Sale at price 450.00 per share.",
-        "filerName": "DYCKERHOFF STEFAN A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-07-01T00:00:00.000Z",
-        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -1573,18 +1581,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 139951,
-        "value": 28013250,
-        "filerUrl": "",
-        "transactionText": "Sale at price 199.33 - 205.74 per share.",
-        "filerName": "MOHAN JITENDRA",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-07T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 12499,
         "value": 2500211,
         "filerUrl": "",
@@ -1621,6 +1617,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 139951,
+        "value": 28013250,
+        "filerUrl": "",
+        "transactionText": "Sale at price 199.33 - 205.74 per share.",
+        "filerName": "MOHAN JITENDRA",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-05-07T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 49584,
         "value": 0,
         "filerUrl": "",
@@ -1633,18 +1641,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 335881,
-        "value": 57852785,
-        "filerUrl": "",
-        "transactionText": "Sale at price 167.95 - 175.81 per share.",
-        "filerName": "MOHAN JITENDRA",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-04-20T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 24998,
         "value": 4376258,
         "filerUrl": "",
@@ -1654,6 +1650,18 @@
         "moneyText": "",
         "startDate": "2026-04-20T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 335881,
+        "value": 57852785,
+        "filerUrl": "",
+        "transactionText": "Sale at price 167.95 - 175.81 per share.",
+        "filerName": "MOHAN JITENDRA",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-04-20T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2245,24 +2253,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 16214,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MAZZARA PHILIP",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-07-24T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 43238,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "TATE MICHAEL TRUETT",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-07-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 16214,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MAZZARA PHILIP",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-07-24T00:00:00.000Z",
         "ownership": "D"
@@ -2809,18 +2817,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 11000,
-        "value": 1292531,
-        "filerUrl": "",
-        "transactionText": "Sale at price 115.53 - 121.05 per share.",
-        "filerName": "ALBA MANUEL",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-12-04T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 16000,
         "value": 1885472,
         "filerUrl": "",
@@ -2833,14 +2829,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 126000,
-        "value": 13593865,
+        "shares": 11000,
+        "value": 1292531,
         "filerUrl": "",
-        "transactionText": "Sale at price 101.60 - 116.63 per share.",
+        "transactionText": "Sale at price 115.53 - 121.05 per share.",
         "filerName": "ALBA MANUEL",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2024-12-03T00:00:00.000Z",
+        "startDate": "2024-12-04T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -2851,6 +2847,18 @@
         "transactionText": "Sale at price 101.62 - 117.10 per share.",
         "filerName": "TATE MICHAEL TRUETT",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2024-12-03T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 126000,
+        "value": 13593865,
+        "filerUrl": "",
+        "transactionText": "Sale at price 101.60 - 116.63 per share.",
+        "filerName": "ALBA MANUEL",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2024-12-03T00:00:00.000Z",
         "ownership": "I"
@@ -2969,8 +2977,8 @@
         "value": 61412,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 88.49 per share.",
-        "filerName": "MAZZARA PHILIP",
-        "filerRelation": "General Counsel",
+        "filerName": "TATE MICHAEL TRUETT",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2024-11-14T00:00:00.000Z",
         "ownership": "D"
@@ -2981,8 +2989,8 @@
         "value": 61412,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 88.49 per share.",
-        "filerName": "TATE MICHAEL TRUETT",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "MAZZARA PHILIP",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2024-11-14T00:00:00.000Z",
         "ownership": "D"
@@ -3124,11 +3132,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 362.05,
+    "currentPrice": 361.78,
     "targetHighPrice": 460,
     "targetLowPrice": 155,
-    "targetMeanPrice": 272.46774,
-    "targetMedianPrice": 265,
+    "targetMeanPrice": 281.55865,
+    "targetMedianPrice": 270,
     "recommendationMean": 1.88462,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 22,
@@ -3154,6 +3162,6 @@
     "profitMargins": 0.26724002,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-14T04:51:13.011Z",
+  "lastUpdated": "2026-07-15T04:52:06.128Z",
   "source": "Static Build (yahoo-finance2)"
 }
