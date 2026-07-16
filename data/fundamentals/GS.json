@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0813,
         "position": 23989366,
-        "value": 27347877240,
+        "value": 27637427599,
         "pctChange": 0.0317
       },
       {
@@ -54,7 +54,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0653,
         "position": 19255058,
-        "value": 21950766120,
+        "value": 22183173635,
         "pctChange": -0.015800001
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0623,
         "position": 18386634,
-        "value": 20960762760,
+        "value": 21182688444,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.024500001,
         "position": 7215462,
-        "value": 8225626680,
+        "value": 8312716918,
         "pctChange": -0.0837
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.024400001,
         "position": 7208245,
-        "value": 8217399300,
+        "value": 8304402429,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0241,
         "position": 7114833,
-        "value": 8110909620,
+        "value": 8196785272,
         "pctChange": 0.0577
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.0231,
         "position": 6827310,
-        "value": 7783133400,
+        "value": 7865538664,
         "pctChange": 0.0082
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0231,
         "position": 6816599,
-        "value": 7770922860,
+        "value": 7853198843,
         "pctChange": -0.0866
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0219,
         "position": 6455011,
-        "value": 7358712540,
+        "value": 7436624176,
         "pctChange": 0.0798
       },
       {
@@ -126,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0113,
         "position": 3341232,
-        "value": 3809004480,
+        "value": 3849332970,
         "pctChange": -0.175
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00526,
-    "institutionsPercentHeld": 0.74557996,
-    "institutionsFloatPercentHeld": 0.74953,
-    "institutionsCount": 3776
+    "institutionsPercentHeld": 0.74564004,
+    "institutionsFloatPercentHeld": 0.74958,
+    "institutionsCount": 3775
   },
   "earnings": {
     "maxAge": 86400,
@@ -193,7 +193,9 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": [],
+      "earningsDate": [
+        "2026-10-13T12:30:00.000Z"
+      ],
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
@@ -259,6 +261,56 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-15T17:44:41.000Z",
+        "firm": "BMO Capital",
+        "toGrade": "Market Perform",
+        "fromGrade": "Market Perform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 1190,
+        "priorPriceTarget": 1070
+      },
+      {
+        "epochGradeDate": "2026-07-15T12:48:01.000Z",
+        "firm": "JP Morgan",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 955,
+        "priorPriceTarget": 900
+      },
+      {
+        "epochGradeDate": "2026-07-15T12:20:58.000Z",
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 1245,
+        "priorPriceTarget": 1048
+      },
+      {
+        "epochGradeDate": "2026-07-15T12:19:40.000Z",
+        "firm": "Keefe, Bruyette & Woods",
+        "toGrade": "Market Perform",
+        "fromGrade": "Market Perform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 1130,
+        "priorPriceTarget": 1050
+      },
+      {
+        "epochGradeDate": "2026-07-15T11:17:39.000Z",
+        "firm": "Wells Fargo",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 1325,
+        "priorPriceTarget": 1195
+      },
       {
         "epochGradeDate": "2026-07-07T14:35:40.000Z",
         "firm": "B of A Securities",
@@ -4515,24 +4567,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0013859263,
-    "postMarketChange": 1.579956,
-    "postMarketTime": "2026-07-14T23:59:36.000Z",
-    "postMarketPrice": 1141.58,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0899599,
-    "regularMarketChange": 94.09,
-    "regularMarketTime": "2026-07-14T20:00:03.000Z",
+    "postMarketChangePercent": -0.0007117157,
+    "postMarketChange": -0.8199463,
+    "postMarketTime": "2026-07-16T00:00:00.000Z",
+    "postMarketPrice": 1151.25,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.0105877,
+    "regularMarketChange": 12.0699,
+    "regularMarketTime": "2026-07-15T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 1140,
-    "regularMarketDayHigh": 1143.785,
-    "regularMarketDayLow": 1082,
-    "regularMarketVolume": 3791899,
-    "averageDailyVolume10Day": 1728110,
-    "averageDailyVolume3Month": 2084821,
-    "regularMarketPreviousClose": 1045.91,
+    "regularMarketPrice": 1152.07,
+    "regularMarketDayHigh": 1153.99,
+    "regularMarketDayLow": 1117.5305,
+    "regularMarketVolume": 2695366,
+    "averageDailyVolume10Day": 1876670,
+    "averageDailyVolume3Month": 2117835,
+    "regularMarketPreviousClose": 1140,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 1085,
+    "regularMarketOpen": 1148.42,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -4543,20 +4595,20 @@
     "shortName": "Goldman Sachs Group, Inc. (The)",
     "longName": "The Goldman Sachs Group, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 336308469760
+    "marketCap": 339869171712
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 32801392640,
-    "forwardPE": 16.990545,
-    "profitMargins": 0.29363,
-    "floatShares": 304875160,
+    "enterpriseValue": 178764201984,
+    "forwardPE": 17.170437,
+    "profitMargins": 0.31039,
+    "floatShares": 298410437,
     "sharesOutstanding": 295007421,
     "sharesShort": 6482001,
     "sharesShortPriorMonth": "1970-03-30T23:41:57.000Z",
@@ -4564,28 +4616,28 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.022,
     "heldPercentInsiders": 0.00526,
-    "heldPercentInstitutions": 0.74557996,
+    "heldPercentInstitutions": 0.74564004,
     "shortRatio": 2.58,
     "shortPercentOfFloat": 0.0221,
     "beta": 1.292,
     "impliedSharesOutstanding": 295007421,
     "category": null,
     "bookValue": 356.271,
-    "priceToBook": 3.1998115,
+    "priceToBook": 3.23369,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
-    "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
-    "earningsQuarterlyGrowth": 0.188,
-    "netIncomeToCommon": 17064999936,
-    "trailingEps": 59.62,
-    "forwardEps": 67.09614,
+    "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
+    "earningsQuarterlyGrowth": 0.78,
+    "netIncomeToCommon": 19989999616,
+    "trailingEps": 64.75,
+    "forwardEps": 70.74316,
     "pegRatio": 1.57,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 0.533,
-    "52WeekChange": 0.48881865,
-    "SandP52WeekChange": 0.20365608,
+    "enterpriseToRevenue": 2.646,
+    "52WeekChange": 0.6253351,
+    "SandP52WeekChange": 0.20893407,
     "lastDividendValue": 4.5,
     "lastDividendDate": "2026-06-01T00:00:00.000Z",
     "latestShareClass": null,
@@ -4606,7 +4658,7 @@
     "sectorKey": "financial-services",
     "sectorDisp": "Financial Services",
     "longBusinessSummary": "The Goldman Sachs Group, Inc., a financial institution, provides a range of financial services for corporations, financial institutions, governments, and individuals in the Americas, Europe, the Middle East, Africa, and Asia. It operates through three segments: Global Banking & Markets, Asset & Wealth Management, and Platform Solutions. The Global Banking & Markets segment provides financial advisory services, including strategic advisory assignments related to mergers and acquisitions, divestitures, corporate defense activities, restructurings, and spin-offs; equity and debt underwriting of public offerings and private placements; relationship lending and acquisition financing; secured lending through structured credit and asset-backed lending, such as warehouse, residential and commercial mortgage, corporate, consumer, auto, and student loans; financing through securities purchased under agreements to resell; and commodity financing through structured transactions. This segment also offers client execution activities for cash and derivative instruments; credit and interest rate products; and provision of mortgages, currencies, commodities, and equities related products. Its Asset & Wealth Management segment manages assets across various classes, including equity, fixed income, hedge funds, credit funds, private equity, real estate, currencies, commodities, and asset allocation strategies; and provides customized investment advisory solutions, wealth advisory services, personalized financial planning, and private banking services, as well as invests in corporate equity, credit, real estate, and infrastructure assets. The Platform Solutions segment offers credit cards; and transaction banking and other services, such as deposit-taking, payment solutions, and other cash management services for corporate and institutional clients. The Goldman Sachs Group, Inc. was founded in 1869 and is headquartered in New York, New York.",
-    "fullTimeEmployees": 47000,
+    "fullTimeEmployees": 46200,
     "companyOfficers": [],
     "executiveTeam": [],
     "maxAge": 86400
@@ -5083,6 +5135,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 41462,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "RUEMMLER KATHRYN H",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-04-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 11933,
         "filerUrl": "",
         "transactionText": "",
@@ -5110,17 +5173,6 @@
         "transactionText": "",
         "filerName": "FREDMAN SHEARA J.",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-04-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 41462,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RUEMMLER KATHRYN H",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-04-30T00:00:00.000Z",
         "ownership": "D"
@@ -5231,6 +5283,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 7498,
+        "value": 4758906,
+        "filerUrl": "",
+        "transactionText": "Sale at price 634.69 per share.",
+        "filerName": "RUEMMLER KATHRYN H",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-01-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1545,
         "value": 965120,
         "filerUrl": "",
@@ -5249,18 +5313,6 @@
         "transactionText": "Sale at price 620.88 - 635.11 per share.",
         "filerName": "FREDMAN SHEARA J.",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 7498,
-        "value": 4758906,
-        "filerUrl": "",
-        "transactionText": "Sale at price 634.69 per share.",
-        "filerName": "RUEMMLER KATHRYN H",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-01-21T00:00:00.000Z",
         "ownership": "D"
@@ -5420,61 +5472,13 @@
         "moneyText": "",
         "startDate": "2024-08-15T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "VINIAR DAVID A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-07-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5000,
-        "value": 2530070,
-        "filerUrl": "",
-        "transactionText": "Sale at price 505.99 - 506.07 per share.",
-        "filerName": "LEE BRIAN J.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-07-16T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
-        "value": 5050436,
-        "filerUrl": "",
-        "transactionText": "Sale at price 504.95 - 505.47 per share.",
-        "filerName": "MONTAG THOMAS K",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-07-16T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5000,
-        "value": 2512125,
-        "filerUrl": "",
-        "transactionText": "Sale at price 502.20 - 503.99 per share.",
-        "filerName": "VINIAR DAVID A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-07-16T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 1140,
+    "currentPrice": 1152.07,
     "targetHighPrice": 1202,
     "targetLowPrice": 730,
     "targetMeanPrice": 1019.2,
@@ -5482,26 +5486,25 @@
     "recommendationMean": 2.68,
     "recommendationKey": "hold",
     "numberOfAnalystOpinions": 20,
-    "totalCash": 1142199943168,
-    "totalCashPerShare": 3725.359,
-    "totalDebt": 839667023872,
-    "quickRatio": 1.349,
-    "currentRatio": 1.5,
-    "totalRevenue": 61532999680,
-    "debtToEquity": 678.596,
-    "revenuePerShare": 199.491,
-    "returnOnAssets": 0.00944,
-    "returnOnEquity": 0.14548,
-    "grossProfits": 50624000000,
-    "operatingCashflow": -39792001024,
-    "earningsGrowth": 0.242,
-    "revenueGrowth": 0.145,
-    "grossMargins": 0.82271004,
+    "totalCash": 975999991808,
+    "totalCashPerShare": 3252.249,
+    "totalDebt": 795999993856,
+    "quickRatio": 2.055,
+    "currentRatio": 2.567,
+    "totalRevenue": 67569999872,
+    "debtToEquity": 647.154,
+    "revenuePerShare": 221.505,
+    "returnOnAssets": 0.010720001,
+    "returnOnEquity": 0.16951999,
+    "grossProfits": 55459000320,
+    "earningsGrowth": 0.923,
+    "revenueGrowth": 0.425,
+    "grossMargins": 0.82075995,
     "ebitdaMargins": 0,
-    "operatingMargins": 0.38599998,
-    "profitMargins": 0.29363,
+    "operatingMargins": 0.42316002,
+    "profitMargins": 0.31039,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-15T04:52:56.522Z",
+  "lastUpdated": "2026-07-16T05:01:50.620Z",
   "source": "Static Build (yahoo-finance2)"
 }

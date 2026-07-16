@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1017,
         "position": 21633053,
-        "value": 7286660951,
+        "value": 7121384769,
         "pctChange": -0.0301
       },
       {
@@ -54,7 +54,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0759,
         "position": 16133981,
-        "value": 5434408603,
+        "value": 5311145244,
         "pctChange": 0.0083
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0661,
         "position": 14050703,
-        "value": 4732698102,
+        "value": 4625350954,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.056399997,
         "position": 11999445,
-        "value": 4041772898,
+        "value": 3950097328,
         "pctChange": -0.0651
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.026500002,
         "position": 5641527,
-        "value": 1900235463,
+        "value": 1857134286,
         "pctChange": 0.0091
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0253,
         "position": 5390073,
-        "value": 1815538216,
+        "value": 1774358144,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Massachusetts Financial Services Co.",
         "pctHeld": 0.0231,
         "position": 4903665,
-        "value": 1651701416,
+        "value": 1614237493,
         "pctChange": -0.054899998
       },
       {
@@ -108,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0175,
         "position": 3726502,
-        "value": 1255197618,
+        "value": 1226727202,
         "pctChange": -0.4802
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0168,
         "position": 3572486,
-        "value": 1203320411,
+        "value": 1176026675,
         "pctChange": -0.0583
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Dimensional Fund Advisors LP",
         "pctHeld": 0.0164,
         "position": 3484676,
-        "value": 1173743370,
+        "value": 1147120500,
         "pctChange": 0.0368
       }
     ]
@@ -134,8 +134,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.0026699998,
-    "institutionsPercentHeld": 0.87886,
-    "institutionsFloatPercentHeld": 0.88121,
+    "institutionsPercentHeld": 0.87877,
+    "institutionsFloatPercentHeld": 0.88111997,
     "institutionsCount": 2299
   },
   "earnings": {
@@ -261,6 +261,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-15T18:45:54.000Z",
+        "firm": "Morgan Stanley",
+        "toGrade": "Underweight",
+        "fromGrade": "Equal-Weight",
+        "action": "down",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 290,
+        "priorPriceTarget": 333
+      },
+      {
+        "epochGradeDate": "2026-07-15T11:38:35.000Z",
+        "firm": "Piper Sandler",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 389,
+        "priorPriceTarget": 340
+      },
       {
         "epochGradeDate": "2026-07-13T18:24:17.000Z",
         "firm": "TD Cowen",
@@ -4647,24 +4667,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.00008906208,
-    "postMarketChange": -0.02999878,
-    "postMarketTime": "2026-07-14T23:57:54.000Z",
-    "postMarketPrice": 336.8,
+    "postMarketChangePercent": -0.002618547,
+    "postMarketChange": -0.8619995,
+    "postMarketTime": "2026-07-15T23:59:21.000Z",
+    "postMarketPrice": 328.328,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0137039,
-    "regularMarketChange": -4.68002,
-    "regularMarketTime": "2026-07-14T20:00:03.000Z",
+    "regularMarketChangePercent": -0.022682,
+    "regularMarketChange": -7.63998,
+    "regularMarketTime": "2026-07-15T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 336.83,
-    "regularMarketDayHigh": 342.42,
-    "regularMarketDayLow": 335.93,
-    "regularMarketVolume": 1796920,
-    "averageDailyVolume10Day": 1444030,
-    "averageDailyVolume3Month": 1690777,
-    "regularMarketPreviousClose": 341.51,
+    "regularMarketPrice": 329.19,
+    "regularMarketDayHigh": 331.93,
+    "regularMarketDayLow": 325.39,
+    "regularMarketVolume": 1257943,
+    "averageDailyVolume10Day": 1495660,
+    "averageDailyVolume3Month": 1696135,
+    "regularMarketPreviousClose": 336.83,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 339.3,
+    "regularMarketOpen": 330,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -4680,13 +4700,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 71625105408
+    "marketCap": 70000508928
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 73752109056,
-    "forwardPE": 11.716233,
+    "enterpriseValue": 72127504384,
+    "forwardPE": 11.450485,
     "profitMargins": 0.15537,
     "floatShares": 211392216,
     "sharesOutstanding": 212644693,
@@ -4696,14 +4716,14 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0374,
     "heldPercentInsiders": 0.0026699998,
-    "heldPercentInstitutions": 0.87886,
+    "heldPercentInstitutions": 0.87877,
     "shortRatio": 3.72,
     "shortPercentOfFloat": 0.0419,
     "beta": 0.473,
     "impliedSharesOutstanding": 212644693,
     "category": null,
     "bookValue": 150.452,
-    "priceToBook": 2.2387872,
+    "priceToBook": 2.1880069,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4711,15 +4731,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 3.332,
     "netIncomeToCommon": 7549000192,
-    "trailingEps": 33.04,
-    "forwardEps": 28.749,
+    "trailingEps": 33.51,
+    "forwardEps": 28.72233,
     "pegRatio": 2.36,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 894931200,
-    "enterpriseToRevenue": 1.507,
-    "enterpriseToEbitda": 6.975,
-    "52WeekChange": 0.36266065,
-    "SandP52WeekChange": 0.20365608,
+    "enterpriseToRevenue": 1.474,
+    "enterpriseToEbitda": 6.821,
+    "52WeekChange": 0.3053254,
+    "SandP52WeekChange": 0.20893407,
     "lastDividendValue": 1.25,
     "lastDividendDate": "2026-06-10T00:00:00.000Z",
     "latestShareClass": null,
@@ -5398,11 +5418,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 1325800,
+        "shares": 10400,
+        "value": 1235312,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 132.58 per share.",
-        "filerName": "KLEIN MICHAEL FREDERICK",
+        "transactionText": "Conversion of Exercise of derivative security at price 118.78 per share.",
+        "filerName": "OLIVO MARIA",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-06T00:00:00.000Z",
@@ -5410,11 +5430,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 10400,
-        "value": 1235312,
+        "shares": 10000,
+        "value": 1325800,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 118.78 per share.",
-        "filerName": "OLIVO MARIA",
+        "transactionText": "Conversion of Exercise of derivative security at price 132.58 per share.",
+        "filerName": "KLEIN MICHAEL FREDERICK",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-06T00:00:00.000Z",
@@ -6082,18 +6102,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 36199,
-        "value": 3838180,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 106.03 per share.",
-        "filerName": "OLIVO MARIA",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-05-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2000,
         "value": 279660,
         "filerUrl": "",
@@ -6124,6 +6132,18 @@
         "transactionText": "Conversion of Exercise of derivative security at price 140.85 per share.",
         "filerName": "SCHNITZER ALAN D",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-05-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 36199,
+        "value": 3838180,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 106.03 per share.",
+        "filerName": "OLIVO MARIA",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-05-29T00:00:00.000Z",
         "ownership": "D"
@@ -6238,6 +6258,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 12069,
+        "value": 3307004,
+        "filerUrl": "",
+        "transactionText": "Sale at price 274.01 per share.",
+        "filerName": "ROWLAND DAVID DONNAY",
+        "filerRelation": "Chief Investment Officer",
+        "moneyText": "",
+        "startDate": "2025-05-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 15180,
         "value": 4142184,
         "filerUrl": "",
@@ -6316,18 +6348,6 @@
         "transactionText": "Sale at price 273.00 - 273.02 per share.",
         "filerName": "KURTZMAN DIANE",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-05-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 12069,
-        "value": 3307004,
-        "filerUrl": "",
-        "transactionText": "Sale at price 274.01 per share.",
-        "filerName": "ROWLAND DAVID DONNAY",
-        "filerRelation": "Chief Investment Officer",
         "moneyText": "",
         "startDate": "2025-05-29T00:00:00.000Z",
         "ownership": "D"
@@ -6553,7 +6573,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 336.83,
+    "currentPrice": 329.19,
     "targetHighPrice": 400,
     "targetLowPrice": 252,
     "targetMeanPrice": 328.625,
@@ -6583,6 +6603,6 @@
     "profitMargins": 0.15537,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-15T04:53:54.764Z",
+  "lastUpdated": "2026-07-16T05:02:50.060Z",
   "source": "Static Build (yahoo-finance2)"
 }
