@@ -1,20 +1,28 @@
 {
   "ticker": "JPM",
-  "updated_at": "2026-07-15T03:26:46.824767",
+  "updated_at": "2026-07-16T03:35:53.569378",
   "stats": {
     "sector": "Financials",
     "ownership_count": 16,
     "ownership_rank": 16,
-    "percent_of_portfolios": "0.171%"
+    "percent_of_portfolios": "0.17%"
   },
   "superinvestors": [
     {
       "manager": "David Katz - Matrix Asset Advisors",
-      "percent_portfolio": 3.63,
-      "recent_activity": "Reduce 1.18%",
-      "shares": 134535,
-      "value": 39575000,
+      "percent_portfolio": 3.54,
+      "recent_activity": "Reduce 1.22%",
+      "shares": 132893,
+      "value": 43500000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 132893,
+          "percent_portfolio": "3.54",
+          "activity": "Reduce 1.22%",
+          "percent_change_portfolio": "0.04",
+          "reported_price": "$327.33"
+        },
         {
           "period": "2026   Q1",
           "shares": 134535,
@@ -3698,6 +3706,15 @@
     }
   ],
   "activity": {
+    "Q2  2026": [
+      {
+        "manager": "David Katz - Matrix Asset Advisors",
+        "action": "Reduce 1.22%",
+        "type": "Sell",
+        "shares_changed": -1642,
+        "portfolio_change": "0.04"
+      }
+    ],
     "Q1  2026": [
       {
         "manager": "Viking Global Investors",
@@ -4405,13 +4422,6 @@
         "type": "Sell",
         "shares_changed": -1378316,
         "portfolio_change": "1.58"
-      },
-      {
-        "manager": "Abrams Bison Investments",
-        "action": "Reduce 54.34%",
-        "type": "Sell",
-        "shares_changed": -219000,
-        "portfolio_change": "4.34"
       }
     ]
   },

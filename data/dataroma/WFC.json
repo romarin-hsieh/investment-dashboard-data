@@ -1,11 +1,11 @@
 {
   "ticker": "WFC",
-  "updated_at": "2026-07-15T04:22:28.882306",
+  "updated_at": "2026-07-16T04:32:01.303862",
   "stats": {
     "sector": "Financials",
     "ownership_count": 16,
     "ownership_rank": 16,
-    "percent_of_portfolios": "0.252%"
+    "percent_of_portfolios": "0.25%"
   },
   "superinvestors": [
     {
@@ -831,11 +831,19 @@
     },
     {
       "manager": "David Katz - Matrix Asset Advisors",
-      "percent_portfolio": 1.58,
-      "recent_activity": "Reduce 0.13%",
-      "shares": 216482,
-      "value": 17234000,
+      "percent_portfolio": 1.46,
+      "recent_activity": "Add 0.70%",
+      "shares": 218006,
+      "value": 18016000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 218006,
+          "percent_portfolio": "1.46",
+          "activity": "Add 0.70%",
+          "percent_change_portfolio": "0.01",
+          "reported_price": "$82.64"
+        },
         {
           "period": "2026   Q1",
           "shares": 216482,
@@ -3250,6 +3258,15 @@
     }
   ],
   "activity": {
+    "Q2  2026": [
+      {
+        "manager": "David Katz - Matrix Asset Advisors",
+        "action": "Add 0.70%",
+        "type": "Buy",
+        "shares_changed": 1524,
+        "portfolio_change": "0.01"
+      }
+    ],
     "Q1  2026": [
       {
         "manager": "David Katz - Matrix Asset Advisors",
@@ -3957,13 +3974,6 @@
         "type": "Sell",
         "shares_changed": -1310675,
         "portfolio_change": "0.13"
-      },
-      {
-        "manager": "Robert Olstein - Olstein Capital Management",
-        "action": "Reduce 6.92%",
-        "type": "Sell",
-        "shares_changed": -9000,
-        "portfolio_change": "0.10"
       }
     ]
   },

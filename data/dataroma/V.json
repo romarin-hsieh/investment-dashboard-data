@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "updated_at": "2026-07-15T04:16:36.088262",
+  "updated_at": "2026-07-16T04:26:01.670563",
   "stats": {
     "sector": "Services",
     "ownership_count": 28,
@@ -6250,11 +6250,19 @@
     },
     {
       "manager": "Lindsell Train",
-      "percent_portfolio": 0.1,
-      "recent_activity": "Add 3.00%",
-      "shares": 10300,
-      "value": 3113000,
+      "percent_portfolio": 0.14,
+      "recent_activity": "Add 1.94%",
+      "shares": 10500,
+      "value": 3602000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 10500,
+          "percent_portfolio": "0.14",
+          "activity": "Add 1.94%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$343.05"
+        },
         {
           "period": "2026   Q1",
           "shares": 10300,
@@ -6452,10 +6460,18 @@
     {
       "manager": "David Katz - Matrix Asset Advisors",
       "percent_portfolio": 0.03,
-      "recent_activity": "",
-      "shares": 1149,
-      "value": 347000,
+      "recent_activity": "Reduce 2.52%",
+      "shares": 1120,
+      "value": 384000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 1120,
+          "percent_portfolio": "0.03",
+          "activity": "Reduce 2.52%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$342.86"
+        },
         {
           "period": "2026   Q1",
           "shares": 1149,
@@ -6726,6 +6742,22 @@
     }
   ],
   "activity": {
+    "Q2  2026": [
+      {
+        "manager": "Lindsell Train",
+        "action": "Add 1.94%",
+        "type": "Buy",
+        "shares_changed": 200,
+        "portfolio_change": "0.00"
+      },
+      {
+        "manager": "David Katz - Matrix Asset Advisors",
+        "action": "Reduce 2.52%",
+        "type": "Sell",
+        "shares_changed": -29,
+        "portfolio_change": "0.00"
+      }
+    ],
     "Q1  2026": [
       {
         "manager": "Stephen Mandel - Lone Pine Capital",
@@ -7420,20 +7452,6 @@
         "type": "Sell",
         "shares_changed": -661,
         "portfolio_change": "0.03"
-      },
-      {
-        "manager": "Chuck Akre - Akre Capital Management",
-        "action": "Reduce 2.95%",
-        "type": "Sell",
-        "shares_changed": -96500,
-        "portfolio_change": "0.33"
-      },
-      {
-        "manager": "William Von Mueffling - Cantillon Capital Management",
-        "action": "Reduce 3.00%",
-        "type": "Sell",
-        "shares_changed": -62223,
-        "portfolio_change": "0.14"
       }
     ]
   },

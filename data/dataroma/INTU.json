@@ -1,20 +1,28 @@
 {
   "ticker": "INTU",
-  "updated_at": "2026-07-15T03:21:17.032375",
+  "updated_at": "2026-07-16T03:30:14.598138",
   "stats": {
     "sector": "Information Technology",
     "ownership_count": 11,
     "ownership_rank": 35,
-    "percent_of_portfolios": "0.256%"
+    "percent_of_portfolios": "0.215%"
   },
   "superinvestors": [
     {
       "manager": "Lindsell Train",
-      "percent_portfolio": 10.11,
-      "recent_activity": "Add 20.23%",
-      "shares": 733699,
-      "value": 317237000,
+      "percent_portfolio": 6.62,
+      "recent_activity": "Reduce 9.11%",
+      "shares": 666883,
+      "value": 174056000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 666883,
+          "percent_portfolio": "6.62",
+          "activity": "Reduce 9.11%",
+          "percent_change_portfolio": "0.66",
+          "reported_price": "$261.00"
+        },
         {
           "period": "2026   Q1",
           "shares": 733699,
@@ -928,11 +936,19 @@
     },
     {
       "manager": "David Katz - Matrix Asset Advisors",
-      "percent_portfolio": 0.15,
-      "recent_activity": "Add 720.67%",
-      "shares": 3693,
-      "value": 1597000,
+      "percent_portfolio": 0.23,
+      "recent_activity": "Add 191.63%",
+      "shares": 10770,
+      "value": 2811000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 10770,
+          "percent_portfolio": "0.23",
+          "activity": "Add 191.63%",
+          "percent_change_portfolio": "0.15",
+          "reported_price": "$261.00"
+        },
         {
           "period": "2026   Q1",
           "shares": 3693,
@@ -1301,6 +1317,22 @@
     }
   ],
   "activity": {
+    "Q2  2026": [
+      {
+        "manager": "David Katz - Matrix Asset Advisors",
+        "action": "Add 191.63%",
+        "type": "Buy",
+        "shares_changed": 7077,
+        "portfolio_change": "0.15"
+      },
+      {
+        "manager": "Lindsell Train",
+        "action": "Reduce 9.11%",
+        "type": "Sell",
+        "shares_changed": -66816,
+        "portfolio_change": "0.66"
+      }
+    ],
     "Q1  2026": [
       {
         "manager": "David Katz - Matrix Asset Advisors",
@@ -2007,20 +2039,6 @@
         "type": "Buy",
         "shares_changed": 107701,
         "portfolio_change": "0.90"
-      },
-      {
-        "manager": "Jensen Investment Management",
-        "action": "Add 2.87%",
-        "type": "Buy",
-        "shares_changed": 31350,
-        "portfolio_change": "0.13"
-      },
-      {
-        "manager": "Lee Ainslie - Maverick Capital",
-        "action": "Buy",
-        "type": "Buy",
-        "shares_changed": 1102,
-        "portfolio_change": "0.01"
       }
     ]
   },
