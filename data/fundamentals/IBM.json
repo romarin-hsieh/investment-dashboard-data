@@ -4,9 +4,9 @@
       {
         "period": "0m",
         "strongBuy": 3,
-        "buy": 12,
+        "buy": 11,
         "hold": 7,
-        "sell": 0,
+        "sell": 1,
         "strongSell": 2
       },
       {
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0825,
         "position": 77565953,
-        "value": 16381929036,
+        "value": 16990822241,
         "pctChange": -0.004
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0647,
         "position": 60845605,
-        "value": 12850591590,
+        "value": 13328229960,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0581,
         "position": 54594493,
-        "value": 11530356754,
+        "value": 11958923858,
         "pctChange": -0.0073
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0294,
         "position": 27660866,
-        "value": 5841974814,
+        "value": 6059112781,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024600001,
         "position": 23076329,
-        "value": 4873720614,
+        "value": 5054869937,
         "pctChange": 0.0208
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0209,
         "position": 19630951,
-        "value": 4146056791,
+        "value": 4300159876,
         "pctChange": 0.3211
       },
       {
@@ -99,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0197,
         "position": 18544694,
-        "value": 3916639316,
+        "value": 4062215277,
         "pctChange": 0.2198
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0182,
         "position": 17062453,
-        "value": 3603590021,
+        "value": 3737530381,
         "pctChange": -0.2252
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0171,
         "position": 16063653,
-        "value": 3392643464,
+        "value": 3518743238,
         "pctChange": 0.0699
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Northern Trust Corporation",
         "pctHeld": 0.011,
         "position": 10304788,
-        "value": 2176371194,
+        "value": 2257263842,
         "pctChange": 0.017
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00117,
-    "institutionsPercentHeld": 0.65532994,
-    "institutionsFloatPercentHeld": 0.65610003,
-    "institutionsCount": 4318
+    "institutionsPercentHeld": 0.65537,
+    "institutionsFloatPercentHeld": 0.65613997,
+    "institutionsCount": 4324
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1776888480
         }
       ],
-      "currentQuarterEstimate": 3.02333,
+      "currentQuarterEstimate": 2.97618,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -261,6 +261,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-16T15:38:58.000Z",
+        "firm": "Argus Research",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 280,
+        "priorPriceTarget": 360
+      },
+      {
+        "epochGradeDate": "2026-07-16T13:49:09.000Z",
+        "firm": "Evercore ISI Group",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 250,
+        "priorPriceTarget": 310
+      },
       {
         "epochGradeDate": "2026-07-14T14:46:54.000Z",
         "firm": "HSBC",
@@ -3587,24 +3607,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.002840938,
-    "postMarketChange": 0.6000061,
-    "postMarketTime": "2026-07-15T23:59:59.000Z",
-    "postMarketPrice": 211.8,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.027042,
-    "regularMarketChange": -5.87001,
-    "regularMarketTime": "2026-07-15T20:00:03.000Z",
+    "postMarketChangePercent": -0.012097737,
+    "postMarketChange": -2.6500092,
+    "postMarketTime": "2026-07-16T23:59:57.000Z",
+    "postMarketPrice": 216.4,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.0371686,
+    "regularMarketChange": 7.85001,
+    "regularMarketTime": "2026-07-16T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 211.2,
-    "regularMarketDayHigh": 223.813,
-    "regularMarketDayLow": 211.035,
-    "regularMarketVolume": 27821994,
-    "averageDailyVolume10Day": 15248610,
-    "averageDailyVolume3Month": 10467830,
-    "regularMarketPreviousClose": 217.07,
+    "regularMarketPrice": 219.05,
+    "regularMarketDayHigh": 219.93,
+    "regularMarketDayLow": 204.44,
+    "regularMarketVolume": 22311639,
+    "averageDailyVolume10Day": 16812950,
+    "averageDailyVolume3Month": 10753825,
+    "regularMarketPreviousClose": 211.2,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 220.965,
+    "regularMarketOpen": 208.82,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -3615,18 +3635,18 @@
     "shortName": "International Business Machines",
     "longName": "International Business Machines Corporation",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 198503776256
+    "marketCap": 205881884672
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 256603766784,
-    "forwardPE": 15.681383,
+    "enterpriseValue": 263981875200,
+    "forwardPE": 16.456375,
     "profitMargins": 0.15606,
     "floatShares": 937883324,
     "sharesOutstanding": 939885280,
@@ -3636,14 +3656,14 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0365,
     "heldPercentInsiders": 0.00117,
-    "heldPercentInstitutions": 0.65532994,
+    "heldPercentInstitutions": 0.65537,
     "shortRatio": 3.26,
     "shortPercentOfFloat": 0.0405,
     "beta": 0.675,
     "impliedSharesOutstanding": 939885280,
     "category": null,
     "bookValue": 35.083,
-    "priceToBook": 6.0200095,
+    "priceToBook": 6.243765,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3651,15 +3671,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.153,
     "netIncomeToCommon": 10732999680,
-    "trailingEps": 11,
-    "forwardEps": 13.29909,
-    "pegRatio": 2.71,
+    "trailingEps": 11.3,
+    "forwardEps": 13.27277,
+    "pegRatio": 2.01,
     "lastSplitFactor": "1046:1000",
     "lastSplitDate": 1635984000,
-    "enterpriseToRevenue": 3.724,
-    "enterpriseToEbitda": 15.448,
-    "52WeekChange": -0.25085133,
-    "SandP52WeekChange": 0.20893407,
+    "enterpriseToRevenue": 3.831,
+    "enterpriseToEbitda": 15.84,
+    "52WeekChange": -0.22322696,
+    "SandP52WeekChange": 0.19633782,
     "lastDividendValue": 1.69,
     "lastDividendDate": "2026-05-08T00:00:00.000Z",
     "latestShareClass": null,
@@ -3737,6 +3757,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 16903,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KRISHNA ARVIND",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-02-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1568,
         "filerUrl": "",
         "transactionText": "",
@@ -3753,17 +3784,6 @@
         "transactionText": "",
         "filerName": "THOMAS ROBERT DAVID",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16903,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "KRISHNA ARVIND",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-02-20T00:00:00.000Z",
         "ownership": "D"
@@ -3803,28 +3823,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 696,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FEHRING NICOLAS A.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2549,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "THOMAS ROBERT DAVID",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1722,
         "filerUrl": "",
         "transactionText": "",
@@ -3841,6 +3839,28 @@
         "transactionText": "",
         "filerName": "KRISHNA ARVIND",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 696,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FEHRING NICOLAS A.",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2549,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "THOMAS ROBERT DAVID",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-18T00:00:00.000Z",
         "ownership": "D"
@@ -4058,6 +4078,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 8606,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KRISHNA ARVIND",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-06-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 517,
         "filerUrl": "",
         "transactionText": "",
@@ -4074,17 +4105,6 @@
         "transactionText": "",
         "filerName": "THOMAS ROBERT DAVID",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-06-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8606,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "KRISHNA ARVIND",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-06-06T00:00:00.000Z",
         "ownership": "D"
@@ -4149,6 +4169,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 16899,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KRISHNA ARVIND",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-02-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1566,
         "filerUrl": "",
         "transactionText": "",
@@ -4165,17 +4196,6 @@
         "transactionText": "",
         "filerName": "THOMAS ROBERT DAVID",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16899,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "KRISHNA ARVIND",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-02-21T00:00:00.000Z",
         "ownership": "D"
@@ -4382,36 +4402,36 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 211.2,
-    "targetHighPrice": 390,
-    "targetLowPrice": 195,
-    "targetMeanPrice": 296.06958,
-    "targetMedianPrice": 294,
-    "recommendationMean": 1.95833,
+    "currentPrice": 219.05,
+    "targetHighPrice": 375,
+    "targetLowPrice": 175,
+    "targetMeanPrice": 283.8,
+    "targetMedianPrice": 290.5,
+    "recommendationMean": 2.125,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 23,
+    "numberOfAnalystOpinions": 22,
     "totalCash": 11783000064,
     "totalCashPerShare": 12.537,
-    "ebitda": 16611000320,
+    "ebitda": 16664999936,
     "totalDebt": 69802000384,
     "quickRatio": 0.644,
     "currentRatio": 0.796,
     "totalRevenue": 68910997504,
     "debtToEquity": 211.169,
     "revenuePerShare": 73.707,
-    "returnOnAssets": 0.05369,
+    "returnOnAssets": 0.05391,
     "returnOnEquity": 0.35772,
     "grossProfits": 40214999040,
-    "freeCashflow": 13080750080,
+    "freeCashflow": 13114500096,
     "operatingCashflow": 13991999488,
     "earningsGrowth": 0.142,
     "revenueGrowth": 0.095,
     "grossMargins": 0.58358,
-    "ebitdaMargins": 0.24104999,
+    "ebitdaMargins": 0.24183,
     "operatingMargins": 0.13809,
     "profitMargins": 0.15606,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-16T05:01:57.767Z",
+  "lastUpdated": "2026-07-17T05:03:50.819Z",
   "source": "Static Build (yahoo-finance2)"
 }

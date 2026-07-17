@@ -12,13 +12,21 @@
       {
         "period": "-1m",
         "strongBuy": 1,
-        "buy": 6,
+        "buy": 5,
         "hold": 1,
         "sell": 0,
         "strongSell": 0
       },
       {
         "period": "-2m",
+        "strongBuy": 1,
+        "buy": 6,
+        "hold": 1,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
         "strongBuy": 1,
         "buy": 6,
         "hold": 1,
@@ -37,7 +45,7 @@
         "organization": "Mirae Asset Global ETFs Holdings Ltd.",
         "pctHeld": 0.0675,
         "position": 16868058,
-        "value": 213718296,
+        "value": 196850238,
         "pctChange": 0.2251
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.0624,
         "position": 15582553,
-        "value": 197430947,
+        "value": 181848394,
         "pctChange": 0.2869
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0579,
         "position": 14468942,
-        "value": 183321496,
+        "value": 168852554,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.057600003,
         "position": 14397960,
-        "value": 182422154,
+        "value": 168024194,
         "pctChange": 0.0224
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Alps Advisors Inc.",
         "pctHeld": 0.0332,
         "position": 8299826,
-        "value": 105158796,
+        "value": 96858970,
         "pctChange": -0.0097
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0251,
         "position": 6271669,
-        "value": 79462046,
+        "value": 73190377,
         "pctChange": 0.58669996
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.023,
         "position": 5748065,
-        "value": 72827983,
+        "value": 67079918,
         "pctChange": 1
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Ameriprise Financial, Inc.",
         "pctHeld": 0.023,
         "position": 5743677,
-        "value": 72772388,
+        "value": 67028711,
         "pctChange": 0.33650002
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0224,
         "position": 5610361,
-        "value": 71083274,
+        "value": 65472913,
         "pctChange": -0.1505
       },
       {
@@ -118,7 +126,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0153,
         "position": 3830621,
-        "value": 48533968,
+        "value": 44703347,
         "pctChange": 0.038599998
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01227,
-    "institutionsPercentHeld": 0.72505,
-    "institutionsFloatPercentHeld": 0.73406,
-    "institutionsCount": 483
+    "institutionsPercentHeld": 0.72508,
+    "institutionsFloatPercentHeld": 0.73409,
+    "institutionsCount": 482
   },
   "earnings": {
     "maxAge": 86400,
@@ -758,24 +766,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0023677768,
-    "postMarketChange": 0.029999733,
-    "postMarketTime": "2026-07-15T23:59:57.000Z",
-    "postMarketPrice": 12.7,
+    "postMarketChangePercent": 0.00069404935,
+    "postMarketChange": 0.008099556,
+    "postMarketTime": "2026-07-16T23:58:53.000Z",
+    "postMarketPrice": 11.6781,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.042328,
-    "regularMarketChange": -0.559999,
-    "regularMarketTime": "2026-07-15T20:00:00.000Z",
+    "regularMarketChangePercent": -0.0789266,
+    "regularMarketChange": -1,
+    "regularMarketTime": "2026-07-16T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 12.67,
-    "regularMarketDayHigh": 13.34,
-    "regularMarketDayLow": 12.365,
-    "regularMarketVolume": 6743110,
-    "averageDailyVolume10Day": 6611010,
-    "averageDailyVolume3Month": 10158872,
-    "regularMarketPreviousClose": 13.23,
+    "regularMarketPrice": 11.67,
+    "regularMarketDayHigh": 12.5,
+    "regularMarketDayLow": 11.5101,
+    "regularMarketVolume": 12205276,
+    "averageDailyVolume10Day": 7268600,
+    "averageDailyVolume3Month": 10174088,
+    "regularMarketPreviousClose": 12.67,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 13.15,
+    "regularMarketOpen": 12.3,
     "exchange": "ASE",
     "exchangeName": "NYSE American",
     "exchangeDataDelayedBy": 0,
@@ -791,13 +799,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 3166475776
+    "marketCap": 2916556544
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 2936672000,
-    "forwardPE": 38.39394,
+    "enterpriseValue": 2686804992,
+    "forwardPE": 35.363636,
     "profitMargins": -0.82699996,
     "floatShares": 247770616,
     "sharesOutstanding": 249919146,
@@ -807,14 +815,14 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1886,
     "heldPercentInsiders": 0.01227,
-    "heldPercentInstitutions": 0.72505,
+    "heldPercentInstitutions": 0.72508,
     "shortRatio": 4,
     "shortPercentOfFloat": 0.1904,
     "beta": 1.583,
     "impliedSharesOutstanding": 249919146,
     "category": null,
     "bookValue": 2.959,
-    "priceToBook": 4.281852,
+    "priceToBook": 3.9438999,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -825,10 +833,10 @@
     "forwardEps": 0.33,
     "lastSplitFactor": "1:50",
     "lastSplitDate": 1383609600,
-    "enterpriseToRevenue": 34.605,
-    "enterpriseToEbitda": -36.178,
-    "52WeekChange": 0.5376214,
-    "SandP52WeekChange": 0.20893407,
+    "enterpriseToRevenue": 31.661,
+    "enterpriseToEbitda": -33.1,
+    "52WeekChange": 0.27401745,
+    "SandP52WeekChange": 0.19633782,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1510,6 +1518,18 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "VAN MICHIEL AKKOOI",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 12060,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "VAN AKKOOI MICHIEL",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -1535,18 +1555,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "GERMAN OSCAR ARMANDO",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 12060,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "VAN MICHIEL AKKOOI",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-05T00:00:00.000Z",
@@ -1730,18 +1738,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 18859,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HANSEN BRUCE DOUGLAS",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-01-29T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1979,6 +1975,18 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "KIRKWOOD ROBERT WILLIAM",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-01-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 18859,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HANSEN BRUCE DOUGLAS",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-01-29T00:00:00.000Z",
@@ -2253,12 +2261,13 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 12.67,
+    "currentPrice": 11.67,
     "targetHighPrice": 32.5,
     "targetLowPrice": 16,
     "targetMeanPrice": 26.125,
     "targetMedianPrice": 28,
-    "recommendationKey": "none",
+    "recommendationMean": 1.42857,
+    "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 4,
     "totalCash": 910684992,
     "totalCashPerShare": 3.645,
@@ -2281,6 +2290,6 @@
     "profitMargins": -0.82699996,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-16T05:00:40.926Z",
+  "lastUpdated": "2026-07-17T05:02:32.877Z",
   "source": "Static Build (yahoo-finance2)"
 }
