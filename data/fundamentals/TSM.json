@@ -45,7 +45,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0116,
         "position": 60393190,
-        "value": 24745505080,
+        "value": 24058834805,
         "pctChange": -0.0121
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0063,
         "position": 32886937,
-        "value": 13475093245,
+        "value": 13101168932,
         "pctChange": 0.2001
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Sanders Capital, LLC",
         "pctHeld": 0.0054,
         "position": 28060092,
-        "value": 11497341822,
+        "value": 11178298713,
         "pctChange": -0.122
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0046,
         "position": 23984642,
-        "value": 9827466978,
+        "value": 9554761716,
         "pctChange": -0.0476
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.0037,
         "position": 19262004,
-        "value": 7892413330,
+        "value": 7673404439,
         "pctChange": 0.1029
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.0036000002,
         "position": 18617691,
-        "value": 7628412528,
+        "value": 7416729472,
         "pctChange": 0.025899999
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0034999999,
         "position": 18224186,
-        "value": 7467177793,
+        "value": 7259968887,
         "pctChange": 0.10569999
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0028,
         "position": 14767680,
-        "value": 6050909058,
+        "value": 5883000609,
         "pctChange": 0.0928
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0027,
         "position": 14107771,
-        "value": 5780517951,
+        "value": 5620112664,
         "pctChange": -0.1129
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Jennison Associates LLC",
         "pctHeld": 0.0023,
         "position": 12021825,
-        "value": 4925822458,
+        "value": 4789134366,
         "pctChange": -0.1025
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00043000001,
-    "institutionsPercentHeld": 0.15543,
-    "institutionsFloatPercentHeld": 0.1555,
-    "institutionsCount": 4360
+    "institutionsPercentHeld": 0.15536,
+    "institutionsFloatPercentHeld": 0.15543,
+    "institutionsCount": 4372
   },
   "earnings": {
     "maxAge": 86400,
@@ -193,8 +193,10 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "3Q2026",
       "currentPeriodEndDate": 1790726400,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "earningsDate": [
+        "2026-10-15T12:30:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -259,6 +261,36 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-17T19:08:41.000Z",
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 500,
+        "priorPriceTarget": 450
+      },
+      {
+        "epochGradeDate": "2026-07-17T14:32:00.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Hold",
+        "fromGrade": "Hold",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 440,
+        "priorPriceTarget": 400
+      },
+      {
+        "epochGradeDate": "2026-07-17T12:18:56.000Z",
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 650,
+        "priorPriceTarget": 625
+      },
       {
         "epochGradeDate": "2026-07-16T13:46:00.000Z",
         "firm": "Susquehanna",
@@ -1225,46 +1257,46 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.008282066,
-    "postMarketChange": -3.3934937,
-    "postMarketTime": "2026-07-16T23:59:51.000Z",
-    "postMarketPrice": 406.3465,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.023219299,
-    "regularMarketChange": -9.74002,
-    "regularMarketTime": "2026-07-16T20:00:02.000Z",
+    "postMarketChangePercent": -0.0016316336,
+    "postMarketChange": -0.6499939,
+    "postMarketTime": "2026-07-17T23:59:59.000Z",
+    "postMarketPrice": 397.72,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.0277493,
+    "regularMarketChange": -11.37,
+    "regularMarketTime": "2026-07-17T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 409.74,
-    "regularMarketDayHigh": 415.95,
-    "regularMarketDayLow": 403.5,
-    "regularMarketVolume": 24793300,
-    "averageDailyVolume10Day": 14897000,
-    "averageDailyVolume3Month": 14102269,
-    "regularMarketPreviousClose": 419.48,
+    "regularMarketPrice": 398.37,
+    "regularMarketDayHigh": 404.7,
+    "regularMarketDayLow": 386.034,
+    "regularMarketVolume": 20866543,
+    "averageDailyVolume10Day": 15160680,
+    "averageDailyVolume3Month": 14144082,
+    "regularMarketPreviousClose": 409.74,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 405.29,
+    "regularMarketOpen": 392.12,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "TSM",
     "underlyingSymbol": null,
     "shortName": "Taiwan Semiconductor Manufactur",
     "longName": "Taiwan Semiconductor Manufacturing Company Limited",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 2125105856512
+    "marketCap": 2066135646208
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 14753049083904,
-    "forwardPE": 19.34087,
+    "enterpriseValue": 14281287401472,
+    "forwardPE": 18.804174,
     "profitMargins": 0.46505,
     "floatShares": 37843833647,
     "sharesOutstanding": 5186474013,
@@ -1274,14 +1306,14 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0053,
     "heldPercentInsiders": 0.00043000001,
-    "heldPercentInstitutions": 0.15543,
+    "heldPercentInstitutions": 0.15536,
     "shortRatio": 1.91,
     "shortPercentOfFloat": 0.0057,
     "beta": 1.246,
     "impliedSharesOutstanding": 5186474013,
     "category": null,
-    "bookValue": 4.4192305,
-    "priceToBook": 92.7175,
+    "bookValue": 4.4037547,
+    "priceToBook": 90.46144,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1289,15 +1321,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.583,
     "netIncomeToCommon": 1908519600128,
-    "trailingEps": 11.23,
-    "forwardEps": 21.18519,
+    "trailingEps": 12.99,
+    "forwardEps": 21.23619,
     "pegRatio": 1.31,
     "lastSplitFactor": "1005:1000",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 3.595,
-    "enterpriseToEbitda": 5.166,
-    "52WeekChange": 0.66832244,
-    "SandP52WeekChange": 0.19633782,
+    "enterpriseToRevenue": 3.48,
+    "enterpriseToEbitda": 5,
+    "52WeekChange": 0.6571132,
+    "SandP52WeekChange": 0.18436372,
     "lastDividendValue": 0.955,
     "lastDividendDate": "2026-06-11T00:00:00.000Z",
     "latestShareClass": null,
@@ -1368,7 +1400,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 409.74,
+    "currentPrice": 398.37,
     "targetHighPrice": 700,
     "targetLowPrice": 354,
     "targetMeanPrice": 520.3715,
@@ -1398,6 +1430,6 @@
     "profitMargins": 0.46505,
     "financialCurrency": "TWD"
   },
-  "lastUpdated": "2026-07-17T05:01:18.972Z",
+  "lastUpdated": "2026-07-18T04:47:29.381Z",
   "source": "Static Build (yahoo-finance2)"
 }
