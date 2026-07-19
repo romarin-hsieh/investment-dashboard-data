@@ -5,8 +5,8 @@
         "period": "0m",
         "strongBuy": 0,
         "buy": 11,
-        "hold": 4,
-        "sell": 1,
+        "hold": 5,
+        "sell": 0,
         "strongSell": 0
       },
       {
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.08173,
-    "institutionsPercentHeld": 0.73547,
-    "institutionsFloatPercentHeld": 0.80093,
-    "institutionsCount": 2842
+    "institutionsPercentHeld": 0.73634005,
+    "institutionsFloatPercentHeld": 0.80188006,
+    "institutionsCount": 2847
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,74 +187,17 @@
           "reportedDate": 1777374169
         }
       ],
-      "currentQuarterEstimate": 0.75278,
+      "currentQuarterEstimate": 0.75378,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": [
-        "2026-07-28T12:30:00.000Z"
-      ],
-      "isEarningsDateEstimate": false
+      "earningsDate": []
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2022,
-          "revenue": 14805000000,
-          "earnings": 1794000000,
-          "profitMargin": 0.121175274
-        },
-        {
-          "date": 2023,
-          "revenue": 13580000000,
-          "earnings": 1463000000,
-          "profitMargin": 0.10773196
-        },
-        {
-          "date": 2024,
-          "revenue": 14469000000,
-          "earnings": 1699000000,
-          "profitMargin": 0.11742346
-        },
-        {
-          "date": 2025,
-          "revenue": 16408000000,
-          "earnings": 2199000000,
-          "profitMargin": 0.13401999
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 4045000000,
-          "earnings": 523000000,
-          "profitMargin": 0.12929542
-        },
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "3Q2025",
-          "revenue": 4272000000,
-          "earnings": 585000000,
-          "profitMargin": 0.1369382
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 4412000000,
-          "earnings": 624000000,
-          "profitMargin": 0.14143245
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 4345000000,
-          "earnings": 612000000,
-          "profitMargin": 0.14085156
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
@@ -2952,38 +2895,33 @@
     "quoteType": "EQUITY",
     "symbol": "GLW",
     "underlyingSymbol": null,
-    "shortName": "Corning Incorporated",
-    "longName": "Corning Incorporated",
+    "shortName": null,
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 133063213056
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 141769211904,
-    "forwardPE": 36.03971,
+    "forwardPE": 36.03828,
     "profitMargins": 0.1109,
     "floatShares": 789704055,
-    "sharesOutstanding": 860637825,
     "sharesShort": 20518605,
     "sharesShortPriorMonth": "1970-09-05T13:44:29.000Z",
     "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0238,
     "heldPercentInsiders": 0.08173,
-    "heldPercentInstitutions": 0.73547,
+    "heldPercentInstitutions": 0.73634005,
     "shortRatio": 1.21,
     "shortPercentOfFloat": 0.027,
     "beta": 1.086,
-    "impliedSharesOutstanding": 860637825,
     "category": null,
-    "bookValue": 13.023,
-    "priceToBook": 11.872073,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2991,15 +2929,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 1.363,
     "netIncomeToCommon": 1810000000,
-    "trailingEps": 2.03,
+    "trailingEps": 2.09,
     "forwardEps": 4.29016,
-    "pegRatio": 1.79,
+    "pegRatio": 1.47,
     "lastSplitFactor": "3:1",
     "lastSplitDate": 970617600,
     "enterpriseToRevenue": 8.686,
     "enterpriseToEbitda": 36.286,
-    "52WeekChange": 1.862618,
-    "SandP52WeekChange": 0.18436372,
+    "52WeekChange": 1.8684602,
+    "SandP52WeekChange": 0.18270898,
     "lastDividendValue": 0.28,
     "lastDividendDate": "2026-05-29T00:00:00.000Z",
     "latestShareClass": null,
@@ -3031,18 +2969,6 @@
       {
         "maxAge": 1,
         "shares": 100000,
-        "value": 2703000,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 27.03 per share.",
-        "filerName": "WEEKS WENDELL P.",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-06-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 100000,
         "value": 18646070,
         "filerUrl": "",
         "transactionText": "Sale at price 186.46 per share.",
@@ -3054,14 +2980,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 7917,
-        "value": 213759,
+        "shares": 100000,
+        "value": 2703000,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 27.00 per share.",
-        "filerName": "AMIN JAYMIN",
-        "filerRelation": "Chief Technology Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 27.03 per share.",
+        "filerName": "WEEKS WENDELL P.",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-05-22T00:00:00.000Z",
+        "startDate": "2026-06-09T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3070,6 +2996,18 @@
         "value": 5263637,
         "filerUrl": "",
         "transactionText": "Sale at price 192.14 per share.",
+        "filerName": "AMIN JAYMIN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2026-05-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7917,
+        "value": 213759,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 27.00 per share.",
         "filerName": "AMIN JAYMIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -3102,18 +3040,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 2077708,
-        "filerUrl": "",
-        "transactionText": "Sale at price 207.77 per share.",
-        "filerName": "VERKLEEREN RONALD L",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-05-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 126,
         "value": 0,
         "filerUrl": "",
@@ -3126,14 +3052,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
-        "value": 4124646,
+        "shares": 10000,
+        "value": 2077708,
         "filerUrl": "",
-        "transactionText": "Sale at price 206.23 per share.",
-        "filerName": "SEETHARAM SOUMYA",
-        "filerRelation": "Chief Technology Officer",
+        "transactionText": "Sale at price 207.77 per share.",
+        "filerName": "VERKLEEREN RONALD L",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2026-05-11T00:00:00.000Z",
+        "startDate": "2026-05-13T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3156,6 +3082,18 @@
         "transactionText": "Sale at price 198.34 per share.",
         "filerName": "ZHANG JOHN Z",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-05-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "value": 4124646,
+        "filerUrl": "",
+        "transactionText": "Sale at price 206.23 per share.",
+        "filerName": "SEETHARAM SOUMYA",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2026-05-11T00:00:00.000Z",
         "ownership": "D"
@@ -3233,10 +3171,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 44780,
+        "shares": 46903,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BECKER STEFAN",
+        "filerName": "VERKLEEREN RONALD L",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-15T00:00:00.000Z",
@@ -3277,10 +3215,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 46903,
+        "shares": 20336,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "VERKLEEREN RONALD L",
+        "filerName": "O'DAY MICHAEL PAUL",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-15T00:00:00.000Z",
@@ -3321,10 +3259,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 20336,
+        "shares": 44780,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "O'DAY MICHAEL PAUL",
+        "filerName": "BECKER STEFAN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-15T00:00:00.000Z",
@@ -3402,10 +3340,23 @@
       },
       {
         "maxAge": 1,
-        "shares": 2110,
+        "shares": 6262,
+        "value": 812722,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BECKER STEFAN",
+        "transactionText": "Sale at price 129.79 per share.",
+        "filerName": "NELSON AVERY H III",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-02-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 30000,
+        "value": 3830019,
+        "filerUrl": "",
+        "transactionText": "Sale at price 127.67 per share.",
+        "filerName": "KAMMERUD JORDANA DARYL",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-09T00:00:00.000Z",
@@ -3413,10 +3364,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 1944,
+        "shares": 15000,
+        "value": 1953711,
+        "filerUrl": "",
+        "transactionText": "Sale at price 130.25 per share.",
+        "filerName": "MUSSER ERIC S.",
+        "filerRelation": "Retired",
+        "moneyText": "",
+        "startDate": "2026-02-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2476,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "FANG LI",
+        "filerName": "VERKLEEREN RONALD L",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-09T00:00:00.000Z",
@@ -3446,10 +3409,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 2476,
+        "shares": 1091,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "VERKLEEREN RONALD L",
+        "filerName": "O'DAY MICHAEL PAUL",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-09T00:00:00.000Z",
@@ -3490,10 +3453,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 1091,
+        "shares": 2110,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "O'DAY MICHAEL PAUL",
+        "filerName": "BECKER STEFAN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1944,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FANG LI",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-09T00:00:00.000Z",
@@ -3534,58 +3508,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 6262,
-        "value": 812722,
-        "filerUrl": "",
-        "transactionText": "Sale at price 129.79 per share.",
-        "filerName": "NELSON AVERY H III",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-02-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 15000,
-        "value": 1953711,
-        "filerUrl": "",
-        "transactionText": "Sale at price 130.25 per share.",
-        "filerName": "MUSSER ERIC S.",
-        "filerRelation": "Retired",
-        "moneyText": "",
-        "startDate": "2026-02-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 30000,
-        "value": 3830019,
-        "filerUrl": "",
-        "transactionText": "Sale at price 127.67 per share.",
-        "filerName": "KAMMERUD JORDANA DARYL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 9797,
-        "value": 196856,
+        "value": 1112077,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 18.67 - 20.89 per share.",
+        "transactionText": "Sale at price 113.51 per share.",
         "filerName": "FANG LI",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 593,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "KAMMERUD JORDANA DARYL",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-04T00:00:00.000Z",
@@ -3615,11 +3542,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1447,
+        "shares": 593,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AMIN JAYMIN",
-        "filerRelation": "Chief Technology Officer",
+        "filerName": "KAMMERUD JORDANA DARYL",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-04T00:00:00.000Z",
         "ownership": "D"
@@ -3641,6 +3568,29 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "GULLO MICHELLE L",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1447,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "AMIN JAYMIN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2026-02-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 9797,
+        "value": 196856,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 18.67 - 20.89 per share.",
+        "filerName": "FANG LI",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-04T00:00:00.000Z",
@@ -3692,18 +3642,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 9797,
-        "value": 1112077,
-        "filerUrl": "",
-        "transactionText": "Sale at price 113.51 per share.",
-        "filerName": "FANG LI",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 5051,
         "value": 558232,
         "filerUrl": "",
@@ -3728,18 +3666,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 8925,
-        "value": 175376,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 19.65 per share.",
-        "filerName": "SCHLESINGER EDWARD A",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-01-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 44,
         "value": 4505,
         "filerUrl": "",
@@ -3756,6 +3682,18 @@
         "value": 2206326,
         "filerUrl": "",
         "transactionText": "Sale at price 104.55 per share.",
+        "filerName": "SCHLESINGER EDWARD A",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-01-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8925,
+        "value": 175376,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 19.65 per share.",
         "filerName": "SCHLESINGER EDWARD A",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -3797,17 +3735,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 685,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "AMIN JAYMIN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2026-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 612,
         "filerUrl": "",
         "transactionText": "",
@@ -3824,6 +3751,17 @@
         "transactionText": "",
         "filerName": "GULLO MICHELLE L",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 685,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "AMIN JAYMIN",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2026-01-02T00:00:00.000Z",
         "ownership": "D"
@@ -3946,18 +3884,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 8844,
-        "value": 299988,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 33.92 per share.",
-        "filerName": "SCHLESINGER EDWARD A",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-10-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 20893,
         "value": 1906486,
         "filerUrl": "",
@@ -3982,6 +3908,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 8844,
+        "value": 299988,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 33.92 per share.",
+        "filerName": "SCHLESINGER EDWARD A",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-10-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2650,
         "value": 0,
         "filerUrl": "",
@@ -3994,24 +3932,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 100000,
-        "value": 9017340,
-        "filerUrl": "",
-        "transactionText": "Sale at price 90.17 per share.",
-        "filerName": "MUSSER ERIC S.",
-        "filerRelation": "Retired",
-        "moneyText": "",
-        "startDate": "2025-10-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 12100,
         "value": 1104535,
         "filerUrl": "",
         "transactionText": "Sale at price 91.28 per share.",
         "filerName": "BECKER STEFAN",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-10-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 100000,
+        "value": 9017340,
+        "filerUrl": "",
+        "transactionText": "Sale at price 90.17 per share.",
+        "filerName": "MUSSER ERIC S.",
+        "filerRelation": "Retired",
         "moneyText": "",
         "startDate": "2025-10-29T00:00:00.000Z",
         "ownership": "D"
@@ -4029,10 +3967,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 7931,
-        "value": 159363,
+        "shares": 17721,
+        "value": 1367698,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 18.67 - 20.89 per share.",
+        "transactionText": "Sale at price 77.18 per share.",
         "filerName": "AMIN JAYMIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -4041,10 +3979,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 17721,
-        "value": 1367698,
+        "shares": 7931,
+        "value": 159363,
         "filerUrl": "",
-        "transactionText": "Sale at price 77.18 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 18.67 - 20.89 per share.",
         "filerName": "AMIN JAYMIN",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -4065,24 +4003,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
-        "value": 1404624,
-        "filerUrl": "",
-        "transactionText": "Sale at price 70.23 per share.",
-        "filerName": "MUSSER ERIC S.",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2025-09-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 4467,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "WRIGHTON MARK S",
         "filerRelation": "Retired",
+        "moneyText": "",
+        "startDate": "2025-09-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "value": 1404624,
+        "filerUrl": "",
+        "transactionText": "Sale at price 70.23 per share.",
+        "filerName": "MUSSER ERIC S.",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2025-09-04T00:00:00.000Z",
         "ownership": "D"
@@ -4101,18 +4039,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 21997,
-        "value": 370402,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 19.65 per share.",
-        "filerName": "MUSSER ERIC S.",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2025-08-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 18850,
         "value": 1231184,
         "filerUrl": "",
@@ -4125,24 +4051,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 2110,
+        "shares": 21997,
+        "value": 370402,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BECKER STEFAN",
-        "filerRelation": "Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 19.65 per share.",
+        "filerName": "MUSSER ERIC S.",
+        "filerRelation": "President",
         "moneyText": "",
-        "startDate": "2025-08-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1944,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FANG LI",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-08T00:00:00.000Z",
+        "startDate": "2025-08-11T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4151,6 +4067,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "ZHANG JOHN Z",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2110,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BECKER STEFAN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-08T00:00:00.000Z",
@@ -4213,6 +4140,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1944,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FANG LI",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2476,
         "filerUrl": "",
         "transactionText": "",
@@ -4246,18 +4184,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
-        "value": 1317576,
-        "filerUrl": "",
-        "transactionText": "Sale at price 65.88 per share.",
-        "filerName": "MUSSER ERIC S.",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2025-08-07T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 82103,
         "value": 5351933,
         "filerUrl": "",
@@ -4270,12 +4196,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 21240,
-        "value": 573817,
+        "shares": 20000,
+        "value": 1317576,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 27.00 - 27.03 per share.",
-        "filerName": "NELSON AVERY H III",
-        "filerRelation": "Chief Operating Officer",
+        "transactionText": "Sale at price 65.88 per share.",
+        "filerName": "MUSSER ERIC S.",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2025-08-07T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 14879,
+        "value": 927912,
+        "filerUrl": "",
+        "transactionText": "Sale at price 62.36 per share.",
+        "filerName": "O'DAY MICHAEL PAUL",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-07-30T00:00:00.000Z",
         "ownership": "D"
@@ -4288,18 +4226,6 @@
         "transactionText": "Sale at price 62.26 per share.",
         "filerName": "NELSON AVERY H III",
         "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2025-07-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 14879,
-        "value": 927912,
-        "filerUrl": "",
-        "transactionText": "Sale at price 62.36 per share.",
-        "filerName": "O'DAY MICHAEL PAUL",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-07-30T00:00:00.000Z",
         "ownership": "D"
@@ -4324,6 +4250,18 @@
         "transactionText": "Sale at price 62.22 per share.",
         "filerName": "STEVERSON LEWIS A",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-07-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 21240,
+        "value": 573817,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 27.00 - 27.03 per share.",
+        "filerName": "NELSON AVERY H III",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2025-07-30T00:00:00.000Z",
         "ownership": "D"
@@ -4366,24 +4304,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 6505,
-        "value": 325285,
-        "filerUrl": "",
-        "transactionText": "Sale at price 50.01 per share.",
-        "filerName": "SEETHARAM SOUMYA",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-05-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 17106,
         "value": 849838,
         "filerUrl": "",
         "transactionText": "Sale at price 49.68 per share.",
         "filerName": "BECKER STEFAN",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-05-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 6505,
+        "value": 325285,
+        "filerUrl": "",
+        "transactionText": "Sale at price 50.01 per share.",
+        "filerName": "SEETHARAM SOUMYA",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-05-29T00:00:00.000Z",
         "ownership": "D"
@@ -4434,17 +4372,6 @@
         "filerRelation": "Retired",
         "moneyText": "",
         "startDate": "2025-04-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 32895,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BECKER STEFAN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-04-15T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4509,6 +4436,17 @@
         "transactionText": "",
         "filerName": "BELL MICHAEL ALAN",
         "filerRelation": "Retired",
+        "moneyText": "",
+        "startDate": "2025-04-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 32895,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BECKER STEFAN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-04-15T00:00:00.000Z",
         "ownership": "D"
@@ -4583,18 +4521,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 12529,
-        "value": 424984,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 33.92 per share.",
-        "filerName": "ZHANG JOHN Z",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 14111,
         "value": 744757,
         "filerUrl": "",
@@ -4607,24 +4533,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 2109,
+        "shares": 12529,
+        "value": 424984,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BECKER STEFAN",
+        "transactionText": "Conversion of Exercise of derivative security at price 33.92 per share.",
+        "filerName": "ZHANG JOHN Z",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-02-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1943,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FANG LI",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-10T00:00:00.000Z",
+        "startDate": "2025-02-18T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4695,6 +4611,28 @@
       },
       {
         "maxAge": 1,
+        "shares": 2109,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BECKER STEFAN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1943,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FANG LI",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2475,
         "filerUrl": "",
         "transactionText": "",
@@ -4756,9 +4694,9 @@
     "currentPrice": 154.61,
     "targetHighPrice": 270,
     "targetLowPrice": 155,
-    "targetMeanPrice": 213.06667,
+    "targetMeanPrice": 214.06667,
     "targetMedianPrice": 220,
-    "recommendationMean": 1.75,
+    "recommendationMean": 1.625,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 15,
     "totalCash": 1755000064,
@@ -4783,6 +4721,6 @@
     "profitMargins": 0.1109,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-18T04:49:49.347Z",
+  "lastUpdated": "2026-07-19T05:23:10.459Z",
   "source": "Static Build (yahoo-finance2)"
 }
