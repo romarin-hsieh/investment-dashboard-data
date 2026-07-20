@@ -193,68 +193,12 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": [
-        "2026-07-31T12:30:00.000Z"
-      ],
+      "earningsDate": [],
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2022,
-          "revenue": 20752000000,
-          "earnings": 3032000000,
-          "profitMargin": 0.1461064
-        },
-        {
-          "date": 2023,
-          "revenue": 23196000000,
-          "earnings": 3657000000,
-          "profitMargin": 0.15765649
-        },
-        {
-          "date": 2024,
-          "revenue": 24878000000,
-          "earnings": 4314000000,
-          "profitMargin": 0.17340621
-        },
-        {
-          "date": 2025,
-          "revenue": 27448000000,
-          "earnings": 4720000000,
-          "profitMargin": 0.17196153
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 7028000000,
-          "earnings": 1155000000,
-          "profitMargin": 0.16434264
-        },
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "3Q2025",
-          "revenue": 6988000000,
-          "earnings": 1199000000,
-          "profitMargin": 0.17157985
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 7055000000,
-          "earnings": 1297000000,
-          "profitMargin": 0.18384124
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 7451000000,
-          "earnings": 1094000000,
-          "profitMargin": 0.14682594
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
@@ -4248,19 +4192,18 @@
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "ETN",
     "underlyingSymbol": null,
     "shortName": "Eaton Corporation, PLC",
-    "longName": "Eaton Corporation plc",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 155316109312
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
@@ -4269,7 +4212,6 @@
     "forwardPE": 25.352713,
     "profitMargins": 0.13986,
     "floatShares": 387659305,
-    "sharesOutstanding": 388300000,
     "sharesShort": 9291286,
     "sharesShortPriorMonth": "1970-04-24T02:10:04.000Z",
     "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
@@ -4280,7 +4222,6 @@
     "shortRatio": 3.67,
     "shortPercentOfFloat": 0.0239,
     "beta": 1.181,
-    "impliedSharesOutstanding": 388300000,
     "category": null,
     "bookValue": 50.788,
     "priceToBook": 7.8756795,
@@ -5834,6 +5775,6 @@
     "profitMargins": 0.13986,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-19T05:22:02.029Z",
+  "lastUpdated": "2026-07-20T05:39:03.754Z",
   "source": "Static Build (yahoo-finance2)"
 }

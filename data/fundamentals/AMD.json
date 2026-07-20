@@ -193,68 +193,11 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": [
-        "2026-08-04T20:00:00.000Z"
-      ],
-      "isEarningsDateEstimate": false
+      "earningsDate": []
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2022,
-          "revenue": 23601000000,
-          "earnings": 5504000000,
-          "profitMargin": 0.23321046
-        },
-        {
-          "date": 2023,
-          "revenue": 22680000000,
-          "earnings": 4302000000,
-          "profitMargin": 0.18968254
-        },
-        {
-          "date": 2024,
-          "revenue": 25785000000,
-          "earnings": 5420000000,
-          "profitMargin": 0.21019974
-        },
-        {
-          "date": 2025,
-          "revenue": 34639000000,
-          "earnings": 6831000000,
-          "profitMargin": 0.19720547
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 7685000000,
-          "earnings": 781000000,
-          "profitMargin": 0.101626545
-        },
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "3Q2025",
-          "revenue": 9246000000,
-          "earnings": 1965000000,
-          "profitMargin": 0.21252432
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 10270000000,
-          "earnings": 2519000000,
-          "profitMargin": 0.24527751
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 10253000000,
-          "earnings": 2265000000,
-          "profitMargin": 0.22091095
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
@@ -7672,14 +7615,14 @@
     "postMarketTime": "2026-07-17T23:59:58.000Z",
     "postMarketPrice": 492.5,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0103405,
-    "regularMarketChange": -5.17999,
+    "regularMarketChangePercent": -0.010340545,
+    "regularMarketChange": -5.1799927,
     "regularMarketTime": "2026-07-17T20:00:01.000Z",
     "priceHint": 2,
     "regularMarketPrice": 495.76,
     "regularMarketDayHigh": 505.8795,
     "regularMarketDayLow": 460.21,
-    "regularMarketVolume": 30156030,
+    "regularMarketVolume": 32115875,
     "averageDailyVolume10Day": 26237270,
     "averageDailyVolume3Month": 35763120,
     "regularMarketPreviousClose": 500.94,
@@ -7688,19 +7631,18 @@
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "AMD",
     "underlyingSymbol": null,
     "shortName": "Advanced Micro Devices, Inc.",
-    "longName": "Advanced Micro Devices, Inc.",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 808386560000
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
@@ -7709,7 +7651,6 @@
     "forwardPE": 36.81913,
     "profitMargins": 0.13374,
     "floatShares": 1621991068,
-    "sharesOutstanding": 1630600639,
     "sharesShort": 41583210,
     "sharesShortPriorMonth": "1971-05-26T01:02:02.000Z",
     "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
@@ -7720,10 +7661,7 @@
     "shortRatio": 1.3,
     "shortPercentOfFloat": 0.0256,
     "beta": 2.469,
-    "impliedSharesOutstanding": 1630600639,
     "category": null,
-    "bookValue": 39.547,
-    "priceToBook": 12.53597,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-27T00:00:00.000Z",
@@ -9324,6 +9262,6 @@
     "profitMargins": 0.13374,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-19T05:22:35.489Z",
+  "lastUpdated": "2026-07-20T05:39:36.640Z",
   "source": "Static Build (yahoo-finance2)"
 }

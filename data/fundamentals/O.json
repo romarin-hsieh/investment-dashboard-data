@@ -193,68 +193,11 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": [
-        "2026-08-05T20:00:00.000Z"
-      ],
-      "isEarningsDateEstimate": false
+      "earningsDate": []
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2022,
-          "revenue": 3299657000,
-          "earnings": 882271780,
-          "profitMargin": 0.2673829
-        },
-        {
-          "date": 2023,
-          "revenue": 3958150000,
-          "earnings": 885963010,
-          "profitMargin": 0.2238326
-        },
-        {
-          "date": 2024,
-          "revenue": 5043748000,
-          "earnings": 937318250,
-          "profitMargin": 0.18583766
-        },
-        {
-          "date": 2025,
-          "revenue": 5437332000,
-          "earnings": 1081014960,
-          "profitMargin": 0.19881348
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 1338188000,
-          "earnings": 197214290,
-          "profitMargin": 0.14737412
-        },
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "3Q2025",
-          "revenue": 1386502000,
-          "earnings": 328183150,
-          "profitMargin": 0.23669864
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 1399585000,
-          "earnings": 305654400,
-          "profitMargin": 0.2183893
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 1440817000,
-          "earnings": 321739000,
-          "profitMargin": 0.22330317
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
@@ -2328,19 +2271,18 @@
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "O",
     "underlyingSymbol": null,
     "shortName": "Realty Income Corporation",
-    "longName": "Realty Income Corporation",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 61274083328
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
@@ -2349,7 +2291,6 @@
     "forwardPE": 38.71785,
     "profitMargins": 0.18899,
     "floatShares": 930291848,
-    "sharesOutstanding": 932492530,
     "sharesShort": 43482417,
     "sharesShortPriorMonth": "1971-03-23T21:20:36.000Z",
     "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
@@ -2360,10 +2301,7 @@
     "shortRatio": 6.53,
     "shortPercentOfFloat": 0.053200003,
     "beta": 0.729,
-    "impliedSharesOutstanding": 932492530,
     "category": null,
-    "bookValue": 41.982,
-    "priceToBook": 1.5651946,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2948,6 +2886,6 @@
     "profitMargins": 0.18899,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-19T05:23:49.974Z",
+  "lastUpdated": "2026-07-20T05:40:48.301Z",
   "source": "Static Build (yahoo-finance2)"
 }

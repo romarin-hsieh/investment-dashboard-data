@@ -193,56 +193,11 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": [
-        "2026-08-05T20:00:00.000Z"
-      ],
-      "isEarningsDateEstimate": false
+      "earningsDate": []
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2024,
-          "revenue": 0,
-          "earnings": 0,
-          "profitMargin": 0
-        },
-        {
-          "date": 2025,
-          "revenue": 1055788000,
-          "earnings": 166819000,
-          "profitMargin": 0.15800425
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 249640000,
-          "earnings": 19783000,
-          "profitMargin": 0.07924611
-        },
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "3Q2025",
-          "revenue": 274173000,
-          "earnings": 62356000,
-          "profitMargin": 0.22743306
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 303776000,
-          "earnings": 42955000,
-          "profitMargin": 0.14140354
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 333439000,
-          "earnings": 56503000,
-          "profitMargin": 0.16945527
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
@@ -626,19 +581,18 @@
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "FIG",
     "underlyingSymbol": null,
     "shortName": "Figma, Inc.",
-    "longName": "Figma, Inc.",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 12654619648
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
@@ -647,7 +601,6 @@
     "forwardPE": 73.27744,
     "profitMargins": -1.23834,
     "floatShares": 238186875,
-    "sharesOutstanding": 445682595,
     "sharesShort": 84499336,
     "sharesShortPriorMonth": "1972-03-20T12:52:45.000Z",
     "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
@@ -657,7 +610,6 @@
     "heldPercentInstitutions": 0.84786004,
     "shortRatio": 4.44,
     "shortPercentOfFloat": 0.44439998,
-    "impliedSharesOutstanding": 528376573,
     "category": null,
     "bookValue": 2.769,
     "priceToBook": 8.649332,
@@ -2120,6 +2072,6 @@
     "profitMargins": -1.23834,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-19T05:22:07.698Z",
+  "lastUpdated": "2026-07-20T05:39:09.531Z",
   "source": "Static Build (yahoo-finance2)"
 }

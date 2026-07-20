@@ -193,68 +193,11 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "3Q2026",
       "currentPeriodEndDate": 1790726400,
-      "earningsDate": [
-        "2026-10-14T12:30:00.000Z"
-      ],
-      "isEarningsDateEstimate": false
+      "earningsDate": []
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2022,
-          "revenue": 94950000000,
-          "earnings": 26015000000,
-          "profitMargin": 0.2739863
-        },
-        {
-          "date": 2023,
-          "revenue": 98581000000,
-          "earnings": 24866000000,
-          "profitMargin": 0.2522393
-        },
-        {
-          "date": 2024,
-          "revenue": 101887000000,
-          "earnings": 25503000000,
-          "profitMargin": 0.25030673
-        },
-        {
-          "date": 2025,
-          "revenue": 113097000000,
-          "earnings": 29055000000,
-          "profitMargin": 0.25690338
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "3Q2025",
-          "revenue": 28088000000,
-          "earnings": 8040000000,
-          "profitMargin": 0.28624323
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 28367000000,
-          "earnings": 7319000000,
-          "profitMargin": 0.25801107
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 30272000000,
-          "earnings": 8155000000,
-          "profitMargin": 0.26939085
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "2Q2026",
-          "revenue": 31558000000,
-          "earnings": 8748000000,
-          "profitMargin": 0.2772039
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "gaap"
@@ -4498,19 +4441,18 @@
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "BAC",
     "underlyingSymbol": null,
     "shortName": "Bank of America Corporation",
-    "longName": "Bank of America Corporation",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 434808127488
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
@@ -4519,7 +4461,6 @@
     "forwardPE": 11.666899,
     "profitMargins": 0.29524,
     "floatShares": 6990457028,
-    "sharesOutstanding": 7096590651,
     "sharesShort": 5995,
     "sharesShortPriorMonth": "1970-01-01T00:45:04.000Z",
     "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
@@ -4530,7 +4471,6 @@
     "shortRatio": 0,
     "shortPercentOfFloat": 0,
     "beta": 1.175,
-    "impliedSharesOutstanding": 7096590651,
     "category": null,
     "bookValue": 39.342,
     "priceToBook": 1.5573688,
@@ -6313,6 +6253,6 @@
     "profitMargins": 0.29524,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-19T05:22:41.311Z",
+  "lastUpdated": "2026-07-20T05:39:42.229Z",
   "source": "Static Build (yahoo-finance2)"
 }

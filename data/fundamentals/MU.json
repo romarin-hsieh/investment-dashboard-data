@@ -193,68 +193,11 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "4Q2026",
       "currentPeriodEndDate": 1788134400,
-      "earningsDate": [
-        "2026-09-23T20:00:00.000Z"
-      ],
-      "isEarningsDateEstimate": true
+      "earningsDate": []
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2022,
-          "revenue": 30758000000,
-          "earnings": 9475000000,
-          "profitMargin": 0.30804995
-        },
-        {
-          "date": 2023,
-          "revenue": 15540000000,
-          "earnings": -4862000000,
-          "profitMargin": -0.31287003
-        },
-        {
-          "date": 2024,
-          "revenue": 25111000000,
-          "earnings": 1472000000,
-          "profitMargin": 0.05861973
-        },
-        {
-          "date": 2025,
-          "revenue": 37378000000,
-          "earnings": 9470000000,
-          "profitMargin": 0.2533576
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 11315000000,
-          "earnings": 3469000000,
-          "profitMargin": 0.30658418
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 13643000000,
-          "earnings": 5482000000,
-          "profitMargin": 0.40181777
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "2Q2026",
-          "revenue": 23860000000,
-          "earnings": 14021000000,
-          "profitMargin": 0.5876362
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "3Q2026",
-          "revenue": 41456000000,
-          "earnings": 28857000000,
-          "profitMargin": 0.6960874
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
@@ -9042,14 +8985,14 @@
     "postMarketTime": "2026-07-17T23:59:59.000Z",
     "postMarketPrice": 844,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.00498125,
+    "regularMarketChangePercent": -0.004981247,
     "regularMarketChange": -4.25,
     "regularMarketTime": "2026-07-17T20:00:01.000Z",
     "priceHint": 2,
     "regularMarketPrice": 848.95,
     "regularMarketDayHigh": 903.93,
     "regularMarketDayLow": 804,
-    "regularMarketVolume": 62804973,
+    "regularMarketVolume": 63346278,
     "averageDailyVolume10Day": 43618290,
     "averageDailyVolume3Month": 51765387,
     "regularMarketPreviousClose": 853.2,
@@ -9058,19 +9001,18 @@
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "MU",
     "underlyingSymbol": null,
     "shortName": "Micron Technology, Inc.",
-    "longName": "Micron Technology, Inc.",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 958798299136
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
@@ -9079,7 +9021,6 @@
     "forwardPE": 5.630772,
     "profitMargins": 0.55906,
     "floatShares": 1125282160,
-    "sharesOutstanding": 1129393151,
     "sharesShort": 31669690,
     "sharesShortPriorMonth": "1971-03-11T14:18:41.000Z",
     "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
@@ -9090,10 +9031,7 @@
     "shortRatio": 0.55,
     "shortPercentOfFloat": 0.028099999,
     "beta": 2.142,
-    "impliedSharesOutstanding": 1129393151,
     "category": null,
-    "bookValue": 64.237,
-    "priceToBook": 13.215904,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-08-28T00:00:00.000Z",
@@ -10617,6 +10555,6 @@
     "profitMargins": 0.55906,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-19T05:23:46.045Z",
+  "lastUpdated": "2026-07-20T05:40:44.732Z",
   "source": "Static Build (yahoo-finance2)"
 }

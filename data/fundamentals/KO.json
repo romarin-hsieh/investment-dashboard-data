@@ -193,68 +193,11 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": [
-        "2026-07-28T12:30:00.000Z"
-      ],
-      "isEarningsDateEstimate": false
+      "earningsDate": []
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2022,
-          "revenue": 43046000000,
-          "earnings": 10803000000,
-          "profitMargin": 0.2509641
-        },
-        {
-          "date": 2023,
-          "revenue": 45784000000,
-          "earnings": 11660000000,
-          "profitMargin": 0.25467414
-        },
-        {
-          "date": 2024,
-          "revenue": 46897000000,
-          "earnings": 12463000000,
-          "profitMargin": 0.26575258
-        },
-        {
-          "date": 2025,
-          "revenue": 48062000000,
-          "earnings": 12958000000,
-          "profitMargin": 0.26961008
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 12617000000,
-          "earnings": 3766000000,
-          "profitMargin": 0.29848617
-        },
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "3Q2025",
-          "revenue": 12412000000,
-          "earnings": 3544000000,
-          "profitMargin": 0.28553012
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 11817000000,
-          "earnings": 2516000000,
-          "profitMargin": 0.2129136
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 12471000000,
-          "earnings": 3703000000,
-          "profitMargin": 0.29692888
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
@@ -3188,19 +3131,18 @@
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "KO",
     "underlyingSymbol": null,
     "shortName": "Coca-Cola Company (The)",
-    "longName": "The Coca-Cola Company",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 350910447616
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
@@ -3209,7 +3151,6 @@
     "forwardPE": 23.415249,
     "profitMargins": 0.278,
     "floatShares": 3873912144,
-    "sharesOutstanding": 4302482418,
     "sharesShort": 49570664,
     "sharesShortPriorMonth": "1971-06-21T19:07:37.000Z",
     "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
@@ -3220,7 +3161,6 @@
     "shortRatio": 2.44,
     "shortPercentOfFloat": 0.0116,
     "beta": 0.349,
-    "impliedSharesOutstanding": 4302482418,
     "category": null,
     "bookValue": 7.816,
     "priceToBook": 10.435005,
@@ -4587,6 +4527,6 @@
     "profitMargins": 0.278,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-19T05:23:35.187Z",
+  "lastUpdated": "2026-07-20T05:40:33.420Z",
   "source": "Static Build (yahoo-finance2)"
 }

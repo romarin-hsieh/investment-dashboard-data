@@ -193,68 +193,11 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": [
-        "2026-08-04T12:30:00.000Z"
-      ],
-      "isEarningsDateEstimate": false
+      "earningsDate": []
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2022,
-          "revenue": 59283000000,
-          "earnings": 19005000000,
-          "profitMargin": 0.32058093
-        },
-        {
-          "date": 2023,
-          "revenue": 60115000000,
-          "earnings": 3837000000,
-          "profitMargin": 0.06382766
-        },
-        {
-          "date": 2024,
-          "revenue": 64168000000,
-          "earnings": 19444000000,
-          "profitMargin": 0.30301708
-        },
-        {
-          "date": 2025,
-          "revenue": 65011000000,
-          "earnings": 22513000000,
-          "profitMargin": 0.34629527
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 15806000000,
-          "earnings": 5366000000,
-          "profitMargin": 0.33949134
-        },
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "3Q2025",
-          "revenue": 17276000000,
-          "earnings": 6448000000,
-          "profitMargin": 0.37323454
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 16400000000,
-          "earnings": 5088000000,
-          "profitMargin": 0.3102439
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 16286000000,
-          "earnings": -3156000000,
-          "profitMargin": -0.19378607
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
@@ -3828,19 +3771,18 @@
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "MRK",
     "underlyingSymbol": null,
     "shortName": "Merck & Company, Inc.",
-    "longName": "Merck & Co., Inc.",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 314902609920
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
@@ -3849,7 +3791,6 @@
     "forwardPE": 13.203829,
     "profitMargins": 0.13586001,
     "floatShares": 2465699808,
-    "sharesOutstanding": 2469824415,
     "sharesShort": 31381267,
     "sharesShortPriorMonth": "1970-12-20T12:57:33.000Z",
     "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
@@ -3860,7 +3801,6 @@
     "shortRatio": 2.48,
     "shortPercentOfFloat": 0.0127,
     "beta": 0.205,
-    "impliedSharesOutstanding": 2469824415,
     "category": null,
     "bookValue": 18.576,
     "priceToBook": 6.863695,
@@ -4757,6 +4697,6 @@
     "profitMargins": 0.13586001,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-19T05:23:44.398Z",
+  "lastUpdated": "2026-07-20T05:40:42.714Z",
   "source": "Static Build (yahoo-finance2)"
 }
