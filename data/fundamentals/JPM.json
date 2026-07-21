@@ -3,7 +3,7 @@
     "trend": [
       {
         "period": "0m",
-        "strongBuy": 4,
+        "strongBuy": 3,
         "buy": 8,
         "hold": 12,
         "sell": 0,
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0777,
         "position": 208220293,
-        "value": 71023943213,
+        "value": 70559609672,
         "pctChange": -0.016
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0617,
         "position": 165278733,
-        "value": 56376576835,
+        "value": 56008003444,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0464,
         "position": 124276661,
-        "value": 42390769825,
+        "value": 42113631506,
         "pctChange": -0.0085
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0256,
         "position": 68544442,
-        "value": 23380509584,
+        "value": 23227654725,
         "pctChange": 0.0325
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.024500001,
         "position": 65580826,
-        "value": 22369620148,
+        "value": 22223374186,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.024500001,
         "position": 65660460,
-        "value": 22396783306,
+        "value": 22250359759,
         "pctChange": 0.1576
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0233,
         "position": 62550814,
-        "value": 21336083037,
+        "value": 21196594034,
         "pctChange": 0.0209
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Northern Trust Corporation",
         "pctHeld": 0.0117,
         "position": 31221042,
-        "value": 10649497616,
+        "value": 10579874350,
         "pctChange": -0.0143
       },
       {
@@ -117,7 +117,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0117,
         "position": 31433969,
-        "value": 10722127017,
+        "value": 10652028921,
         "pctChange": -0.1195
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.010299999,
         "position": 27487323,
-        "value": 9375926043,
+        "value": 9314629010,
         "pctChange": -0.0163
       }
     ]
@@ -187,23 +187,83 @@
           "reportedDate": 1784025038
         }
       ],
-      "currentQuarterEstimate": 5.71214,
+      "currentQuarterEstimate": 5.8895,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "3Q2026",
       "currentPeriodEndDate": 1790726400,
-      "earningsDate": []
+      "earningsDate": [
+        "2026-10-13T12:30:00.000Z"
+      ],
+      "isEarningsDateEstimate": false
     },
     "financialsChart": {
-      "yearly": [],
-      "quarterly": []
+      "yearly": [
+        {
+          "date": 2022,
+          "revenue": 127727000000,
+          "earnings": 37676000000,
+          "profitMargin": 0.29497287
+        },
+        {
+          "date": 2023,
+          "revenue": 154952000000,
+          "earnings": 49552000000,
+          "profitMargin": 0.31978932
+        },
+        {
+          "date": 2024,
+          "revenue": 169439000000,
+          "earnings": 58471000000,
+          "profitMargin": 0.34508583
+        },
+        {
+          "date": 2025,
+          "revenue": 181847000000,
+          "earnings": 57048000000,
+          "profitMargin": 0.31371427
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2025",
+          "fiscalQuarter": "3Q2025",
+          "revenue": 46430000000,
+          "earnings": 14393000000,
+          "profitMargin": 0.30999354
+        },
+        {
+          "date": "4Q2025",
+          "fiscalQuarter": "4Q2025",
+          "revenue": 45796000000,
+          "earnings": 13025000000,
+          "profitMargin": 0.2844135
+        },
+        {
+          "date": "1Q2026",
+          "fiscalQuarter": "1Q2026",
+          "revenue": 49833000000,
+          "earnings": 16494000000,
+          "profitMargin": 0.3309855
+        }
+      ]
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-20T18:59:47.000Z",
+        "firm": "Citigroup",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 360,
+        "priorPriceTarget": 325
+      },
       {
         "epochGradeDate": "2026-07-17T13:41:34.000Z",
         "firm": "Evercore ISI Group",
@@ -4610,24 +4670,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0037525615,
-    "postMarketChange": 1.2799988,
-    "postMarketTime": "2026-07-17T23:59:31.000Z",
-    "postMarketPrice": 342.38,
+    "postMarketChangePercent": -0.0010623111,
+    "postMarketChange": -0.35998535,
+    "postMarketTime": "2026-07-20T23:59:31.000Z",
+    "postMarketPrice": 338.51,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.00597403,
-    "regularMarketChange": -2.04999,
-    "regularMarketTime": "2026-07-17T20:00:02.000Z",
+    "regularMarketChangePercent": -0.0065377,
+    "regularMarketChange": -2.23001,
+    "regularMarketTime": "2026-07-20T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 341.1,
-    "regularMarketDayHigh": 346.125,
-    "regularMarketDayLow": 335.05,
-    "regularMarketVolume": 7079222,
+    "regularMarketPrice": 338.87,
+    "regularMarketDayHigh": 344.26,
+    "regularMarketDayLow": 337.37,
+    "regularMarketVolume": 5452792,
     "averageDailyVolume10Day": 11025380,
-    "averageDailyVolume3Month": 9333822,
-    "regularMarketPreviousClose": 343.15,
+    "averageDailyVolume3Month": 9310245,
+    "regularMarketPreviousClose": 341.1,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 339.03,
+    "regularMarketOpen": 341.8,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -4636,21 +4696,23 @@
     "symbol": "JPM",
     "underlyingSymbol": null,
     "shortName": "JP Morgan Chase & Co.",
-    "longName": null,
+    "longName": "JPMorgan Chase & Co.",
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null
+    "lastMarket": null,
+    "marketCap": 900784259072
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 443559018496,
-    "forwardPE": 13.915645,
+    "enterpriseValue": 437631221760,
+    "forwardPE": 13.804074,
     "profitMargins": 0.34921002,
     "floatShares": 2643925466,
+    "sharesOutstanding": 2658200000,
     "sharesShort": 26871351,
     "sharesShortPriorMonth": "1970-11-28T07:58:02.000Z",
     "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
@@ -4661,7 +4723,10 @@
     "shortRatio": 2.74,
     "shortPercentOfFloat": 0.0101,
     "beta": 0.982,
+    "impliedSharesOutstanding": 2658200000,
     "category": null,
+    "bookValue": 133.007,
+    "priceToBook": 2.5477605,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4669,12 +4734,12 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.412,
     "netIncomeToCommon": 63634001920,
-    "trailingEps": 23.33,
-    "forwardEps": 24.54855,
+    "trailingEps": 23.18,
+    "forwardEps": 24.6557,
     "pegRatio": 1.76,
     "lastSplitFactor": "3:2",
     "lastSplitDate": 960768000,
-    "enterpriseToRevenue": 2.381,
+    "enterpriseToRevenue": 2.349,
     "52WeekChange": 0.1722858,
     "SandP52WeekChange": 0.18270898,
     "lastDividendValue": 1.5,
@@ -4839,24 +4904,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 3022,
-        "value": 935032,
-        "filerUrl": "",
-        "transactionText": "Sale at price 309.41 per share.",
-        "filerName": "BARNUM JEREMY",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-05-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 4919,
         "value": 1522037,
         "filerUrl": "",
         "transactionText": "Sale at price 309.42 per share.",
         "filerName": "PIEPSZAK JENNIFER A",
         "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-05-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3022,
+        "value": 935032,
+        "filerUrl": "",
+        "transactionText": "Sale at price 309.41 per share.",
+        "filerName": "BARNUM JEREMY",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-05-05T00:00:00.000Z",
         "ownership": "D"
@@ -4875,24 +4940,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 5611,
-        "value": 1720064,
-        "filerUrl": "",
-        "transactionText": "Sale at price 306.55 per share.",
-        "filerName": "BARNUM JEREMY",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-04-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 9136,
         "value": 2800713,
         "filerUrl": "",
         "transactionText": "Sale at price 306.56 per share.",
         "filerName": "PIEPSZAK JENNIFER A",
         "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-04-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5611,
+        "value": 1720064,
+        "filerUrl": "",
+        "transactionText": "Sale at price 306.55 per share.",
+        "filerName": "BARNUM JEREMY",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-04-15T00:00:00.000Z",
         "ownership": "D"
@@ -5019,22 +5084,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 38629,
+        "shares": 72965,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BARNUM JEREMY",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "ROHRBAUGH TROY L",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-25T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 72965,
+        "shares": 38629,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ROHRBAUGH TROY L",
-        "filerRelation": "Officer",
+        "filerName": "BARNUM JEREMY",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-03-25T00:00:00.000Z",
         "ownership": "D"
@@ -5063,10 +5128,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 57514,
+        "shares": 84983,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LAKE MARIANNE",
+        "filerName": "ERDOES MARY E.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-25T00:00:00.000Z",
@@ -5118,10 +5183,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 84983,
+        "shares": 57514,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ERDOES MARY E.",
+        "filerName": "LAKE MARIANNE",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-25T00:00:00.000Z",
@@ -5288,6 +5353,18 @@
         "value": 280000,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 306.50 per share.",
+        "filerName": "SMITH BRAD D",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 913,
+        "value": 280000,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 306.50 per share.",
         "filerName": "BUCK MICHELE G",
         "filerRelation": "Director",
         "moneyText": "",
@@ -5301,18 +5378,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 306.50 per share.",
         "filerName": "NOVAKOVIC PHEBE N",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 913,
-        "value": 280000,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 306.50 per share.",
-        "filerName": "SMITH BRAD D",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-01-20T00:00:00.000Z",
@@ -5416,24 +5481,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 2893,
-        "value": 904890,
-        "filerUrl": "",
-        "transactionText": "Sale at price 312.79 per share.",
-        "filerName": "BARNUM JEREMY",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-01-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 8571,
         "value": 2680888,
         "filerUrl": "",
         "transactionText": "Sale at price 312.79 per share.",
         "filerName": "PIEPSZAK JENNIFER A",
         "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-01-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2893,
+        "value": 904890,
+        "filerUrl": "",
+        "transactionText": "Sale at price 312.79 per share.",
+        "filerName": "BARNUM JEREMY",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-01-16T00:00:00.000Z",
         "ownership": "D"
@@ -5512,6 +5577,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 42788,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ROHRBAUGH TROY L",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 14746,
         "filerUrl": "",
         "transactionText": "",
@@ -5534,17 +5610,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 42788,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ROHRBAUGH TROY L",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 29976,
         "filerUrl": "",
         "transactionText": "",
@@ -5556,11 +5621,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 33918,
+        "shares": 50138,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LAKE MARIANNE",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "ERDOES MARY E.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-13T00:00:00.000Z",
         "ownership": "D"
@@ -5611,11 +5676,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 50138,
+        "shares": 33918,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ERDOES MARY E.",
-        "filerRelation": "Officer",
+        "filerName": "LAKE MARIANNE",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-01-13T00:00:00.000Z",
         "ownership": "D"
@@ -6088,22 +6153,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 29632,
+        "shares": 67664,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BARNUM JEREMY",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "ROHRBAUGH TROY L",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-03-25T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 67664,
+        "shares": 29632,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ROHRBAUGH TROY L",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "BARNUM JEREMY",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-03-25T00:00:00.000Z",
         "ownership": "D"
@@ -6132,17 +6197,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 50150,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LAKE MARIANNE",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-03-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 104384,
         "filerUrl": "",
         "transactionText": "",
@@ -6157,8 +6211,8 @@
         "shares": 42190,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BACON ASHLEY",
-        "filerRelation": "Officer",
+        "filerName": "FRIEDMAN STACEY R.",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-03-25T00:00:00.000Z",
         "ownership": "D"
@@ -6168,8 +6222,8 @@
         "shares": 42190,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "FRIEDMAN STACEY R.",
-        "filerRelation": "General Counsel",
+        "filerName": "BACON ASHLEY",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-03-25T00:00:00.000Z",
         "ownership": "D"
@@ -6198,11 +6252,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 26269,
+        "shares": 50150,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BEER LORI A",
-        "filerRelation": "Chief Technology Officer",
+        "filerName": "LAKE MARIANNE",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-03-25T00:00:00.000Z",
         "ownership": "D"
@@ -6214,6 +6268,17 @@
         "transactionText": "",
         "filerName": "ERDOES MARY E.",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-03-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 26269,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BEER LORI A",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-03-25T00:00:00.000Z",
         "ownership": "D"
@@ -6475,14 +6540,14 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 341.1,
+    "currentPrice": 338.87,
     "targetHighPrice": 420,
     "targetLowPrice": 305,
-    "targetMeanPrice": 367.57144,
-    "targetMedianPrice": 370,
-    "recommendationMean": 2.16667,
+    "targetMeanPrice": 367.45,
+    "targetMedianPrice": 369.5,
+    "recommendationMean": 2.17391,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 21,
+    "numberOfAnalystOpinions": 20,
     "totalCash": 1818026049536,
     "totalCashPerShare": 683.931,
     "totalDebt": 1333832974336,
@@ -6499,6 +6564,6 @@
     "profitMargins": 0.34921002,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-20T05:40:31.692Z",
+  "lastUpdated": "2026-07-21T05:21:47.724Z",
   "source": "Static Build (yahoo-finance2)"
 }
