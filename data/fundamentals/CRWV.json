@@ -45,7 +45,7 @@
         "organization": "Magnetar Financial LLC",
         "pctHeld": 0.1532,
         "position": 68566394,
-        "value": 5009460578,
+        "value": 5456513760,
         "pctChange": 0.0055
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Nvidia Corp                          ",
         "pctHeld": 0.105500005,
         "position": 47213353,
-        "value": 3449407454,
+        "value": 3757238718,
         "pctChange": 0.9447
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0399,
         "position": 17877647,
-        "value": 1306140846,
+        "value": 1422703180,
         "pctChange": 0.96849996
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.028399998,
         "position": 12710358,
-        "value": 928618724,
+        "value": 1011490312,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0278,
         "position": 12437395,
-        "value": 908676048,
+        "value": 989767916,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.021,
         "position": 9378232,
-        "value": 685173607,
+        "value": 746319719,
         "pctChange": 0.2965
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Jane Street Group, LLC",
         "pctHeld": 0.0198,
         "position": 8856691,
-        "value": 647069822,
+        "value": 704815485,
         "pctChange": 0.4351
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Value Aligned Research Advisors, LLC                          ",
         "pctHeld": 0.0185,
         "position": 8280763,
-        "value": 604992524,
+        "value": 658983134,
         "pctChange": 0.3737
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Situational Awareness Partners LP",
         "pctHeld": 0.016,
         "position": 7177919,
-        "value": 524418744,
+        "value": 571218807,
         "pctChange": 1
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Situational Awareness LP                          ",
         "pctHeld": 0.016,
         "position": 7177919,
-        "value": 524418744,
+        "value": 571218807,
         "pctChange": 0.1769
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.18367,
-    "institutionsPercentHeld": 0.59668,
-    "institutionsFloatPercentHeld": 0.73092,
-    "institutionsCount": 1054
+    "institutionsPercentHeld": 0.59989,
+    "institutionsFloatPercentHeld": 0.73486,
+    "institutionsCount": 1064
   },
   "earnings": {
     "maxAge": 86400,
@@ -241,6 +241,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-21T13:03:53.000Z",
+        "firm": "Barclays",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 90,
+        "priorPriceTarget": 120
+      },
+      {
+        "epochGradeDate": "2026-07-21T12:25:05.000Z",
+        "firm": "Jefferies",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 150,
+        "priorPriceTarget": 160
+      },
       {
         "epochGradeDate": "2026-07-15T17:58:30.000Z",
         "firm": "Mizuho",
@@ -1497,24 +1517,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0131673375,
-    "postMarketChange": 0.9620056,
-    "postMarketTime": "2026-07-20T23:59:52.000Z",
-    "postMarketPrice": 74.022,
+    "postMarketChangePercent": 0.027706647,
+    "postMarketChange": 2.204895,
+    "postMarketTime": "2026-07-21T23:59:51.000Z",
+    "postMarketPrice": 81.7849,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.00204892,
-    "regularMarketChange": -0.150002,
-    "regularMarketTime": "2026-07-20T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0892418,
+    "regularMarketChange": 6.52,
+    "regularMarketTime": "2026-07-21T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 73.06,
-    "regularMarketDayHigh": 79.305,
-    "regularMarketDayLow": 73.01,
-    "regularMarketVolume": 21983744,
-    "averageDailyVolume10Day": 23641710,
-    "averageDailyVolume3Month": 28973214,
-    "regularMarketPreviousClose": 73.21,
+    "regularMarketPrice": 79.58,
+    "regularMarketDayHigh": 80.45,
+    "regularMarketDayLow": 74.5,
+    "regularMarketVolume": 24583369,
+    "averageDailyVolume10Day": 23864590,
+    "averageDailyVolume3Month": 28972882,
+    "regularMarketPreviousClose": 73.06,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 75.75,
+    "regularMarketOpen": 75.0015,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -1530,13 +1550,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 39859367936
+    "marketCap": 43416489984
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 72740372480,
-    "forwardPE": -49.64057,
+    "enterpriseValue": 76297486336,
+    "forwardPE": -54.070583,
     "profitMargins": -0.25566,
     "floatShares": 313822974,
     "sharesOutstanding": 447573939,
@@ -1546,26 +1566,26 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.14840001,
     "heldPercentInsiders": 0.18367,
-    "heldPercentInstitutions": 0.59668,
+    "heldPercentInstitutions": 0.59989,
     "shortRatio": 2.61,
     "shortPercentOfFloat": 0.2697,
     "impliedSharesOutstanding": 545570346,
     "category": null,
     "bookValue": 8.945,
-    "priceToBook": 8.167691,
+    "priceToBook": 8.896591,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": -1592999936,
-    "trailingEps": -2.72,
-    "forwardEps": -1.47178,
+    "trailingEps": -2.96,
+    "forwardEps": -1.68871,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 11.681,
-    "enterpriseToEbitda": 24.054,
-    "52WeekChange": -0.413898,
-    "SandP52WeekChange": 0.18270898,
+    "enterpriseToRevenue": 12.253,
+    "enterpriseToEbitda": 25.231,
+    "52WeekChange": -0.3867612,
+    "SandP52WeekChange": 0.19011927,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -2719,6 +2739,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 88310,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "VENTURO BRIAN M",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-05-20T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
         "shares": 16732,
         "filerUrl": "",
         "transactionText": "",
@@ -2771,17 +2802,6 @@
         "moneyText": "",
         "startDate": "2026-05-20T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 88310,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "VENTURO BRIAN M",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2026-05-20T00:00:00.000Z",
-        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -3111,24 +3131,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 1155164,
-        "value": 147037492,
-        "filerUrl": "",
-        "transactionText": "Sale at price 126.52 - 129.38 per share.",
-        "filerName": "MAGNETAR FINANCIAL, L.L.C.",
-        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2026-05-04T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 375000,
         "value": 47541261,
         "filerUrl": "",
         "transactionText": "Sale at price 121.75 - 129.27 per share.",
         "filerName": "VENTURO BRIAN M",
         "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-05-04T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1155164,
+        "value": 147037492,
+        "filerUrl": "",
+        "transactionText": "Sale at price 126.52 - 129.38 per share.",
+        "filerName": "MAGNETAR FINANCIAL, L.L.C.",
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
         "moneyText": "",
         "startDate": "2026-05-04T00:00:00.000Z",
         "ownership": "I"
@@ -3218,17 +3238,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 12500,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BAKER JEFFREY R",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 76924,
         "filerUrl": "",
         "transactionText": "",
@@ -3237,6 +3246,17 @@
         "moneyText": "",
         "startDate": "2026-04-29T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 12500,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BAKER JEFFREY R",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-29T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -3336,7 +3356,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 73.06,
+    "currentPrice": 79.58,
     "targetHighPrice": 303,
     "targetLowPrice": 36,
     "targetMeanPrice": 140.54546,
@@ -3365,6 +3385,6 @@
     "profitMargins": -0.25566,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-21T05:19:19.513Z",
+  "lastUpdated": "2026-07-22T05:19:03.971Z",
   "source": "Static Build (yahoo-finance2)"
 }
