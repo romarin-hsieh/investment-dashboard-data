@@ -5,7 +5,7 @@
         "period": "0m",
         "strongBuy": 2,
         "buy": 11,
-        "hold": 11,
+        "hold": 12,
         "sell": 2,
         "strongSell": 0
       },
@@ -45,7 +45,7 @@
         "organization": "IDG China Capital Fund III Associates L.P.",
         "pctHeld": 0.0392,
         "position": 9003674,
-        "value": 639981164,
+        "value": 595683104,
         "pctChange": -0.096499994
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Idg-accel China Capital II Associates L.P.",
         "pctHeld": 0.0304,
         "position": 6996111,
-        "value": 497283582,
+        "value": 462862729,
         "pctChange": 0
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Marshall Wace LLP",
         "pctHeld": 0.0252,
         "position": 5800350,
-        "value": 412288888,
+        "value": 383751177,
         "pctChange": -0.41869998
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0239,
         "position": 5489236,
-        "value": 390174904,
+        "value": 363167873,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.022,
         "position": 5059120,
-        "value": 359602258,
+        "value": 334711397,
         "pctChange": -0.1084
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0217,
         "position": 4981737,
-        "value": 354101875,
+        "value": 329591738,
         "pctChange": 2.4104
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.02,
         "position": 4607007,
-        "value": 327466065,
+        "value": 304799599,
         "pctChange": 1
       },
       {
@@ -108,7 +108,7 @@
         "organization": "ARK Investment Management, LLC",
         "pctHeld": 0.0196,
         "position": 4509482,
-        "value": 320533988,
+        "value": 298347345,
         "pctChange": 0.0888
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Southpoint Capital Advisors Lp",
         "pctHeld": 0.014400001,
         "position": 3300000,
-        "value": 234564006,
+        "value": 218328012,
         "pctChange": 1.75
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Sumitomo Mitsui Trust Group, Inc.",
         "pctHeld": 0.0127,
         "position": 2917764,
-        "value": 207394670,
+        "value": 193039276,
         "pctChange": 0.1328
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.02553,
-    "institutionsPercentHeld": 0.63917,
-    "institutionsFloatPercentHeld": 0.65592,
-    "institutionsCount": 729
+    "institutionsPercentHeld": 0.64084,
+    "institutionsFloatPercentHeld": 0.65763,
+    "institutionsCount": 730
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1778495100
         }
       ],
-      "currentQuarterEstimate": 0.16508,
+      "currentQuarterEstimate": 0.16351,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -249,6 +249,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-22T09:55:58.000Z",
+        "firm": "Raymond James",
+        "toGrade": "Market Perform",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "",
+        "currentPriceTarget": 0,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-07-14T11:10:12.000Z",
         "firm": "Mizuho",
@@ -875,24 +885,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0020948634,
-    "postMarketChange": -0.1489029,
-    "postMarketTime": "2026-07-21T23:59:42.000Z",
-    "postMarketPrice": 70.9311,
+    "postMarketChangePercent": -0.00087675755,
+    "postMarketChange": -0.058006287,
+    "postMarketTime": "2026-07-22T23:59:31.000Z",
+    "postMarketPrice": 66.102,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.086019896,
-    "regularMarketChange": 5.63,
-    "regularMarketTime": "2026-07-21T20:00:02.000Z",
+    "regularMarketChangePercent": -0.0692178,
+    "regularMarketChange": -4.92,
+    "regularMarketTime": "2026-07-22T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 71.08,
-    "regularMarketDayHigh": 72.675,
-    "regularMarketDayLow": 68.76,
-    "regularMarketVolume": 16468960,
-    "averageDailyVolume10Day": 14687200,
-    "averageDailyVolume3Month": 15091775,
-    "regularMarketPreviousClose": 65.45,
+    "regularMarketPrice": 66.16,
+    "regularMarketDayHigh": 70.23,
+    "regularMarketDayLow": 65.35,
+    "regularMarketVolume": 9233479,
+    "averageDailyVolume10Day": 14915870,
+    "averageDailyVolume3Month": 15042567,
+    "regularMarketPreviousClose": 71.08,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 68.94,
+    "regularMarketOpen": 67.95,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -908,13 +918,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 18999023616
+    "marketCap": 17683953664
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 16167709696,
-    "forwardPE": 36.68437,
+    "enterpriseValue": 14944714752,
+    "forwardPE": 33.796314,
     "profitMargins": -0.02762,
     "floatShares": 191154967,
     "sharesOutstanding": 229857799,
@@ -924,13 +934,13 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.088,
     "heldPercentInsiders": 0.02553,
-    "heldPercentInstitutions": 0.63917,
+    "heldPercentInstitutions": 0.64084,
     "shortRatio": 1.59,
     "shortPercentOfFloat": 0.0971,
     "impliedSharesOutstanding": 267290681,
     "category": null,
     "bookValue": 13.839,
-    "priceToBook": 5.1362095,
+    "priceToBook": 4.7806926,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -938,14 +948,14 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": -0.147,
     "netIncomeToCommon": -14255000,
-    "trailingEps": -0.25,
+    "trailingEps": -0.21,
     "forwardEps": 1.95761,
     "pegRatio": 4.34,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 5.649,
-    "enterpriseToEbitda": -121.21,
-    "52WeekChange": -0.6415713,
-    "SandP52WeekChange": 0.19011927,
+    "enterpriseToRevenue": 5.221,
+    "enterpriseToEbitda": -112.041,
+    "52WeekChange": -0.6731387,
+    "SandP52WeekChange": 0.17928386,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1021,11 +1031,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1831,
-        "value": 117916,
+        "shares": 1194,
+        "value": 76894,
         "filerUrl": "",
         "transactionText": "Sale at price 64.40 per share.",
-        "filerName": "RAZZAGHI HOSSEIN",
+        "filerName": "SCHULZ TAMARA L",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-07-02T00:00:00.000Z",
@@ -1033,11 +1043,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1194,
-        "value": 76894,
+        "shares": 1831,
+        "value": 117916,
         "filerUrl": "",
         "transactionText": "Sale at price 64.40 per share.",
-        "filerName": "SCHULZ TAMARA L",
+        "filerName": "RAZZAGHI HOSSEIN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-07-02T00:00:00.000Z",
@@ -1484,24 +1494,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 11438,
-        "value": 1120898,
-        "filerUrl": "",
-        "transactionText": "Sale at price 92.64 - 107.10 per share.",
-        "filerName": "FOX-GEEN JEREMY",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-05-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1194,
         "value": 127877,
         "filerUrl": "",
         "transactionText": "Sale at price 107.10 per share.",
         "filerName": "SCHULZ TAMARA L",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-05-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11438,
+        "value": 1120898,
+        "filerUrl": "",
+        "transactionText": "Sale at price 92.64 - 107.10 per share.",
+        "filerName": "FOX-GEEN JEREMY",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-05-04T00:00:00.000Z",
         "ownership": "D"
@@ -1842,18 +1852,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 43119,
-        "value": 4311900,
-        "filerUrl": "",
-        "transactionText": "Sale at price 100.00 per share.",
-        "filerName": "RAZZAGHI HOSSEIN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 115000,
         "value": 11167250,
         "filerUrl": "",
@@ -1883,6 +1881,18 @@
         "filerUrl": "",
         "transactionText": "Sale at price 93.00 per share.",
         "filerName": "SCHULZ TAMARA L",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 43119,
+        "value": 4311900,
+        "filerUrl": "",
+        "transactionText": "Sale at price 100.00 per share.",
+        "filerName": "RAZZAGHI HOSSEIN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-03T00:00:00.000Z",
@@ -2069,18 +2079,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
-        "value": 1800000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 90.00 per share.",
-        "filerName": "CHANDHOK NIKHIL",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2026-02-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 15625,
         "value": 1406875,
         "filerUrl": "",
@@ -2123,6 +2121,18 @@
         "transactionText": "Sale at price 90.00 per share.",
         "filerName": "FOX-GEEN JEREMY",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-02-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "value": 1800000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 90.00 per share.",
+        "filerName": "CHANDHOK NIKHIL",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2026-02-26T00:00:00.000Z",
         "ownership": "D"
@@ -2272,18 +2282,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 900000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 90.00 per share.",
-        "filerName": "CHANDHOK NIKHIL",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-12-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7813,
         "value": 703717,
         "filerUrl": "",
@@ -2293,6 +2291,18 @@
         "moneyText": "",
         "startDate": "2025-12-22T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "value": 900000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 90.00 per share.",
+        "filerName": "CHANDHOK NIKHIL",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-12-22T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2356,18 +2366,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 900000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 90.00 per share.",
-        "filerName": "CHANDHOK NIKHIL",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-12-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7813,
         "value": 703561,
         "filerUrl": "",
@@ -2386,6 +2384,18 @@
         "transactionText": "Sale at price 90.00 per share.",
         "filerName": "FOX-GEEN JEREMY",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-12-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "value": 900000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 90.00 per share.",
+        "filerName": "CHANDHOK NIKHIL",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-12-12T00:00:00.000Z",
         "ownership": "D"
@@ -2569,18 +2579,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 33569,
-        "value": 2855043,
-        "filerUrl": "",
-        "transactionText": "Sale at price 85.05 per share.",
-        "filerName": "NEVILLE PATRICK SEAN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-13T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 2662,
         "value": 225445,
         "filerUrl": "",
@@ -2590,6 +2588,18 @@
         "moneyText": "",
         "startDate": "2025-11-13T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 33569,
+        "value": 2855043,
+        "filerUrl": "",
+        "transactionText": "Sale at price 85.05 per share.",
+        "filerName": "NEVILLE PATRICK SEAN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-11-13T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2688,6 +2698,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 1290,
+        "value": 163927,
+        "filerUrl": "",
+        "transactionText": "Sale at price 127.08 per share.",
+        "filerName": "OSTLING DANITA K",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-08-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 260374,
         "value": 33087026,
         "filerUrl": "",
@@ -2745,30 +2767,18 @@
         "moneyText": "",
         "startDate": "2025-08-18T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 48831,
-        "value": 6205199,
-        "filerUrl": "",
-        "transactionText": "Sale at price 127.08 per share.",
-        "filerName": "DATE RAJEEV V",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-18T00:00:00.000Z",
-        "ownership": "D/I"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 71.08,
+    "currentPrice": 66.16,
     "targetHighPrice": 243,
     "targetLowPrice": 50,
-    "targetMeanPrice": 121.43864,
+    "targetMeanPrice": 120.75682,
     "targetMedianPrice": 113,
-    "recommendationMean": 2.23077,
+    "recommendationMean": 2.25926,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 22,
     "totalCash": 1517264000,
@@ -2793,6 +2803,6 @@
     "profitMargins": -0.02762,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-22T05:19:50.983Z",
+  "lastUpdated": "2026-07-23T05:24:09.534Z",
   "source": "Static Build (yahoo-finance2)"
 }

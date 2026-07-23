@@ -5,8 +5,8 @@
         "period": "0m",
         "strongBuy": 1,
         "buy": 6,
-        "hold": 15,
-        "sell": 2,
+        "hold": 16,
+        "sell": 1,
         "strongSell": 1
       },
       {
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0813,
         "position": 23989366,
-        "value": 26041897560,
+        "value": 26345120569,
         "pctChange": 0.0317
       },
       {
@@ -54,7 +54,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0653,
         "position": 19255058,
-        "value": 20902521890,
+        "value": 21145903755,
         "pctChange": -0.015800001
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0623,
         "position": 18386634,
-        "value": 19959795482,
+        "value": 20192200561,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.024500001,
         "position": 7215462,
-        "value": 7832817351,
+        "value": 7924020016,
         "pctChange": -0.0837
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.024400001,
         "position": 7208245,
-        "value": 7824982864,
+        "value": 7916094307,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0241,
         "position": 7114833,
-        "value": 7723578528,
+        "value": 7813509253,
         "pctChange": 0.0577
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.0231,
         "position": 6827310,
-        "value": 7411455043,
+        "value": 7497751508,
         "pctChange": 0.0082
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0231,
         "position": 6816599,
-        "value": 7399827609,
+        "value": 7485988688,
         "pctChange": -0.0866
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0219,
         "position": 6455011,
-        "value": 7007302119,
+        "value": 7088892765,
         "pctChange": 0.0798
       },
       {
@@ -126,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0113,
         "position": 3341232,
-        "value": 3627108005,
+        "value": 3669340819,
         "pctChange": -0.175
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00525,
-    "institutionsPercentHeld": 0.74489,
-    "institutionsFloatPercentHeld": 0.74882007,
-    "institutionsCount": 3802
+    "institutionsPercentHeld": 0.74501,
+    "institutionsFloatPercentHeld": 0.74894994,
+    "institutionsCount": 3815
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,67 +187,17 @@
           "reportedDate": 1784028640
         }
       ],
-      "currentQuarterEstimate": 16.20963,
+      "currentQuarterEstimate": 16.32139,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "3Q2026",
       "currentPeriodEndDate": 1790726400,
-      "earningsDate": [
-        "2026-10-13T12:30:00.000Z"
-      ],
-      "isEarningsDateEstimate": false
+      "earningsDate": []
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2022,
-          "revenue": 47365000000,
-          "earnings": 11261000000,
-          "profitMargin": 0.23774938
-        },
-        {
-          "date": 2023,
-          "revenue": 46254000000,
-          "earnings": 8516000000,
-          "profitMargin": 0.18411382
-        },
-        {
-          "date": 2024,
-          "revenue": 53512000000,
-          "earnings": 14276000000,
-          "profitMargin": 0.26678127
-        },
-        {
-          "date": 2025,
-          "revenue": 58283000000,
-          "earnings": 17176000000,
-          "profitMargin": 0.2947
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "3Q2025",
-          "revenue": 15184000000,
-          "earnings": 4098000000,
-          "profitMargin": 0.26988935
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 13454000000,
-          "earnings": 4617000000,
-          "profitMargin": 0.3431693
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 17227000000,
-          "earnings": 5630000000,
-          "profitMargin": 0.32681257
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "gaap"
@@ -4610,24 +4560,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0013264503,
-    "postMarketChange": 1.4399414,
-    "postMarketTime": "2026-07-21T23:59:22.000Z",
-    "postMarketPrice": 1087,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0289376,
-    "regularMarketChange": 30.53,
-    "regularMarketTime": "2026-07-21T20:00:02.000Z",
+    "postMarketChangePercent": 0.001529825,
+    "postMarketChange": 1.6800537,
+    "postMarketTime": "2026-07-22T23:59:18.000Z",
+    "postMarketPrice": 1099.88,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.011643699,
+    "regularMarketChange": 12.6399,
+    "regularMarketTime": "2026-07-22T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 1085.56,
-    "regularMarketDayHigh": 1088.48,
-    "regularMarketDayLow": 1063.11,
-    "regularMarketVolume": 1218330,
-    "averageDailyVolume10Day": 2050770,
-    "averageDailyVolume3Month": 2108811,
-    "regularMarketPreviousClose": 1055.03,
+    "regularMarketPrice": 1098.2,
+    "regularMarketDayHigh": 1106.37,
+    "regularMarketDayLow": 1079.365,
+    "regularMarketVolume": 1528546,
+    "averageDailyVolume10Day": 2034820,
+    "averageDailyVolume3Month": 2111341,
+    "regularMarketPreviousClose": 1085.56,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 1070.07,
+    "regularMarketOpen": 1078.52,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -4636,37 +4586,34 @@
     "symbol": "GS",
     "underlyingSymbol": null,
     "shortName": "Goldman Sachs Group, Inc. (The)",
-    "longName": "The Goldman Sachs Group, Inc.",
+    "longName": null,
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 320248283136
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 158804557824,
-    "forwardPE": 15.007178,
+    "enterpriseValue": 162597814272,
+    "forwardPE": 14.970755,
     "profitMargins": 0.31039,
     "floatShares": 298431444,
-    "sharesOutstanding": 295007421,
     "sharesShort": 6482001,
     "sharesShortPriorMonth": "1970-03-30T23:41:57.000Z",
     "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.022,
     "heldPercentInsiders": 0.00525,
-    "heldPercentInstitutions": 0.74489,
+    "heldPercentInstitutions": 0.74501,
     "shortRatio": 2.58,
     "shortPercentOfFloat": 0.0221,
     "beta": 1.292,
-    "impliedSharesOutstanding": 295007421,
     "category": null,
     "bookValue": 366.451,
-    "priceToBook": 2.9623609,
+    "priceToBook": 2.9968536,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4674,13 +4621,13 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.78,
     "netIncomeToCommon": 19989999616,
-    "trailingEps": 66.65,
+    "trailingEps": 65.56,
     "forwardEps": 73.35635,
-    "pegRatio": 1.58,
+    "pegRatio": 1.54,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 2.35,
-    "52WeekChange": 0.5498922,
-    "SandP52WeekChange": 0.19011927,
+    "enterpriseToRevenue": 2.406,
+    "52WeekChange": 0.53054965,
+    "SandP52WeekChange": 0.17928386,
     "lastDividendValue": 4.5,
     "lastDividendDate": "2026-06-01T00:00:00.000Z",
     "latestShareClass": null,
@@ -4758,18 +4705,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 3470,
-        "value": 3229543,
-        "filerUrl": "",
-        "transactionText": "Sale at price 930.43 - 931.25 per share.",
-        "filerName": "SOLOMON DAVID M",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 10301,
         "value": 9571354,
         "filerUrl": "",
@@ -4794,22 +4729,34 @@
       },
       {
         "maxAge": 1,
-        "shares": 27446,
+        "shares": 3470,
+        "value": 3229543,
+        "filerUrl": "",
+        "transactionText": "Sale at price 930.43 - 931.25 per share.",
+        "filerName": "SOLOMON DAVID M",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-05-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 21915,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WALDRON JOHN E.",
-        "filerRelation": "President",
+        "filerName": "ROGERS JOHN F W",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-28T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 14181,
+        "shares": 34017,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "FREDMAN SHEARA J.",
-        "filerRelation": "Officer",
+        "filerName": "SOLOMON DAVID M",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-04-28T00:00:00.000Z",
         "ownership": "D"
@@ -4838,22 +4785,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 21915,
+        "shares": 27446,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ROGERS JOHN F W",
-        "filerRelation": "Officer",
+        "filerName": "WALDRON JOHN E.",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2026-04-28T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 34017,
+        "shares": 14181,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SOLOMON DAVID M",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "FREDMAN SHEARA J.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-28T00:00:00.000Z",
         "ownership": "D"
@@ -4991,6 +4938,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 530,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "FREDMAN SHEARA J.",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 5249,
         "filerUrl": "",
         "transactionText": "",
@@ -5017,18 +4976,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "GOLTEN ALEXANDER SIMON",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 530,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "FREDMAN SHEARA J.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-23T00:00:00.000Z",
@@ -5132,24 +5079,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 6608,
-        "value": 4706944,
-        "filerUrl": "",
-        "transactionText": "Sale at price 712.31 per share.",
-        "filerName": "SOLOMON DAVID M",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-07-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 6008,
         "value": 4310059,
         "filerUrl": "",
         "transactionText": "Sale at price 717.03 - 718.77 per share.",
         "filerName": "ROGERS JOHN F W",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-07-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 6608,
+        "value": 4706944,
+        "filerUrl": "",
+        "transactionText": "Sale at price 712.31 per share.",
+        "filerName": "SOLOMON DAVID M",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-07-23T00:00:00.000Z",
         "ownership": "D"
@@ -5176,6 +5123,39 @@
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 32391,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ROGERS JOHN F W",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-04-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 49926,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SOLOMON DAVID M",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-04-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11933,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "COLEMAN DENIS P.",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-04-30T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -5207,39 +5187,6 @@
         "transactionText": "",
         "filerName": "RUEMMLER KATHRYN H",
         "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-04-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 11933,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "COLEMAN DENIS P.",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-04-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 32391,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ROGERS JOHN F W",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-04-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 49926,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SOLOMON DAVID M",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-04-30T00:00:00.000Z",
         "ownership": "D"
@@ -5330,11 +5277,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 15937,
+        "shares": 1062,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RUEMMLER KATHRYN H",
-        "filerRelation": "General Counsel",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "FREDMAN SHEARA J.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-01-21T00:00:00.000Z",
         "ownership": "D"
@@ -5374,12 +5322,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1062,
-        "value": 0,
+        "shares": 15937,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "FREDMAN SHEARA J.",
-        "filerRelation": "Officer",
+        "transactionText": "",
+        "filerName": "RUEMMLER KATHRYN H",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-01-21T00:00:00.000Z",
         "ownership": "D"
@@ -5458,11 +5405,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 2974,
-        "value": 1768073,
+        "shares": 6416,
+        "value": 3826245,
         "filerUrl": "",
-        "transactionText": "Sale at price 594.51 per share.",
-        "filerName": "FREDMAN SHEARA J.",
+        "transactionText": "Sale at price 596.08 - 597.66 per share.",
+        "filerName": "ROGERS JOHN F W",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-11-06T00:00:00.000Z",
@@ -5482,11 +5429,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 6416,
-        "value": 3826245,
+        "shares": 2974,
+        "value": 1768073,
         "filerUrl": "",
-        "transactionText": "Sale at price 596.08 - 597.66 per share.",
-        "filerName": "ROGERS JOHN F W",
+        "transactionText": "Sale at price 594.51 per share.",
+        "filerName": "FREDMAN SHEARA J.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-11-06T00:00:00.000Z",
@@ -5545,12 +5492,12 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 1085.56,
+    "currentPrice": 1098.2,
     "targetHighPrice": 1325,
     "targetLowPrice": 730,
-    "targetMeanPrice": 1112.85,
-    "targetMedianPrice": 1147.5,
-    "recommendationMean": 2.68,
+    "targetMeanPrice": 1134.4,
+    "targetMedianPrice": 1150,
+    "recommendationMean": 2.6,
     "recommendationKey": "hold",
     "numberOfAnalystOpinions": 20,
     "totalCash": 975999991808,
@@ -5572,6 +5519,6 @@
     "profitMargins": 0.31039,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-22T05:21:04.870Z",
+  "lastUpdated": "2026-07-23T05:25:25.761Z",
   "source": "Static Build (yahoo-finance2)"
 }

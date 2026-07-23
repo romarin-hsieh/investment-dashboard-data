@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0766,
         "position": 8625260,
-        "value": 939980863,
+        "value": 947571068,
         "pctChange": 0.024
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Lone Pine Capital Llc",
         "pctHeld": 0.054,
         "position": 6078951,
-        "value": 662484100,
+        "value": 667833560,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0428,
         "position": 4824572,
-        "value": 525781872,
+        "value": 530027482,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0395,
         "position": 4442077,
-        "value": 484097566,
+        "value": 488006581,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Srs Investment Management, Llc",
         "pctHeld": 0.0274,
         "position": 3084905,
-        "value": 336192957,
+        "value": 338907665,
         "pctChange": 0.075
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0.026700001,
         "position": 3002186,
-        "value": 327178240,
+        "value": 329820155,
         "pctChange": 0.2586
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.025999999,
         "position": 2925480,
-        "value": 318818820,
+        "value": 321393234,
         "pctChange": 0.1278
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Ameriprise Financial, Inc.",
         "pctHeld": 0.025899999,
         "position": 2911391,
-        "value": 317283400,
+        "value": 319845417,
         "pctChange": 0.3872
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Value Aligned Research Advisors, LLC                          ",
         "pctHeld": 0.0256,
         "position": 2882566,
-        "value": 314142052,
+        "value": 316678702,
         "pctChange": 0.0337
       },
       {
@@ -126,7 +126,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0226,
         "position": 2542999,
-        "value": 277136039,
+        "value": 279373871,
         "pctChange": 0.0271
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.08559,
-    "institutionsPercentHeld": 0.73195,
-    "institutionsFloatPercentHeld": 0.80047,
-    "institutionsCount": 478
+    "institutionsPercentHeld": 0.7478,
+    "institutionsFloatPercentHeld": 0.81779,
+    "institutionsCount": 479
   },
   "earnings": {
     "maxAge": 86400,
@@ -249,6 +249,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-22T17:17:28.000Z",
+        "firm": "Benchmark",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 195,
+        "priorPriceTarget": 165
+      },
       {
         "epochGradeDate": "2026-07-21T11:04:48.000Z",
         "firm": "Rosenblatt",
@@ -1385,24 +1395,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0038539013,
-    "postMarketChange": 0.41999817,
-    "postMarketTime": "2026-07-21T23:57:11.000Z",
-    "postMarketPrice": 109.4,
+    "postMarketChangePercent": 0.013926805,
+    "postMarketChange": 1.5299988,
+    "postMarketTime": "2026-07-22T23:56:55.000Z",
+    "postMarketPrice": 111.39,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0797583,
-    "regularMarketChange": 8.05,
-    "regularMarketTime": "2026-07-21T20:00:01.000Z",
+    "regularMarketChangePercent": 0.00807485,
+    "regularMarketChange": 0.879997,
+    "regularMarketTime": "2026-07-22T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 108.98,
-    "regularMarketDayHigh": 110.47,
-    "regularMarketDayLow": 103.8009,
-    "regularMarketVolume": 4268152,
-    "averageDailyVolume10Day": 3908920,
-    "averageDailyVolume3Month": 4576111,
-    "regularMarketPreviousClose": 100.93,
+    "regularMarketPrice": 109.86,
+    "regularMarketDayHigh": 114.6,
+    "regularMarketDayLow": 105.0701,
+    "regularMarketVolume": 2747519,
+    "averageDailyVolume10Day": 3848310,
+    "averageDailyVolume3Month": 4557938,
+    "regularMarketPreviousClose": 108.98,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 104.99,
+    "regularMarketOpen": 105.12,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -1418,13 +1428,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 12270507008
+    "marketCap": 12369589248
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 12843738112,
-    "forwardPE": -58.670258,
+    "enterpriseValue": 12942821376,
+    "forwardPE": -56.99611,
     "profitMargins": -1.09774,
     "floatShares": 86843839,
     "sharesOutstanding": 112594112,
@@ -1434,28 +1444,28 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.11270001,
     "heldPercentInsiders": 0.08559,
-    "heldPercentInstitutions": 0.73195,
+    "heldPercentInstitutions": 0.7478,
     "shortRatio": 3,
     "shortPercentOfFloat": 0.1243,
     "beta": 6.071,
     "impliedSharesOutstanding": 112594112,
     "category": null,
     "bookValue": 12.26,
-    "priceToBook": 8.8890705,
+    "priceToBook": 8.960848,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": -311396992,
-    "trailingEps": -3.04,
+    "trailingEps": -2.85,
     "forwardEps": -1.9275,
     "lastSplitFactor": "1:5",
     "lastSplitDate": 1701648000,
-    "enterpriseToRevenue": 45.174,
-    "enterpriseToEbitda": -30.792,
-    "52WeekChange": 4.0925236,
-    "SandP52WeekChange": 0.19011927,
+    "enterpriseToRevenue": 45.522,
+    "enterpriseToEbitda": -31.029,
+    "52WeekChange": 4.0743647,
+    "SandP52WeekChange": 0.17928386,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1504,6 +1514,17 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 16416,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SHATTUCK MAYO A III",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-11T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1567,17 +1588,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "FLINN JOSEPH PATRICK",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16416,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SHATTUCK MAYO A III",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-11T00:00:00.000Z",
@@ -1656,22 +1666,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 14556,
+        "shares": 10398,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SEMAH VICTOR",
-        "filerRelation": "Officer",
+        "filerName": "GLENNAN SEAN JOSEPH",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-03-06T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 10398,
+        "shares": 14556,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GLENNAN SEAN JOSEPH",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "SEMAH VICTOR",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-06T00:00:00.000Z",
         "ownership": "D"
@@ -1875,10 +1885,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 108.98,
+    "currentPrice": 109.86,
     "targetHighPrice": 226,
     "targetLowPrice": 70,
-    "targetMeanPrice": 135.9375,
+    "targetMeanPrice": 140.1875,
     "targetMedianPrice": 136.5,
     "recommendationMean": 1.3125,
     "recommendationKey": "strong_buy",
@@ -1904,6 +1914,6 @@
     "profitMargins": -1.09774,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-22T05:21:10.028Z",
+  "lastUpdated": "2026-07-23T05:25:30.909Z",
   "source": "Static Build (yahoo-finance2)"
 }

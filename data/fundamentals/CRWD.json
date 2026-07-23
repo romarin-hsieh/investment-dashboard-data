@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.33580002,
         "position": 85494548,
-        "value": 16342282328,
+        "value": 16108882577,
         "pctChange": 0.010299999
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.2509,
         "position": 63861572,
-        "value": 12207139098,
+        "value": 12032797279,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.175,
         "position": 44548648,
-        "value": 8515473793,
+        "value": 8393856174,
         "pctChange": -0.0022
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.120299995,
         "position": 30629720,
-        "value": 5854870791,
+        "value": 5771251786,
         "pctChange": -0.069
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.103,
         "position": 26231828,
-        "value": 5014213762,
+        "value": 4942600983,
         "pctChange": 0.054899998
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.094799995,
         "position": 24135176,
-        "value": 4613438745,
+        "value": 4547549817,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0942,
         "position": 23989392,
-        "value": 4585572134,
+        "value": 4520081196,
         "pctChange": 0.0083
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0652,
         "position": 16609544,
-        "value": 3174914234,
+        "value": 3129570250,
         "pctChange": -0.0279
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Jennison Associates LLC",
         "pctHeld": 0.0602,
         "position": 15316496,
-        "value": 2927748116,
+        "value": 2885934148,
         "pctChange": -0.3048
       },
       {
@@ -126,7 +126,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.056399997,
         "position": 14353448,
-        "value": 2743661497,
+        "value": 2704476645,
         "pctChange": -0.35900003
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.0149300005,
-    "institutionsPercentHeld": 0.76042,
-    "institutionsFloatPercentHeld": 0.77194,
-    "institutionsCount": 2821
+    "institutionsPercentHeld": 0.76788,
+    "institutionsFloatPercentHeld": 0.77952003,
+    "institutionsCount": 2832
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-22T12:40:18.000Z",
+        "firm": "Argus Research",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 230,
+        "priorPriceTarget": 200
+      },
       {
         "epochGradeDate": "2026-07-21T18:44:59.000Z",
         "firm": "Morgan Stanley",
@@ -8147,24 +8157,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0028773376,
-    "postMarketChange": 0.55000305,
-    "postMarketTime": "2026-07-21T23:59:36.000Z",
-    "postMarketPrice": 191.7,
+    "postMarketChangePercent": 0.0030251956,
+    "postMarketChange": 0.5700073,
+    "postMarketTime": "2026-07-22T23:59:09.000Z",
+    "postMarketPrice": 188.99,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.036979303,
-    "regularMarketChange": -7.34001,
-    "regularMarketTime": "2026-07-21T20:00:01.000Z",
+    "regularMarketChangePercent": -0.014282,
+    "regularMarketChange": -2.73,
+    "regularMarketTime": "2026-07-22T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 191.15,
-    "regularMarketDayHigh": 200,
-    "regularMarketDayLow": 189.68,
-    "regularMarketVolume": 9499990,
-    "averageDailyVolume10Day": 8852240,
-    "averageDailyVolume3Month": 12306082,
-    "regularMarketPreviousClose": 198.49,
+    "regularMarketPrice": 188.42,
+    "regularMarketDayHigh": 193.49,
+    "regularMarketDayLow": 185.05,
+    "regularMarketVolume": 8740778,
+    "averageDailyVolume10Day": 8961860,
+    "averageDailyVolume3Month": 12265875,
+    "regularMarketPreviousClose": 191.15,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 199.8,
+    "regularMarketOpen": 192.56,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -8180,13 +8190,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 194640248832
+    "marketCap": 191860408320
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 190950260736,
-    "forwardPE": 122.40415,
+    "enterpriseValue": 188170403840,
+    "forwardPE": 120.60964,
     "profitMargins": -0.00598,
     "floatShares": 1000276821,
     "sharesOutstanding": 1018259280,
@@ -8196,14 +8206,14 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.027999999,
     "heldPercentInsiders": 0.0149300005,
-    "heldPercentInstitutions": 0.76042,
+    "heldPercentInstitutions": 0.76788,
     "shortRatio": 1.95,
     "shortPercentOfFloat": 0.028499998,
     "beta": 1.237,
     "impliedSharesOutstanding": 1018259280,
     "category": null,
     "bookValue": 4.551,
-    "priceToBook": 42.001755,
+    "priceToBook": 41.40189,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-01-31T00:00:00.000Z",
@@ -8211,14 +8221,14 @@
     "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
     "netIncomeToCommon": -30464000,
     "trailingEps": -0.04,
-    "forwardEps": 1.56203,
-    "pegRatio": 6.6,
+    "forwardEps": 1.56223,
+    "pegRatio": 6.22,
     "lastSplitFactor": "4:1",
     "lastSplitDate": 1782950400,
-    "enterpriseToRevenue": 37.484,
-    "enterpriseToEbitda": 3219.04,
-    "52WeekChange": 0.6225623,
-    "SandP52WeekChange": 0.19011927,
+    "enterpriseToRevenue": 36.938,
+    "enterpriseToEbitda": 3172.178,
+    "52WeekChange": 0.63303864,
+    "SandP52WeekChange": 0.17928386,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -8245,6 +8255,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "value": 4085238,
+        "filerUrl": "",
+        "transactionText": "Sale at price 198.18 - 208.83 per share.",
+        "filerName": "KURTZ GEORGE ROBERT",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-07-20T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 20000,
@@ -8439,24 +8461,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 12216,
-        "value": 8366250,
-        "filerUrl": "",
-        "transactionText": "Sale at price 684.86 per share.",
-        "filerName": "SENTONAS MICHAEL",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-06-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1721,
         "value": 1178644,
         "filerUrl": "",
         "transactionText": "Sale at price 684.86 per share.",
         "filerName": "SAHA ANURAG",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-06-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 12216,
+        "value": 8366250,
+        "filerUrl": "",
+        "transactionText": "Sale at price 684.86 per share.",
+        "filerName": "SENTONAS MICHAEL",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2026-06-22T00:00:00.000Z",
         "ownership": "D"
@@ -8495,6 +8517,30 @@
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-06-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3687,
+        "value": 2508256,
+        "filerUrl": "",
+        "transactionText": "Sale at price 662.89 - 688.20 per share.",
+        "filerName": "KURTZ GEORGE ROBERT",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-06-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1313,
+        "value": 895993,
+        "filerUrl": "",
+        "transactionText": "Sale at price 679.00 - 695.06 per share.",
+        "filerName": "KURTZ GEORGE ROBERT",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-06-18T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -8547,18 +8593,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 423,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "GANDHI SAMEER K.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 422,
         "value": 0,
         "filerUrl": "",
@@ -8571,24 +8605,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 3687,
-        "value": 2508256,
+        "shares": 423,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 662.89 - 688.20 per share.",
-        "filerName": "KURTZ GEORGE ROBERT",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-06-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1313,
-        "value": 895993,
-        "filerUrl": "",
-        "transactionText": "Sale at price 679.00 - 695.06 per share.",
-        "filerName": "KURTZ GEORGE ROBERT",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "GANDHI SAMEER K.",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-18T00:00:00.000Z",
         "ownership": "D"
@@ -8967,6 +8989,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 3072,
+        "value": 1708607,
+        "filerUrl": "",
+        "transactionText": "Sale at price 538.99 - 566.79 per share.",
+        "filerName": "KURTZ GEORGE ROBERT",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1928,
         "value": 1115594,
         "filerUrl": "",
@@ -8988,18 +9022,6 @@
         "moneyText": "",
         "startDate": "2026-05-14T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3072,
-        "value": 1708607,
-        "filerUrl": "",
-        "transactionText": "Sale at price 538.99 - 566.79 per share.",
-        "filerName": "KURTZ GEORGE ROBERT",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-14T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -9051,18 +9073,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 17527,
-        "value": 9230016,
-        "filerUrl": "",
-        "transactionText": "Sale at price 525.44 - 528.17 per share.",
-        "filerName": "GANDHI SAMEER K.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-08T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 3098,
         "value": 1546245,
         "filerUrl": "",
@@ -9084,6 +9094,18 @@
         "moneyText": "",
         "startDate": "2026-05-08T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17527,
+        "value": 9230016,
+        "filerUrl": "",
+        "transactionText": "Sale at price 525.44 - 528.17 per share.",
+        "filerName": "GANDHI SAMEER K.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-08T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -9302,24 +9324,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 19367,
-        "value": 7960999,
-        "filerUrl": "",
-        "transactionText": "Sale at price 411.06 per share.",
-        "filerName": "SENTONAS MICHAEL",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-03-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1138,
         "value": 467786,
         "filerUrl": "",
         "transactionText": "Sale at price 411.06 per share.",
         "filerName": "SAHA ANURAG",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 19367,
+        "value": 7960999,
+        "filerUrl": "",
+        "transactionText": "Sale at price 411.06 per share.",
+        "filerName": "SENTONAS MICHAEL",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2026-03-23T00:00:00.000Z",
         "ownership": "D"
@@ -9398,11 +9420,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 36,
+        "shares": 34,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "GANDHI SAMEER K.",
+        "filerName": "O'LEARY DENIS J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-20T00:00:00.000Z",
@@ -9410,11 +9432,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 34,
+        "shares": 36,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "O'LEARY DENIS J",
+        "filerName": "GANDHI SAMEER K.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-20T00:00:00.000Z",
@@ -9542,24 +9564,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 11461,
-        "value": 5498759,
-        "filerUrl": "",
-        "transactionText": "Sale at price 479.78 per share.",
-        "filerName": "SENTONAS MICHAEL",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2025-12-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1530,
         "value": 734063,
         "filerUrl": "",
         "transactionText": "Sale at price 479.78 per share.",
         "filerName": "SAHA ANURAG",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-12-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11461,
+        "value": 5498759,
+        "filerUrl": "",
+        "transactionText": "Sale at price 479.78 per share.",
+        "filerName": "SENTONAS MICHAEL",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2025-12-22T00:00:00.000Z",
         "ownership": "D"
@@ -10031,29 +10053,17 @@
         "moneyText": "",
         "startDate": "2025-07-15T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 6250,
-        "value": 3202670,
-        "filerUrl": "",
-        "transactionText": "Sale at price 501.32 - 517.30 per share.",
-        "filerName": "GANDHI SAMEER K.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-07-03T00:00:00.000Z",
-        "ownership": "I"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 191.15,
+    "currentPrice": 188.42,
     "targetHighPrice": 250,
     "targetLowPrice": 103.25,
-    "targetMeanPrice": 189.18327,
-    "targetMedianPrice": 187.5,
+    "targetMeanPrice": 190.84653,
+    "targetMedianPrice": 188.75,
     "recommendationMean": 1.67308,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 49,
@@ -10078,6 +10088,6 @@
     "profitMargins": -0.00598,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-22T05:20:08.530Z",
+  "lastUpdated": "2026-07-23T05:24:27.075Z",
   "source": "Static Build (yahoo-finance2)"
 }

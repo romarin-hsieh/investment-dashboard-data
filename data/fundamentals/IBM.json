@@ -5,7 +5,7 @@
         "period": "0m",
         "strongBuy": 3,
         "buy": 11,
-        "hold": 7,
+        "hold": 8,
         "sell": 1,
         "strongSell": 2
       },
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0825,
         "position": 77565953,
-        "value": 16327633106,
+        "value": 15960746480,
         "pctChange": -0.004
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0647,
         "position": 60845605,
-        "value": 12807999852,
+        "value": 12520200400,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0581,
         "position": 54594493,
-        "value": 11492140776,
+        "value": 11233909057,
         "pctChange": -0.0073
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0294,
         "position": 27660866,
-        "value": 5822612293,
+        "value": 5691776514,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024600001,
         "position": 23076329,
-        "value": 4857567254,
+        "value": 4748416316,
         "pctChange": 0.0208
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0209,
         "position": 19630951,
-        "value": 4132315185,
+        "value": 4039460871,
         "pctChange": 0.3211
       },
       {
@@ -99,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0197,
         "position": 18544694,
-        "value": 3903658087,
+        "value": 3815941763,
         "pctChange": 0.2198
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0182,
         "position": 17062453,
-        "value": 3591646356,
+        "value": 3510941026,
         "pctChange": -0.2252
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0171,
         "position": 16063653,
-        "value": 3381398956,
+        "value": 3305417946,
         "pctChange": 0.0699
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Northern Trust Corporation",
         "pctHeld": 0.011,
         "position": 10304788,
-        "value": 2169157874,
+        "value": 2120416270,
         "pctChange": 0.017
       }
     ]
@@ -134,25 +134,14 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00117,
-    "institutionsPercentHeld": 0.65543,
-    "institutionsFloatPercentHeld": 0.65620005,
-    "institutionsCount": 4333
+    "institutionsPercentHeld": 0.65540004,
+    "institutionsFloatPercentHeld": 0.65616,
+    "institutionsCount": 4341
   },
   "earnings": {
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
-        {
-          "date": "2Q2025",
-          "actual": 2.8,
-          "estimate": 2.65467,
-          "fiscalQuarter": "2Q2025",
-          "calendarQuarter": "2Q2025",
-          "difference": "0.15",
-          "surprisePct": "5.47",
-          "periodEndDate": 1751241600,
-          "reportedDate": 1753301811
-        },
         {
           "date": "3Q2025",
           "actual": 2.65,
@@ -185,17 +174,26 @@
           "surprisePct": "5.45",
           "periodEndDate": 1774915200,
           "reportedDate": 1776888480
+        },
+        {
+          "date": "2Q2026",
+          "actual": 2.93,
+          "estimate": 2.93306,
+          "fiscalQuarter": "2Q2026",
+          "calendarQuarter": "2Q2026",
+          "difference": "-0.0",
+          "surprisePct": "-0.1",
+          "periodEndDate": 1782777600,
+          "reportedDate": 1784751024
         }
       ],
-      "currentQuarterEstimate": 2.9331,
-      "currentQuarterEstimateDate": "2Q",
-      "currentCalendarQuarter": "2Q2026",
+      "currentQuarterEstimate": 2.87285,
+      "currentQuarterEstimateDate": "3Q",
+      "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "2Q2026",
-      "currentPeriodEndDate": 1782777600,
-      "earningsDate": [
-        "2026-07-22T20:00:00.000Z"
-      ],
+      "currentFiscalQuarter": "3Q2026",
+      "currentPeriodEndDate": 1790726400,
+      "earningsDate": [],
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
@@ -227,13 +225,6 @@
       ],
       "quarterly": [
         {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 16977000000,
-          "earnings": 2194000000,
-          "profitMargin": 0.12923366
-        },
-        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 16331000000,
@@ -261,6 +252,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-22T09:25:27.000Z",
+        "firm": "Baird",
+        "toGrade": "Neutral",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 230,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-07-21T13:18:46.000Z",
         "firm": "Barclays",
@@ -3657,24 +3658,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.003087857,
-    "postMarketChange": 0.6499939,
-    "postMarketTime": "2026-07-21T23:59:59.000Z",
-    "postMarketPrice": 211.15,
+    "postMarketChangePercent": -0.0039850674,
+    "postMarketChange": -0.8200073,
+    "postMarketTime": "2026-07-22T23:59:59.000Z",
+    "postMarketPrice": 204.95,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0117371,
-    "regularMarketChange": -2.5,
-    "regularMarketTime": "2026-07-21T20:00:03.000Z",
+    "regularMarketChangePercent": -0.022470301,
+    "regularMarketChange": -4.73,
+    "regularMarketTime": "2026-07-22T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 210.5,
-    "regularMarketDayHigh": 214.95,
-    "regularMarketDayLow": 209.1801,
-    "regularMarketVolume": 11867635,
-    "averageDailyVolume10Day": 18114590,
-    "averageDailyVolume3Month": 11049737,
-    "regularMarketPreviousClose": 213,
+    "regularMarketPrice": 205.77,
+    "regularMarketDayHigh": 212.3417,
+    "regularMarketDayLow": 204.73,
+    "regularMarketVolume": 13781470,
+    "averageDailyVolume10Day": 18817870,
+    "averageDailyVolume3Month": 11086177,
+    "regularMarketPreviousClose": 210.5,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 210.72,
+    "regularMarketOpen": 207.68,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -3690,13 +3691,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 197845860352
+    "marketCap": 193400209408
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 255945850880,
-    "forwardPE": 16.152052,
+    "enterpriseValue": 251500199936,
+    "forwardPE": 15.84527,
     "profitMargins": 0.15606,
     "floatShares": 937883324,
     "sharesOutstanding": 939885280,
@@ -3706,14 +3707,14 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0365,
     "heldPercentInsiders": 0.00117,
-    "heldPercentInstitutions": 0.65543,
+    "heldPercentInstitutions": 0.65540004,
     "shortRatio": 3.26,
     "shortPercentOfFloat": 0.0405,
     "beta": 0.675,
     "impliedSharesOutstanding": 939885280,
     "category": null,
     "bookValue": 35.083,
-    "priceToBook": 6.0000567,
+    "priceToBook": 5.865234,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3721,15 +3722,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.153,
     "netIncomeToCommon": 10732999680,
-    "trailingEps": 11.18,
+    "trailingEps": 11.3,
     "forwardEps": 12.98621,
-    "pegRatio": 2.05,
+    "pegRatio": 2.03,
     "lastSplitFactor": "1046:1000",
     "lastSplitDate": 1635984000,
-    "enterpriseToRevenue": 3.714,
-    "enterpriseToEbitda": 15.358,
-    "52WeekChange": -0.2534402,
-    "SandP52WeekChange": 0.19011927,
+    "enterpriseToRevenue": 3.65,
+    "enterpriseToEbitda": 15.092,
+    "52WeekChange": -0.27034503,
+    "SandP52WeekChange": 0.17928386,
     "lastDividendValue": 1.69,
     "lastDividendDate": "2026-05-08T00:00:00.000Z",
     "latestShareClass": null,
@@ -3749,7 +3750,7 @@
     "sector": "Technology",
     "sectorKey": "technology",
     "sectorDisp": "Technology",
-    "longBusinessSummary": "International Business Machines Corporation, together with its subsidiaries, provides integrated solutions and services in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It operates through Software, Consulting, Infrastructure, and Financing segments. The Software segment offers hybrid cloud and AI platforms that allow clients to realize their digital and AI transformations across the applications, data, and environments in which they operate. The Consulting segment delivers strategy and technology services and intelligent operations, providing business transformation, technology implementation, managed services, application modernization, and AI-powered solutions. The Infrastructure segment provides on-premises and cloud-based server, and storage solutions, as well as life-cycle services for hybrid cloud infrastructure deployment. The Financing segment offers client and commercial financing, and facilitates IBM clients' acquisition of hardware, software, and services. It operates a data streaming platform. The company has strategic partnerships with various companies, including hyperscalers, service providers, global system integrators, and software and hardware vendors that include Adobe, Amazon Web Services, Microsoft, Oracle, Salesforce, Samsung Electronics and SAP, and others. It also has a strategic collaboration with Arm Holdings plc for the development of new dual-architecture hardware that helps enterprises run future AI and data intensive workloads; strategic partnership with three.ws to advance ai-powered 3d agent technology; and collaboration with Lightwell to help strengthen open source software supply chain. The company was formerly known as Computing-Tabulating-Recording Co. and changed its name to International Business Machines Corporation in 1924. International Business Machines Corporation was incorporated in 1911 and is headquartered in Armonk, New York.",
+    "longBusinessSummary": "International Business Machines Corporation, together with its subsidiaries, provides integrated solutions and services in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It operates through Software, Consulting, Infrastructure, and Financing segments. The Software segment offers hybrid cloud and AI platforms that allow clients to realize their digital and AI transformations across the applications, data, and environments in which they operate. The Consulting segment delivers strategy and technology services and intelligent operations, providing business transformation, technology implementation, managed services, application modernization, and AI-powered solutions. The Infrastructure segment provides on-premises and cloud-based server, and storage solutions, as well as life-cycle services for hybrid cloud infrastructure deployment. The Financing segment offers client and commercial financing, and facilitates IBM clients' acquisition of hardware, software, and services. It operates a data streaming platform. The company has strategic partnerships with various companies, including hyperscalers, service providers, global system integrators, and software and hardware vendors that include Adobe, Amazon Web Services, Microsoft, Oracle, Salesforce, Samsung Electronics and SAP, and others. It also has a strategic collaboration with Arm Holdings plc for the development of new dual-architecture hardware that helps enterprises run future AI and data intensive workloads; strategic partnership with three.ws to advance ai-powered 3d agent technology; and collaboration with Lightwell to help strengthen open source software supply chain. Additionally, it offers operational resilience, logistics, and future-ready technology to the UK Ministry of Defence through Team ORION. The company was formerly known as Computing-Tabulating-Recording Co. and changed its name to International Business Machines Corporation in 1924. International Business Machines Corporation was incorporated in 1911 and is headquartered in Armonk, New York.",
     "fullTimeEmployees": 264300,
     "companyOfficers": [],
     "irWebsite": "http://www.ibm.com/investor/?lnk=ftif",
@@ -4128,6 +4129,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 3443,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "THOMAS ROBERT DAVID",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 8606,
         "filerUrl": "",
         "transactionText": "",
@@ -4154,17 +4166,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "FEHRING NICOLAS A.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-06-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3443,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "THOMAS ROBERT DAVID",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-06-06T00:00:00.000Z",
@@ -4427,10 +4428,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 2742,
+        "shares": 1915,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "FEHRING NICOLAS A.",
+        "filerName": "LAMOREAUX NICKLE JACLYN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-08-30T00:00:00.000Z",
@@ -4438,10 +4439,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 1915,
+        "shares": 2742,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LAMOREAUX NICKLE JACLYN",
+        "filerName": "FEHRING NICOLAS A.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-08-30T00:00:00.000Z",
@@ -4452,14 +4453,14 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 210.5,
+    "currentPrice": 205.77,
     "targetHighPrice": 350,
     "targetLowPrice": 175,
-    "targetMeanPrice": 271.25455,
-    "targetMedianPrice": 265,
-    "recommendationMean": 2.125,
+    "targetMeanPrice": 262.85217,
+    "targetMedianPrice": 260,
+    "recommendationMean": 2.16,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 22,
+    "numberOfAnalystOpinions": 23,
     "totalCash": 11783000064,
     "totalCashPerShare": 12.537,
     "ebitda": 16664999936,
@@ -4482,6 +4483,6 @@
     "profitMargins": 0.15606,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-22T05:21:11.681Z",
+  "lastUpdated": "2026-07-23T05:25:32.555Z",
   "source": "Static Build (yahoo-finance2)"
 }
