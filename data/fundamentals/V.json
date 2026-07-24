@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.082100004,
         "position": 136190947,
-        "value": 48132606317,
+        "value": 47884737796,
         "pctChange": -0.028299998
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0645,
         "position": 107005168,
-        "value": 37817767911,
+        "value": 37623017721,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0496,
         "position": 82306015,
-        "value": 29088592926,
+        "value": 28938795376,
         "pctChange": -0.0058999998
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0277,
         "position": 45979950,
-        "value": 16250234546,
+        "value": 16166550700,
         "pctChange": -0.0188
       },
       {
@@ -81,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0271,
         "position": 44908229,
-        "value": 15871466896,
+        "value": 15789733590,
         "pctChange": -0.038599998
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.027,
         "position": 44883639,
-        "value": 15862776298,
+        "value": 15781087746,
         "pctChange": 0.0191
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0247,
         "position": 41075869,
-        "value": 14517034173,
+        "value": 14442275791,
         "pctChange": -0.0004
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0227,
         "position": 37604815,
-        "value": 13290294222,
+        "value": 13221853183,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "TCI Fund Management Ltd",
         "pctHeld": 0.0184,
         "position": 30468133,
-        "value": 10768047973,
+        "value": 10712595748,
         "pctChange": 0.099
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0152,
         "position": 25178201,
-        "value": 8898480135,
+        "value": 8852655625,
         "pctChange": 0.0286
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00081,
-    "institutionsPercentHeld": 0.91606003,
-    "institutionsFloatPercentHeld": 0.91681,
-    "institutionsCount": 5840
+    "institutionsPercentHeld": 0.9161,
+    "institutionsFloatPercentHeld": 0.91683996,
+    "institutionsCount": 5850
   },
   "earnings": {
     "maxAge": 86400,
@@ -193,11 +193,68 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "3Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": []
+      "earningsDate": [
+        "2026-07-28T20:00:00.000Z"
+      ],
+      "isEarningsDateEstimate": false
     },
     "financialsChart": {
-      "yearly": [],
-      "quarterly": []
+      "yearly": [
+        {
+          "date": 2022,
+          "revenue": 29310000000,
+          "earnings": 14957000000,
+          "profitMargin": 0.5103037
+        },
+        {
+          "date": 2023,
+          "revenue": 32653000000,
+          "earnings": 17273000000,
+          "profitMargin": 0.52898663
+        },
+        {
+          "date": 2024,
+          "revenue": 35926000000,
+          "earnings": 19743000000,
+          "profitMargin": 0.5495463
+        },
+        {
+          "date": 2025,
+          "revenue": 40000000000,
+          "earnings": 20058000000,
+          "profitMargin": 0.50145
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "2Q2025",
+          "fiscalQuarter": "3Q2025",
+          "revenue": 10172000000,
+          "earnings": 5272000000,
+          "profitMargin": 0.51828545
+        },
+        {
+          "date": "3Q2025",
+          "fiscalQuarter": "4Q2025",
+          "revenue": 10724000000,
+          "earnings": 5090000000,
+          "profitMargin": 0.47463632
+        },
+        {
+          "date": "4Q2025",
+          "fiscalQuarter": "1Q2026",
+          "revenue": 10901000000,
+          "earnings": 5853000000,
+          "profitMargin": 0.5369232
+        },
+        {
+          "date": "1Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 11230000000,
+          "earnings": 6021000000,
+          "profitMargin": 0.5361532
+        }
+      ]
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
@@ -6070,24 +6127,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.000056645153,
-    "postMarketChange": -0.020019531,
-    "postMarketTime": "2026-07-22T23:59:36.000Z",
-    "postMarketPrice": 353.4,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.00674497,
-    "regularMarketChange": -2.39999,
-    "regularMarketTime": "2026-07-22T20:00:02.000Z",
+    "postMarketChangePercent": 0.00036975223,
+    "postMarketChange": 0.13000488,
+    "postMarketTime": "2026-07-23T23:58:35.000Z",
+    "postMarketPrice": 351.73,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.0051497,
+    "regularMarketChange": -1.82001,
+    "regularMarketTime": "2026-07-23T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 353.42,
-    "regularMarketDayHigh": 357.4999,
-    "regularMarketDayLow": 352.27,
-    "regularMarketVolume": 4617326,
-    "averageDailyVolume10Day": 7149420,
-    "averageDailyVolume3Month": 8416300,
-    "regularMarketPreviousClose": 355.82,
+    "regularMarketPrice": 351.6,
+    "regularMarketDayHigh": 352.045,
+    "regularMarketDayLow": 348.5,
+    "regularMarketVolume": 3096543,
+    "averageDailyVolume10Day": 6907180,
+    "averageDailyVolume3Month": 8366443,
+    "regularMarketPreviousClose": 353.42,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 356.57,
+    "regularMarketOpen": 352.045,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -6096,32 +6153,37 @@
     "symbol": "V",
     "underlyingSymbol": null,
     "shortName": "Visa Inc.",
-    "longName": null,
+    "longName": "Visa Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null
+    "lastMarket": null,
+    "marketCap": 668653125632
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 676589469696,
-    "forwardPE": 23.766214,
+    "enterpriseValue": 673159774208,
+    "forwardPE": 23.643826,
     "profitMargins": 0.51679003,
     "floatShares": 1688155858,
+    "sharesOutstanding": 1659709932,
     "sharesShort": 20676753,
     "sharesShortPriorMonth": "1970-09-05T04:13:57.000Z",
     "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0109,
     "heldPercentInsiders": 0.00081,
-    "heldPercentInstitutions": 0.91606003,
+    "heldPercentInstitutions": 0.9161,
     "shortRatio": 2.31,
     "shortPercentOfFloat": 0.0125,
     "beta": 0.754,
+    "impliedSharesOutstanding": 1901743800,
     "category": null,
+    "bookValue": 18.642,
+    "priceToBook": 18.860638,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-09-30T00:00:00.000Z",
@@ -6129,15 +6191,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.315,
     "netIncomeToCommon": 22033000448,
-    "trailingEps": 11.38,
-    "forwardEps": 14.87069,
+    "trailingEps": 11.49,
+    "forwardEps": 14.87196,
     "pegRatio": 1.56,
     "lastSplitFactor": "4:1",
     "lastSplitDate": 1426723200,
-    "enterpriseToRevenue": 15.725,
-    "enterpriseToEbitda": 22.446,
-    "52WeekChange": -0.0052633286,
-    "SandP52WeekChange": 0.17928386,
+    "enterpriseToRevenue": 15.645,
+    "enterpriseToEbitda": 22.332,
+    "52WeekChange": -0.006695509,
+    "SandP52WeekChange": 0.16421378,
     "lastDividendValue": 0.67,
     "lastDividendDate": "2026-05-12T00:00:00.000Z",
     "latestShareClass": null,
@@ -7748,7 +7810,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 353.42,
+    "currentPrice": 351.6,
     "targetHighPrice": 450,
     "targetLowPrice": 330,
     "targetMeanPrice": 402.65817,
@@ -7778,6 +7840,6 @@
     "profitMargins": 0.51679003,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-23T05:26:32.162Z",
+  "lastUpdated": "2026-07-24T05:23:24.480Z",
   "source": "Static Build (yahoo-finance2)"
 }

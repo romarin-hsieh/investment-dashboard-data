@@ -45,7 +45,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.0579,
         "position": 20032960,
-        "value": 173886098,
+        "value": 176490386,
         "pctChange": 0.7396
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.037100002,
         "position": 12849132,
-        "value": 111530469,
+        "value": 113200858,
         "pctChange": 0.19049999
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Mirae Asset Global ETFs Holdings Ltd.",
         "pctHeld": 0.033099998,
         "position": 11452161,
-        "value": 99404760,
+        "value": 100893543,
         "pctChange": 0.3962
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.031600002,
         "position": 10948169,
-        "value": 95030110,
+        "value": 96453373,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.031,
         "position": 10732371,
-        "value": 93156983,
+        "value": 94552193,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Marex Group Plc",
         "pctHeld": 0.026300002,
         "position": 9098178,
-        "value": 78972187,
+        "value": 80154951,
         "pctChange": 3.7842002
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.020399999,
         "position": 7052969,
-        "value": 61219773,
+        "value": 62136659,
         "pctChange": 0.33630002
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Renaissance Technologies, LLC",
         "pctHeld": 0.015800001,
         "position": 5455800,
-        "value": 47356345,
+        "value": 48065600,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Marshall Wace LLP",
         "pctHeld": 0.0124,
         "position": 4307637,
-        "value": 37390290,
+        "value": 37950283,
         "pctChange": 8.496799
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0108,
         "position": 3728930,
-        "value": 32367113,
+        "value": 32851874,
         "pctChange": 0.1574
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.019809999,
-    "institutionsPercentHeld": 0.51887,
-    "institutionsFloatPercentHeld": 0.52935004,
-    "institutionsCount": 613
+    "institutionsPercentHeld": 0.51943,
+    "institutionsFloatPercentHeld": 0.52993,
+    "institutionsCount": 615
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-23T14:25:34.000Z",
+        "firm": "Barclays",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 11,
+        "priorPriceTarget": 15
+      },
       {
         "epochGradeDate": "2026-07-14T10:36:52.000Z",
         "firm": "Truist Securities",
@@ -757,24 +767,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0051843403,
-    "postMarketChange": -0.045000076,
-    "postMarketTime": "2026-07-22T23:59:51.000Z",
-    "postMarketPrice": 8.635,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.0034442898,
-    "regularMarketChange": -0.0299997,
-    "regularMarketTime": "2026-07-22T20:04:08.000Z",
+    "postMarketChangePercent": 0.0011690899,
+    "postMarketChange": 0.010299683,
+    "postMarketTime": "2026-07-23T23:59:50.000Z",
+    "postMarketPrice": 8.8203,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.014977,
+    "regularMarketChange": 0.13,
+    "regularMarketTime": "2026-07-23T20:04:53.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 8.68,
-    "regularMarketDayHigh": 8.95,
-    "regularMarketDayLow": 8.505,
-    "regularMarketVolume": 37753435,
-    "averageDailyVolume10Day": 29427840,
-    "averageDailyVolume3Month": 33292440,
-    "regularMarketPreviousClose": 8.71,
+    "regularMarketPrice": 8.81,
+    "regularMarketDayHigh": 8.92,
+    "regularMarketDayLow": 8.36,
+    "regularMarketVolume": 27941308,
+    "averageDailyVolume10Day": 30315030,
+    "averageDailyVolume3Month": 32682377,
+    "regularMarketPreviousClose": 8.68,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 8.67,
+    "regularMarketOpen": 8.49,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -785,18 +795,18 @@
     "shortName": "NuScale Power Corporation",
     "longName": "NuScale Power Corporation",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 3004198400
+    "marketCap": 3049192192
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 2062775168,
-    "forwardPE": -12.115122,
+    "enterpriseValue": 2107768960,
+    "forwardPE": -12.29657,
     "profitMargins": 0,
     "floatShares": 339311728,
     "sharesOutstanding": 346105785,
@@ -806,27 +816,27 @@
     "dateShortInterest": "2026-06-30T00:00:00.000Z",
     "sharesPercentSharesOut": 0.20879999,
     "heldPercentInsiders": 0.019809999,
-    "heldPercentInstitutions": 0.51887,
+    "heldPercentInstitutions": 0.51943,
     "shortRatio": 1.91,
     "shortPercentOfFloat": 0.2374,
     "beta": 2.252,
     "impliedSharesOutstanding": 346105785,
     "category": null,
     "bookValue": 3.67,
-    "priceToBook": 2.3651226,
+    "priceToBook": 2.4005451,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": -385804000,
-    "trailingEps": -2.19,
-    "forwardEps": -0.71646,
+    "trailingEps": -2.23,
+    "forwardEps": -0.71682,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 110.492,
-    "enterpriseToEbitda": -10.152,
-    "52WeekChange": -0.8185998,
-    "SandP52WeekChange": 0.17928386,
+    "enterpriseToRevenue": 112.902,
+    "enterpriseToEbitda": -10.373,
+    "52WeekChange": -0.82735646,
+    "SandP52WeekChange": 0.16421378,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -853,6 +863,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "value": 64000,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.20 per share.",
+        "filerName": "HAMADY ROBERT RAMSEY",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-06-30T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 20000,
@@ -888,18 +910,6 @@
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 20000,
-        "value": 64000,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.20 per share.",
-        "filerName": "HAMADY ROBERT RAMSEY",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-06-30T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1070,18 +1080,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 22197,
-        "value": 271247,
-        "filerUrl": "",
-        "transactionText": "Sale at price 12.22 per share.",
-        "filerName": "FISHER CARL M",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-03-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 82667,
         "value": 1010191,
         "filerUrl": "",
@@ -1106,26 +1104,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 25951,
-        "value": 317121,
+        "shares": 22197,
+        "value": 271247,
         "filerUrl": "",
         "transactionText": "Sale at price 12.22 per share.",
-        "filerName": "REYES JOSE N. JR",
-        "filerRelation": "Chief Technology Officer",
+        "filerName": "FISHER CARL M",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
-        "startDate": "2026-03-02T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 22478,
-        "value": 274681,
-        "filerUrl": "",
-        "transactionText": "Sale at price 12.22 per share.",
-        "filerName": "SCOTT CLAYTON",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-02T00:00:00.000Z",
+        "startDate": "2026-03-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1185,6 +1171,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 25951,
+        "value": 317121,
+        "filerUrl": "",
+        "transactionText": "Sale at price 12.22 per share.",
+        "filerName": "REYES JOSE N. JR",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2026-03-02T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 22478,
+        "value": 274681,
+        "filerUrl": "",
+        "transactionText": "Sale at price 12.22 per share.",
+        "filerName": "SCOTT CLAYTON",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 463747,
         "value": 6096696,
         "filerUrl": "",
@@ -1234,9 +1244,9 @@
       {
         "maxAge": 1,
         "shares": 40000,
-        "value": 886800,
+        "value": 128000,
         "filerUrl": "",
-        "transactionText": "Sale at price 22.17 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.20 per share.",
         "filerName": "HAMADY ROBERT RAMSEY",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -1246,9 +1256,9 @@
       {
         "maxAge": 1,
         "shares": 40000,
-        "value": 128000,
+        "value": 886800,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.20 per share.",
+        "transactionText": "Sale at price 22.17 per share.",
         "filerName": "HAMADY ROBERT RAMSEY",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -1303,6 +1313,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 66000,
+        "value": 225060,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.41 per share.",
+        "filerName": "REYES JOSE N. JR",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-10-01T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 2138619,
         "value": 79973689,
         "filerUrl": "",
@@ -1319,18 +1341,6 @@
         "value": 2412970,
         "filerUrl": "",
         "transactionText": "Sale at price 36.50 - 36.62 per share.",
-        "filerName": "REYES JOSE N. JR",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-10-01T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 66000,
-        "value": 225060,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.41 per share.",
         "filerName": "REYES JOSE N. JR",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -1492,10 +1502,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 69984,
-        "value": 2246486,
+        "shares": 40000,
+        "value": 128000,
         "filerUrl": "",
-        "transactionText": "Sale at price 32.10 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.20 per share.",
         "filerName": "HAMADY ROBERT RAMSEY",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -1504,10 +1514,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 40000,
-        "value": 128000,
+        "shares": 69984,
+        "value": 2246486,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.20 per share.",
+        "transactionText": "Sale at price 32.10 per share.",
         "filerName": "HAMADY ROBERT RAMSEY",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -1716,9 +1726,9 @@
       {
         "maxAge": 1,
         "shares": 33000,
-        "value": 499290,
+        "value": 112530,
         "filerUrl": "",
-        "transactionText": "Sale at price 15.13 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.41 per share.",
         "filerName": "REYES JOSE N. JR",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -1728,9 +1738,9 @@
       {
         "maxAge": 1,
         "shares": 33000,
-        "value": 112530,
+        "value": 499290,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.41 per share.",
+        "transactionText": "Sale at price 15.13 per share.",
         "filerName": "REYES JOSE N. JR",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -1786,18 +1796,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 24618,
-        "value": 357453,
-        "filerUrl": "",
-        "transactionText": "Sale at price 14.52 per share.",
-        "filerName": "ENGEL JACQUELINE F",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-03-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 76949,
         "value": 1117299,
         "filerUrl": "",
@@ -1810,26 +1808,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 15961,
-        "value": 262495,
+        "shares": 24618,
+        "value": 357453,
         "filerUrl": "",
-        "transactionText": "Sale at price 16.45 per share.",
-        "filerName": "FISHER CARL M",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2025-03-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10648,
-        "value": 177920,
-        "filerUrl": "",
-        "transactionText": "Sale at price 16.45 - 18.15 per share.",
+        "transactionText": "Sale at price 14.52 per share.",
         "filerName": "ENGEL JACQUELINE F",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-03-03T00:00:00.000Z",
+        "startDate": "2025-03-04T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1875,6 +1861,30 @@
         "filerUrl": "",
         "transactionText": "Sale at price 16.45 per share.",
         "filerName": "SCOTT CLAYTON",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-03-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 15961,
+        "value": 262495,
+        "filerUrl": "",
+        "transactionText": "Sale at price 16.45 per share.",
+        "filerName": "FISHER CARL M",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2025-03-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10648,
+        "value": 177920,
+        "filerUrl": "",
+        "transactionText": "Sale at price 16.45 - 18.15 per share.",
+        "filerName": "ENGEL JACQUELINE F",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-03-03T00:00:00.000Z",
@@ -1960,9 +1970,9 @@
       {
         "maxAge": 1,
         "shares": 664568,
-        "value": 11988807,
+        "value": 2266177,
         "filerUrl": "",
-        "transactionText": "Sale at price 18.04 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.41 per share.",
         "filerName": "HOPKINS JOHN LAWRENCE",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -1972,9 +1982,9 @@
       {
         "maxAge": 1,
         "shares": 664568,
-        "value": 2266177,
+        "value": 11988807,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.41 per share.",
+        "transactionText": "Sale at price 18.04 per share.",
         "filerName": "HOPKINS JOHN LAWRENCE",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -2032,9 +2042,9 @@
       {
         "maxAge": 1,
         "shares": 18186,
-        "value": 527394,
+        "value": 79759,
         "filerUrl": "",
-        "transactionText": "Sale at price 29.00 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.24 - 6.41 per share.",
         "filerName": "ENGEL JACQUELINE F",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -2044,9 +2054,9 @@
       {
         "maxAge": 1,
         "shares": 18186,
-        "value": 79759,
+        "value": 527394,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.24 - 6.41 per share.",
+        "transactionText": "Sale at price 29.00 per share.",
         "filerName": "ENGEL JACQUELINE F",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -2080,9 +2090,9 @@
       {
         "maxAge": 1,
         "shares": 68558,
-        "value": 892625,
+        "value": 439457,
         "filerUrl": "",
-        "transactionText": "Sale at price 13.02 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 6.41 per share.",
         "filerName": "TEMPLE ROBERT K",
         "filerRelation": "Retired",
         "moneyText": "",
@@ -2092,9 +2102,9 @@
       {
         "maxAge": 1,
         "shares": 68558,
-        "value": 439457,
+        "value": 892625,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 6.41 per share.",
+        "transactionText": "Sale at price 13.02 per share.",
         "filerName": "TEMPLE ROBERT K",
         "filerRelation": "Retired",
         "moneyText": "",
@@ -2128,18 +2138,6 @@
       {
         "maxAge": 1,
         "shares": 75000,
-        "value": 900000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 12.00 per share.",
-        "filerName": "TEMPLE ROBERT K",
-        "filerRelation": "Retired",
-        "moneyText": "",
-        "startDate": "2024-09-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 75000,
         "value": 480750,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 6.41 per share.",
@@ -2151,10 +2149,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 144627,
-        "value": 1576434,
+        "shares": 75000,
+        "value": 900000,
         "filerUrl": "",
-        "transactionText": "Sale at price 10.90 per share.",
+        "transactionText": "Sale at price 12.00 per share.",
+        "filerName": "TEMPLE ROBERT K",
+        "filerRelation": "Retired",
+        "moneyText": "",
+        "startDate": "2024-09-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 144627,
+        "value": 493178,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.41 per share.",
         "filerName": "TEMPLE ROBERT K",
         "filerRelation": "Retired",
         "moneyText": "",
@@ -2164,9 +2174,9 @@
       {
         "maxAge": 1,
         "shares": 144627,
-        "value": 493178,
+        "value": 1576434,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.41 per share.",
+        "transactionText": "Sale at price 10.90 per share.",
         "filerName": "TEMPLE ROBERT K",
         "filerRelation": "Retired",
         "moneyText": "",
@@ -2211,9 +2221,9 @@
       {
         "maxAge": 1,
         "shares": 100000,
-        "value": 1001550,
+        "value": 341000,
         "filerUrl": "",
-        "transactionText": "Sale at price 10.00 - 10.03 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.41 per share.",
         "filerName": "TEMPLE ROBERT K",
         "filerRelation": "Retired",
         "moneyText": "",
@@ -2223,9 +2233,9 @@
       {
         "maxAge": 1,
         "shares": 100000,
-        "value": 341000,
+        "value": 1001550,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.41 per share.",
+        "transactionText": "Sale at price 10.00 - 10.03 per share.",
         "filerName": "TEMPLE ROBERT K",
         "filerRelation": "Retired",
         "moneyText": "",
@@ -2260,7 +2270,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 8.68,
+    "currentPrice": 8.81,
     "targetHighPrice": 25,
     "targetLowPrice": 6,
     "targetMeanPrice": 14.8,
@@ -2289,6 +2299,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-23T05:23:18.122Z",
+  "lastUpdated": "2026-07-24T05:20:12.213Z",
   "source": "Static Build (yahoo-finance2)"
 }
