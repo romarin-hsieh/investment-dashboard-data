@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0542,
         "position": 69557164,
-        "value": 1158126754,
+        "value": 1144910855,
         "pctChange": 0.0061000003
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.044499997,
         "position": 57108581,
-        "value": 950857851,
+        "value": 940007190,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0397,
         "position": 50975115,
-        "value": 848735645,
+        "value": 839050346,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0.033299997,
         "position": 42720908,
-        "value": 711303101,
+        "value": 703186106,
         "pctChange": 0.1028
       },
       {
@@ -81,7 +81,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.028399998,
         "position": 36417201,
-        "value": 606346382,
+        "value": 599427095,
         "pctChange": 1.3692
       },
       {
@@ -90,7 +90,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.021300001,
         "position": 27315197,
-        "value": 454798019,
+        "value": 449608117,
         "pctChange": 0.0531
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.020299999,
         "position": 25982836,
-        "value": 432614209,
+        "value": 427677456,
         "pctChange": 0.099
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0166,
         "position": 21258767,
-        "value": 353958462,
+        "value": 349919285,
         "pctChange": 0.5956
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Jane Street Group, LLC",
         "pctHeld": 0.0139999995,
         "position": 18018178,
-        "value": 300002656,
+        "value": 296579193,
         "pctChange": 0.8674
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Qube Research & Technologies Ltd",
         "pctHeld": 0.013099999,
         "position": 16799087,
-        "value": 279704792,
+        "value": 276512956,
         "pctChange": 3.9097
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.0143099995,
-    "institutionsPercentHeld": 0.57028,
-    "institutionsFloatPercentHeld": 0.57855,
-    "institutionsCount": 1182
+    "institutionsPercentHeld": 0.57012004,
+    "institutionsFloatPercentHeld": 0.5784,
+    "institutionsCount": 1183
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-24T12:14:11.000Z",
+        "firm": "Truist Securities",
+        "toGrade": "Hold",
+        "fromGrade": "Hold",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 18,
+        "priorPriceTarget": 17
+      },
       {
         "epochGradeDate": "2026-07-09T18:15:22.000Z",
         "firm": "Goldman Sachs",
@@ -2057,28 +2067,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0,
-    "postMarketChange": 0,
-    "postMarketTime": "2026-07-23T23:59:52.000Z",
-    "postMarketPrice": 16.65,
+    "postMarketChangePercent": 0.00060754735,
+    "postMarketChange": 0.010000229,
+    "postMarketTime": "2026-07-24T23:59:59.000Z",
+    "postMarketPrice": 16.47,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0246046,
-    "regularMarketChange": -0.42,
-    "regularMarketTime": "2026-07-23T20:00:00.000Z",
+    "regularMarketChangePercent": -0.0114114,
+    "regularMarketChange": -0.190001,
+    "regularMarketTime": "2026-07-24T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 16.65,
-    "regularMarketDayHigh": 17.06,
-    "regularMarketDayLow": 16.47,
-    "regularMarketVolume": 73115503,
-    "averageDailyVolume10Day": 84414320,
-    "averageDailyVolume3Month": 78495175,
-    "regularMarketPreviousClose": 17.07,
+    "regularMarketPrice": 16.46,
+    "regularMarketDayHigh": 16.82,
+    "regularMarketDayLow": 16.33,
+    "regularMarketVolume": 92502492,
+    "averageDailyVolume10Day": 84552600,
+    "averageDailyVolume3Month": 79331227,
+    "regularMarketPreviousClose": 16.65,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 16.89,
+    "regularMarketOpen": 16.72,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "SOFI",
     "underlyingSymbol": null,
@@ -2090,30 +2100,30 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 21357641728
+    "marketCap": 21113919488
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 19709448192,
-    "forwardPE": 20.550228,
+    "enterpriseValue": 19465728000,
+    "forwardPE": 20.287924,
     "profitMargins": 0.14761,
     "floatShares": 1262974158,
     "sharesOutstanding": 1282741200,
-    "sharesShort": 188100006,
-    "sharesShortPriorMonth": "1975-11-25T08:47:47.000Z",
-    "sharesShortPreviousMonthDate": "2026-05-29T00:00:00.000Z",
-    "dateShortInterest": "2026-06-30T00:00:00.000Z",
-    "sharesPercentSharesOut": 0.1466,
+    "sharesShort": 185956377,
+    "sharesShortPriorMonth": "1976-03-16T01:40:09.000Z",
+    "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
+    "dateShortInterest": "2026-07-15T00:00:00.000Z",
+    "sharesPercentSharesOut": 0.145,
     "heldPercentInsiders": 0.0143099995,
-    "heldPercentInstitutions": 0.57028,
-    "shortRatio": 2.25,
-    "shortPercentOfFloat": 0.1487,
+    "heldPercentInstitutions": 0.57012004,
+    "shortRatio": 2.13,
+    "shortPercentOfFloat": 0.147,
     "beta": 2.149,
     "impliedSharesOutstanding": 1282741200,
     "category": null,
     "bookValue": 8.437,
-    "priceToBook": 1.9734502,
+    "priceToBook": 1.9509302,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2122,12 +2132,12 @@
     "earningsQuarterlyGrowth": 1.344,
     "netIncomeToCommon": 576934976,
     "trailingEps": 0.44,
-    "forwardEps": 0.81021,
-    "pegRatio": 0.84,
+    "forwardEps": 0.81132,
+    "pegRatio": 0.79,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 5.043,
-    "52WeekChange": -0.22594142,
-    "SandP52WeekChange": 0.16421378,
+    "enterpriseToRevenue": 4.98,
+    "52WeekChange": -0.22358489,
+    "SandP52WeekChange": 0.16018116,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3046,24 +3056,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 66847,
-        "value": 1039471,
-        "filerUrl": "",
-        "transactionText": "Sale at price 15.55 per share.",
-        "filerName": "RISHEL JEREMY DYLAN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-06-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 10267,
         "value": 156288,
         "filerUrl": "",
         "transactionText": "Sale at price 15.22 per share.",
         "filerName": "KEOUGH KELLI ALLEN",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 66847,
+        "value": 1039471,
+        "filerUrl": "",
+        "transactionText": "Sale at price 15.55 per share.",
+        "filerName": "RISHEL JEREMY DYLAN",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-06-20T00:00:00.000Z",
         "ownership": "D"
@@ -3628,17 +3638,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 222825,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LAPOINTE CHRISTOPHER",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2024-09-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 271751,
         "filerUrl": "",
         "transactionText": "",
@@ -3683,6 +3682,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 222825,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LAPOINTE CHRISTOPHER",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2024-09-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 24939,
         "value": 180952,
         "filerUrl": "",
@@ -3721,10 +3731,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 16.65,
+    "currentPrice": 16.46,
     "targetHighPrice": 30,
     "targetLowPrice": 12,
-    "targetMeanPrice": 20.57895,
+    "targetMeanPrice": 20.63158,
     "targetMedianPrice": 18,
     "recommendationMean": 2.73913,
     "recommendationKey": "hold",
@@ -3749,6 +3759,6 @@
     "profitMargins": 0.14761,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-24T05:20:28.606Z",
+  "lastUpdated": "2026-07-25T05:13:55.628Z",
   "source": "Static Build (yahoo-finance2)"
 }
