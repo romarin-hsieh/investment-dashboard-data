@@ -6,8 +6,8 @@
         "strongBuy": 4,
         "buy": 15,
         "hold": 0,
-        "sell": 1,
-        "strongSell": 0
+        "sell": 0,
+        "strongSell": 1
       },
       {
         "period": "-1m",
@@ -187,7 +187,7 @@
           "reportedDate": 1778234770
         }
       ],
-      "currentQuarterEstimate": 2.14145,
+      "currentQuarterEstimate": 2.16895,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -1608,7 +1608,7 @@
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "VST",
     "underlyingSymbol": null,
@@ -1626,7 +1626,7 @@
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 77486874624,
-    "forwardPE": 15.1181755,
+    "forwardPE": 15.130174,
     "profitMargins": 0.11525,
     "floatShares": 314476601,
     "sharesOutstanding": 337182468,
@@ -1652,7 +1652,7 @@
     "netIncomeToCommon": 2048999936,
     "trailingEps": 5.98,
     "forwardEps": 10.79829,
-    "pegRatio": 0.5,
+    "pegRatio": 0.48,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 3.985,
     "enterpriseToEbitda": 11.412,
@@ -3300,10 +3300,10 @@
     "maxAge": 86400,
     "currentPrice": 163.38,
     "targetHighPrice": 320,
-    "targetLowPrice": 99,
-    "targetMeanPrice": 223,
+    "targetLowPrice": 106,
+    "targetMeanPrice": 223.38889,
     "targetMedianPrice": 225,
-    "recommendationMean": 1.4,
+    "recommendationMean": 1.35,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 18,
     "totalCash": 658000000,
@@ -3327,6 +3327,6 @@
     "profitMargins": 0.11525,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-26T05:30:43.946Z",
+  "lastUpdated": "2026-07-27T05:47:20.934Z",
   "source": "Static Build (yahoo-finance2)"
 }
