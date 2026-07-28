@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0779,
         "position": 55352735,
-        "value": 14655190659,
+        "value": 14982325525,
         "pctChange": 0.0344
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.065,
         "position": 46216017,
-        "value": 12236153112,
+        "value": 12509289941,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.053000003,
         "position": 37656840,
-        "value": 9970025326,
+        "value": 10192577388,
         "pctChange": 0.1848
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0499,
         "position": 35433830,
-        "value": 9381461176,
+        "value": 9590875241,
         "pctChange": -0.0153
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0269,
         "position": 19104792,
-        "value": 5058184916,
+        "value": 5171094307,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0253,
         "position": 17961915,
-        "value": 4755596790,
+        "value": 4861751774,
         "pctChange": 0.0542
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.022,
         "position": 15618509,
-        "value": 4135156595,
+        "value": 4227462040,
         "pctChange": 0.0228
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0171,
         "position": 12156558,
-        "value": 3218570414,
+        "value": 3290415717,
         "pctChange": -0.0212
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0137,
         "position": 9734954,
-        "value": 2577426516,
+        "value": 2634960129,
         "pctChange": 0.0275
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Northern Trust Corporation",
         "pctHeld": 0.0116,
         "position": 8222023,
-        "value": 2176862889,
+        "value": 2225455075,
         "pctChange": -0.0042
       }
     ]
@@ -207,6 +207,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-27T17:59:18.000Z",
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 340,
+        "priorPriceTarget": 365
+      },
       {
         "epochGradeDate": "2026-07-24T10:16:28.000Z",
         "firm": "BTIG",
@@ -6823,24 +6833,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.00003965118,
-    "postMarketChange": -0.010498047,
-    "postMarketTime": "2026-07-25T00:00:00.000Z",
-    "postMarketPrice": 264.7495,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0074582305,
-    "regularMarketChange": 1.96002,
-    "regularMarketTime": "2026-07-24T20:00:02.000Z",
+    "postMarketChangePercent": -0.00018479442,
+    "postMarketChange": -0.05001831,
+    "postMarketTime": "2026-07-27T23:59:30.000Z",
+    "postMarketPrice": 270.62,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.0223221,
+    "regularMarketChange": 5.91,
+    "regularMarketTime": "2026-07-27T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 264.76,
-    "regularMarketDayHigh": 266.46,
-    "regularMarketDayLow": 262.9,
-    "regularMarketVolume": 2737523,
-    "averageDailyVolume10Day": 4321460,
-    "averageDailyVolume3Month": 4528427,
-    "regularMarketPreviousClose": 262.8,
+    "regularMarketPrice": 270.67,
+    "regularMarketDayHigh": 271.165,
+    "regularMarketDayLow": 266.84,
+    "regularMarketVolume": 4569767,
+    "averageDailyVolume10Day": 4391940,
+    "averageDailyVolume3Month": 4526643,
+    "regularMarketPreviousClose": 264.76,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 263.79,
+    "regularMarketOpen": 267.5,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -6851,7 +6861,7 @@
     "shortName": "McDonald's Corporation",
     "longName": null,
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
@@ -6860,8 +6870,8 @@
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 241838538752,
-    "forwardPE": 18.74776,
+    "enterpriseValue": 246037626880,
+    "forwardPE": 19.16625,
     "profitMargins": 0.31618,
     "floatShares": 709475626,
     "sharesShort": 11465084,
@@ -6883,15 +6893,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.062,
     "netIncomeToCommon": 8677999616,
-    "trailingEps": 12.13,
-    "forwardEps": 14.12222,
+    "trailingEps": 12.4,
+    "forwardEps": 14.11592,
     "pegRatio": 2.54,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 920851200,
-    "enterpriseToRevenue": 8.811,
-    "enterpriseToEbitda": 16.265,
-    "52WeekChange": -0.11516613,
-    "SandP52WeekChange": 0.159976,
+    "enterpriseToRevenue": 8.964,
+    "enterpriseToEbitda": 16.547,
+    "52WeekChange": -0.09541476,
+    "SandP52WeekChange": 0.16016388,
     "lastDividendValue": 1.86,
     "lastDividendDate": "2026-06-02T00:00:00.000Z",
     "latestShareClass": null,
@@ -8150,7 +8160,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 264.76,
+    "currentPrice": 270.67,
     "targetHighPrice": 407,
     "targetLowPrice": 250,
     "targetMeanPrice": 324.7097,
@@ -8178,6 +8188,6 @@
     "profitMargins": 0.31618,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-27T05:49:44.422Z",
+  "lastUpdated": "2026-07-28T05:15:46.405Z",
   "source": "Static Build (yahoo-finance2)"
 }

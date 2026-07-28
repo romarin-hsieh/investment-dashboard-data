@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.08930001,
         "position": 145574284,
-        "value": 75982499310,
+        "value": 72051993642,
         "pctChange": -0.013200001
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.065,
         "position": 105940266,
-        "value": 55295523131,
+        "value": 52435135949,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.045900002,
         "position": 74771220,
-        "value": 39026839191,
+        "value": 37008016251,
         "pctChange": -0.002
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0309,
         "position": 50443198,
-        "value": 26328827811,
+        "value": 24966861465,
         "pctChange": -0.0309
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024400001,
         "position": 39791086,
-        "value": 20768957823,
+        "value": 19694598501,
         "pctChange": 0.0587
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0231,
         "position": 37603675,
-        "value": 19627238625,
+        "value": 18611939400,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0177,
         "position": 28846470,
-        "value": 15056415368,
+        "value": 14277560678,
         "pctChange": 0.41919997
       },
       {
@@ -108,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0149,
         "position": 24248547,
-        "value": 12656529402,
+        "value": 12001818633,
         "pctChange": 0.1596
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0146,
         "position": 23781608,
-        "value": 12412810585,
+        "value": 11770707169,
         "pctChange": -0.050300002
       },
       {
@@ -126,7 +126,7 @@
         "organization": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
         "pctHeld": 0.0117999995,
         "position": 19192764,
-        "value": 10017663404,
+        "value": 9499458776,
         "pctChange": 0.030199999
       }
     ]
@@ -207,6 +207,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-27T17:52:28.000Z",
+        "firm": "Mizuho",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 625,
+        "priorPriceTarget": 615
+      },
+      {
+        "epochGradeDate": "2026-07-27T13:05:20.000Z",
+        "firm": "Wedbush",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 600,
+        "priorPriceTarget": 450
+      },
       {
         "epochGradeDate": "2026-07-25T01:20:12.000Z",
         "firm": "UBS",
@@ -7683,24 +7703,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0006706325,
-    "postMarketChange": -0.35003662,
-    "postMarketTime": "2026-07-25T00:00:00.000Z",
-    "postMarketPrice": 521.6,
+    "postMarketChangePercent": -0.0070108115,
+    "postMarketChange": -3.4700012,
+    "postMarketTime": "2026-07-27T23:59:55.000Z",
+    "postMarketPrice": 491.48,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.032870702,
-    "regularMarketChange": -17.73999,
-    "regularMarketTime": "2026-07-24T20:00:01.000Z",
+    "regularMarketChangePercent": -0.0517291,
+    "regularMarketChange": -27,
+    "regularMarketTime": "2026-07-27T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 521.95,
-    "regularMarketDayHigh": 549,
-    "regularMarketDayLow": 518.01,
-    "regularMarketVolume": 27162453,
-    "averageDailyVolume10Day": 26274890,
-    "averageDailyVolume3Month": 33852243,
-    "regularMarketPreviousClose": 539.69,
+    "regularMarketPrice": 494.95,
+    "regularMarketDayHigh": 528,
+    "regularMarketDayLow": 476.93,
+    "regularMarketVolume": 31641349,
+    "averageDailyVolume10Day": 27150070,
+    "averageDailyVolume3Month": 33547790,
+    "regularMarketPreviousClose": 521.95,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 546.905,
+    "regularMarketOpen": 527.505,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -7720,8 +7740,8 @@
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 842616012800,
-    "forwardPE": 38.220146,
+    "enterpriseValue": 798589779968,
+    "forwardPE": 36.243053,
     "profitMargins": 0.13374,
     "floatShares": 1621991068,
     "sharesShort": 39768152,
@@ -7736,7 +7756,7 @@
     "beta": 2.469,
     "category": null,
     "bookValue": 39.547,
-    "priceToBook": 13.19822,
+    "priceToBook": 12.515488,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-27T00:00:00.000Z",
@@ -7744,15 +7764,15 @@
     "mostRecentQuarter": "2026-03-28T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.951,
     "netIncomeToCommon": 4931999744,
-    "trailingEps": 2.98,
-    "forwardEps": 13.65641,
+    "trailingEps": 2.82,
+    "forwardEps": 13.72374,
     "pegRatio": 1.25,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 966902400,
-    "enterpriseToRevenue": 22.497,
-    "enterpriseToEbitda": 113.407,
-    "52WeekChange": 2.0055857,
-    "SandP52WeekChange": 0.159976,
+    "enterpriseToRevenue": 21.322,
+    "enterpriseToEbitda": 107.482,
+    "52WeekChange": 1.8501093,
+    "SandP52WeekChange": 0.16016388,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -8592,10 +8612,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 5553,
+        "shares": 4584,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HUYNH JACK M",
+        "filerName": "GUIDO PHILIP",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-08T00:00:00.000Z",
@@ -8603,10 +8623,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 4584,
+        "shares": 5553,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GUIDO PHILIP",
+        "filerName": "HUYNH JACK M",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-08T00:00:00.000Z",
@@ -8812,7 +8832,7 @@
         "shares": 1547,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HOUSEHOLDER JOSEPH A",
+        "filerName": "DENZEL NORA M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-08T00:00:00.000Z",
@@ -8823,7 +8843,7 @@
         "shares": 1547,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DENZEL NORA M",
+        "filerName": "HOUSEHOLDER JOSEPH A",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-08T00:00:00.000Z",
@@ -9331,7 +9351,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 521.95,
+    "currentPrice": 494.95,
     "targetHighPrice": 1250,
     "targetLowPrice": 320,
     "targetMeanPrice": 573.1489,
@@ -9361,6 +9381,6 @@
     "profitMargins": 0.13374,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-27T05:48:43.228Z",
+  "lastUpdated": "2026-07-28T05:14:44.675Z",
   "source": "Static Build (yahoo-finance2)"
 }

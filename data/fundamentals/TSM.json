@@ -45,7 +45,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0116,
         "position": 60393190,
-        "value": 24363216999,
+        "value": 24102317975,
         "pctChange": -0.0121
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0063,
         "position": 32886937,
-        "value": 13266919375,
+        "value": 13124847566,
         "pctChange": 0.2001
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Sanders Capital, LLC",
         "pctHeld": 0.0054,
         "position": 28060092,
-        "value": 11319721816,
+        "value": 11198502013,
         "pctChange": -0.122
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0046,
         "position": 23984642,
-        "value": 9675644517,
+        "value": 9572030687,
         "pctChange": -0.0476
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.0037,
         "position": 19262004,
-        "value": 7770485104,
+        "value": 7687273105,
         "pctChange": 0.1029
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.0036000002,
         "position": 18617691,
-        "value": 7510562794,
+        "value": 7430134233,
         "pctChange": 0.025899999
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0034999999,
         "position": 18224186,
-        "value": 7351818940,
+        "value": 7273090324,
         "pctChange": 0.10569999
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0028,
         "position": 14767680,
-        "value": 5957429842,
+        "value": 5893633357,
         "pctChange": 0.0928
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0027,
         "position": 14107771,
-        "value": 5691215950,
+        "value": 5630270276,
         "pctChange": -0.1129
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Jennison Associates LLC",
         "pctHeld": 0.0023,
         "position": 12021825,
-        "value": 4849724467,
+        "value": 4797790095,
         "pctChange": -0.1025
       }
     ]
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-27T09:39:28.000Z",
+        "firm": "Needham",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 530,
+        "priorPriceTarget": 480
+      },
       {
         "epochGradeDate": "2026-07-17T19:08:41.000Z",
         "firm": "DA Davidson",
@@ -1257,24 +1267,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0029994086,
-    "postMarketChange": -1.2099915,
-    "postMarketTime": "2026-07-24T23:59:58.000Z",
-    "postMarketPrice": 402.2,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0292843,
-    "regularMarketChange": -12.17,
-    "regularMarketTime": "2026-07-24T20:00:02.000Z",
+    "postMarketChangePercent": -0.0034578787,
+    "postMarketChange": -1.3800049,
+    "postMarketTime": "2026-07-27T23:59:55.000Z",
+    "postMarketPrice": 397.71,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.010708701,
+    "regularMarketChange": -4.32001,
+    "regularMarketTime": "2026-07-27T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 403.41,
-    "regularMarketDayHigh": 412.88,
-    "regularMarketDayLow": 400.8001,
-    "regularMarketVolume": 11485132,
-    "averageDailyVolume10Day": 15417300,
-    "averageDailyVolume3Month": 14000901,
-    "regularMarketPreviousClose": 415.58,
+    "regularMarketPrice": 399.09,
+    "regularMarketDayHigh": 407.43,
+    "regularMarketDayLow": 388.81,
+    "regularMarketVolume": 15669384,
+    "averageDailyVolume10Day": 15775160,
+    "averageDailyVolume3Month": 14022630,
+    "regularMarketPreviousClose": 403.41,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 411.345,
+    "regularMarketOpen": 406.075,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -1285,18 +1295,18 @@
     "shortName": "Taiwan Semiconductor Manufactur",
     "longName": "Taiwan Semiconductor Manufacturing Company Limited",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 2092275466240
+    "marketCap": 2069869887488
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 14244352360448,
-    "forwardPE": 18.947647,
+    "enterpriseValue": 14065109827584,
+    "forwardPE": 18.744743,
     "profitMargins": 0.49923,
     "floatShares": 37843293696,
     "sharesOutstanding": 5186474013,
@@ -1312,8 +1322,8 @@
     "beta": 1.246,
     "impliedSharesOutstanding": 5186474013,
     "category": null,
-    "bookValue": 4.8006005,
-    "priceToBook": 84.03323,
+    "bookValue": 4.7954845,
+    "priceToBook": 83.22204,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1321,15 +1331,15 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.774,
     "netIncomeToCommon": 2216808939520,
-    "trailingEps": 11.34,
-    "forwardEps": 21.29077,
+    "trailingEps": 11.21,
+    "forwardEps": 21.5691,
     "pegRatio": 1.03,
     "lastSplitFactor": "1005:1000",
     "lastSplitDate": 1247616000,
-    "enterpriseToRevenue": 3.208,
-    "enterpriseToEbitda": 4.486,
-    "52WeekChange": 0.66183317,
-    "SandP52WeekChange": 0.159976,
+    "enterpriseToRevenue": 3.167,
+    "enterpriseToEbitda": 4.43,
+    "52WeekChange": 0.6440371,
+    "SandP52WeekChange": 0.16016388,
     "lastDividendValue": 0.955,
     "lastDividendDate": "2026-06-11T00:00:00.000Z",
     "latestShareClass": null,
@@ -1359,6 +1369,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 10,
+        "value": 4050,
+        "filerUrl": "",
+        "transactionText": "Purchase at price 405.00 per share.",
+        "filerName": "TIEN BOR-ZEN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-20T00:00:00.000Z",
+        "ownership": "D/I"
+      },
       {
         "maxAge": 1,
         "shares": 17,
@@ -1400,7 +1422,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 403.41,
+    "currentPrice": 399.09,
     "targetHighPrice": 700,
     "targetLowPrice": 430,
     "targetMeanPrice": 537.42706,
@@ -1430,6 +1452,6 @@
     "profitMargins": 0.49923,
     "financialCurrency": "TWD"
   },
-  "lastUpdated": "2026-07-27T05:46:51.163Z",
+  "lastUpdated": "2026-07-28T05:12:53.257Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0845,
         "position": 28480341,
-        "value": 4653118251,
+        "value": 4473692016,
         "pctChange": -0.0608
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0634,
         "position": 21393960,
-        "value": 3495345289,
+        "value": 3360563275,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.050100002,
         "position": 16902218,
-        "value": 2761484459,
+        "value": 2655000434,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0497,
         "position": 16770480,
-        "value": 2739961104,
+        "value": 2634307029,
         "pctChange": 0.0179
       },
       {
@@ -81,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0469,
         "position": 15808007,
-        "value": 2582712260,
+        "value": 2483121768,
         "pctChange": -0.0699
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.026800001,
         "position": 9033671,
-        "value": 1475921212,
+        "value": 1419009057,
         "pctChange": 0.0076
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.024500001,
         "position": 8256938,
-        "value": 1349018570,
+        "value": 1296999836,
         "pctChange": 0.0432
       },
       {
@@ -108,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0222,
         "position": 7489657,
-        "value": 1223660197,
+        "value": 1176475335,
         "pctChange": -0.303
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Lone Pine Capital Llc",
         "pctHeld": 0.0184,
         "position": 6187585,
-        "value": 1010927667,
+        "value": 971945863,
         "pctChange": 0.1872
       },
       {
@@ -126,7 +126,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.0136,
         "position": 4597984,
-        "value": 751218648,
+        "value": 722251335,
         "pctChange": 0.6966
       }
     ]
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-27T13:41:05.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 222,
+        "priorPriceTarget": 230
+      },
       {
         "epochGradeDate": "2026-07-15T14:29:22.000Z",
         "firm": "Scotiabank",
@@ -1587,24 +1597,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0037948042,
-    "postMarketChange": 0.6199951,
-    "postMarketTime": "2026-07-24T23:59:43.000Z",
-    "postMarketPrice": 164,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.03314,
-    "regularMarketChange": -5.59999,
-    "regularMarketTime": "2026-07-24T20:00:02.000Z",
+    "postMarketChangePercent": -0.0022918298,
+    "postMarketChange": -0.3600006,
+    "postMarketTime": "2026-07-27T23:59:28.000Z",
+    "postMarketPrice": 156.72,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.0385604,
+    "regularMarketChange": -6.3,
+    "regularMarketTime": "2026-07-27T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 163.38,
-    "regularMarketDayHigh": 169.76,
-    "regularMarketDayLow": 162.36,
-    "regularMarketVolume": 2157306,
+    "regularMarketPrice": 157.08,
+    "regularMarketDayHigh": 164.545,
+    "regularMarketDayLow": 155.54,
+    "regularMarketVolume": 3900262,
     "averageDailyVolume10Day": 4108450,
-    "averageDailyVolume3Month": 4756564,
-    "regularMarketPreviousClose": 168.98,
+    "averageDailyVolume3Month": 4759498,
+    "regularMarketPreviousClose": 163.38,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 168.695,
+    "regularMarketOpen": 165.5,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -1615,18 +1625,18 @@
     "shortName": "Vistra Corp.",
     "longName": "Vistra Corp.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 55088873472
+    "marketCap": 52964622336
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 77486874624,
-    "forwardPE": 15.130174,
+    "enterpriseValue": 75362623488,
+    "forwardPE": 14.546747,
     "profitMargins": 0.11525,
     "floatShares": 314476601,
     "sharesOutstanding": 337182468,
@@ -1643,21 +1653,21 @@
     "impliedSharesOutstanding": 337182468,
     "category": null,
     "bookValue": 9.232,
-    "priceToBook": 17.69714,
+    "priceToBook": 17.01473,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": 2048999936,
-    "trailingEps": 5.98,
-    "forwardEps": 10.79829,
+    "trailingEps": 5.75,
+    "forwardEps": 10.81829,
     "pegRatio": 0.48,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 3.985,
-    "enterpriseToEbitda": 11.412,
+    "enterpriseToRevenue": 3.876,
+    "enterpriseToEbitda": 11.099,
     "52WeekChange": -0.16591793,
-    "SandP52WeekChange": 0.159976,
+    "SandP52WeekChange": 0.16016388,
     "lastDividendValue": 0.229,
     "lastDividendDate": "2026-06-22T00:00:00.000Z",
     "latestShareClass": null,
@@ -3223,11 +3233,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 85000,
-        "value": 1672800,
+        "shares": 207100,
+        "value": 3448814,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 19.68 per share.",
-        "filerName": "KIRBY CARRIE LEE",
+        "transactionText": "Conversion of Exercise of derivative security at price 14.03 - 19.68 per share.",
+        "filerName": "MUSCATO STEPHEN J",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-11-22T00:00:00.000Z",
@@ -3235,11 +3245,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 207100,
-        "value": 3448814,
+        "shares": 85000,
+        "value": 1672800,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 14.03 - 19.68 per share.",
-        "filerName": "MUSCATO STEPHEN J",
+        "transactionText": "Conversion of Exercise of derivative security at price 19.68 per share.",
+        "filerName": "KIRBY CARRIE LEE",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-11-22T00:00:00.000Z",
@@ -3298,7 +3308,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 163.38,
+    "currentPrice": 157.08,
     "targetHighPrice": 320,
     "targetLowPrice": 106,
     "targetMeanPrice": 223.38889,
@@ -3327,6 +3337,6 @@
     "profitMargins": 0.11525,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-27T05:47:20.934Z",
+  "lastUpdated": "2026-07-28T05:13:22.518Z",
   "source": "Static Build (yahoo-finance2)"
 }

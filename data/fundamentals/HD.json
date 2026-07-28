@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0789,
         "position": 78661037,
-        "value": 26192552964,
+        "value": 26437187637,
         "pctChange": 0.0234
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.064899996,
         "position": 64687996,
-        "value": 21539809618,
+        "value": 21740988338,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0468,
         "position": 46675858,
-        "value": 15542127709,
+        "value": 15687288944,
         "pctChange": -0.0053
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0254,
         "position": 25277177,
-        "value": 8416794675,
+        "value": 8495406325,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.025,
         "position": 24937966,
-        "value": 8303844192,
+        "value": 8381400901,
         "pctChange": 0.0497
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0224,
         "position": 22369334,
-        "value": 7448541081,
+        "value": 7518109382,
         "pctChange": 0.0116
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Charles Schwab Investment Management, Inc.",
         "pctHeld": 0.0171,
         "position": 17085966,
-        "value": 5689285146,
+        "value": 5742422250,
         "pctChange": 0.104399994
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0164,
         "position": 16314357,
-        "value": 5432354773,
+        "value": 5483092184,
         "pctChange": 0.0156
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0162,
         "position": 16143812,
-        "value": 5375566697,
+        "value": 5425773715,
         "pctChange": 0.22790001
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.015,
         "position": 14986308,
-        "value": 4990141002,
+        "value": 5036748200,
         "pctChange": 0.4732
       }
     ]
@@ -207,6 +207,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-27T14:28:37.000Z",
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 377,
+        "priorPriceTarget": 377
+      },
       {
         "epochGradeDate": "2026-07-20T12:52:16.000Z",
         "firm": "Guggenheim",
@@ -5733,24 +5743,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0023631922,
-    "postMarketChange": -0.78689575,
-    "postMarketTime": "2026-07-24T23:55:55.000Z",
-    "postMarketPrice": 332.1931,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0254689,
-    "regularMarketChange": 8.27002,
-    "regularMarketTime": "2026-07-24T20:00:02.000Z",
+    "postMarketChangePercent": 0.001160447,
+    "postMarketChange": 0.39001465,
+    "postMarketTime": "2026-07-27T23:53:52.000Z",
+    "postMarketPrice": 336.48,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.00933986,
+    "regularMarketChange": 3.10999,
+    "regularMarketTime": "2026-07-27T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 332.98,
-    "regularMarketDayHigh": 333.46,
-    "regularMarketDayLow": 323.23,
-    "regularMarketVolume": 3864291,
-    "averageDailyVolume10Day": 3719830,
-    "averageDailyVolume3Month": 4877783,
-    "regularMarketPreviousClose": 324.71,
+    "regularMarketPrice": 336.09,
+    "regularMarketDayHigh": 341.89,
+    "regularMarketDayLow": 335.35,
+    "regularMarketVolume": 3277292,
+    "averageDailyVolume10Day": 3717030,
+    "averageDailyVolume3Month": 4883259,
+    "regularMarketPreviousClose": 332.98,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 325.07,
+    "regularMarketOpen": 339.39,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -5761,7 +5771,7 @@
     "shortName": "Home Depot, Inc. (The)",
     "longName": null,
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
@@ -5770,8 +5780,8 @@
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 394149920768,
-    "forwardPE": 20.691948,
+    "enterpriseValue": 397250953216,
+    "forwardPE": 20.885208,
     "profitMargins": 0.08411,
     "floatShares": 995401641,
     "sharesShort": 12827409,
@@ -5786,7 +5796,7 @@
     "beta": 0.951,
     "category": null,
     "bookValue": 13.916,
-    "priceToBook": 23.927853,
+    "priceToBook": 24.151335,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-02-01T00:00:00.000Z",
@@ -5799,10 +5809,10 @@
     "pegRatio": 1.88,
     "lastSplitFactor": "3:2",
     "lastSplitDate": 946598400,
-    "enterpriseToRevenue": 2.366,
-    "enterpriseToEbitda": 15.8,
-    "52WeekChange": -0.11730242,
-    "SandP52WeekChange": 0.159976,
+    "enterpriseToRevenue": 2.385,
+    "enterpriseToEbitda": 15.924,
+    "52WeekChange": -0.10905814,
+    "SandP52WeekChange": 0.16016388,
     "lastDividendValue": 2.33,
     "lastDividendDate": "2026-06-04T00:00:00.000Z",
     "latestShareClass": null,
@@ -7072,7 +7082,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 332.98,
+    "currentPrice": 336.09,
     "targetHighPrice": 430,
     "targetLowPrice": 310,
     "targetMeanPrice": 370.34375,
@@ -7102,6 +7112,6 @@
     "profitMargins": 0.08411,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-27T05:49:19.526Z",
+  "lastUpdated": "2026-07-28T05:15:20.813Z",
   "source": "Static Build (yahoo-finance2)"
 }
