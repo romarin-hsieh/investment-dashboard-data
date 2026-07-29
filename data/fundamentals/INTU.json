@@ -4,8 +4,8 @@
       {
         "period": "0m",
         "strongBuy": 5,
-        "buy": 21,
-        "hold": 7,
+        "buy": 20,
+        "hold": 8,
         "sell": 1,
         "strongSell": 1
       },
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.093100004,
         "position": 25475596,
-        "value": 7742288473,
+        "value": 7973606543,
         "pctChange": -0.0361
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0661,
         "position": 18079151,
-        "value": 5494434846,
+        "value": 5658593294,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0479,
         "position": 13098859,
-        "value": 3980874286,
+        "value": 4099811750,
         "pctChange": 0.118599996
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.047399998,
         "position": 12962149,
-        "value": 3939326750,
+        "value": 4057022888,
         "pctChange": -0.0077
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0378,
         "position": 10339030,
-        "value": 3142134645,
+        "value": 3236012898,
         "pctChange": 0.0654
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.030299999,
         "position": 8281599,
-        "value": 2516860782,
+        "value": 2592057590,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0248,
         "position": 6792421,
-        "value": 2064284690,
+        "value": 2125959782,
         "pctChange": 0.0269
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0208,
         "position": 5688825,
-        "value": 1728890826,
+        "value": 1780545281,
         "pctChange": 0.1153
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0197,
         "position": 5395374,
-        "value": 1639708132,
+        "value": 1688698055,
         "pctChange": -0.0784
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Arrowstreet Capital, Limited Partnership",
         "pctHeld": 0.014199999,
         "position": 3896561,
-        "value": 1184203867,
+        "value": 1219584589,
         "pctChange": 1.0254
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.02352,
-    "institutionsPercentHeld": 0.94382006,
-    "institutionsFloatPercentHeld": 0.96655,
-    "institutionsCount": 2680
+    "institutionsPercentHeld": 0.94351,
+    "institutionsFloatPercentHeld": 0.96624,
+    "institutionsCount": 2672
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-28T15:26:19.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Hold",
+        "fromGrade": "Buy",
+        "action": "down",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 304,
+        "priorPriceTarget": 504
+      },
       {
         "epochGradeDate": "2026-07-21T10:47:40.000Z",
         "firm": "Morgan Stanley",
@@ -5317,24 +5327,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.00026319164,
-    "postMarketChange": 0.07998657,
-    "postMarketTime": "2026-07-27T23:55:26.000Z",
-    "postMarketPrice": 303.99,
+    "postMarketChangePercent": 0.007631296,
+    "postMarketChange": 2.3885193,
+    "postMarketTime": "2026-07-28T23:59:31.000Z",
+    "postMarketPrice": 315.3785,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0255797,
-    "regularMarketChange": 7.58002,
-    "regularMarketTime": "2026-07-27T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0298772,
+    "regularMarketChange": 9.07999,
+    "regularMarketTime": "2026-07-28T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 303.91,
-    "regularMarketDayHigh": 310.08,
-    "regularMarketDayLow": 299.6286,
-    "regularMarketVolume": 3775387,
-    "averageDailyVolume10Day": 3791090,
-    "averageDailyVolume3Month": 5156500,
-    "regularMarketPreviousClose": 296.33,
+    "regularMarketPrice": 312.99,
+    "regularMarketDayHigh": 319.99,
+    "regularMarketDayLow": 305.73,
+    "regularMarketVolume": 5759424,
+    "averageDailyVolume10Day": 3837250,
+    "averageDailyVolume3Month": 5213582,
+    "regularMarketPreviousClose": 303.91,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 305.125,
+    "regularMarketOpen": 305.73,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -5350,13 +5360,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 83130630144
+    "marketCap": 85614338048
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 83250626560,
-    "forwardPE": 11.119872,
+    "enterpriseValue": 85734342656,
+    "forwardPE": 11.449183,
     "profitMargins": 0.21907,
     "floatShares": 267281209,
     "sharesOutstanding": 273537000,
@@ -5366,14 +5376,14 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.057800002,
     "heldPercentInsiders": 0.02352,
-    "heldPercentInstitutions": 0.94382006,
+    "heldPercentInstitutions": 0.94351,
     "shortRatio": 2.91,
     "shortPercentOfFloat": 0.066300005,
     "beta": 0.996,
     "impliedSharesOutstanding": 273537000,
     "category": null,
     "bookValue": 75.215,
-    "priceToBook": 4.0405507,
+    "priceToBook": 4.161271,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-07-31T00:00:00.000Z",
@@ -5381,15 +5391,15 @@
     "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.087,
     "netIncomeToCommon": 4584000000,
-    "trailingEps": 16.81,
-    "forwardEps": 27.33035,
-    "pegRatio": 0.77,
+    "trailingEps": 16.38,
+    "forwardEps": 27.33732,
+    "pegRatio": 0.79,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1152230400,
-    "enterpriseToRevenue": 3.979,
-    "enterpriseToEbitda": 12.988,
-    "52WeekChange": -0.6195085,
-    "SandP52WeekChange": 0.16016388,
+    "enterpriseToRevenue": 4.097,
+    "enterpriseToEbitda": 13.375,
+    "52WeekChange": -0.6118387,
+    "SandP52WeekChange": 0.16605604,
     "lastDividendValue": 1.2,
     "lastDividendDate": "2026-07-09T00:00:00.000Z",
     "latestShareClass": null,
@@ -5431,10 +5441,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 1587,
+        "shares": 470,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HANEBRINK ANTON",
+        "filerName": "HILLIARD CARYL LYN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-07-01T00:00:00.000Z",
@@ -5442,10 +5452,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 470,
+        "shares": 1587,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HILLIARD CARYL LYN",
+        "filerName": "HANEBRINK ANTON",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-07-01T00:00:00.000Z",
@@ -5464,22 +5474,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 652,
+        "shares": 850,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HOTZ LAUREN DALE",
-        "filerRelation": "Officer",
+        "filerName": "MCLEAN KERRY JEAN",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2026-07-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 850,
+        "shares": 652,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MCLEAN KERRY JEAN",
-        "filerRelation": "General Counsel",
+        "filerName": "HOTZ LAUREN DALE",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -5581,10 +5591,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 824,
+        "shares": 469,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HANEBRINK ANTON",
+        "filerName": "HILLIARD CARYL LYN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
@@ -5592,10 +5602,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 469,
+        "shares": 824,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HILLIARD CARYL LYN",
+        "filerName": "HANEBRINK ANTON",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
@@ -5614,22 +5624,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 330,
+        "shares": 849,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HOTZ LAUREN DALE",
-        "filerRelation": "Officer",
+        "filerName": "MCLEAN KERRY JEAN",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 849,
+        "shares": 330,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MCLEAN KERRY JEAN",
-        "filerRelation": "General Counsel",
+        "filerName": "HOTZ LAUREN DALE",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
         "ownership": "D"
@@ -5775,10 +5785,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 825,
+        "shares": 620,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HANEBRINK ANTON",
+        "filerName": "HILLIARD CARYL LYN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
@@ -5786,10 +5796,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 620,
+        "shares": 825,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HILLIARD CARYL LYN",
+        "filerName": "HANEBRINK ANTON",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
@@ -5808,22 +5818,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 331,
+        "shares": 1021,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HOTZ LAUREN DALE",
-        "filerRelation": "Officer",
+        "filerName": "MCLEAN KERRY JEAN",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 1021,
+        "shares": 331,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MCLEAN KERRY JEAN",
-        "filerRelation": "General Counsel",
+        "filerName": "HOTZ LAUREN DALE",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
         "ownership": "D"
@@ -6071,22 +6081,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 329,
+        "shares": 679,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HOTZ LAUREN DALE",
-        "filerRelation": "Officer",
+        "filerName": "MCLEAN KERRY JEAN",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-10-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 679,
+        "shares": 329,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MCLEAN KERRY JEAN",
-        "filerRelation": "General Counsel",
+        "filerName": "HOTZ LAUREN DALE",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-10-01T00:00:00.000Z",
         "ownership": "D"
@@ -6138,17 +6148,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1374,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HOTZ LAUREN DALE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7267,
         "filerUrl": "",
         "transactionText": "",
@@ -6160,14 +6159,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 42,
-        "value": 27930,
+        "shares": 1374,
         "filerUrl": "",
-        "transactionText": "Sale at price 664.99 per share.",
-        "filerName": "AUJLA SANDEEP S",
-        "filerRelation": "Chief Financial Officer",
+        "transactionText": "",
+        "filerName": "HOTZ LAUREN DALE",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-08-25T00:00:00.000Z",
+        "startDate": "2025-08-29T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6181,6 +6179,18 @@
         "moneyText": "",
         "startDate": "2025-08-25T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 42,
+        "value": 27930,
+        "filerUrl": "",
+        "transactionText": "Sale at price 664.99 per share.",
+        "filerName": "AUJLA SANDEEP S",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-08-25T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -6217,22 +6227,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 70,
+        "shares": 363,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HOTZ LAUREN DALE",
-        "filerRelation": "Officer",
+        "filerName": "MCLEAN KERRY JEAN",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-08-12T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 363,
+        "shares": 70,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MCLEAN KERRY JEAN",
-        "filerRelation": "General Counsel",
+        "filerName": "HOTZ LAUREN DALE",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-12T00:00:00.000Z",
         "ownership": "D"
@@ -6321,24 +6331,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 1146,
-        "value": 887583,
-        "filerUrl": "",
-        "transactionText": "Sale at price 773.90 per share.",
-        "filerName": "NOTARAINNI MARK PHILLIP",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-07-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1618,
         "value": 1252170,
         "filerUrl": "",
         "transactionText": "Sale at price 773.90 per share.",
         "filerName": "AUJLA SANDEEP S",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-07-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1146,
+        "value": 887583,
+        "filerUrl": "",
+        "transactionText": "Sale at price 773.90 per share.",
+        "filerName": "NOTARAINNI MARK PHILLIP",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-07-02T00:00:00.000Z",
         "ownership": "D"
@@ -6367,22 +6377,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 1818,
+        "shares": 2068,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BALAZS ALEX G",
-        "filerRelation": "Chief Technology Officer",
+        "filerName": "NOTARAINNI MARK PHILLIP",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 2068,
+        "shares": 1818,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "NOTARAINNI MARK PHILLIP",
-        "filerRelation": "Officer",
+        "filerName": "BALAZS ALEX G",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -6400,22 +6410,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 664,
+        "shares": 859,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HOTZ LAUREN DALE",
-        "filerRelation": "Officer",
+        "filerName": "MCLEAN KERRY JEAN",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 859,
+        "shares": 664,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MCLEAN KERRY JEAN",
-        "filerRelation": "General Counsel",
+        "filerName": "HOTZ LAUREN DALE",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -6587,6 +6597,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 72442,
+        "value": 53700409,
+        "filerUrl": "",
+        "transactionText": "Sale at price 726.46 - 751.48 per share.",
+        "filerName": "COOK SCOTT D",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-05-27T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 16061,
+        "value": 11662708,
+        "filerUrl": "",
+        "transactionText": "Sale at price 725.00 - 748.11 per share.",
+        "filerName": "AUJLA SANDEEP S",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-05-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 469,
         "value": 340143,
         "filerUrl": "",
@@ -6608,30 +6642,6 @@
         "moneyText": "",
         "startDate": "2025-05-27T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16061,
-        "value": 11662708,
-        "filerUrl": "",
-        "transactionText": "Sale at price 725.00 - 748.11 per share.",
-        "filerName": "AUJLA SANDEEP S",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-05-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 72442,
-        "value": 53700409,
-        "filerUrl": "",
-        "transactionText": "Sale at price 726.46 - 751.48 per share.",
-        "filerName": "COOK SCOTT D",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-05-27T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -6680,6 +6690,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 719,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "NOTARAINNI MARK PHILLIP",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-04-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 518,
         "filerUrl": "",
         "transactionText": "",
@@ -6702,11 +6723,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 719,
+        "shares": 857,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "NOTARAINNI MARK PHILLIP",
-        "filerRelation": "Officer",
+        "filerName": "MCLEAN KERRY JEAN",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-04-01T00:00:00.000Z",
         "ownership": "D"
@@ -6718,17 +6739,6 @@
         "transactionText": "",
         "filerName": "HOTZ LAUREN DALE",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 857,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MCLEAN KERRY JEAN",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-04-01T00:00:00.000Z",
         "ownership": "D"
@@ -6957,24 +6967,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 362,
-        "value": 228121,
-        "filerUrl": "",
-        "transactionText": "Sale at price 628.08 - 628.50 per share.",
-        "filerName": "NOTARAINNI MARK PHILLIP",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 109,
         "value": 68506,
         "filerUrl": "",
         "transactionText": "Sale at price 628.50 per share.",
         "filerName": "AUJLA SANDEEP S",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-01-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 362,
+        "value": 228121,
+        "filerUrl": "",
+        "transactionText": "Sale at price 628.08 - 628.50 per share.",
+        "filerName": "NOTARAINNI MARK PHILLIP",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-01-03T00:00:00.000Z",
         "ownership": "D"
@@ -7028,6 +7038,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 720,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "NOTARAINNI MARK PHILLIP",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-12-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 518,
         "filerUrl": "",
         "transactionText": "",
@@ -7050,11 +7071,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 720,
+        "shares": 1058,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "NOTARAINNI MARK PHILLIP",
-        "filerRelation": "Officer",
+        "filerName": "MCLEAN KERRY JEAN",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2024-12-31T00:00:00.000Z",
         "ownership": "D"
@@ -7066,17 +7087,6 @@
         "transactionText": "",
         "filerName": "HOTZ LAUREN DALE",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-12-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1058,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MCLEAN KERRY JEAN",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2024-12-31T00:00:00.000Z",
         "ownership": "D"
@@ -7145,11 +7155,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 303.91,
+    "currentPrice": 312.99,
     "targetHighPrice": 921,
     "targetLowPrice": 250,
-    "targetMeanPrice": 462.53333,
-    "targetMedianPrice": 443,
+    "targetMeanPrice": 456.47272,
+    "targetMedianPrice": 430,
     "recommendationMean": 1.74286,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 33,
@@ -7175,6 +7185,6 @@
     "profitMargins": 0.21907,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-28T05:15:28.061Z",
+  "lastUpdated": "2026-07-29T05:23:29.585Z",
   "source": "Static Build (yahoo-finance2)"
 }
