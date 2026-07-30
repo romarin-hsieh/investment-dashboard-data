@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0785,
         "position": 1488061,
-        "value": 252449539,
+        "value": 237628464,
         "pctChange": 0.014099999
       },
       {
@@ -54,7 +54,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.074099995,
         "position": 1403652,
-        "value": 238129553,
+        "value": 224149191,
         "pctChange": 0.4659
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Mirae Asset Global ETFs Holdings Ltd.",
         "pctHeld": 0.0655,
         "position": 1240980,
-        "value": 210532249,
+        "value": 198172099,
         "pctChange": 0.17889999
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.0638,
         "position": 1210001,
-        "value": 205276662,
+        "value": 193225062,
         "pctChange": 0.3506
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0424,
         "position": 802687,
-        "value": 136175844,
+        "value": 128181088,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0226,
         "position": 429185,
-        "value": 72811232,
+        "value": 68536553,
         "pctChange": 0.0343
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Bank Of New York Mellon Corporation",
         "pctHeld": 0.0201,
         "position": 380960,
-        "value": 64629861,
+        "value": 60835503,
         "pctChange": -0.19479999
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Dimensional Fund Advisors LP",
         "pctHeld": 0.0189,
         "position": 358347,
-        "value": 60793566,
+        "value": 57224433,
         "pctChange": 0.0007
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0.0145000005,
         "position": 275396,
-        "value": 46720929,
+        "value": 43977987,
         "pctChange": -0.6473
       },
       {
@@ -126,7 +126,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.014099999,
         "position": 266797,
-        "value": 45262109,
+        "value": 42604813,
         "pctChange": -0.2065
       }
     ]
@@ -134,8 +134,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.04318,
-    "institutionsPercentHeld": 0.84308,
-    "institutionsFloatPercentHeld": 0.88111997,
+    "institutionsPercentHeld": 0.84301,
+    "institutionsFloatPercentHeld": 0.88105005,
     "institutionsCount": 533
   },
   "earnings": {
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-29T18:44:12.000Z",
+        "firm": "JP Morgan",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 178,
+        "priorPriceTarget": 236
+      },
       {
         "epochGradeDate": "2026-07-14T10:54:15.000Z",
         "firm": "Truist Securities",
@@ -767,24 +777,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.011965806,
-    "postMarketChange": -2.0299988,
-    "postMarketTime": "2026-07-28T23:51:29.000Z",
-    "postMarketPrice": 167.62,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.03597,
-    "regularMarketChange": -6.33,
-    "regularMarketTime": "2026-07-28T20:00:03.000Z",
+    "postMarketChangePercent": -0.004320887,
+    "postMarketChange": -0.69000244,
+    "postMarketTime": "2026-07-29T23:59:00.000Z",
+    "postMarketPrice": 159,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.0587091,
+    "regularMarketChange": -9.95999,
+    "regularMarketTime": "2026-07-29T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 169.65,
-    "regularMarketDayHigh": 170,
-    "regularMarketDayLow": 157.89,
-    "regularMarketVolume": 733328,
-    "averageDailyVolume10Day": 758490,
-    "averageDailyVolume3Month": 886620,
-    "regularMarketPreviousClose": 175.98,
+    "regularMarketPrice": 159.69,
+    "regularMarketDayHigh": 168.38,
+    "regularMarketDayLow": 158.59,
+    "regularMarketVolume": 646514,
+    "averageDailyVolume10Day": 759660,
+    "averageDailyVolume3Month": 881108,
+    "regularMarketPreviousClose": 169.65,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 168,
+    "regularMarketOpen": 165.01,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -795,18 +805,18 @@
     "shortName": "Centrus Energy Corp.",
     "longName": "Centrus Energy Corp.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 3337489408
+    "marketCap": 3141548544
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 2647889408,
-    "forwardPE": 33.80829,
+    "enterpriseValue": 2451948544,
+    "forwardPE": 31.823435,
     "profitMargins": 0.13397999,
     "floatShares": 18909293,
     "sharesOutstanding": 18953594,
@@ -816,14 +826,14 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.2539,
     "heldPercentInsiders": 0.04318,
-    "heldPercentInstitutions": 0.84308,
+    "heldPercentInstitutions": 0.84301,
     "shortRatio": 5.32,
     "shortPercentOfFloat": 0.26549998,
     "beta": 1.359,
     "impliedSharesOutstanding": 19672794,
     "category": null,
     "bookValue": 39.407,
-    "priceToBook": 4.3050723,
+    "priceToBook": 4.0523257,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -831,15 +841,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": -0.632,
     "netIncomeToCommon": 60600000,
-    "trailingEps": 2.65,
-    "forwardEps": 5.018,
+    "trailingEps": 2.59,
+    "forwardEps": 4.44,
     "pegRatio": 2.87,
     "lastSplitFactor": "91:1000",
     "lastSplitDate": 1412035200,
-    "enterpriseToRevenue": 5.854,
-    "enterpriseToEbitda": 77.424,
-    "52WeekChange": -0.2429043,
-    "SandP52WeekChange": 0.16605604,
+    "enterpriseToRevenue": 5.421,
+    "enterpriseToEbitda": 71.694,
+    "52WeekChange": -0.29086548,
+    "SandP52WeekChange": 0.14981377,
     "lastDividendValue": 37.912086,
     "lastDividendDate": "2005-11-22T00:00:00.000Z",
     "latestShareClass": null,
@@ -1185,7 +1195,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 169.65,
+    "currentPrice": 159.69,
     "targetHighPrice": 390,
     "targetLowPrice": 170,
     "targetMeanPrice": 263.13333,
@@ -1215,6 +1225,6 @@
     "profitMargins": 0.13397999,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-29T05:21:08.070Z",
+  "lastUpdated": "2026-07-30T04:57:08.673Z",
   "source": "Static Build (yahoo-finance2)"
 }
