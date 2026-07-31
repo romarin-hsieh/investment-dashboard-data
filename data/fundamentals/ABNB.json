@@ -3,9 +3,9 @@
     "trend": [
       {
         "period": "0m",
-        "strongBuy": 4,
+        "strongBuy": 3,
         "buy": 19,
-        "hold": 19,
+        "hold": 20,
         "sell": 2,
         "strongSell": 0
       },
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0764,
         "position": 31943327,
-        "value": 4887648288,
+        "value": 4857941228,
         "pctChange": 0.0139
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0625,
         "position": 26133940,
-        "value": 3998754015,
+        "value": 3974449643,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Harris Associates L.P.",
         "pctHeld": 0.045900002,
         "position": 19162235,
-        "value": 2932013472,
+        "value": 2914192733,
         "pctChange": 0.025
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0424,
         "position": 17733208,
-        "value": 2713358058,
+        "value": 2696866305,
         "pctChange": -0.0106
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0356,
         "position": 14897692,
-        "value": 2279495771,
+        "value": 2265641026,
         "pctChange": -0.027
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0249,
         "position": 10401089,
-        "value": 1591470570,
+        "value": 1581797634,
         "pctChange": 0.0322
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0249,
         "position": 10426161,
-        "value": 1595306837,
+        "value": 1585610583,
         "pctChange": -0.21219999
       },
       {
@@ -108,7 +108,7 @@
         "organization": "AQR Capital Management, LLC",
         "pctHeld": 0.0191,
         "position": 7999751,
-        "value": 1224041856,
+        "value": 1216602146,
         "pctChange": 0.18290001
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0186,
         "position": 7786272,
-        "value": 1191377435,
+        "value": 1184136260,
         "pctChange": 1
       },
       {
@@ -126,17 +126,17 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0185,
         "position": 7752142,
-        "value": 1186155204,
+        "value": 1178945769,
         "pctChange": -0.1524
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.01121,
-    "institutionsPercentHeld": 0.88365,
-    "institutionsFloatPercentHeld": 0.89366996,
-    "institutionsCount": 1822
+    "insidersPercentHeld": 0.01118,
+    "institutionsPercentHeld": 0.88389,
+    "institutionsFloatPercentHeld": 0.89389,
+    "institutionsCount": 1824
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1778184027
         }
       ],
-      "currentQuarterEstimate": 1.24857,
+      "currentQuarterEstimate": 1.24886,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -261,6 +261,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-30T19:33:38.000Z",
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 163,
+        "priorPriceTarget": 157
+      },
+      {
+        "epochGradeDate": "2026-07-30T17:22:19.000Z",
+        "firm": "Morgan Stanley",
+        "toGrade": "Underweight",
+        "fromGrade": "Underweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 125,
+        "priorPriceTarget": 120
+      },
       {
         "epochGradeDate": "2026-07-14T09:58:12.000Z",
         "firm": "Jefferies",
@@ -4647,24 +4667,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0013509628,
-    "postMarketChange": 0.20671082,
-    "postMarketTime": "2026-07-29T23:52:16.000Z",
-    "postMarketPrice": 153.2167,
+    "postMarketChangePercent": -0.002104204,
+    "postMarketChange": -0.32000732,
+    "postMarketTime": "2026-07-30T23:59:56.000Z",
+    "postMarketPrice": 151.76,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.000653165,
-    "regularMarketChange": -0.100006,
-    "regularMarketTime": "2026-07-29T20:00:01.000Z",
+    "regularMarketChangePercent": -0.00607799,
+    "regularMarketChange": -0.929993,
+    "regularMarketTime": "2026-07-30T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 153.01,
-    "regularMarketDayHigh": 156.5,
-    "regularMarketDayLow": 151.5,
-    "regularMarketVolume": 3849368,
+    "regularMarketPrice": 152.08,
+    "regularMarketDayHigh": 152.21,
+    "regularMarketDayLow": 149.6,
+    "regularMarketVolume": 3055255,
     "averageDailyVolume10Day": 3610200,
-    "averageDailyVolume3Month": 3842174,
-    "regularMarketPreviousClose": 153.11,
+    "averageDailyVolume3Month": 3858319,
+    "regularMarketPreviousClose": 153.01,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 152.03,
+    "regularMarketOpen": 151.5,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -4680,13 +4700,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 90812178432
+    "marketCap": 90260226048
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 81341186048,
-    "forwardPE": 25.41521,
+    "enterpriseValue": 80789225472,
+    "forwardPE": 25.266739,
     "profitMargins": 0.19902,
     "floatShares": 403369686,
     "sharesOutstanding": 417930233,
@@ -4695,15 +4715,15 @@
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.023599999,
-    "heldPercentInsiders": 0.01121,
-    "heldPercentInstitutions": 0.88365,
+    "heldPercentInsiders": 0.01118,
+    "heldPercentInstitutions": 0.88389,
     "shortRatio": 3.66,
     "shortPercentOfFloat": 0.0339,
     "beta": 1.143,
     "impliedSharesOutstanding": 593504923,
     "category": null,
     "bookValue": 12.834,
-    "priceToBook": 11.922237,
+    "priceToBook": 11.849774,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4711,14 +4731,14 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.039,
     "netIncomeToCommon": 2516999936,
-    "trailingEps": 4.05,
+    "trailingEps": 4.03,
     "forwardEps": 6.01898,
-    "pegRatio": 1.36,
+    "pegRatio": 1.41,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 6.432,
-    "enterpriseToEbitda": 31.058,
-    "52WeekChange": 0.1355102,
-    "SandP52WeekChange": 0.14981377,
+    "enterpriseToRevenue": 6.388,
+    "enterpriseToEbitda": 30.847,
+    "52WeekChange": 0.15557742,
+    "SandP52WeekChange": 0.15407789,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -4744,6 +4764,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 2093303,
+        "value": 315911789,
+        "filerUrl": "",
+        "transactionText": "Sale at price 143.79 - 153.11 per share.",
+        "filerName": "GEBBIA JOSEPH",
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "moneyText": "",
+        "startDate": "2026-07-28T00:00:00.000Z",
+        "ownership": "I"
+      },
       {
         "maxAge": 1,
         "shares": 4077,
@@ -5017,24 +5049,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 7433,
-        "value": 1012672,
-        "filerUrl": "",
-        "transactionText": "Sale at price 136.24 per share.",
-        "filerName": "MERTZ ELINOR",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-06-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 62764,
         "value": 8410584,
         "filerUrl": "",
         "transactionText": "Sale at price 132.57 - 135.71 per share.",
         "filerName": "CHESKY BRIAN",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-06-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7433,
+        "value": 1012672,
+        "filerUrl": "",
+        "transactionText": "Sale at price 136.24 per share.",
+        "filerName": "MERTZ ELINOR",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-06-02T00:00:00.000Z",
         "ownership": "D"
@@ -5253,18 +5285,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 58000,
-        "value": 8141301,
-        "filerUrl": "",
-        "transactionText": "Sale at price 138.75 - 143.06 per share.",
-        "filerName": "GEBBIA JOSEPH",
-        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2026-05-04T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 3750,
         "value": 536250,
         "filerUrl": "",
@@ -5274,6 +5294,18 @@
         "moneyText": "",
         "startDate": "2026-05-04T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 58000,
+        "value": 8141301,
+        "filerUrl": "",
+        "transactionText": "Sale at price 138.75 - 143.06 per share.",
+        "filerName": "GEBBIA JOSEPH",
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "moneyText": "",
+        "startDate": "2026-05-04T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -6491,18 +6523,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 8000,
-        "value": 1026676,
-        "filerUrl": "",
-        "transactionText": "Sale at price 127.84 - 129.38 per share.",
-        "filerName": "CHESKY BRIAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-05-29T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 1475,
         "value": 191750,
         "filerUrl": "",
@@ -6515,27 +6535,27 @@
       },
       {
         "maxAge": 1,
-        "shares": 238509,
-        "value": 30685950,
+        "shares": 8000,
+        "value": 1026676,
         "filerUrl": "",
-        "transactionText": "Sale at price 127.87 - 129.11 per share.",
-        "filerName": "GEBBIA JOSEPH",
-        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "transactionText": "Sale at price 127.84 - 129.38 per share.",
+        "filerName": "CHESKY BRIAN",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-05-28T00:00:00.000Z",
-        "ownership": "D/I"
+        "startDate": "2025-05-29T00:00:00.000Z",
+        "ownership": "I"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 153.01,
+    "currentPrice": 152.08,
     "targetHighPrice": 181,
     "targetLowPrice": 115,
-    "targetMeanPrice": 157.09212,
+    "targetMeanPrice": 157.38158,
     "targetMedianPrice": 160,
-    "recommendationMean": 2.13636,
+    "recommendationMean": 2.15909,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 38,
     "totalCash": 12005000192,
@@ -6560,6 +6580,6 @@
     "profitMargins": 0.19902,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-30T05:00:43.377Z",
+  "lastUpdated": "2026-07-31T05:37:27.780Z",
   "source": "Static Build (yahoo-finance2)"
 }

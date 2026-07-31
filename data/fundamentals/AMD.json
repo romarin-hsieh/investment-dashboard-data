@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.08930001,
         "position": 145574284,
-        "value": 62532889079,
+        "value": 70660303843,
         "pctChange": -0.013200001
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.065,
         "position": 105940266,
-        "value": 45507700404,
+        "value": 51422347265,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.045900002,
         "position": 74771220,
-        "value": 32118725080,
+        "value": 36293203571,
         "pctChange": -0.002
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0309,
         "position": 50443198,
-        "value": 21668380009,
+        "value": 24484624616,
         "pctChange": -0.0309
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024400001,
         "position": 39791086,
-        "value": 17092658805,
+        "value": 19314195816,
         "pctChange": 0.0587
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0231,
         "position": 37603675,
-        "value": 16153034541,
+        "value": 18252448359,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0177,
         "position": 28846470,
-        "value": 12391289582,
+        "value": 14001788495,
         "pctChange": 0.41919997
       },
       {
@@ -108,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0149,
         "position": 24248547,
-        "value": 10416205790,
+        "value": 11770002583,
         "pctChange": 0.1596
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0146,
         "position": 23781608,
-        "value": 10215627474,
+        "value": 11543355055,
         "pctChange": -0.050300002
       },
       {
@@ -126,17 +126,17 @@
         "organization": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
         "pctHeld": 0.0117999995,
         "position": 19192764,
-        "value": 8244443656,
+        "value": 9315975999,
         "pctChange": 0.030199999
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.0039500003,
-    "institutionsPercentHeld": 0.71992993,
-    "institutionsFloatPercentHeld": 0.72278,
-    "institutionsCount": 4528
+    "insidersPercentHeld": 0.004,
+    "institutionsPercentHeld": 0.72001,
+    "institutionsFloatPercentHeld": 0.72290003,
+    "institutionsCount": 4558
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1778012166
         }
       ],
-      "currentQuarterEstimate": 1.6087,
+      "currentQuarterEstimate": 1.61045,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -199,68 +199,24 @@
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2022,
-          "revenue": 23601000000,
-          "earnings": 1320000000,
-          "profitMargin": 0.055929832
-        },
-        {
-          "date": 2023,
-          "revenue": 22680000000,
-          "earnings": 854000000,
-          "profitMargin": 0.03765432
-        },
-        {
-          "date": 2024,
-          "revenue": 25785000000,
-          "earnings": 1641000000,
-          "profitMargin": 0.06364165
-        },
-        {
-          "date": 2025,
-          "revenue": 34639000000,
-          "earnings": 4335000000,
-          "profitMargin": 0.12514795
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 7685000000,
-          "earnings": 872000000,
-          "profitMargin": 0.11346779
-        },
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "3Q2025",
-          "revenue": 9246000000,
-          "earnings": 1243000000,
-          "profitMargin": 0.13443652
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 10270000000,
-          "earnings": 1511000000,
-          "profitMargin": 0.14712755
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 10253000000,
-          "earnings": 1383000000,
-          "profitMargin": 0.13488737
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-30T18:27:09.000Z",
+        "firm": "Susquehanna",
+        "toGrade": "Positive",
+        "fromGrade": "Positive",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 500,
+        "priorPriceTarget": 450
+      },
       {
         "epochGradeDate": "2026-07-27T17:52:28.000Z",
         "firm": "Mizuho",
@@ -7757,24 +7713,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0042136083,
-    "postMarketChange": -1.8099976,
-    "postMarketTime": "2026-07-29T23:59:57.000Z",
-    "postMarketPrice": 427.75,
+    "postMarketChangePercent": 0.028657312,
+    "postMarketChange": 13.909973,
+    "postMarketTime": "2026-07-30T23:59:59.000Z",
+    "postMarketPrice": 499.3,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.055123,
-    "regularMarketChange": -25.06,
-    "regularMarketTime": "2026-07-29T20:00:01.000Z",
+    "regularMarketChangePercent": 0.12997,
+    "regularMarketChange": 55.83,
+    "regularMarketTime": "2026-07-30T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 429.56,
-    "regularMarketDayHigh": 457.22,
-    "regularMarketDayLow": 424.0316,
-    "regularMarketVolume": 31474125,
-    "averageDailyVolume10Day": 29111520,
-    "averageDailyVolume3Month": 33240293,
-    "regularMarketPreviousClose": 454.62,
+    "regularMarketPrice": 485.39,
+    "regularMarketDayHigh": 498.2,
+    "regularMarketDayLow": 457.68,
+    "regularMarketVolume": 35078562,
+    "averageDailyVolume10Day": 29124860,
+    "averageDailyVolume3Month": 33096988,
+    "regularMarketPreviousClose": 429.56,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 452,
+    "regularMarketOpen": 459.16,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -7783,37 +7739,34 @@
     "symbol": "AMD",
     "underlyingSymbol": null,
     "shortName": "Advanced Micro Devices, Inc.",
-    "longName": "Advanced Micro Devices, Inc.",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 700440772608
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 691964805120,
-    "forwardPE": 31.177828,
+    "enterpriseValue": 783001255936,
+    "forwardPE": 35.118984,
     "profitMargins": 0.13374,
     "floatShares": 1621991068,
-    "sharesOutstanding": 1630600639,
     "sharesShort": 39768152,
     "sharesShortPriorMonth": "1971-06-26T05:35:36.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.024400001,
-    "heldPercentInsiders": 0.0039500003,
-    "heldPercentInstitutions": 0.71992993,
+    "heldPercentInsiders": 0.004,
+    "heldPercentInstitutions": 0.72001,
     "shortRatio": 1.36,
     "shortPercentOfFloat": 0.024500001,
     "beta": 2.469,
-    "impliedSharesOutstanding": 1630600639,
     "category": null,
     "bookValue": 39.547,
-    "priceToBook": 10.862012,
+    "priceToBook": 12.27375,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-27T00:00:00.000Z",
@@ -7821,15 +7774,15 @@
     "mostRecentQuarter": "2026-03-28T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.951,
     "netIncomeToCommon": 4931999744,
-    "trailingEps": 2.84,
-    "forwardEps": 13.77774,
-    "pegRatio": 1.16,
+    "trailingEps": 3.4,
+    "forwardEps": 13.8213,
+    "pegRatio": 1.01,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 966902400,
-    "enterpriseToRevenue": 18.475,
-    "enterpriseToEbitda": 93.131,
-    "52WeekChange": 1.3929586,
-    "SandP52WeekChange": 0.14981377,
+    "enterpriseToRevenue": 20.906,
+    "enterpriseToEbitda": 105.384,
+    "52WeekChange": 1.4363904,
+    "SandP52WeekChange": 0.15407789,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -8188,10 +8141,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 7084,
+        "shares": 39044,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GRASBY PAUL DARREN",
+        "filerName": "HUYNH JACK M",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-13T00:00:00.000Z",
@@ -8199,10 +8152,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 39044,
+        "shares": 7084,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HUYNH JACK M",
+        "filerName": "GRASBY PAUL DARREN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-13T00:00:00.000Z",
@@ -9304,10 +9257,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 6544,
+        "shares": 2642,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HUYNH JACK M",
+        "filerName": "GUIDO PHILIP",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-08-09T00:00:00.000Z",
@@ -9315,10 +9268,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 2642,
+        "shares": 6544,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GUIDO PHILIP",
+        "filerName": "HUYNH JACK M",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-08-09T00:00:00.000Z",
@@ -9408,10 +9361,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 429.56,
+    "currentPrice": 485.39,
     "targetHighPrice": 1250,
     "targetLowPrice": 320,
-    "targetMeanPrice": 575.4894,
+    "targetMeanPrice": 576.55316,
     "targetMedianPrice": 600,
     "recommendationMean": 1.4902,
     "recommendationKey": "strong_buy",
@@ -9438,6 +9391,6 @@
     "profitMargins": 0.13374,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-30T04:58:41.658Z",
+  "lastUpdated": "2026-07-31T05:35:24.422Z",
   "source": "Static Build (yahoo-finance2)"
 }

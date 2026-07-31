@@ -45,7 +45,7 @@
         "organization": "Berkshire Hathaway, Inc",
         "pctHeld": 0.093,
         "position": 400000000,
-        "value": 35632000732,
+        "value": 35395999145,
         "pctChange": 0
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0775,
         "position": 333596781,
-        "value": 29716801862,
+        "value": 29519978438,
         "pctChange": 0.0468
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0552,
         "position": 237452767,
-        "value": 21152292919,
+        "value": 21012194844,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.038900003,
         "position": 167222395,
-        "value": 14896171252,
+        "value": 14797509376,
         "pctChange": -0.0037
       },
       {
@@ -81,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.025,
         "position": 107577934,
-        "value": 9583042557,
+        "value": 9519571149,
         "pctChange": -0.0218
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0232,
         "position": 99948626,
-        "value": 8903423787,
+        "value": 8844453701,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0216,
         "position": 92954629,
-        "value": 8280398521,
+        "value": 8225554921,
         "pctChange": 0.033
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0214,
         "position": 91894070,
-        "value": 8185923923,
+        "value": 8131706057,
         "pctChange": -0.0139999995
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Charles Schwab Investment Management, Inc.",
         "pctHeld": 0.0177,
         "position": 76339039,
-        "value": 6800281733,
+        "value": 6755241398,
         "pctChange": 0.067600004
       },
       {
@@ -126,17 +126,17 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0164,
         "position": 70592595,
-        "value": 6288388491,
+        "value": 6246738580,
         "pctChange": 0.0078
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.098950006,
-    "institutionsPercentHeld": 0.68384004,
-    "institutionsFloatPercentHeld": 0.75892997,
-    "institutionsCount": 4539
+    "insidersPercentHeld": 0.098929994,
+    "institutionsPercentHeld": 0.68426,
+    "institutionsFloatPercentHeld": 0.75938004,
+    "institutionsCount": 4546
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1785236293
         }
       ],
-      "currentQuarterEstimate": 0.87695,
+      "currentQuarterEstimate": 0.87893,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -196,7 +196,7 @@
       "earningsDate": [
         "2026-10-20T12:30:00.000Z"
       ],
-      "isEarningsDateEstimate": true
+      "isEarningsDateEstimate": false
     },
     "financialsChart": {
       "yearly": [
@@ -227,13 +227,6 @@
       ],
       "quarterly": [
         {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 12535000000,
-          "earnings": 3810000000,
-          "profitMargin": 0.30394894
-        },
-        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 12455000000,
@@ -253,6 +246,13 @@
           "revenue": 12472000000,
           "earnings": 3924000000,
           "profitMargin": 0.31462476
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 13380000000,
+          "earnings": 4425000000,
+          "profitMargin": 0.3307175
         }
       ]
     },
@@ -261,6 +261,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-30T15:19:34.000Z",
+        "firm": "Argus Research",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 97,
+        "priorPriceTarget": 91
+      },
+      {
+        "epochGradeDate": "2026-07-30T11:46:00.000Z",
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 93,
+        "priorPriceTarget": 91
+      },
       {
         "epochGradeDate": "2026-07-29T18:25:22.000Z",
         "firm": "JP Morgan",
@@ -3237,24 +3257,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.00010097728,
-    "postMarketChange": 0.008995056,
-    "postMarketTime": "2026-07-29T23:59:55.000Z",
-    "postMarketPrice": 89.089,
+    "postMarketChangePercent": -0.0021685448,
+    "postMarketChange": -0.19189453,
+    "postMarketTime": "2026-07-30T23:59:59.000Z",
+    "postMarketPrice": 88.2981,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.00917645,
-    "regularMarketChange": 0.810005,
-    "regularMarketTime": "2026-07-29T20:00:02.000Z",
+    "regularMarketChangePercent": -0.0066233,
+    "regularMarketChange": -0.590004,
+    "regularMarketTime": "2026-07-30T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 89.08,
-    "regularMarketDayHigh": 90.92,
-    "regularMarketDayLow": 88.64,
-    "regularMarketVolume": 18160957,
-    "averageDailyVolume10Day": 19274570,
-    "averageDailyVolume3Month": 17596583,
-    "regularMarketPreviousClose": 88.27,
+    "regularMarketPrice": 88.49,
+    "regularMarketDayHigh": 88.64,
+    "regularMarketDayLow": 87.21,
+    "regularMarketVolume": 13222114,
+    "averageDailyVolume10Day": 19277900,
+    "averageDailyVolume3Month": 17637365,
+    "regularMarketPreviousClose": 89.08,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 88.65,
+    "regularMarketOpen": 87.63,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -3263,36 +3283,37 @@
     "symbol": "KO",
     "underlyingSymbol": null,
     "shortName": "Coca-Cola Company (The)",
-    "longName": "The Coca-Cola Company",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 383311249408
+    "marketCap": 380732538880
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 412648243200,
-    "forwardPE": 25.572645,
+    "enterpriseValue": 410109476864,
+    "forwardPE": 25.093435,
     "profitMargins": 0.28558,
     "floatShares": 3874378170,
-    "sharesOutstanding": 4303000000,
+    "sharesOutstanding": 4302549243,
     "sharesShort": 47770310,
     "sharesShortPriorMonth": "1971-08-15T18:13:15.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0111,
-    "heldPercentInsiders": 0.098950006,
-    "heldPercentInstitutions": 0.68384004,
+    "heldPercentInsiders": 0.098929994,
+    "heldPercentInstitutions": 0.68426,
     "shortRatio": 2.37,
     "shortPercentOfFloat": 0.0112,
-    "impliedSharesOutstanding": 4303000000,
+    "beta": 0.349,
+    "impliedSharesOutstanding": 4302549243,
     "category": null,
-    "bookValue": 7.816,
-    "priceToBook": 11.397135,
+    "bookValue": 8.401,
+    "priceToBook": 10.53327,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3300,15 +3321,15 @@
     "mostRecentQuarter": "2026-07-03T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.161,
     "netIncomeToCommon": 14316000256,
-    "trailingEps": 3.21,
-    "forwardEps": 3.52434,
-    "pegRatio": 4.11,
+    "trailingEps": 3.31,
+    "forwardEps": 3.52642,
+    "pegRatio": 4.36,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1344816000,
-    "enterpriseToRevenue": 8.232,
-    "enterpriseToEbitda": 24.056,
-    "52WeekChange": 0.29570913,
-    "SandP52WeekChange": 0.14981377,
+    "enterpriseToRevenue": 8.181,
+    "enterpriseToEbitda": 24.082,
+    "52WeekChange": 0.31212258,
+    "SandP52WeekChange": 0.15407789,
     "lastDividendValue": 0.53,
     "lastDividendDate": "2026-06-15T00:00:00.000Z",
     "latestShareClass": null,
@@ -3337,6 +3358,30 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 75727,
+        "value": 6788624,
+        "filerUrl": "",
+        "transactionText": "Sale at price 89.60 - 89.69 per share.",
+        "filerName": "PIETRACCI BRUNO",
+        "filerRelation": "Divisional Officer",
+        "moneyText": "",
+        "startDate": "2026-07-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 75727,
+        "value": 4139731,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 50.44 - 59.48 per share.",
+        "filerName": "PIETRACCI BRUNO",
+        "filerRelation": "Divisional Officer",
+        "moneyText": "",
+        "startDate": "2026-07-28T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 23984,
@@ -3507,24 +3552,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 23556,
-        "value": 1872747,
-        "filerUrl": "",
-        "transactionText": "Sale at price 79.50 per share.",
-        "filerName": "QUAN NANCY W",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 28765,
         "value": 2284318,
         "filerUrl": "",
         "transactionText": "Sale at price 79.41 per share.",
         "filerName": "PIETRACCI BRUNO",
         "filerRelation": "Divisional Officer",
+        "moneyText": "",
+        "startDate": "2026-03-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 23556,
+        "value": 1872747,
+        "filerUrl": "",
+        "transactionText": "Sale at price 79.50 per share.",
+        "filerName": "QUAN NANCY W",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-03T00:00:00.000Z",
         "ownership": "D"
@@ -3591,11 +3636,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 7440,
-        "value": 0,
+        "shares": 36326,
+        "value": 1629999,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MAY ERIN L",
+        "transactionText": "Conversion of Exercise of derivative security at price 44.48 - 45.44 per share.",
+        "filerName": "PEREZ BEATRIZ R",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-26T00:00:00.000Z",
@@ -3603,11 +3648,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 36326,
-        "value": 1629999,
+        "shares": 7440,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 44.48 - 45.44 per share.",
-        "filerName": "PEREZ BEATRIZ R",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MAY ERIN L",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-26T00:00:00.000Z",
@@ -4155,11 +4200,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 13445,
-        "value": 678143,
+        "shares": 28543,
+        "value": 1242049,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 50.44 per share.",
-        "filerName": "CHANG LISA VIRGINIA",
+        "transactionText": "Conversion of Exercise of derivative security at price 43.52 per share.",
+        "filerName": "QUAN NANCY W",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-25T00:00:00.000Z",
@@ -4167,11 +4212,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 28543,
-        "value": 1242049,
+        "shares": 13445,
+        "value": 678143,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 43.52 per share.",
-        "filerName": "QUAN NANCY W",
+        "transactionText": "Conversion of Exercise of derivative security at price 50.44 per share.",
+        "filerName": "CHANG LISA VIRGINIA",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-25T00:00:00.000Z",
@@ -4551,18 +4596,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 18482,
-        "value": 1274334,
-        "filerUrl": "",
-        "transactionText": "Sale at price 68.95 per share.",
-        "filerName": "QUAN NANCY W",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 38653,
         "value": 2667370,
         "filerUrl": "",
@@ -4575,12 +4608,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 38653,
-        "value": 1756199,
+        "shares": 18482,
+        "value": 1274334,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 45.44 per share.",
-        "filerName": "PIETRACCI BRUNO",
-        "filerRelation": "Divisional Officer",
+        "transactionText": "Sale at price 68.95 per share.",
+        "filerName": "QUAN NANCY W",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-08-02T00:00:00.000Z",
         "ownership": "D"
@@ -4596,42 +4629,54 @@
         "moneyText": "",
         "startDate": "2024-08-02T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 38653,
+        "value": 1756199,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 45.44 per share.",
+        "filerName": "PIETRACCI BRUNO",
+        "filerRelation": "Divisional Officer",
+        "moneyText": "",
+        "startDate": "2024-08-02T00:00:00.000Z",
+        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 89.08,
-    "targetHighPrice": 98,
+    "currentPrice": 88.49,
+    "targetHighPrice": 104,
     "targetLowPrice": 75,
-    "targetMeanPrice": 88.30435,
-    "targetMedianPrice": 89,
+    "targetMeanPrice": 94.69565,
+    "targetMedianPrice": 96,
     "recommendationMean": 1.75,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 23,
     "totalCash": 16371000320,
     "totalCashPerShare": 3.805,
-    "ebitda": 17153999872,
+    "ebitda": 17029999616,
     "totalDebt": 43542999040,
     "quickRatio": 0.798,
     "currentRatio": 1.305,
     "totalRevenue": 50128998400,
     "debtToEquity": 113.645,
     "revenuePerShare": 11.651,
-    "returnOnAssets": 0.09493,
+    "returnOnAssets": 0.0942,
     "returnOnEquity": 0.42054,
     "grossProfits": 31024001024,
-    "freeCashflow": 5355250176,
+    "freeCashflow": 5264750080,
     "operatingCashflow": 16341999616,
     "earningsGrowth": 0.169,
     "revenueGrowth": 0.067,
     "grossMargins": 0.61888003,
-    "ebitdaMargins": 0.3422,
+    "ebitdaMargins": 0.33972,
     "operatingMargins": 0.34917998,
     "profitMargins": 0.28558,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-30T04:59:37.009Z",
+  "lastUpdated": "2026-07-31T05:36:21.063Z",
   "source": "Static Build (yahoo-finance2)"
 }

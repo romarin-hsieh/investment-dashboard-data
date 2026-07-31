@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0799,
         "position": 593328571,
-        "value": 231718545188,
+        "value": 267650521999,
         "pctChange": -0.014199999
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.065,
         "position": 482558086,
-        "value": 188458239029,
+        "value": 217681955539,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.041300002,
         "position": 306708289,
-        "value": 119781857806,
+        "value": 138356111039,
         "pctChange": 0.0018000001
       },
       {
@@ -72,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0256,
         "position": 190211367,
-        "value": 74285148893,
+        "value": 85804348814,
         "pctChange": -0.053400002
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0254,
         "position": 188501918,
-        "value": 73617540666,
+        "value": 85033216360,
         "pctChange": 0.0322
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0225,
         "position": 167490848,
-        "value": 65411877209,
+        "value": 75555122555,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0171,
         "position": 127128999,
-        "value": 49648960355,
+        "value": 57347892224,
         "pctChange": -0.1396
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0168,
         "position": 124881288,
-        "value": 48771139282,
+        "value": 56333949779,
         "pctChange": 0.030199999
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.015800001,
         "position": 117242934,
-        "value": 45788056446,
+        "value": 52888288242,
         "pctChange": -0.0673
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.013300001,
         "position": 98747284,
-        "value": 38564765137,
+        "value": 44544900415,
         "pctChange": -0.0659
       }
     ]
@@ -187,14 +187,16 @@
           "reportedDate": 1785355493
         }
       ],
-      "currentQuarterEstimate": 4.60764,
+      "currentQuarterEstimate": 4.68025,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "1Q2027",
       "currentPeriodEndDate": 1790726400,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "earningsDate": [
+        "2026-10-28T20:00:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -215,6 +217,12 @@
           "revenue": 281724000000,
           "earnings": 101832000000,
           "profitMargin": 0.36146015
+        },
+        {
+          "date": 2026,
+          "revenue": 331839000000,
+          "earnings": 133749000000,
+          "profitMargin": 0.40305388
         }
       ],
       "quarterly": [
@@ -238,6 +246,13 @@
           "revenue": 82886000000,
           "earnings": 31778000000,
           "profitMargin": 0.38339406
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "4Q2026",
+          "revenue": 90007000000,
+          "earnings": 35766000000,
+          "profitMargin": 0.3973691
         }
       ]
     },
@@ -246,6 +261,126 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-30T19:38:11.000Z",
+        "firm": "Bernstein",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 647,
+        "priorPriceTarget": 646
+      },
+      {
+        "epochGradeDate": "2026-07-30T18:29:22.000Z",
+        "firm": "Citigroup",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 600,
+        "priorPriceTarget": 570
+      },
+      {
+        "epochGradeDate": "2026-07-30T18:23:20.000Z",
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 640,
+        "priorPriceTarget": 640
+      },
+      {
+        "epochGradeDate": "2026-07-30T17:09:13.000Z",
+        "firm": "Stifel",
+        "toGrade": "Hold",
+        "fromGrade": "Hold",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 450,
+        "priorPriceTarget": 400
+      },
+      {
+        "epochGradeDate": "2026-07-30T15:27:53.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 540,
+        "priorPriceTarget": 540
+      },
+      {
+        "epochGradeDate": "2026-07-30T15:19:42.000Z",
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 550,
+        "priorPriceTarget": 550
+      },
+      {
+        "epochGradeDate": "2026-07-30T14:55:16.000Z",
+        "firm": "Wells Fargo",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 650,
+        "priorPriceTarget": 625
+      },
+      {
+        "epochGradeDate": "2026-07-30T14:47:28.000Z",
+        "firm": "Evercore ISI Group",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 528,
+        "priorPriceTarget": 525
+      },
+      {
+        "epochGradeDate": "2026-07-30T14:41:15.000Z",
+        "firm": "Citizens",
+        "toGrade": "Market Outperform",
+        "fromGrade": "Market Outperform",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 550,
+        "priorPriceTarget": 550
+      },
+      {
+        "epochGradeDate": "2026-07-30T12:54:45.000Z",
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 522,
+        "priorPriceTarget": 502
+      },
+      {
+        "epochGradeDate": "2026-07-30T11:07:19.000Z",
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 512,
+        "priorPriceTarget": 545
+      },
+      {
+        "epochGradeDate": "2026-07-30T09:02:49.000Z",
+        "firm": "Piper Sandler",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 550,
+        "priorPriceTarget": 540
+      },
       {
         "epochGradeDate": "2026-07-28T12:44:32.000Z",
         "firm": "Citizens",
@@ -9402,24 +9537,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.08826241,
-    "postMarketChange": 34.47,
-    "postMarketTime": "2026-07-29T23:59:59.000Z",
-    "postMarketPrice": 425.01,
+    "postMarketChangePercent": -0.005830204,
+    "postMarketChange": -2.630005,
+    "postMarketTime": "2026-07-30T23:59:59.000Z",
+    "postMarketPrice": 448.47,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0071437596,
-    "regularMarketChange": -2.81,
-    "regularMarketTime": "2026-07-29T20:00:01.000Z",
+    "regularMarketChangePercent": 0.155067,
+    "regularMarketChange": 60.56,
+    "regularMarketTime": "2026-07-30T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 390.54,
-    "regularMarketDayHigh": 401.25,
-    "regularMarketDayLow": 388.743,
-    "regularMarketVolume": 42418496,
-    "averageDailyVolume10Day": 31347910,
-    "averageDailyVolume3Month": 39186175,
-    "regularMarketPreviousClose": 393.35,
+    "regularMarketPrice": 451.1,
+    "regularMarketDayHigh": 458.69,
+    "regularMarketDayLow": 432.44,
+    "regularMarketVolume": 109342280,
+    "averageDailyVolume10Day": 31572600,
+    "averageDailyVolume3Month": 38702957,
+    "regularMarketPreviousClose": 390.54,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 393.4,
+    "regularMarketOpen": 438.5,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -9435,16 +9570,16 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 2901100986368
+    "marketCap": 3349663711232
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 2948304994304,
-    "forwardPE": 17.287844,
+    "forwardPE": 19.540962,
     "profitMargins": 0.39341998,
     "floatShares": 7417366336,
-    "sharesOutstanding": 7428434704,
+    "sharesOutstanding": 7425545491,
     "sharesShort": 92373474,
     "sharesShortPriorMonth": "1973-01-06T17:11:04.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
@@ -9455,10 +9590,10 @@
     "shortRatio": 1.99,
     "shortPercentOfFloat": 0.0124,
     "beta": 1.13,
-    "impliedSharesOutstanding": 7428434704,
+    "impliedSharesOutstanding": 7425545491,
     "category": null,
     "bookValue": 55.777,
-    "priceToBook": 7.001811,
+    "priceToBook": 8.087563,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-06-30T00:00:00.000Z",
@@ -9466,15 +9601,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.231,
     "netIncomeToCommon": 125215997952,
-    "trailingEps": 16.68,
-    "forwardEps": 22.59044,
+    "trailingEps": 20.75,
+    "forwardEps": 23.08484,
     "pegRatio": 1.21,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1045526400,
     "enterpriseToRevenue": 9.263,
     "enterpriseToEbitda": 15.984,
-    "52WeekChange": -0.23906946,
-    "SandP52WeekChange": 0.14981377,
+    "52WeekChange": -0.26796627,
+    "SandP52WeekChange": 0.15407789,
     "lastDividendValue": 0.91,
     "lastDividendDate": "2026-05-21T00:00:00.000Z",
     "latestShareClass": null,
@@ -9817,6 +9952,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 11583,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "NUMOTO TAKESHI",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 4022,
         "value": 0,
         "filerUrl": "",
@@ -9870,18 +10017,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "ALTHOFF JUDSON",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-09-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 11583,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "NUMOTO TAKESHI",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-15T00:00:00.000Z",
@@ -9961,6 +10096,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 17223,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "NUMOTO TAKESHI",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 20386,
         "value": 0,
         "filerUrl": "",
@@ -9990,18 +10137,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "ALTHOFF JUDSON",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-09-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 17223,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "NUMOTO TAKESHI",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-02T00:00:00.000Z",
@@ -10357,11 +10492,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1000,
-        "value": 414720,
+        "shares": 25000,
+        "value": 10425000,
         "filerUrl": "",
-        "transactionText": "Sale at price 414.72 per share.",
-        "filerName": "NUMOTO TAKESHI",
+        "transactionText": "Sale at price 417.00 per share.",
+        "filerName": "ALTHOFF JUDSON",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-11-22T00:00:00.000Z",
@@ -10369,11 +10504,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 25000,
-        "value": 10425000,
+        "shares": 1000,
+        "value": 414720,
         "filerUrl": "",
-        "transactionText": "Sale at price 417.00 per share.",
-        "filerName": "ALTHOFF JUDSON",
+        "transactionText": "Sale at price 414.72 per share.",
+        "filerName": "NUMOTO TAKESHI",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-11-22T00:00:00.000Z",
@@ -10609,24 +10744,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 45668,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HOOD AMY E",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2024-09-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 17224,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "HOGAN KATHLEEN T",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-09-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 45668,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HOOD AMY E",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2024-09-03T00:00:00.000Z",
         "ownership": "D"
@@ -10720,14 +10855,14 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 390.54,
+    "currentPrice": 451.1,
     "targetHighPrice": 870,
     "targetLowPrice": 400,
-    "targetMeanPrice": 555.7652,
+    "targetMeanPrice": 561.5792,
     "targetMedianPrice": 550,
-    "recommendationMean": 1.33929,
+    "recommendationMean": 1.33333,
     "recommendationKey": "strong_buy",
-    "numberOfAnalystOpinions": 54,
+    "numberOfAnalystOpinions": 53,
     "totalCash": 78227996672,
     "totalCashPerShare": 10.531,
     "ebitda": 184457003008,
@@ -10750,6 +10885,6 @@
     "profitMargins": 0.39341998,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-30T04:58:11.264Z",
+  "lastUpdated": "2026-07-31T05:34:52.584Z",
   "source": "Static Build (yahoo-finance2)"
 }

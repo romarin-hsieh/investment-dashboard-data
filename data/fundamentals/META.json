@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0769,
         "position": 168843283,
-        "value": 98876312484,
+        "value": 91011599782,
         "pctChange": -0.0155
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0647,
         "position": 142138157,
-        "value": 83237524038,
+        "value": 76616734931,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0531,
         "position": 116614753,
-        "value": 68290763796,
+        "value": 62858853726,
         "pctChange": -0.0468
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0403,
         "position": 88523840,
-        "value": 51840444645,
+        "value": 47717008068,
         "pctChange": -0.0255
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0247,
         "position": 54165192,
-        "value": 31719677293,
+        "value": 29196665030,
         "pctChange": 0.0257
       },
       {
@@ -90,7 +90,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0229,
         "position": 50180811,
-        "value": 29386383994,
+        "value": 27048964023,
         "pctChange": 0.1442
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0187,
         "position": 41055422,
-        "value": 24042465076,
+        "value": 22130105323,
         "pctChange": 0.0378
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0173,
         "position": 38078962,
-        "value": 22299420379,
+        "value": 20525704002,
         "pctChange": 0.0139999995
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0173,
         "position": 38025196,
-        "value": 22267934472,
+        "value": 20496722513,
         "pctChange": -0.0968
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0172,
         "position": 37856635,
-        "value": 22169223467,
+        "value": 20405863073,
         "pctChange": 1
       }
     ]
@@ -187,14 +187,16 @@
           "reportedDate": 1785355260
         }
       ],
-      "currentQuarterEstimate": 7.04605,
+      "currentQuarterEstimate": 6.77192,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "3Q2026",
       "currentPeriodEndDate": 1790726400,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "earningsDate": [
+        "2026-10-28T20:00:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -244,6 +246,13 @@
           "revenue": 56311000000,
           "earnings": 26773000000,
           "profitMargin": 0.47544885
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 60801000000,
+          "earnings": 15848000000,
+          "profitMargin": 0.26065361
         }
       ]
     },
@@ -4388,24 +4397,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.07363262,
-    "postMarketChange": -43.119995,
-    "postMarketTime": "2026-07-29T23:59:59.000Z",
-    "postMarketPrice": 542.49,
+    "postMarketChangePercent": 0.006959092,
+    "postMarketChange": 3.7511597,
+    "postMarketTime": "2026-07-30T23:59:58.000Z",
+    "postMarketPrice": 542.7812,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0131443,
-    "regularMarketChange": -7.79999,
-    "regularMarketTime": "2026-07-29T20:00:01.000Z",
+    "regularMarketChangePercent": -0.0795409,
+    "regularMarketChange": -46.58,
+    "regularMarketTime": "2026-07-30T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 585.61,
-    "regularMarketDayHigh": 599.97,
-    "regularMarketDayLow": 582.22,
-    "regularMarketVolume": 19895887,
-    "averageDailyVolume10Day": 14035160,
-    "averageDailyVolume3Month": 18235091,
-    "regularMarketPreviousClose": 593.41,
+    "regularMarketPrice": 539.03,
+    "regularMarketDayHigh": 539.88,
+    "regularMarketDayLow": 524.519,
+    "regularMarketVolume": 42028145,
+    "averageDailyVolume10Day": 14104320,
+    "averageDailyVolume3Month": 17680365,
+    "regularMarketPreviousClose": 585.61,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 593.42,
+    "regularMarketOpen": 525.74,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -4421,16 +4430,16 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 1486526087168
+    "marketCap": 1373182361600
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 1492115128320,
-    "forwardPE": 15.822175,
+    "forwardPE": 14.735362,
     "profitMargins": 0.32837,
     "floatShares": 2192690050,
-    "sharesOutstanding": 2196045588,
+    "sharesOutstanding": 2205128509,
     "sharesShort": 37847633,
     "sharesShortPriorMonth": "1970-12-14T01:12:35.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
@@ -4441,10 +4450,10 @@
     "shortRatio": 1.85,
     "shortPercentOfFloat": 0.0172,
     "beta": 1.246,
-    "impliedSharesOutstanding": 2538423304,
+    "impliedSharesOutstanding": 2547506225,
     "category": null,
     "bookValue": 96.013,
-    "priceToBook": 6.099278,
+    "priceToBook": 5.6141357,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4452,14 +4461,14 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.609,
     "netIncomeToCommon": 70586998784,
-    "trailingEps": 27.11,
-    "forwardEps": 36.83413,
-    "pegRatio": 0.87,
+    "trailingEps": 24.42,
+    "forwardEps": 36.58071,
+    "pegRatio": 0.85,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 6.941,
     "enterpriseToEbitda": 13.651,
-    "52WeekChange": -0.15765023,
-    "SandP52WeekChange": 0.14981377,
+    "52WeekChange": -0.24285012,
+    "SandP52WeekChange": 0.15407789,
     "lastDividendValue": 0.525,
     "lastDividendDate": "2026-06-15T00:00:00.000Z",
     "latestShareClass": null,
@@ -4487,6 +4496,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 1466,
+        "value": 891108,
+        "filerUrl": "",
+        "transactionText": "Sale at price 607.85 per share.",
+        "filerName": "OLIVAN JAVIER",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-07-27T00:00:00.000Z",
+        "ownership": "D/I"
+      },
       {
         "maxAge": 1,
         "shares": 1466,
@@ -4633,10 +4654,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 767,
+        "shares": 600,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TAN HOCK E",
+        "filerName": "KIMMITT ROBERT M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-15T00:00:00.000Z",
@@ -4655,10 +4676,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 600,
+        "shares": 767,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "KIMMITT ROBERT M",
+        "filerName": "TAN HOCK E",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-15T00:00:00.000Z",
@@ -4670,28 +4691,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "TRAVIS TRACEY THOMAS",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 709,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SONGHURST CHARLES",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 709,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "WHITE DANA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-15T00:00:00.000Z",
@@ -4721,6 +4720,94 @@
       },
       {
         "maxAge": 1,
+        "shares": 767,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ARNOLD JOHN DOUGLAS",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 709,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SONGHURST CHARLES",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 709,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WHITE DANA",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 709,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ELKANN JOHN PHILIPP",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 16388,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "OLIVAN JAVIER",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-05-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 600,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KILLEFER NANCY",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 16388,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "COX CHRISTOPHER K",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-05-15T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2451,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ANDERSON AARON",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-05-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 600,
         "filerUrl": "",
         "transactionText": "",
@@ -4729,6 +4816,17 @@
         "moneyText": "",
         "startDate": "2026-05-15T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 600,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ALFORD PEGGY",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-15T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -4765,88 +4863,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 767,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ARNOLD JOHN DOUGLAS",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 600,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "KILLEFER NANCY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 709,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ELKANN JOHN PHILIPP",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16388,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "OLIVAN JAVIER",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-05-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16388,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "COX CHRISTOPHER K",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-05-15T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 600,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "HOUSTON ANDREW W",
         "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 600,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ALFORD PEGGY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-15T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2451,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ANDERSON AARON",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-15T00:00:00.000Z",
         "ownership": "D"
@@ -5116,6 +5137,28 @@
       },
       {
         "maxAge": 1,
+        "shares": 102,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "COLLISON PATRICK",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-02-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 167,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ARNOLD JOHN DOUGLAS",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-02-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 110,
         "filerUrl": "",
         "transactionText": "",
@@ -5131,72 +5174,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "WHITE DANA",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-02-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 102,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "COLLISON PATRICK",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-02-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 189,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "XU TONY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-02-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16902,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BOSWORTH ANDREW",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2026-02-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 36367,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LI SUSAN J.",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-02-13T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2024,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "POWELL DINA H",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-02-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 167,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ARNOLD JOHN DOUGLAS",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-02-13T00:00:00.000Z",
@@ -5242,6 +5219,50 @@
         "transactionText": "",
         "filerName": "ANDERSON AARON",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 189,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "XU TONY",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-02-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 16902,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BOSWORTH ANDREW",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2026-02-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 36367,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LI SUSAN J.",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-02-13T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2024,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "POWELL DINA H",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2026-02-13T00:00:00.000Z",
         "ownership": "D"
@@ -5548,11 +5569,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 519,
-        "value": 307040,
+        "shares": 726,
+        "value": 429502,
         "filerUrl": "",
         "transactionText": "Sale at price 591.60 per share.",
-        "filerName": "NEWSTEAD JENNIFER",
+        "filerName": "ANDERSON AARON",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-18T00:00:00.000Z",
@@ -5560,11 +5581,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 726,
-        "value": 429502,
+        "shares": 519,
+        "value": 307040,
         "filerUrl": "",
         "transactionText": "Sale at price 591.60 per share.",
-        "filerName": "ANDERSON AARON",
+        "filerName": "NEWSTEAD JENNIFER",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-18T00:00:00.000Z",
@@ -5610,6 +5631,17 @@
         "shares": 109,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "SONGHURST CHARLES",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-11-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 109,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "WHITE DANA",
         "filerRelation": "Director",
         "moneyText": "",
@@ -5623,83 +5655,6 @@
         "transactionText": "",
         "filerName": "COLLISON PATRICK",
         "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 189,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "XU TONY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 24421,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BOSWORTH ANDREW",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-11-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 36367,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LI SUSAN J.",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-11-14T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 103,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "POWELL DINA H",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 167,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ARNOLD JOHN DOUGLAS",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 109,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SONGHURST CHARLES",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16723,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "NEWSTEAD JENNIFER",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-14T00:00:00.000Z",
         "ownership": "D"
@@ -5747,6 +5702,72 @@
         "moneyText": "",
         "startDate": "2025-11-14T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 189,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "XU TONY",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-11-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 16723,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "NEWSTEAD JENNIFER",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-11-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 24421,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BOSWORTH ANDREW",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-11-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 36367,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LI SUSAN J.",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-11-14T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 103,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "POWELL DINA H",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-11-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 167,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ARNOLD JOHN DOUGLAS",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-11-14T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -6207,29 +6228,18 @@
         "shares": 110,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "SONGHURST CHARLES",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-08-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 110,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "WHITE DANA",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 102,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "COLLISON PATRICK",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 189,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "XU TONY",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-08-15T00:00:00.000Z",
@@ -6240,11 +6250,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 585.61,
-    "targetHighPrice": 1015,
-    "targetLowPrice": 664.46,
-    "targetMeanPrice": 824.68036,
-    "targetMedianPrice": 822.32,
+    "currentPrice": 539.03,
+    "targetHighPrice": 1000,
+    "targetLowPrice": 580,
+    "targetMeanPrice": 778.68036,
+    "targetMedianPrice": 780,
     "recommendationMean": 1.35484,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 57,
@@ -6270,6 +6280,6 @@
     "profitMargins": 0.32837,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-30T04:57:05.377Z",
+  "lastUpdated": "2026-07-31T05:33:46.258Z",
   "source": "Static Build (yahoo-finance2)"
 }
