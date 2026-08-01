@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0764,
         "position": 67011988,
-        "value": 38689369635,
+        "value": 38404568686,
         "pctChange": -0.0189
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Mastercard Foundation Asset Management Corp",
         "pctHeld": 0.0688,
         "position": 60347774,
-        "value": 34841785845,
+        "value": 34585307806,
         "pctChange": -0.0749
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.059699997,
         "position": 52337454,
-        "value": 30217027789,
+        "value": 29994593609,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0416,
         "position": 36478022,
-        "value": 21060585111,
+        "value": 20905553517,
         "pctChange": -0.0036000002
       },
       {
@@ -81,7 +81,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0372,
         "position": 32656501,
-        "value": 18854230055,
+        "value": 18715439925,
         "pctChange": 0.0462
       },
       {
@@ -90,7 +90,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0277,
         "position": 24263911,
-        "value": 14008768423,
+        "value": 13905646801,
         "pctChange": -0.0363
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024,
         "position": 21071444,
-        "value": 12165597678,
+        "value": 12076044041,
         "pctChange": 0.0186
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0222,
         "position": 19434544,
-        "value": 11220533503,
+        "value": 11137936691,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0212,
         "position": 18574710,
-        "value": 10724108365,
+        "value": 10645165847,
         "pctChange": -0.024500001
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0173,
         "position": 15162577,
-        "value": 8754113460,
+        "value": 8689672508,
         "pctChange": -0.0551
       }
     ]
@@ -193,8 +193,10 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "3Q2026",
       "currentPeriodEndDate": 1790726400,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "earningsDate": [
+        "2026-10-29T12:30:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -244,6 +246,13 @@
           "revenue": 8398000000,
           "earnings": 3882000000,
           "profitMargin": 0.4622529
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 9277000000,
+          "earnings": 4388000000,
+          "profitMargin": 0.47299773
         }
       ]
     },
@@ -252,6 +261,86 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-31T21:49:43.000Z",
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 670,
+        "priorPriceTarget": 640
+      },
+      {
+        "epochGradeDate": "2026-07-31T19:26:56.000Z",
+        "firm": "Macquarie",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 670,
+        "priorPriceTarget": 665
+      },
+      {
+        "epochGradeDate": "2026-07-31T19:19:06.000Z",
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 642,
+        "priorPriceTarget": 629
+      },
+      {
+        "epochGradeDate": "2026-07-31T17:01:47.000Z",
+        "firm": "Morgan Stanley",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 681,
+        "priorPriceTarget": 679
+      },
+      {
+        "epochGradeDate": "2026-07-31T16:55:35.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 667,
+        "priorPriceTarget": 664
+      },
+      {
+        "epochGradeDate": "2026-07-31T12:03:32.000Z",
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 660,
+        "priorPriceTarget": 640
+      },
+      {
+        "epochGradeDate": "2026-07-31T11:59:53.000Z",
+        "firm": "Keybanc",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 680,
+        "priorPriceTarget": 670
+      },
+      {
+        "epochGradeDate": "2026-07-31T11:53:32.000Z",
+        "firm": "Keefe, Bruyette & Woods",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 685,
+        "priorPriceTarget": 665
+      },
       {
         "epochGradeDate": "2026-07-24T12:12:58.000Z",
         "firm": "Truist Securities",
@@ -5288,28 +5377,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0019052146,
-    "postMarketChange": -1.0999756,
-    "postMarketTime": "2026-07-30T23:58:00.000Z",
-    "postMarketPrice": 576.25,
+    "postMarketChangePercent": -0.00027913656,
+    "postMarketChange": -0.15997314,
+    "postMarketTime": "2026-08-01T00:00:00.000Z",
+    "postMarketPrice": 572.94,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.024905901,
-    "regularMarketChange": 14.03,
-    "regularMarketTime": "2026-07-30T20:00:03.000Z",
+    "regularMarketChangePercent": -0.00736122,
+    "regularMarketChange": -4.25,
+    "regularMarketTime": "2026-07-31T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 577.35,
-    "regularMarketDayHigh": 582.62,
-    "regularMarketDayLow": 567.63,
-    "regularMarketVolume": 4140129,
-    "averageDailyVolume10Day": 2760700,
-    "averageDailyVolume3Month": 3682975,
-    "regularMarketPreviousClose": 563.32,
+    "regularMarketPrice": 573.1,
+    "regularMarketDayHigh": 575.42,
+    "regularMarketDayLow": 563.4151,
+    "regularMarketVolume": 4576551,
+    "averageDailyVolume10Day": 3133970,
+    "averageDailyVolume3Month": 3722876,
+    "regularMarketPreviousClose": 577.35,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 577.36,
+    "regularMarketOpen": 567.68,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "MA",
     "underlyingSymbol": null,
@@ -5320,15 +5409,17 @@
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null
+    "lastMarket": null,
+    "marketCap": 502041247744
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 508484452352,
-    "forwardPE": 25.274921,
+    "forwardPE": 25.088867,
     "profitMargins": 0.45876,
     "floatShares": 875799481,
+    "sharesOutstanding": 869464115,
     "sharesShort": 9060825,
     "sharesShortPriorMonth": "1970-03-19T02:59:01.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
@@ -5339,6 +5430,7 @@
     "shortRatio": 2.28,
     "shortPercentOfFloat": 0.010299999,
     "beta": 0.729,
+    "impliedSharesOutstanding": 876009940,
     "category": null,
     "fundFamily": null,
     "legalType": null,
@@ -5347,15 +5439,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.184,
     "netIncomeToCommon": 15569999872,
-    "trailingEps": 17.72,
-    "forwardEps": 22.91423,
+    "trailingEps": 18.17,
+    "forwardEps": 22.93545,
     "pegRatio": 1.73,
     "lastSplitFactor": "10:1",
     "lastSplitDate": 1390348800,
     "enterpriseToRevenue": 14.982,
     "enterpriseToEbitda": 23.787,
-    "52WeekChange": -0.0055607557,
-    "SandP52WeekChange": 0.15407789,
+    "52WeekChange": 0.023593903,
+    "SandP52WeekChange": 0.20065856,
     "lastDividendValue": 0.87,
     "lastDividendDate": "2026-07-09T00:00:00.000Z",
     "latestShareClass": null,
@@ -5386,6 +5478,18 @@
       {
         "maxAge": 1,
         "shares": 19800,
+        "value": 4499550,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
+        "filerName": "MCLAUGHLIN EDWARD GRUNDE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 19800,
         "value": 10590347,
         "filerUrl": "",
         "transactionText": "Sale at price 529.45 - 538.82 per share.",
@@ -5409,18 +5513,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 19800,
-        "value": 4499550,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
-        "filerName": "MCLAUGHLIN EDWARD GRUNDE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-07-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 400,
         "value": 216000,
         "filerUrl": "",
@@ -5429,18 +5521,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-07-07T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 6805,
-        "value": 3581976,
-        "filerUrl": "",
-        "transactionText": "Sale at price 525.00 - 529.73 per share.",
-        "filerName": "SESHADRI RAJEEV",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-07-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -5457,10 +5537,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 14260,
-        "value": 7489187,
+        "shares": 6805,
+        "value": 3581976,
         "filerUrl": "",
-        "transactionText": "Sale at price 525.19 per share.",
+        "transactionText": "Sale at price 525.00 - 529.73 per share.",
+        "filerName": "SESHADRI RAJEEV",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 14260,
+        "value": 2473967,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 173.49 per share.",
         "filerName": "MCLAUGHLIN EDWARD GRUNDE",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -5470,9 +5562,9 @@
       {
         "maxAge": 1,
         "shares": 14260,
-        "value": 2473967,
+        "value": 7489187,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 173.49 per share.",
+        "transactionText": "Sale at price 525.19 per share.",
         "filerName": "MCLAUGHLIN EDWARD GRUNDE",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -5758,9 +5850,9 @@
       {
         "maxAge": 1,
         "shares": 8971,
-        "value": 4478315,
+        "value": 808287,
         "filerUrl": "",
-        "transactionText": "Sale at price 490.90 - 522.65 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 90.10 per share.",
         "filerName": "LING HAI",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -5770,9 +5862,9 @@
       {
         "maxAge": 1,
         "shares": 8971,
-        "value": 808287,
+        "value": 4478315,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 90.10 per share.",
+        "transactionText": "Sale at price 490.90 - 522.65 per share.",
         "filerName": "LING HAI",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -5830,18 +5922,6 @@
       {
         "maxAge": 1,
         "shares": 17263,
-        "value": 10202458,
-        "filerUrl": "",
-        "transactionText": "Sale at price 586.74 - 594.90 per share.",
-        "filerName": "SACHIN J. MEHRA",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-09-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 17263,
         "value": 5319348,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 290.25 - 362.90 per share.",
@@ -5853,14 +5933,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 4485,
-        "value": 2691000,
+        "shares": 17263,
+        "value": 10202458,
         "filerUrl": "",
-        "transactionText": "Sale at price 600.00 per share.",
-        "filerName": "LING HAI",
-        "filerRelation": "Officer",
+        "transactionText": "Sale at price 586.74 - 594.90 per share.",
+        "filerName": "SACHIN J. MEHRA",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2025-08-22T00:00:00.000Z",
+        "startDate": "2025-09-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -5877,10 +5957,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 17816,
-        "value": 10456016,
+        "shares": 4485,
+        "value": 2691000,
         "filerUrl": "",
-        "transactionText": "Sale at price 584.93 - 590.53 per share.",
+        "transactionText": "Sale at price 600.00 per share.",
+        "filerName": "LING HAI",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17816,
+        "value": 4258915,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 239.05 per share.",
         "filerName": "SACHIN J. MEHRA",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -5890,9 +5982,9 @@
       {
         "maxAge": 1,
         "shares": 17816,
-        "value": 4258915,
+        "value": 10456016,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 239.05 per share.",
+        "transactionText": "Sale at price 584.93 - 590.53 per share.",
         "filerName": "SACHIN J. MEHRA",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -6105,6 +6197,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 9428,
+        "value": 2142513,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
+        "filerName": "VOSBURG CRAIG",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 949,
         "value": 508474,
         "filerUrl": "",
@@ -6121,18 +6225,6 @@
         "value": 5024841,
         "filerUrl": "",
         "transactionText": "Sale at price 532.97 per share.",
-        "filerName": "VOSBURG CRAIG",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-06-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 9428,
-        "value": 2142513,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
         "filerName": "VOSBURG CRAIG",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -6166,6 +6258,18 @@
       {
         "maxAge": 1,
         "shares": 9428,
+        "value": 2142513,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
+        "filerName": "VOSBURG CRAIG",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 9428,
         "value": 5545364,
         "filerUrl": "",
         "transactionText": "Sale at price 585.12 - 589.95 per share.",
@@ -6184,7 +6288,7 @@
         "filerName": "VOSBURG CRAIG",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-06-12T00:00:00.000Z",
+        "startDate": "2025-06-05T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6193,18 +6297,6 @@
         "value": 8220594,
         "filerUrl": "",
         "transactionText": "Sale at price 583.90 - 586.57 per share.",
-        "filerName": "VOSBURG CRAIG",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-06-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 9428,
-        "value": 2142513,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
         "filerName": "VOSBURG CRAIG",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -6274,18 +6366,6 @@
       {
         "maxAge": 1,
         "shares": 7132,
-        "value": 3813338,
-        "filerUrl": "",
-        "transactionText": "Sale at price 530.81 - 537.43 per share.",
-        "filerName": "MCLAUGHLIN EDWARD GRUNDE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-03-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 7132,
         "value": 1237331,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 173.49 per share.",
@@ -6297,26 +6377,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 11002,
-        "value": 6118671,
+        "shares": 7132,
+        "value": 3813338,
         "filerUrl": "",
-        "transactionText": "Sale at price 552.25 - 560.85 per share.",
-        "filerName": "VOSBURG CRAIG",
+        "transactionText": "Sale at price 530.81 - 537.43 per share.",
+        "filerName": "MCLAUGHLIN EDWARD GRUNDE",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-03-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 17664,
-        "value": 9781694,
-        "filerUrl": "",
-        "transactionText": "Sale at price 552.69 - 555.01 per share.",
-        "filerName": "MIEBACH MICHAEL",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-03-05T00:00:00.000Z",
+        "startDate": "2025-03-19T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6337,6 +6405,30 @@
         "value": 2073552,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 173.49 per share.",
+        "filerName": "MIEBACH MICHAEL",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-03-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11002,
+        "value": 6118671,
+        "filerUrl": "",
+        "transactionText": "Sale at price 552.25 - 560.85 per share.",
+        "filerName": "VOSBURG CRAIG",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-03-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17664,
+        "value": 9781694,
+        "filerUrl": "",
+        "transactionText": "Sale at price 552.69 - 555.01 per share.",
         "filerName": "MIEBACH MICHAEL",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -6490,18 +6582,6 @@
       {
         "maxAge": 1,
         "shares": 11003,
-        "value": 6191557,
-        "filerUrl": "",
-        "transactionText": "Sale at price 560.51 - 566.36 per share.",
-        "filerName": "VOSBURG CRAIG",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 11003,
         "value": 1908910,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 173.49 per share.",
@@ -6513,38 +6593,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 10942,
-        "value": 6182128,
+        "shares": 11003,
+        "value": 6191557,
         "filerUrl": "",
-        "transactionText": "Sale at price 562.38 - 567.89 per share.",
-        "filerName": "MCLAUGHLIN EDWARD GRUNDE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 18000,
-        "value": 10169095,
-        "filerUrl": "",
-        "transactionText": "Sale at price 562.33 - 568.44 per share.",
-        "filerName": "MIEBACH MICHAEL",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-02-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 14103,
-        "value": 7968215,
-        "filerUrl": "",
-        "transactionText": "Sale at price 562.41 - 567.84 per share.",
+        "transactionText": "Sale at price 560.51 - 566.36 per share.",
         "filerName": "VOSBURG CRAIG",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-02-18T00:00:00.000Z",
+        "startDate": "2025-02-26T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6579,6 +6635,42 @@
         "transactionText": "Conversion of Exercise of derivative security at price 173.49 per share.",
         "filerName": "MIEBACH MICHAEL",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10942,
+        "value": 6182128,
+        "filerUrl": "",
+        "transactionText": "Sale at price 562.38 - 567.89 per share.",
+        "filerName": "MCLAUGHLIN EDWARD GRUNDE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 18000,
+        "value": 10169095,
+        "filerUrl": "",
+        "transactionText": "Sale at price 562.33 - 568.44 per share.",
+        "filerName": "MIEBACH MICHAEL",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 14103,
+        "value": 7968215,
+        "filerUrl": "",
+        "transactionText": "Sale at price 562.41 - 567.84 per share.",
+        "filerName": "VOSBURG CRAIG",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-18T00:00:00.000Z",
         "ownership": "D"
@@ -6622,6 +6714,18 @@
       {
         "maxAge": 1,
         "shares": 4716,
+        "value": 1071711,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
+        "filerName": "SACHIN J. MEHRA",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2024-11-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4716,
         "value": 2360075,
         "filerUrl": "",
         "transactionText": "Sale at price 500.44 per share.",
@@ -6633,14 +6737,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 4716,
-        "value": 1071711,
+        "shares": 2598,
+        "value": 915696,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
-        "filerName": "SACHIN J. MEHRA",
-        "filerRelation": "Chief Financial Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 344.48 - 353.50 per share.",
+        "filerName": "MADABHUSHI VENKATA RAJAMANNAR",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2024-11-01T00:00:00.000Z",
+        "startDate": "2024-09-27T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6658,13 +6762,13 @@
       {
         "maxAge": 1,
         "shares": 2598,
-        "value": 915696,
+        "value": 894959,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 344.48 - 353.50 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 344.48 per share.",
         "filerName": "MADABHUSHI VENKATA RAJAMANNAR",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2024-09-27T00:00:00.000Z",
+        "startDate": "2024-09-20T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6681,14 +6785,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 2598,
-        "value": 894959,
+        "shares": 1100,
+        "value": 249975,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 344.48 per share.",
-        "filerName": "MADABHUSHI VENKATA RAJAMANNAR",
+        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
+        "filerName": "ARKELL SANDRA A",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2024-09-20T00:00:00.000Z",
+        "startDate": "2024-09-17T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6705,14 +6809,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 1100,
-        "value": 249975,
+        "shares": 2598,
+        "value": 897280,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
-        "filerName": "ARKELL SANDRA A",
+        "transactionText": "Conversion of Exercise of derivative security at price 344.48 - 362.90 per share.",
+        "filerName": "MADABHUSHI VENKATA RAJAMANNAR",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2024-09-17T00:00:00.000Z",
+        "startDate": "2024-09-13T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6729,22 +6833,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 2598,
-        "value": 897280,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 344.48 - 362.90 per share.",
-        "filerName": "MADABHUSHI VENKATA RAJAMANNAR",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-09-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1100,
-        "value": 528000,
+        "value": 249975,
         "filerUrl": "",
-        "transactionText": "Sale at price 480.00 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
         "filerName": "ARKELL SANDRA A",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -6754,9 +6846,9 @@
       {
         "maxAge": 1,
         "shares": 1100,
-        "value": 249975,
+        "value": 528000,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
+        "transactionText": "Sale at price 480.00 per share.",
         "filerName": "ARKELL SANDRA A",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -6813,6 +6905,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 6724,
+        "value": 1166547,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 173.49 per share.",
+        "filerName": "SACHIN J. MEHRA",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2024-08-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2892,
+        "value": 260656,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 90.13 per share.",
+        "filerName": "LING HAI",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-08-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 119000,
         "value": 55746764,
         "filerUrl": "",
@@ -6849,26 +6965,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 6724,
-        "value": 1166547,
+        "shares": 5776,
+        "value": 648703,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 173.49 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 112.31 per share.",
         "filerName": "SACHIN J. MEHRA",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2024-08-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2892,
-        "value": 260656,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 90.13 per share.",
-        "filerName": "LING HAI",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-16T00:00:00.000Z",
+        "startDate": "2024-08-05T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6882,73 +6986,13 @@
         "moneyText": "",
         "startDate": "2024-08-05T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5776,
-        "value": 648703,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 112.31 per share.",
-        "filerName": "SACHIN J. MEHRA",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2024-08-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1100,
-        "value": 512006,
-        "filerUrl": "",
-        "transactionText": "Sale at price 465.46 per share.",
-        "filerName": "ARKELL SANDRA A",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2892,
-        "value": 1346110,
-        "filerUrl": "",
-        "transactionText": "Sale at price 465.46 per share.",
-        "filerName": "LING HAI",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1100,
-        "value": 249975,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 227.25 per share.",
-        "filerName": "ARKELL SANDRA A",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2892,
-        "value": 260656,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 90.13 per share.",
-        "filerName": "LING HAI",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-01T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 577.35,
+    "currentPrice": 573.1,
     "targetHighPrice": 735,
     "targetLowPrice": 550,
     "targetMeanPrice": 648.1053,
@@ -6978,6 +7022,6 @@
     "profitMargins": 0.45876,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-31T05:36:22.750Z",
+  "lastUpdated": "2026-08-01T05:28:08.090Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -45,7 +45,7 @@
         "organization": "Amazon.com, Inc.",
         "pctHeld": 0.1097,
         "position": 158363834,
-        "value": 2665263314,
+        "value": 2410297595,
         "pctChange": 0
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0374,
         "position": 53970947,
-        "value": 908331033,
+        "value": 821437827,
         "pctChange": 0.0701
       },
       {
@@ -63,7 +63,7 @@
         "organization": "BAILLIE GIFFORD & CO",
         "pctHeld": 0.0304,
         "position": 43821500,
-        "value": 737515841,
+        "value": 666963241,
         "pctChange": 0.00090000004
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0279,
         "position": 40259422,
-        "value": 677566069,
+        "value": 612748413,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.025,
         "position": 36085183,
-        "value": 607313627,
+        "value": 549216494,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.015800001,
         "position": 22781407,
-        "value": 383411078,
+        "value": 346733020,
         "pctChange": 0.0324
       },
       {
@@ -99,7 +99,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0143,
         "position": 20595669,
-        "value": 346625107,
+        "value": 313466087,
         "pctChange": 0.0218
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0106,
         "position": 15313697,
-        "value": 257729519,
+        "value": 233074472,
         "pctChange": 0.0359
       },
       {
@@ -117,7 +117,7 @@
         "organization": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
         "pctHeld": 0.0091,
         "position": 13107829,
-        "value": 220604761,
+        "value": 199501160,
         "pctChange": 0.0015
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0076,
         "position": 10952229,
-        "value": 184326013,
+        "value": 166692928,
         "pctChange": 1
       }
     ]
@@ -134,8 +134,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.33208,
-    "institutionsPercentHeld": 0.37108,
-    "institutionsFloatPercentHeld": 0.55557,
+    "institutionsPercentHeld": 0.37113,
+    "institutionsFloatPercentHeld": 0.55565,
     "institutionsCount": 1098
   },
   "earnings": {
@@ -188,7 +188,6 @@
         }
       ],
       "currentQuarterEstimate": -0.77637,
-      "currentQuarterActual": -0.63,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -245,6 +244,13 @@
           "revenue": 1381000000,
           "earnings": -416000000,
           "profitMargin": -0.301231
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 1658000000,
+          "earnings": -833000000,
+          "profitMargin": -0.50241256
         }
       ]
     },
@@ -253,6 +259,56 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-31T19:40:10.000Z",
+        "firm": "RBC Capital",
+        "toGrade": "Sector Perform",
+        "fromGrade": "Sector Perform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 16,
+        "priorPriceTarget": 14
+      },
+      {
+        "epochGradeDate": "2026-07-31T17:09:12.000Z",
+        "firm": "Morgan Stanley",
+        "toGrade": "Underweight",
+        "fromGrade": "Underweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 14,
+        "priorPriceTarget": 13
+      },
+      {
+        "epochGradeDate": "2026-07-31T16:07:30.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 21,
+        "priorPriceTarget": 20
+      },
+      {
+        "epochGradeDate": "2026-07-31T14:39:10.000Z",
+        "firm": "Wells Fargo",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 16,
+        "priorPriceTarget": 15
+      },
+      {
+        "epochGradeDate": "2026-07-31T09:52:10.000Z",
+        "firm": "Needham",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 23,
+        "priorPriceTarget": 23
+      },
       {
         "epochGradeDate": "2026-07-28T12:17:53.000Z",
         "firm": "Cantor Fitzgerald",
@@ -3189,28 +3245,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.03624484,
-    "postMarketChange": 0.6100006,
-    "postMarketTime": "2026-07-30T23:59:59.000Z",
-    "postMarketPrice": 17.44,
+    "postMarketChangePercent": 0.011169518,
+    "postMarketChange": 0.17000008,
+    "postMarketTime": "2026-07-31T23:59:53.000Z",
+    "postMarketPrice": 15.39,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0306185,
-    "regularMarketChange": 0.5,
-    "regularMarketTime": "2026-07-30T20:00:01.000Z",
+    "regularMarketChangePercent": -0.0956625,
+    "regularMarketChange": -1.61,
+    "regularMarketTime": "2026-07-31T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 16.83,
-    "regularMarketDayHigh": 16.89,
-    "regularMarketDayLow": 16.155,
-    "regularMarketVolume": 24628146,
-    "averageDailyVolume10Day": 25998930,
-    "averageDailyVolume3Month": 35225570,
-    "regularMarketPreviousClose": 16.33,
+    "regularMarketPrice": 15.22,
+    "regularMarketDayHigh": 17.18,
+    "regularMarketDayLow": 15.145,
+    "regularMarketVolume": 54290336,
+    "averageDailyVolume10Day": 27120980,
+    "averageDailyVolume3Month": 35397025,
+    "regularMarketPreviousClose": 16.83,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 16.57,
+    "regularMarketOpen": 17.01,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "RIVN",
     "underlyingSymbol": null,
@@ -3222,43 +3278,42 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 24359213056
+    "marketCap": 22036439040
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 21641832448,
-    "forwardPE": -9.220806,
-    "profitMargins": -0.63622004,
-    "floatShares": 836564498,
-    "sharesOutstanding": 1443456073,
+    "enterpriseValue": 20014499840,
+    "forwardPE": -8.338721,
+    "profitMargins": -0.54955,
+    "floatShares": 879429000,
+    "sharesOutstanding": 1443948130,
     "sharesShort": 140540265,
     "sharesShortPriorMonth": "1974-10-06T10:49:10.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0971,
     "heldPercentInsiders": 0.33208,
-    "heldPercentInstitutions": 0.37108,
+    "heldPercentInstitutions": 0.37113,
     "shortRatio": 3.34,
     "shortPercentOfFloat": 0.123900004,
-    "beta": 1.602,
-    "impliedSharesOutstanding": 1447368573,
+    "impliedSharesOutstanding": 1447860630,
     "category": null,
     "bookValue": 3.494,
-    "priceToBook": 4.8168287,
+    "priceToBook": 4.356039,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
-    "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
-    "netIncomeToCommon": -3516999936,
-    "trailingEps": -3.01,
-    "forwardEps": -1.82522,
+    "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
+    "netIncomeToCommon": -3232999936,
+    "trailingEps": -2.59,
+    "forwardEps": -1.84675,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 3.915,
-    "enterpriseToEbitda": -7.135,
-    "52WeekChange": 0.26884222,
-    "SandP52WeekChange": 0.15407789,
+    "enterpriseToRevenue": 3.402,
+    "enterpriseToEbitda": -7.375,
+    "52WeekChange": 0.2294023,
+    "SandP52WeekChange": 0.20065856,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3284,6 +3339,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 769,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "GOMEZ AIDAN N.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-07-20T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 1192,
@@ -3322,18 +3389,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 769,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "GOMEZ AIDAN N.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-07-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 20000,
         "value": 400000,
         "filerUrl": "",
@@ -3343,6 +3398,18 @@
         "moneyText": "",
         "startDate": "2026-07-06T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17445,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "GOMEZ AIDAN N.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-22T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -3399,18 +3466,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "KRAWIEC PETER",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 17445,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "GOMEZ AIDAN N.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-22T00:00:00.000Z",
@@ -3706,6 +3761,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 34900,
+        "value": 586236,
+        "filerUrl": "",
+        "transactionText": "Sale at price 16.80 per share.",
+        "filerName": "SCARINGE ROBERT J",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 27133,
         "value": 455699,
         "filerUrl": "",
@@ -3718,14 +3785,26 @@
       },
       {
         "maxAge": 1,
-        "shares": 34900,
-        "value": 586236,
+        "shares": 17450,
+        "value": 279762,
         "filerUrl": "",
-        "transactionText": "Sale at price 16.80 per share.",
+        "transactionText": "Sale at price 16.03 per share.",
         "filerName": "SCARINGE ROBERT J",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-02-18T00:00:00.000Z",
+        "startDate": "2026-01-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 658,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "GOMEZ AIDAN N.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-20T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3748,30 +3827,6 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "KRAWIEC PETER",
         "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 658,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "GOMEZ AIDAN N.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 17450,
-        "value": 279762,
-        "filerUrl": "",
-        "transactionText": "Sale at price 16.03 per share.",
-        "filerName": "SCARINGE ROBERT J",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-01-20T00:00:00.000Z",
         "ownership": "D"
@@ -4149,6 +4204,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 35713,
+        "value": 409360,
+        "filerUrl": "",
+        "transactionText": "Sale at price 11.46 per share.",
+        "filerName": "SCARINGE ROBERT J",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-04-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 522649,
         "value": 0,
         "filerUrl": "",
@@ -4203,18 +4270,6 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "VENKATARATNAM SREELA",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-04-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 35713,
-        "value": 409360,
-        "filerUrl": "",
-        "transactionText": "Sale at price 11.46 per share.",
-        "filerName": "SCARINGE ROBERT J",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-04-21T00:00:00.000Z",
         "ownership": "D"
@@ -4341,6 +4396,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 35713,
+        "value": 491414,
+        "filerUrl": "",
+        "transactionText": "Sale at price 13.76 per share.",
+        "filerName": "SCARINGE ROBERT J",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-01-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1523,
         "value": 0,
         "filerUrl": "",
@@ -4371,18 +4438,6 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "KRAWIEC PETER",
         "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-01-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 35713,
-        "value": 491414,
-        "filerUrl": "",
-        "transactionText": "Sale at price 13.76 per share.",
-        "filerName": "SCARINGE ROBERT J",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-01-21T00:00:00.000Z",
         "ownership": "D"
@@ -4620,7 +4675,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 16.83,
+    "currentPrice": 15.22,
     "targetHighPrice": 25,
     "targetLowPrice": 13,
     "targetMeanPrice": 18.84615,
@@ -4628,27 +4683,27 @@
     "recommendationMean": 2.53846,
     "recommendationKey": "hold",
     "numberOfAnalystOpinions": 26,
-    "totalCash": 4830000128,
-    "totalCashPerShare": 3.832,
-    "ebitda": -3032999936,
-    "totalDebt": 5232999936,
-    "quickRatio": 1.542,
-    "currentRatio": 2.101,
-    "totalRevenue": 5528000000,
-    "debtToEquity": 118.153,
-    "revenuePerShare": 4.554,
-    "returnOnAssets": -0.16018999,
-    "returnOnEquity": -0.65691,
-    "grossProfits": 57000000,
-    "freeCashflow": -1302749952,
-    "operatingCashflow": -1294000000,
-    "revenueGrowth": 0.114,
-    "grossMargins": 0.01031,
-    "ebitdaMargins": -0.54866004,
-    "operatingMargins": -0.63794,
-    "profitMargins": -0.63622004,
+    "totalCash": 5310000128,
+    "totalCashPerShare": 4.008,
+    "ebitda": -2713999872,
+    "totalDebt": 5136999936,
+    "quickRatio": 1.569,
+    "currentRatio": 2.104,
+    "totalRevenue": 5882999808,
+    "debtToEquity": 100.195,
+    "revenuePerShare": 4.682,
+    "returnOnAssets": -0.14368,
+    "returnOnEquity": -0.57523,
+    "grossProfits": 442000000,
+    "freeCashflow": -1477374976,
+    "operatingCashflow": -1844999936,
+    "revenueGrowth": 0.272,
+    "grossMargins": 0.07513,
+    "ebitdaMargins": -0.46133,
+    "operatingMargins": -0.50422,
+    "profitMargins": -0.54955,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-31T05:33:20.993Z",
+  "lastUpdated": "2026-08-01T05:25:05.487Z",
   "source": "Static Build (yahoo-finance2)"
 }

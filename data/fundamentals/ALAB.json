@@ -45,7 +45,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.1489,
         "position": 25529885,
-        "value": 7651051297,
+        "value": 7945666389,
         "pctChange": 0.0077
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0668,
         "position": 11449769,
-        "value": 3431381299,
+        "value": 3563511731,
         "pctChange": -0.1171
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.042600002,
         "position": 7309778,
-        "value": 2190667386,
+        "value": 2275022287,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.037,
         "position": 6340732,
-        "value": 1900253988,
+        "value": 1973426090,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Atreides Management, LP",
         "pctHeld": 0.0196,
         "position": 3365787,
-        "value": 1008692714,
+        "value": 1047533924,
         "pctChange": 1.089
       },
       {
@@ -90,7 +90,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0194,
         "position": 3333606,
-        "value": 999048390,
+        "value": 1037518232,
         "pctChange": 0.0754
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Fred Alger Management, LLC",
         "pctHeld": 0.015,
         "position": 2573005,
-        "value": 771103874,
+        "value": 800796374,
         "pctChange": 0.32990003
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Alliancebernstein L.P.",
         "pctHeld": 0.0147,
         "position": 2512695,
-        "value": 753029570,
+        "value": 782026092,
         "pctChange": 0.1538
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0146,
         "position": 2508264,
-        "value": 751701644,
+        "value": 780647032,
         "pctChange": 0.0326
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Amundi",
         "pctHeld": 0.011,
         "position": 1880830,
-        "value": 563665947,
+        "value": 585370741,
         "pctChange": 0.77879995
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.10735,
-    "institutionsPercentHeld": 0.73127997,
-    "institutionsFloatPercentHeld": 0.81921995,
-    "institutionsCount": 1083
+    "institutionsPercentHeld": 0.73133004,
+    "institutionsFloatPercentHeld": 0.81927,
+    "institutionsCount": 1092
   },
   "earnings": {
     "maxAge": 86400,
@@ -255,6 +255,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-07-31T12:29:29.000Z",
+        "firm": "Susquehanna",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 275,
+        "priorPriceTarget": 230
+      },
       {
         "epochGradeDate": "2026-07-20T18:03:45.000Z",
         "firm": "Barclays",
@@ -1241,28 +1251,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.077780366,
-    "postMarketChange": 23.309998,
-    "postMarketTime": "2026-07-30T23:59:57.000Z",
-    "postMarketPrice": 323,
+    "postMarketChangePercent": -0.021623915,
+    "postMarketChange": -6.730011,
+    "postMarketTime": "2026-07-31T23:59:48.000Z",
+    "postMarketPrice": 304.5,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.20000799,
-    "regularMarketChange": 49.95,
-    "regularMarketTime": "2026-07-30T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0385065,
+    "regularMarketChange": 11.54,
+    "regularMarketTime": "2026-07-31T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 299.69,
-    "regularMarketDayHigh": 300.1,
-    "regularMarketDayLow": 273.5205,
-    "regularMarketVolume": 6227529,
-    "averageDailyVolume10Day": 4318820,
-    "averageDailyVolume3Month": 5806626,
-    "regularMarketPreviousClose": 249.74,
+    "regularMarketPrice": 311.23,
+    "regularMarketDayHigh": 341.91,
+    "regularMarketDayLow": 305.02,
+    "regularMarketVolume": 5239421,
+    "averageDailyVolume10Day": 4293270,
+    "averageDailyVolume3Month": 5807530,
+    "regularMarketPreviousClose": 299.69,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 282.175,
+    "regularMarketOpen": 327.315,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "ALAB",
     "underlyingSymbol": null,
@@ -1274,13 +1284,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 51369246720
+    "marketCap": 53347295232
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 50226622464,
-    "forwardPE": 65.66936,
+    "enterpriseValue": 52204666880,
+    "forwardPE": 68.19805,
     "profitMargins": 0.26724002,
     "floatShares": 153984322,
     "sharesOutstanding": 171407939,
@@ -1290,14 +1300,14 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0556,
     "heldPercentInsiders": 0.10735,
-    "heldPercentInstitutions": 0.73127997,
+    "heldPercentInstitutions": 0.73133004,
     "shortRatio": 1.59,
     "shortPercentOfFloat": 0.0732,
     "beta": 3.671,
     "impliedSharesOutstanding": 171407939,
     "category": null,
     "bookValue": 8.722,
-    "priceToBook": 34.360237,
+    "priceToBook": 35.68333,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1305,13 +1315,13 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 1.524,
     "netIncomeToCommon": 267624992,
-    "trailingEps": 1.77,
-    "forwardEps": 4.56362,
+    "trailingEps": 1.53,
+    "forwardEps": 4.6268,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 50.154,
-    "enterpriseToEbitda": 215.209,
-    "52WeekChange": 0.82651937,
-    "SandP52WeekChange": 0.15407789,
+    "enterpriseToRevenue": 52.129,
+    "enterpriseToEbitda": 223.685,
+    "52WeekChange": 1.3739893,
+    "SandP52WeekChange": 0.20065856,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1831,18 +1841,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 11787,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "TATE MICHAEL TRUETT",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-02-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 26522,
         "value": 0,
         "filerUrl": "",
@@ -1873,6 +1871,18 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "MOHAN JITENDRA",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-02-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11787,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "TATE MICHAEL TRUETT",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-02-06T00:00:00.000Z",
         "ownership": "D"
@@ -2275,24 +2285,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 43238,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "TATE MICHAEL TRUETT",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-07-24T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 16214,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "MAZZARA PHILIP",
         "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-07-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 43238,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "TATE MICHAEL TRUETT",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-07-24T00:00:00.000Z",
         "ownership": "D"
@@ -2395,24 +2405,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 52743,
-        "value": 5319517,
-        "filerUrl": "",
-        "transactionText": "Sale at price 100.86 per share.",
-        "filerName": "MOHAN JITENDRA",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-06-20T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 20150,
         "value": 2031853,
         "filerUrl": "",
         "transactionText": "Sale at price 100.63 - 101.25 per share.",
         "filerName": "ALBA MANUEL",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-20T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 52743,
+        "value": 5319517,
+        "filerUrl": "",
+        "transactionText": "Sale at price 100.86 per share.",
+        "filerName": "MOHAN JITENDRA",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-06-20T00:00:00.000Z",
         "ownership": "I"
@@ -2440,18 +2450,6 @@
         "moneyText": "",
         "startDate": "2025-06-17T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2351,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MAYER BETHANY J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-06T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2515,6 +2513,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 2351,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MAYER BETHANY J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 88627,
         "value": 8695142,
         "filerUrl": "",
@@ -2539,24 +2549,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 14200,
-        "value": 1420004,
-        "filerUrl": "",
-        "transactionText": "Sale at price 100.00 per share.",
-        "filerName": "MOHAN JITENDRA",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-05-29T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 600,
         "value": 60000,
         "filerUrl": "",
         "transactionText": "Sale at price 100.00 per share.",
         "filerName": "ALBA MANUEL",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-29T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 14200,
+        "value": 1420004,
+        "filerUrl": "",
+        "transactionText": "Sale at price 100.00 per share.",
+        "filerName": "MOHAN JITENDRA",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-05-29T00:00:00.000Z",
         "ownership": "I"
@@ -3142,7 +3152,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 299.69,
+    "currentPrice": 311.23,
     "targetHighPrice": 475,
     "targetLowPrice": 155,
     "targetMeanPrice": 300.195,
@@ -3172,6 +3182,6 @@
     "profitMargins": 0.26724002,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-07-31T05:35:09.634Z",
+  "lastUpdated": "2026-08-01T05:26:55.635Z",
   "source": "Static Build (yahoo-finance2)"
 }
