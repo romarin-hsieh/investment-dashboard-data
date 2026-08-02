@@ -24,14 +24,6 @@
         "hold": 4,
         "sell": 0,
         "strongSell": 1
-      },
-      {
-        "period": "-3m",
-        "strongBuy": 7,
-        "buy": 12,
-        "hold": 5,
-        "sell": 0,
-        "strongSell": 0
       }
     ],
     "maxAge": 86400
@@ -134,9 +126,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.09894,
-    "institutionsPercentHeld": 0.68421,
-    "institutionsFloatPercentHeld": 0.75934,
-    "institutionsCount": 4549
+    "institutionsPercentHeld": 0.68444,
+    "institutionsFloatPercentHeld": 0.75958997,
+    "institutionsCount": 4558
   },
   "earnings": {
     "maxAge": 86400,
@@ -3271,7 +3263,7 @@
     "regularMarketDayLow": 86.82,
     "regularMarketVolume": 10879681,
     "averageDailyVolume10Day": 17431180,
-    "averageDailyVolume3Month": 17590555,
+    "averageDailyVolume3Month": 17670880,
     "regularMarketPreviousClose": 88.49,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 87.66,
@@ -3306,7 +3298,7 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0111,
     "heldPercentInsiders": 0.09894,
-    "heldPercentInstitutions": 0.68421,
+    "heldPercentInstitutions": 0.68444,
     "shortRatio": 2.37,
     "shortPercentOfFloat": 0.0112,
     "beta": 0.349,
@@ -3321,15 +3313,15 @@
     "mostRecentQuarter": "2026-07-03T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.161,
     "netIncomeToCommon": 14316000256,
-    "trailingEps": 3.29,
+    "trailingEps": 3.33,
     "forwardEps": 3.52642,
-    "pegRatio": 4.36,
+    "pegRatio": 4.22,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1344816000,
     "enterpriseToRevenue": 8.117,
     "enterpriseToEbitda": 23.939,
-    "52WeekChange": 0.27200115,
-    "SandP52WeekChange": 0.20065856,
+    "52WeekChange": 0.27015662,
+    "SandP52WeekChange": 0.18322134,
     "lastDividendValue": 0.53,
     "lastDividendDate": "2026-06-15T00:00:00.000Z",
     "latestShareClass": null,
@@ -3358,6 +3350,30 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 527087,
+        "value": 47468615,
+        "filerUrl": "",
+        "transactionText": "Sale at price 90.04 - 90.09 per share.",
+        "filerName": "QUINCEY JAMES R.",
+        "filerRelation": "Chairman of the Board",
+        "moneyText": "",
+        "startDate": "2026-07-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 527087,
+        "value": 23948198,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 45.44 per share.",
+        "filerName": "QUINCEY JAMES R.",
+        "filerRelation": "Chairman of the Board",
+        "moneyText": "",
+        "startDate": "2026-07-29T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 75727,
@@ -4593,54 +4609,6 @@
         "moneyText": "",
         "startDate": "2024-08-06T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 38653,
-        "value": 2667370,
-        "filerUrl": "",
-        "transactionText": "Sale at price 69.01 per share.",
-        "filerName": "PIETRACCI BRUNO",
-        "filerRelation": "Divisional Officer",
-        "moneyText": "",
-        "startDate": "2024-08-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 18482,
-        "value": 1274334,
-        "filerUrl": "",
-        "transactionText": "Sale at price 68.95 per share.",
-        "filerName": "QUAN NANCY W",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 18482,
-        "value": 821987,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 44.48 per share.",
-        "filerName": "QUAN NANCY W",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 38653,
-        "value": 1756199,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 45.44 per share.",
-        "filerName": "PIETRACCI BRUNO",
-        "filerRelation": "Divisional Officer",
-        "moneyText": "",
-        "startDate": "2024-08-02T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
@@ -4677,6 +4645,6 @@
     "profitMargins": 0.28558,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-01T05:28:06.168Z",
+  "lastUpdated": "2026-08-02T05:27:55.809Z",
   "source": "Static Build (yahoo-finance2)"
 }
