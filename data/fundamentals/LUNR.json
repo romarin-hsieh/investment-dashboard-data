@@ -24,14 +24,6 @@
         "hold": 1,
         "sell": 0,
         "strongSell": 1
-      },
-      {
-        "period": "-3m",
-        "strongBuy": 0,
-        "buy": 7,
-        "hold": 1,
-        "sell": 0,
-        "strongSell": 1
       }
     ],
     "maxAge": 86400
@@ -1072,14 +1064,14 @@
     "postMarketTime": "2026-07-31T23:59:10.000Z",
     "postMarketPrice": 12.23,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.00734695,
-    "regularMarketChange": 0.0900002,
+    "regularMarketChangePercent": 0.0073469514,
+    "regularMarketChange": 0.09000015,
     "regularMarketTime": "2026-07-31T20:00:01.000Z",
     "priceHint": 2,
     "regularMarketPrice": 12.34,
     "regularMarketDayHigh": 12.91,
     "regularMarketDayLow": 11.9,
-    "regularMarketVolume": 7956592,
+    "regularMarketVolume": 7982440,
     "averageDailyVolume10Day": 8281870,
     "averageDailyVolume3Month": 13317998,
     "regularMarketPreviousClose": 12.25,
@@ -1088,7 +1080,7 @@
     "exchange": "NGM",
     "exchangeName": "NasdaqGM",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "LUNR",
     "underlyingSymbol": null,
@@ -2858,9 +2850,10 @@
     "currentPrice": 12.34,
     "targetHighPrice": 75,
     "targetLowPrice": 11,
-    "targetMeanPrice": 40.77778,
+    "targetMeanPrice": 39.22222,
     "targetMedianPrice": 42,
-    "recommendationKey": "none",
+    "recommendationMean": 1.55556,
+    "recommendationKey": "buy",
     "numberOfAnalystOpinions": 9,
     "totalCash": 231624000,
     "totalCashPerShare": 1.444,
@@ -2883,6 +2876,6 @@
     "profitMargins": -0.32694,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-02T05:26:06.172Z",
+  "lastUpdated": "2026-08-03T05:40:49.970Z",
   "source": "Static Build (yahoo-finance2)"
 }
