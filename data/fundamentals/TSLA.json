@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 6,
+        "buy": 17,
+        "hold": 18,
+        "sell": 4,
+        "strongSell": 2
+      },
+      {
+        "period": "-2m",
         "strongBuy": 5,
         "buy": 18,
         "hold": 19,
@@ -18,7 +26,7 @@
         "strongSell": 2
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 5,
         "buy": 18,
         "hold": 18,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.052699998,
         "position": 208095009,
-        "value": 64761245972,
+        "value": 67023237704,
         "pctChange": -0.0069999998
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0463,
         "position": 182850783,
-        "value": 56904990614,
+        "value": 58892577733,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.029000001,
         "position": 114695458,
-        "value": 35694372504,
+        "value": 36941111572,
         "pctChange": -0.0013
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0172,
         "position": 68003110,
-        "value": 21163247282,
+        "value": 21902440755,
         "pctChange": 0.035
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0139,
         "position": 54881149,
-        "value": 17079561911,
+        "value": 17676119732,
         "pctChange": 0.0359
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0125,
         "position": 49252925,
-        "value": 15328002368,
+        "value": 15863381422,
         "pctChange": 1
       },
       {
@@ -91,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0117,
         "position": 46075161,
-        "value": 14339050461,
+        "value": 14839887236,
         "pctChange": 0.033299997
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0109,
         "position": 42904073,
-        "value": 13352176191,
+        "value": 13818543255,
         "pctChange": 0.0099
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0099,
         "position": 39177400,
-        "value": 12192398319,
+        "value": 12618256465,
         "pctChange": 0.0949
       },
       {
@@ -118,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0091,
         "position": 36027976,
-        "value": 11212266103,
+        "value": 11603890026,
         "pctChange": -0.0875
       }
     ]
@@ -253,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-03T12:20:15.000Z",
+        "firm": "Stifel",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 491,
+        "priorPriceTarget": 508
+      },
       {
         "epochGradeDate": "2026-07-24T16:47:27.000Z",
         "firm": "Piper Sandler",
@@ -10079,24 +10097,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.006261002,
-    "postMarketChange": -1.9484863,
-    "postMarketTime": "2026-07-31T23:59:59.000Z",
-    "postMarketPrice": 309.2615,
+    "postMarketChangePercent": 0.0021113488,
+    "postMarketChange": 0.6800232,
+    "postMarketTime": "2026-08-03T23:59:56.000Z",
+    "postMarketPrice": 322.76,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0076412023,
-    "regularMarketChange": 2.3599854,
-    "regularMarketTime": "2026-07-31T20:00:00.000Z",
+    "regularMarketChangePercent": 0.0349282,
+    "regularMarketChange": 10.87,
+    "regularMarketTime": "2026-08-03T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 311.21,
-    "regularMarketDayHigh": 315.5,
-    "regularMarketDayLow": 301.97,
-    "regularMarketVolume": 36630560,
+    "regularMarketPrice": 322.08,
+    "regularMarketDayHigh": 324.65,
+    "regularMarketDayLow": 310.425,
+    "regularMarketVolume": 37162483,
     "averageDailyVolume10Day": 47438230,
     "averageDailyVolume3Month": 47148169,
-    "regularMarketPreviousClose": 308.85,
+    "regularMarketPreviousClose": 311.21,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 309.6,
+    "regularMarketOpen": 311.01,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -10112,13 +10130,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 1229138690048
+    "marketCap": 1272070275072
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 1202355699712,
-    "forwardPE": 140.23332,
+    "forwardPE": 145.13142,
     "profitMargins": 0.03671,
     "floatShares": 2819226425,
     "sharesOutstanding": 3949547394,
@@ -10131,11 +10149,11 @@
     "heldPercentInstitutions": 0.4271,
     "shortRatio": 1.63,
     "shortPercentOfFloat": 0.02,
-    "beta": 1.802,
+    "beta": 1.827,
     "impliedSharesOutstanding": 3949547394,
     "category": null,
-    "bookValue": 22.401,
-    "priceToBook": 13.892684,
+    "bookValue": 21.897,
+    "priceToBook": 14.708864,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -10606,18 +10624,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 761961,
-        "value": 18170096,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 22.86 - 24.73 per share.",
-        "filerName": "EHRENPREIS IRA MATTHEW",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 477572,
         "value": 170636358,
         "filerUrl": "",
@@ -10635,6 +10641,18 @@
         "filerUrl": "",
         "transactionText": "Sale at price 347.88 - 363.11 per share.",
         "filerName": "MUSK KIMBAL J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 761961,
+        "value": 18170096,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 22.86 - 24.73 per share.",
+        "filerName": "EHRENPREIS IRA MATTHEW",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-27T00:00:00.000Z",
@@ -11326,10 +11344,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 311.21,
+    "currentPrice": 322.08,
     "targetHighPrice": 600,
     "targetLowPrice": 125,
-    "targetMeanPrice": 398.29776,
+    "targetMeanPrice": 397.87274,
     "targetMedianPrice": 415,
     "recommendationMean": 2.3617,
     "recommendationKey": "buy",
@@ -11356,6 +11374,6 @@
     "profitMargins": 0.03671,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-03T05:40:18.776Z",
+  "lastUpdated": "2026-08-04T05:13:51.151Z",
   "source": "Static Build (yahoo-finance2)"
 }

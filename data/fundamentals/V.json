@@ -11,7 +11,7 @@
       },
       {
         "period": "-1m",
-        "strongBuy": 8,
+        "strongBuy": 9,
         "buy": 29,
         "hold": 3,
         "sell": 0,
@@ -19,6 +19,14 @@
       },
       {
         "period": "-2m",
+        "strongBuy": 8,
+        "buy": 29,
+        "hold": 3,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
         "strongBuy": 7,
         "buy": 28,
         "hold": 3,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0799,
         "position": 136190947,
-        "value": 49863592090,
+        "value": 49800945418,
         "pctChange": -0.028299998
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.062800005,
         "position": 107005168,
-        "value": 39177802682,
+        "value": 39128581219,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.048299998,
         "position": 82306015,
-        "value": 30134701673,
+        "value": 30096841610,
         "pctChange": -0.0058999998
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.027,
         "position": 45979950,
-        "value": 16834639318,
+        "value": 16813488933,
         "pctChange": -0.0188
       },
       {
@@ -73,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.026400002,
         "position": 44908229,
-        "value": 16442250103,
+        "value": 16421592701,
         "pctChange": -0.038599998
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.026300002,
         "position": 44883639,
-        "value": 16433246966,
+        "value": 16412600875,
         "pctChange": 0.0191
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0241,
         "position": 41075869,
-        "value": 15039108117,
+        "value": 15020213568,
         "pctChange": -0.0004
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0221,
         "position": 37604815,
-        "value": 13768251099,
+        "value": 13750953205,
         "pctChange": 1
       },
       {
@@ -109,7 +117,7 @@
         "organization": "TCI Fund Management Ltd",
         "pctHeld": 0.0179,
         "position": 30468133,
-        "value": 11155297684,
+        "value": 11141282603,
         "pctChange": 0.099
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0148,
         "position": 25178201,
-        "value": 9218494855,
+        "value": 9206913097,
         "pctChange": 0.0286
       }
     ]
@@ -179,7 +187,7 @@
           "reportedDate": 1785269126
         }
       ],
-      "currentQuarterEstimate": 3.43535,
+      "currentQuarterEstimate": 3.4352,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -253,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-03T12:57:27.000Z",
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 445,
+        "priorPriceTarget": 410
+      },
       {
         "epochGradeDate": "2026-07-30T14:43:26.000Z",
         "firm": "Wells Fargo",
@@ -6239,24 +6257,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0008194311,
-    "postMarketChange": -0.3000183,
-    "postMarketTime": "2026-07-31T23:59:32.000Z",
-    "postMarketPrice": 365.83,
+    "postMarketChangePercent": 0.0012305676,
+    "postMarketChange": 0.4499817,
+    "postMarketTime": "2026-08-04T00:00:00.000Z",
+    "postMarketPrice": 366.12,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.000382188,
-    "regularMarketChange": -0.139984,
-    "regularMarketTime": "2026-07-31T20:00:02.000Z",
+    "regularMarketChangePercent": -0.00125636,
+    "regularMarketChange": -0.459991,
+    "regularMarketTime": "2026-08-03T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 366.13,
-    "regularMarketDayHigh": 366.88,
-    "regularMarketDayLow": 360.1,
-    "regularMarketVolume": 4869821,
+    "regularMarketPrice": 365.67,
+    "regularMarketDayHigh": 371.97,
+    "regularMarketDayLow": 364.42,
+    "regularMarketVolume": 4160393,
     "averageDailyVolume10Day": 7213070,
     "averageDailyVolume3Month": 8275124,
-    "regularMarketPreviousClose": 366.27,
+    "regularMarketPreviousClose": 366.13,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 363.76,
+    "regularMarketOpen": 368.5,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -6265,37 +6283,37 @@
     "symbol": "V",
     "underlyingSymbol": null,
     "shortName": "Visa Inc.",
-    "longName": null,
+    "longName": "Visa Inc.",
     "currency": "USD",
     "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 683582029824
+    "marketCap": 682723180544
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 683516821504,
-    "forwardPE": 24.488941,
+    "forwardPE": 24.455982,
     "profitMargins": 0.50782,
-    "floatShares": 1703230619,
+    "floatShares": 1703248999,
     "sharesOutstanding": 1704112694,
     "sharesShort": 23581970,
     "sharesShortPriorMonth": "1970-09-04T06:21:11.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
-    "sharesPercentSharesOut": 0.0124,
+    "sharesPercentSharesOut": 0.0126,
     "heldPercentInsiders": 0.00081,
     "heldPercentInstitutions": 0.89377,
     "shortRatio": 2.42,
-    "shortPercentOfFloat": 0.014199999,
-    "beta": 0.754,
+    "shortPercentOfFloat": 0.0139,
+    "beta": 0.759,
     "impliedSharesOutstanding": 1867047259,
     "category": null,
     "bookValue": 18.87,
-    "priceToBook": 19.402756,
+    "priceToBook": 19.378378,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-09-30T00:00:00.000Z",
@@ -6304,7 +6322,7 @@
     "earningsQuarterlyGrowth": 0.068,
     "netIncomeToCommon": 22397999104,
     "trailingEps": 11.75,
-    "forwardEps": 14.95083,
+    "forwardEps": 14.95217,
     "pegRatio": 1.66,
     "lastSplitFactor": "4:1",
     "lastSplitDate": 1426723200,
@@ -6340,6 +6358,30 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 57272,
+        "value": 20902340,
+        "filerUrl": "",
+        "transactionText": "Sale at price 364.81 - 365.05 per share.",
+        "filerName": "MAHON TULLIER KELLY",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 37281,
+        "value": 4094199,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 109.82 per share.",
+        "filerName": "MAHON TULLIER KELLY",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-30T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 2027,
@@ -6510,6 +6552,42 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CARNEY LLOYD",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 861,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "LUNDGREN JOHN F",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 861,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MORRISON DENISE M",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 861,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "LIST-STOLL TERI L.",
         "filerRelation": "Director",
         "moneyText": "",
@@ -6547,42 +6625,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "FERNANDEZ CARBAJAL FRANCISCO JAVIER",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 861,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CARNEY LLOYD",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 861,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "LUNDGREN JOHN F",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 861,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MORRISON DENISE M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-01-27T00:00:00.000Z",
@@ -6789,6 +6831,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1655,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ANDRESKI PETER M",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-11-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 5410,
         "filerUrl": "",
         "transactionText": "",
@@ -6805,17 +6858,6 @@
         "transactionText": "",
         "filerName": "ROTTENBERG JULIE B",
         "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-11-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1655,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ANDRESKI PETER M",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-19T00:00:00.000Z",
         "ownership": "D"
@@ -6986,22 +7028,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 15289,
+        "shares": 4169,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SUH CHRIS",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "ANDRESKI PETER M",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-15T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 4169,
+        "shares": 15289,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ANDRESKI PETER M",
-        "filerRelation": "Officer",
+        "filerName": "SUH CHRIS",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-08-15T00:00:00.000Z",
         "ownership": "D"
@@ -7057,9 +7099,9 @@
       {
         "maxAge": 1,
         "shares": 11636,
-        "value": 4363524,
+        "value": 2452869,
         "filerUrl": "",
-        "transactionText": "Sale at price 375.00 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 210.80 per share.",
         "filerName": "FABARA PAUL D",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -7069,9 +7111,9 @@
       {
         "maxAge": 1,
         "shares": 11636,
-        "value": 2452869,
+        "value": 4363524,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 210.80 per share.",
+        "transactionText": "Sale at price 375.00 per share.",
         "filerName": "FABARA PAUL D",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -7455,6 +7497,42 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CARNEY LLOYD",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 777,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "LUNDGREN JOHN F",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 777,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MORRISON DENISE M",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 777,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "LIST-STOLL TERI L.",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7492,42 +7570,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "FERNANDEZ CARBAJAL FRANCISCO JAVIER",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-01-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 777,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CARNEY LLOYD",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-01-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 777,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "LUNDGREN JOHN F",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-01-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 777,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MORRISON DENISE M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-01-28T00:00:00.000Z",
@@ -7663,6 +7705,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1592,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ANDRESKI PETER M",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-11-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 3005,
         "filerUrl": "",
         "transactionText": "",
@@ -7679,17 +7732,6 @@
         "transactionText": "",
         "filerName": "ROTTENBERG JULIE B",
         "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2024-11-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1592,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ANDRESKI PETER M",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-11-19T00:00:00.000Z",
         "ownership": "D"
@@ -7922,7 +7964,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 366.13,
+    "currentPrice": 365.67,
     "targetHighPrice": 450,
     "targetLowPrice": 330,
     "targetMeanPrice": 413.44763,
@@ -7952,6 +7994,6 @@
     "profitMargins": 0.50782,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-03T05:43:26.234Z",
+  "lastUpdated": "2026-08-04T05:16:55.747Z",
   "source": "Static Build (yahoo-finance2)"
 }

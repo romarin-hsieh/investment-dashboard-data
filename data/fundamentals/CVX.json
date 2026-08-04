@@ -37,7 +37,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0769,
         "position": 153137916,
-        "value": 30142136286,
+        "value": 29583181491,
         "pctChange": 0.0056
       },
       {
@@ -46,7 +46,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0727,
         "position": 144720031,
-        "value": 28485243966,
+        "value": 27957014528,
         "pctChange": 0.024300002
       },
       {
@@ -55,7 +55,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0615,
         "position": 122484427,
-        "value": 24108609990,
+        "value": 23661540710,
         "pctChange": 1
       },
       {
@@ -64,7 +64,7 @@
         "organization": "Berkshire Hathaway, Inc",
         "pctHeld": 0.0424,
         "position": 84375856,
-        "value": 16607699890,
+        "value": 16299727244,
         "pctChange": -0.35169998
       },
       {
@@ -73,7 +73,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0219,
         "position": 43677102,
-        "value": 8596964066,
+        "value": 8437542244,
         "pctChange": 0.0015
       },
       {
@@ -82,7 +82,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0212,
         "position": 42313738,
-        "value": 8328613128,
+        "value": 8174167596,
         "pctChange": 1
       },
       {
@@ -91,7 +91,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0185,
         "position": 36847021,
-        "value": 7252599210,
+        "value": 7118107246,
         "pctChange": 0.0149
       },
       {
@@ -100,7 +100,7 @@
         "organization": "Charles Schwab Investment Management, Inc.",
         "pctHeld": 0.018099999,
         "position": 36118480,
-        "value": 7109200484,
+        "value": 6977367701,
         "pctChange": 0.0023
       },
       {
@@ -109,7 +109,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0139,
         "position": 27630227,
-        "value": 5438457631,
+        "value": 5337607049,
         "pctChange": 0.0508
       },
       {
@@ -118,7 +118,7 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.011,
         "position": 21887438,
-        "value": 4308104461,
+        "value": 4228215112,
         "pctChange": 0.0194
       }
     ]
@@ -246,6 +246,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-03T14:33:21.000Z",
+        "firm": "Bernstein",
+        "toGrade": "Market Perform",
+        "fromGrade": "Market Perform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 209,
+        "priorPriceTarget": 204
+      },
+      {
+        "epochGradeDate": "2026-08-03T11:21:32.000Z",
+        "firm": "Barclays",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 216,
+        "priorPriceTarget": 213
+      },
       {
         "epochGradeDate": "2026-07-28T17:56:09.000Z",
         "firm": "B of A Securities",
@@ -4622,24 +4642,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.008433692,
-    "postMarketChange": 1.6600037,
-    "postMarketTime": "2026-07-31T23:59:51.000Z",
-    "postMarketPrice": 198.49,
+    "postMarketChangePercent": -0.00093173556,
+    "postMarketChange": -0.17999268,
+    "postMarketTime": "2026-08-03T23:59:47.000Z",
+    "postMarketPrice": 193,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.023503698,
-    "regularMarketChange": 4.52,
-    "regularMarketTime": "2026-07-31T20:04:02.000Z",
+    "regularMarketChangePercent": -0.018544,
+    "regularMarketChange": -3.65001,
+    "regularMarketTime": "2026-08-03T20:04:16.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 196.83,
-    "regularMarketDayHigh": 197.5525,
-    "regularMarketDayLow": 191.54,
-    "regularMarketVolume": 9899550,
+    "regularMarketPrice": 193.18,
+    "regularMarketDayHigh": 195.86,
+    "regularMarketDayLow": 191.83,
+    "regularMarketVolume": 7965535,
     "averageDailyVolume10Day": 7510310,
     "averageDailyVolume3Month": 9114485,
-    "regularMarketPreviousClose": 192.31,
+    "regularMarketPreviousClose": 196.83,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 195.11,
+    "regularMarketOpen": 195.38,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -4655,15 +4675,15 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 392006172672
+    "marketCap": 384736821248
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 431937454080,
-    "forwardPE": 15.407279,
+    "enterpriseValue": 424776171520,
+    "forwardPE": 15.121568,
     "profitMargins": 0.09835,
-    "floatShares": 1867686660,
+    "floatShares": 1866941100,
     "sharesOutstanding": 1991597732,
     "sharesShort": 20366208,
     "sharesShortPriorMonth": "1970-09-07T19:27:35.000Z",
@@ -4678,7 +4698,7 @@
     "impliedSharesOutstanding": 1991597732,
     "category": null,
     "bookValue": 92.906,
-    "priceToBook": 2.118593,
+    "priceToBook": 2.079306,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4687,12 +4707,12 @@
     "earningsQuarterlyGrowth": 3.848,
     "netIncomeToCommon": 20590999552,
     "trailingEps": 10.39,
-    "forwardEps": 12.77513,
+    "forwardEps": 12.95529,
     "pegRatio": 0.8,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1095033600,
-    "enterpriseToRevenue": 2.063,
-    "enterpriseToEbitda": 8.528,
+    "enterpriseToRevenue": 2.029,
+    "enterpriseToEbitda": 8.386,
     "52WeekChange": 0.30316472,
     "SandP52WeekChange": 0.18322134,
     "lastDividendValue": 1.78,
@@ -4837,7 +4857,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "REED-KLAGES DEBRA L",
+        "filerName": "HERNANDEZ ENRIQUEJR",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-27T00:00:00.000Z",
@@ -4849,7 +4869,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HERNANDEZ ENRIQUEJR",
+        "filerName": "REED-KLAGES DEBRA L",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-27T00:00:00.000Z",
@@ -5001,23 +5021,23 @@
       },
       {
         "maxAge": 1,
-        "shares": 11600,
-        "value": 1169442,
+        "shares": 45800,
+        "value": 7451084,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 88.20 - 110.37 per share.",
-        "filerName": "WALZ ANDREW BENJAMIN",
-        "filerRelation": "Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 152.35 - 179.08 per share.",
+        "filerName": "BONNER EIMEAR P",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-03-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 93475,
-        "value": 10560549,
+        "shares": 11600,
+        "value": 1169442,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 110.37 - 117.24 per share.",
-        "filerName": "PATE ROBERT HEWITT",
+        "transactionText": "Conversion of Exercise of derivative security at price 88.20 - 110.37 per share.",
+        "filerName": "WALZ ANDREW BENJAMIN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-02T00:00:00.000Z",
@@ -5037,12 +5057,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 45800,
-        "value": 7451084,
+        "shares": 93475,
+        "value": 10560549,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 152.35 - 179.08 per share.",
-        "filerName": "BONNER EIMEAR P",
-        "filerRelation": "Chief Financial Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 110.37 - 117.24 per share.",
+        "filerName": "PATE ROBERT HEWITT",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-02T00:00:00.000Z",
         "ownership": "D"
@@ -5157,6 +5177,28 @@
       },
       {
         "maxAge": 1,
+        "shares": 5017,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BONNER EIMEAR P",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-02-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2209,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WALZ ANDREW BENJAMIN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 3638,
         "filerUrl": "",
         "transactionText": "",
@@ -5190,28 +5232,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2209,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "WALZ ANDREW BENJAMIN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4826,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PATE ROBERT HEWITT",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 6995,
         "filerUrl": "",
         "transactionText": "",
@@ -5234,11 +5254,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 5017,
+        "shares": 4826,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BONNER EIMEAR P",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "PATE ROBERT HEWITT",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-10T00:00:00.000Z",
         "ownership": "D"
@@ -5256,18 +5276,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 22200,
-        "value": 3919050,
-        "filerUrl": "",
-        "transactionText": "Sale at price 176.53 per share.",
-        "filerName": "WALZ ANDREW BENJAMIN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 6000,
         "value": 1070566,
         "filerUrl": "",
@@ -5280,12 +5288,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 6000,
-        "value": 678060,
+        "shares": 22200,
+        "value": 3919050,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 113.01 per share.",
-        "filerName": "BOOTH THOMAS RYDER",
-        "filerRelation": "Chief Technology Officer",
+        "transactionText": "Sale at price 176.53 per share.",
+        "filerName": "WALZ ANDREW BENJAMIN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-03T00:00:00.000Z",
         "ownership": "D"
@@ -5298,6 +5306,18 @@
         "transactionText": "Conversion of Exercise of derivative security at price 110.37 - 125.35 per share.",
         "filerName": "WALZ ANDREW BENJAMIN",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 6000,
+        "value": 678060,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 113.01 per share.",
+        "filerName": "BOOTH THOMAS RYDER",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2026-02-03T00:00:00.000Z",
         "ownership": "D"
@@ -5352,6 +5372,29 @@
       },
       {
         "maxAge": 1,
+        "shares": 40780,
+        "value": 4259349,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 132.69 per share.",
+        "filerName": "BONNER EIMEAR P",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-01-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4770,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WALZ ANDREW BENJAMIN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 11818,
         "filerUrl": "",
         "transactionText": "",
@@ -5385,10 +5428,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 4770,
+        "shares": 3426,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WALZ ANDREW BENJAMIN",
+        "filerName": "KNOWLES ALANA K.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-30T00:00:00.000Z",
@@ -5402,29 +5445,6 @@
         "transactionText": "Conversion of Exercise of derivative security at price 88.20 per share.",
         "filerName": "PATE ROBERT HEWITT",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3426,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "KNOWLES ALANA K.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 40780,
-        "value": 4259349,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 132.69 per share.",
-        "filerName": "BONNER EIMEAR P",
-        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-01-30T00:00:00.000Z",
         "ownership": "D"
@@ -5466,24 +5486,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 3200,
-        "value": 424608,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 132.69 per share.",
-        "filerName": "KNOWLES ALANA K.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7534,
         "value": 831528,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 110.37 per share.",
         "filerName": "BONNER EIMEAR P",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3200,
+        "value": 424608,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 132.69 per share.",
+        "filerName": "KNOWLES ALANA K.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-28T00:00:00.000Z",
         "ownership": "D"
@@ -5562,24 +5582,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 7956,
-        "value": 701719,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 88.20 per share.",
-        "filerName": "KNOWLES ALANA K.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 28334,
         "value": 2499059,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 88.20 per share.",
         "filerName": "BONNER EIMEAR P",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-01-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7956,
+        "value": 701719,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 88.20 per share.",
+        "filerName": "KNOWLES ALANA K.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-05T00:00:00.000Z",
         "ownership": "D"
@@ -5594,28 +5614,6 @@
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-01-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 46,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GUSTAVSON JEFF B.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-12-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 122,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BOOTH THOMAS RYDER",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-12-17T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -5642,11 +5640,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 190,
+        "shares": 46,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PATE ROBERT HEWITT",
+        "filerName": "GUSTAVSON JEFF B.",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-12-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 122,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BOOTH THOMAS RYDER",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-12-17T00:00:00.000Z",
         "ownership": "D"
@@ -5680,6 +5689,17 @@
         "transactionText": "",
         "filerName": "BONNER EIMEAR P",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-12-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 190,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "PATE ROBERT HEWITT",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-17T00:00:00.000Z",
         "ownership": "D"
@@ -5881,6 +5901,18 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "UMPLEBY DONALD JAMES III",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1704,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "WARNER CYNTHIA J",
         "filerRelation": "Director",
         "moneyText": "",
@@ -5918,18 +5950,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "GAST ALICE P",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1704,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "UMPLEBY DONALD JAMES III",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-28T00:00:00.000Z",
@@ -5989,7 +6009,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "REED-KLAGES DEBRA L",
+        "filerName": "HERNANDEZ ENRIQUEJR",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-28T00:00:00.000Z",
@@ -6001,7 +6021,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HERNANDEZ ENRIQUEJR",
+        "filerName": "REED-KLAGES DEBRA L",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-28T00:00:00.000Z",
@@ -6017,6 +6037,17 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-02-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2446,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BONNER EIMEAR P",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-02-10T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6054,17 +6085,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2446,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PATE ROBERT HEWITT",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-02-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 3194,
         "filerUrl": "",
         "transactionText": "",
@@ -6090,8 +6110,8 @@
         "shares": 2446,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BONNER EIMEAR P",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "PATE ROBERT HEWITT",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-02-10T00:00:00.000Z",
         "ownership": "D"
@@ -6133,6 +6153,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 4804,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BONNER EIMEAR P",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-01-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 10716,
         "filerUrl": "",
         "transactionText": "",
@@ -6166,17 +6197,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 10133,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PATE ROBERT HEWITT",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-01-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 13470,
         "filerUrl": "",
         "transactionText": "",
@@ -6199,11 +6219,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 4804,
+        "shares": 10133,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BONNER EIMEAR P",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "PATE ROBERT HEWITT",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-01-31T00:00:00.000Z",
         "ownership": "D"
@@ -6237,17 +6257,6 @@
         "transactionText": "",
         "filerName": "GUSTAVSON JEFF B.",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-12-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 159,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PATE ROBERT HEWITT",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2024-12-17T00:00:00.000Z",
         "ownership": "D"
@@ -6292,6 +6301,17 @@
         "transactionText": "",
         "filerName": "BONNER EIMEAR P",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2024-12-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 159,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "PATE ROBERT HEWITT",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2024-12-17T00:00:00.000Z",
         "ownership": "D"
@@ -6372,7 +6392,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 196.83,
+    "currentPrice": 193.18,
     "targetHighPrice": 236,
     "targetLowPrice": 170,
     "targetMeanPrice": 215,
@@ -6397,6 +6417,6 @@
     "profitMargins": 0.09835,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-03T05:42:02.789Z",
+  "lastUpdated": "2026-08-04T05:15:33.713Z",
   "source": "Static Build (yahoo-finance2)"
 }

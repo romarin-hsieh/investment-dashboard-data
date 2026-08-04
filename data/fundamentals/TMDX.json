@@ -37,7 +37,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1532,
         "position": 5293331,
-        "value": 404992766,
+        "value": 431671159,
         "pctChange": -0.0189
       },
       {
@@ -46,7 +46,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.1475,
         "position": 5096243,
-        "value": 389913562,
+        "value": 415598632,
         "pctChange": 0.0038
       },
       {
@@ -55,7 +55,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0555,
         "position": 1919535,
-        "value": 146863626,
+        "value": 156538085,
         "pctChange": 1
       },
       {
@@ -64,7 +64,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0428,
         "position": 1478152,
-        "value": 113093412,
+        "value": 120543300,
         "pctChange": 1
       },
       {
@@ -73,7 +73,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0382,
         "position": 1319479,
-        "value": 100953341,
+        "value": 107603516,
         "pctChange": 0.0348
       },
       {
@@ -82,7 +82,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.03,
         "position": 1037974,
-        "value": 79415392,
+        "value": 84646782,
         "pctChange": 0.5162
       },
       {
@@ -91,7 +91,7 @@
         "organization": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
         "pctHeld": 0.0272,
         "position": 939523,
-        "value": 71882906,
+        "value": 76618103,
         "pctChange": -0.0575
       },
       {
@@ -100,7 +100,7 @@
         "organization": "Nomura Asset Management International Inc",
         "pctHeld": 0.0256,
         "position": 885841,
-        "value": 67775696,
+        "value": 72240336,
         "pctChange": 0.0644
       },
       {
@@ -109,7 +109,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0251,
         "position": 866282,
-        "value": 66279237,
+        "value": 70645299,
         "pctChange": -0.103199996
       },
       {
@@ -118,7 +118,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024300002,
         "position": 839155,
-        "value": 64203750,
+        "value": 68433092,
         "pctChange": 0.0278
       }
     ]
@@ -253,6 +253,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-03T10:22:27.000Z",
+        "firm": "Needham",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 106,
+        "priorPriceTarget": 142
+      },
       {
         "epochGradeDate": "2026-07-28T18:47:20.000Z",
         "firm": "UBS",
@@ -1469,24 +1479,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0006535492,
-    "postMarketChange": -0.05000305,
-    "postMarketTime": "2026-07-31T23:50:40.000Z",
-    "postMarketPrice": 76.46,
+    "postMarketChangePercent": 0.0056407,
+    "postMarketChange": 0.45999908,
+    "postMarketTime": "2026-08-03T23:38:09.000Z",
+    "postMarketPrice": 82.01,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0049914257,
-    "regularMarketChange": 0.37999725,
-    "regularMarketTime": "2026-07-31T20:00:00.000Z",
+    "regularMarketChangePercent": 0.0658738,
+    "regularMarketChange": 5.04,
+    "regularMarketTime": "2026-08-03T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 76.51,
-    "regularMarketDayHigh": 76.9242,
-    "regularMarketDayLow": 74.95,
-    "regularMarketVolume": 532778,
+    "regularMarketPrice": 81.55,
+    "regularMarketDayHigh": 83.29,
+    "regularMarketDayLow": 77.8901,
+    "regularMarketVolume": 1517389,
     "averageDailyVolume10Day": 852380,
     "averageDailyVolume3Month": 1322240,
-    "regularMarketPreviousClose": 76.130005,
+    "regularMarketPreviousClose": 76.51,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 76.5,
+    "regularMarketOpen": 78.66,
     "exchange": "NGM",
     "exchangeName": "NasdaqGM",
     "exchangeDataDelayedBy": 0,
@@ -1502,13 +1512,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 2644255488
+    "marketCap": 2818442496
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 3045931264,
-    "forwardPE": 26.6815,
+    "forwardPE": 28.43911,
     "profitMargins": 0.27037,
     "floatShares": 33431115,
     "sharesOutstanding": 34560911,
@@ -1521,11 +1531,11 @@
     "heldPercentInstitutions": 1.09655,
     "shortRatio": 7.24,
     "shortPercentOfFloat": 0.3482,
-    "beta": 1.882,
+    "beta": 1.88,
     "impliedSharesOutstanding": 34560911,
     "category": null,
     "bookValue": 14.3,
-    "priceToBook": 5.35035,
+    "priceToBook": 5.7027974,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2555,7 +2565,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 76.51,
+    "currentPrice": 81.55,
     "targetHighPrice": 142,
     "targetLowPrice": 80,
     "targetMeanPrice": 109.6,
@@ -2585,6 +2595,6 @@
     "profitMargins": 0.27037,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-03T05:40:33.244Z",
+  "lastUpdated": "2026-08-04T05:14:05.659Z",
   "source": "Static Build (yahoo-finance2)"
 }
