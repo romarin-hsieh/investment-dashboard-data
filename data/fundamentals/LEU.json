@@ -12,13 +12,21 @@
       {
         "period": "-1m",
         "strongBuy": 2,
-        "buy": 9,
+        "buy": 10,
         "hold": 5,
         "sell": 0,
         "strongSell": 0
       },
       {
         "period": "-2m",
+        "strongBuy": 2,
+        "buy": 9,
+        "hold": 5,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
         "strongBuy": 2,
         "buy": 9,
         "hold": 5,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0785,
         "position": 1488061,
-        "value": 277590336,
+        "value": 282553029,
         "pctChange": 0.014099999
       },
       {
@@ -46,7 +54,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.074099995,
         "position": 1403652,
-        "value": 261844259,
+        "value": 266525448,
         "pctChange": 0.4659
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Mirae Asset Global ETFs Holdings Ltd.",
         "pctHeld": 0.0655,
         "position": 1240980,
-        "value": 231498611,
+        "value": 235637288,
         "pctChange": 0.17889999
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.0638,
         "position": 1210001,
-        "value": 225719634,
+        "value": 229754995,
         "pctChange": 0.3506
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0424,
         "position": 802687,
-        "value": 149737244,
+        "value": 152414211,
         "pctChange": 1
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0226,
         "position": 429185,
-        "value": 80062315,
+        "value": 81493649,
         "pctChange": 0.0343
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Bank Of New York Mellon Corporation",
         "pctHeld": 0.0201,
         "position": 380960,
-        "value": 71066182,
+        "value": 72336686,
         "pctChange": -0.19479999
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Dimensional Fund Advisors LP",
         "pctHeld": 0.0189,
         "position": 358347,
-        "value": 66847840,
+        "value": 68042930,
         "pctChange": 0.0007
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0.0145000005,
         "position": 275396,
-        "value": 51373746,
+        "value": 52292193,
         "pctChange": -0.6473
       },
       {
@@ -118,7 +126,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.014099999,
         "position": 266797,
-        "value": 49769645,
+        "value": 50659415,
         "pctChange": -0.2065
       }
     ]
@@ -769,14 +777,14 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.009661202,
-    "regularMarketChange": 1.7850037,
-    "regularMarketTime": "2026-08-04T14:32:39.000Z",
+    "regularMarketChangePercent": 0.027711682,
+    "regularMarketChange": 5.1200104,
+    "regularMarketTime": "2026-08-04T17:23:49.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 186.545,
+    "regularMarketPrice": 189.88,
     "regularMarketDayHigh": 192.88,
     "regularMarketDayLow": 185.01,
-    "regularMarketVolume": 140529,
+    "regularMarketVolume": 276325,
     "averageDailyVolume10Day": 708350,
     "averageDailyVolume3Month": 885460,
     "regularMarketPreviousClose": 184.76,
@@ -797,13 +805,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 3669861376
+    "marketCap": 3735470336
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 2945145344,
-    "forwardPE": 41.38088,
+    "forwardPE": 42.120678,
     "profitMargins": 0.13397999,
     "floatShares": 18909293,
     "sharesOutstanding": 18953594,
@@ -820,7 +828,7 @@
     "impliedSharesOutstanding": 19672794,
     "category": null,
     "bookValue": 39.407,
-    "priceToBook": 4.7338033,
+    "priceToBook": 4.8184333,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1182,7 +1190,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 186.545,
+    "currentPrice": 189.88,
     "targetHighPrice": 390,
     "targetLowPrice": 170,
     "targetMeanPrice": 259.26666,
@@ -1212,6 +1220,6 @@
     "profitMargins": 0.13397999,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T14:33:16.448Z",
+  "lastUpdated": "2026-08-04T17:24:14.893Z",
   "source": "Static Build (yahoo-finance2)"
 }

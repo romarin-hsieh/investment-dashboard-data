@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 5,
+        "buy": 13,
+        "hold": 3,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
         "strongBuy": 4,
         "buy": 12,
         "hold": 3,
@@ -18,7 +26,7 @@
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 4,
         "buy": 12,
         "hold": 3,
@@ -37,7 +45,7 @@
         "organization": "Galileo (ptc) Ltd",
         "pctHeld": 0.1498,
         "position": 52268715,
-        "value": 1303843079,
+        "value": 1300706984,
         "pctChange": 0
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Crosslink Capital Inc",
         "pctHeld": 0.075100005,
         "position": 26185368,
-        "value": 653193996,
+        "value": 651622888,
         "pctChange": -0.0378
       },
       {
@@ -55,7 +63,7 @@
         "organization": "General Atlantic, L.P.",
         "pctHeld": 0.060900003,
         "position": 21259683,
-        "value": 530322785,
+        "value": 529047216,
         "pctChange": 0
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Msop Gp, L.L.C.",
         "pctHeld": 0.05,
         "position": 17442713,
-        "value": 435108470,
+        "value": 434061916,
         "pctChange": 1
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Menlo Ventures Management, L.P.",
         "pctHeld": 0.05,
         "position": 17442713,
-        "value": 435108470,
+        "value": 434061916,
         "pctChange": 1
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Aspect Management, LLC",
         "pctHeld": 0.0342,
         "position": 11933275,
-        "value": 297675541,
+        "value": 296959551,
         "pctChange": 0
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Tiger Global Management, LLC",
         "pctHeld": 0.0318,
         "position": 11081780,
-        "value": 276434998,
+        "value": 275770097,
         "pctChange": -0.2192
       },
       {
@@ -100,7 +108,7 @@
         "organization": "ICONIQ Capital, LLC",
         "pctHeld": 0.0317,
         "position": 11064137,
-        "value": 275994894,
+        "value": 275331051,
         "pctChange": -0.081199996
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Coatue Management LLC",
         "pctHeld": 0.028900001,
         "position": 10071992,
-        "value": 251245837,
+        "value": 250641523,
         "pctChange": 0
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0287,
         "position": 10029260,
-        "value": 250179887,
+        "value": 249578137,
         "pctChange": 1
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.07166,
-    "institutionsPercentHeld": 1.00463,
-    "institutionsFloatPercentHeld": 1.08218,
-    "institutionsCount": 285
+    "institutionsPercentHeld": 1.00776,
+    "institutionsFloatPercentHeld": 1.08555,
+    "institutionsCount": 291
   },
   "earnings": {
     "maxAge": 86400,
@@ -616,14 +624,14 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.028235758,
-    "regularMarketChange": 0.68499947,
-    "regularMarketTime": "2026-08-04T14:34:02.000Z",
+    "regularMarketChangePercent": 0.025762573,
+    "regularMarketChange": 0.625,
+    "regularMarketTime": "2026-08-04T17:25:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 24.945,
-    "regularMarketDayHigh": 24.96,
+    "regularMarketPrice": 24.885,
+    "regularMarketDayHigh": 25.05,
     "regularMarketDayLow": 24.2225,
-    "regularMarketVolume": 1073033,
+    "regularMarketVolume": 2691895,
     "averageDailyVolume10Day": 5420900,
     "averageDailyVolume3Month": 5657436,
     "regularMarketPreviousClose": 24.26,
@@ -644,7 +652,7 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 9504522240
+    "marketCap": 9481661440
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
@@ -659,13 +667,13 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.060100004,
     "heldPercentInsiders": 0.07166,
-    "heldPercentInstitutions": 1.00463,
+    "heldPercentInstitutions": 1.00776,
     "shortRatio": 3.74,
     "shortPercentOfFloat": 0.0785,
     "impliedSharesOutstanding": 381019139,
     "category": null,
     "bookValue": 3.767,
-    "priceToBook": 6.62198,
+    "priceToBook": 6.606053,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1285,7 +1293,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 24.945,
+    "currentPrice": 24.885,
     "targetHighPrice": 40,
     "targetLowPrice": 21,
     "targetMeanPrice": 29.85,
@@ -1315,6 +1323,6 @@
     "profitMargins": -0.41868,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T14:34:06.616Z",
+  "lastUpdated": "2026-08-04T17:25:04.004Z",
   "source": "Static Build (yahoo-finance2)"
 }

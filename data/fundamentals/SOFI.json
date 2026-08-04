@@ -11,7 +11,7 @@
       },
       {
         "period": "-1m",
-        "strongBuy": 3,
+        "strongBuy": 2,
         "buy": 5,
         "hold": 12,
         "sell": 2,
@@ -19,6 +19,14 @@
       },
       {
         "period": "-2m",
+        "strongBuy": 3,
+        "buy": 5,
+        "hold": 12,
+        "sell": 2,
+        "strongSell": 2
+      },
+      {
+        "period": "-3m",
         "strongBuy": 3,
         "buy": 5,
         "hold": 12,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0542,
         "position": 69557164,
-        "value": 1274892330,
+        "value": 1291676514,
         "pctChange": 0.0061000003
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.044499997,
         "position": 57108581,
-        "value": 1046725997,
+        "value": 1060506331,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0397,
         "position": 50975115,
-        "value": 934307545,
+        "value": 946607869,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0.033299997,
         "position": 42720908,
-        "value": 783018668,
+        "value": 793327248,
         "pctChange": 0.1028
       },
       {
@@ -73,7 +81,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.028399998,
         "position": 36417201,
-        "value": 667479919,
+        "value": 676267411,
         "pctChange": 1.3692
       },
       {
@@ -82,7 +90,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.021300001,
         "position": 27315197,
-        "value": 500652026,
+        "value": 507243199,
         "pctChange": 0.0531
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.020299999,
         "position": 25982836,
-        "value": 476231583,
+        "value": 482501256,
         "pctChange": 0.099
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0166,
         "position": 21258767,
-        "value": 389645543,
+        "value": 394775296,
         "pctChange": 0.5956
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Jane Street Group, LLC",
         "pctHeld": 0.0139999995,
         "position": 18018178,
-        "value": 330249763,
+        "value": 334597559,
         "pctChange": 0.8674
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Qube Research & Technologies Ltd",
         "pctHeld": 0.013099999,
         "position": 16799087,
-        "value": 307905410,
+        "value": 311959040,
         "pctChange": 3.9097
       }
     ]
@@ -2092,14 +2100,14 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.016566746,
-    "regularMarketChange": 0.29869843,
-    "regularMarketTime": "2026-08-04T14:33:33.000Z",
+    "regularMarketChangePercent": 0.029950028,
+    "regularMarketChange": 0.539999,
+    "regularMarketTime": "2026-08-04T17:24:30.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 18.3287,
-    "regularMarketDayHigh": 18.41,
+    "regularMarketPrice": 18.57,
+    "regularMarketDayHigh": 18.6,
     "regularMarketDayLow": 18.12,
-    "regularMarketVolume": 14094715,
+    "regularMarketVolume": 34601170,
     "averageDailyVolume10Day": 90755610,
     "averageDailyVolume3Month": 79436631,
     "regularMarketPreviousClose": 18.03,
@@ -2120,13 +2128,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 23649748992
+    "marketCap": 23961102336
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 23543232512,
-    "forwardPE": 22.566175,
+    "forwardPE": 22.863264,
     "profitMargins": 0.14906,
     "floatShares": 1270544818,
     "sharesOutstanding": 1290312404,
@@ -2143,7 +2151,7 @@
     "impliedSharesOutstanding": 1290312404,
     "category": null,
     "bookValue": 8.437,
-    "priceToBook": 2.1724188,
+    "priceToBook": 2.2010193,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3751,7 +3759,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 18.3287,
+    "currentPrice": 18.57,
     "targetHighPrice": 30,
     "targetLowPrice": 12,
     "targetMeanPrice": 19.86842,
@@ -3778,6 +3786,6 @@
     "profitMargins": 0.14906,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T14:33:35.530Z",
+  "lastUpdated": "2026-08-04T17:24:33.831Z",
   "source": "Static Build (yahoo-finance2)"
 }

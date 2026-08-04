@@ -21,6 +21,14 @@
         "period": "-2m",
         "strongBuy": 1,
         "buy": 8,
+        "hold": 4,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 1,
+        "buy": 8,
         "hold": 3,
         "sell": 1,
         "strongSell": 0
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0765,
         "position": 25435282,
-        "value": 428075794,
+        "value": 444100000,
         "pctChange": -0.0271
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0586,
         "position": 19466522,
-        "value": 327621563,
+        "value": 339885456,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0429,
         "position": 14258562,
-        "value": 239971597,
+        "value": 248954479,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0.0419,
         "position": 13922073,
-        "value": 234308487,
+        "value": 243079381,
         "pctChange": 2.9557998
       },
       {
@@ -73,7 +81,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0305,
         "position": 10138079,
-        "value": 170623868,
+        "value": 177010850,
         "pctChange": 0.1196
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024500001,
         "position": 8127635,
-        "value": 136788096,
+        "value": 141908499,
         "pctChange": 0.0315
       },
       {
@@ -91,7 +99,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.0146,
         "position": 4848625,
-        "value": 81602358,
+        "value": 84656988,
         "pctChange": 0.70949996
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Defiance Etfs, LLC",
         "pctHeld": 0.0139999995,
         "position": 4650185,
-        "value": 78262613,
+        "value": 81192225,
         "pctChange": 2.0412
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0117,
         "position": 3878470,
-        "value": 65274649,
+        "value": 67718082,
         "pctChange": 0.6013
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Unicom Systems, Inc.                          ",
         "pctHeld": 0.0106,
         "position": 3521935,
-        "value": 59274165,
+        "value": 61492981,
         "pctChange": 0
       }
     ]
@@ -849,14 +857,14 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.050561763,
-    "regularMarketChange": 0.80999947,
-    "regularMarketTime": "2026-08-04T14:36:19.000Z",
+    "regularMarketChangePercent": 0.08988755,
+    "regularMarketChange": 1.4399986,
+    "regularMarketTime": "2026-08-04T17:27:09.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 16.83,
-    "regularMarketDayHigh": 17.29,
+    "regularMarketPrice": 17.46,
+    "regularMarketDayHigh": 17.535,
     "regularMarketDayLow": 16.48,
-    "regularMarketVolume": 7322303,
+    "regularMarketVolume": 13561682,
     "averageDailyVolume10Day": 21081530,
     "averageDailyVolume3Month": 39030132,
     "regularMarketPreviousClose": 16.02,
@@ -877,13 +885,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 5594272256
+    "marketCap": 5803682816
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 4913565696,
-    "forwardPE": -83.68554,
+    "forwardPE": -86.81815,
     "profitMargins": 0,
     "floatShares": 327662124,
     "sharesOutstanding": 332398807,
@@ -900,7 +908,7 @@
     "impliedSharesOutstanding": 332398807,
     "category": null,
     "bookValue": 1.756,
-    "priceToBook": 9.584282,
+    "priceToBook": 9.943051,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1785,7 +1793,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 16.83,
+    "currentPrice": 17.46,
     "targetHighPrice": 40,
     "targetLowPrice": 20,
     "targetMeanPrice": 29.64583,
@@ -1814,6 +1822,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T14:36:21.359Z",
+  "lastUpdated": "2026-08-04T17:27:15.804Z",
   "source": "Static Build (yahoo-finance2)"
 }
