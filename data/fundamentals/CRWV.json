@@ -3,7 +3,7 @@
     "trend": [
       {
         "period": "0m",
-        "strongBuy": 5,
+        "strongBuy": 6,
         "buy": 21,
         "hold": 9,
         "sell": 1,
@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 5,
+        "buy": 21,
+        "hold": 9,
+        "sell": 1,
+        "strongSell": 1
+      },
+      {
+        "period": "-2m",
         "strongBuy": 4,
         "buy": 20,
         "hold": 11,
@@ -18,7 +26,7 @@
         "strongSell": 1
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 3,
         "buy": 19,
         "hold": 11,
@@ -37,7 +45,7 @@
         "organization": "Magnetar Financial LLC",
         "pctHeld": 0.1532,
         "position": 68566394,
-        "value": 5880254095,
+        "value": 6242970382,
         "pctChange": 0.0055
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Nvidia Corp                          ",
         "pctHeld": 0.105500005,
         "position": 47213353,
-        "value": 4049017254,
+        "value": 4298775934,
         "pctChange": 0.9447
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0399,
         "position": 17877647,
-        "value": 1533187044,
+        "value": 1627759813,
         "pctChange": 0.96849996
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.028399998,
         "position": 12710358,
-        "value": 1090040329,
+        "value": 1157278134,
         "pctChange": 1
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0278,
         "position": 12437395,
-        "value": 1066631021,
+        "value": 1132424852,
         "pctChange": 1
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.021,
         "position": 9378232,
-        "value": 804277196,
+        "value": 853888052,
         "pctChange": 0.2965
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Jane Street Group, LLC",
         "pctHeld": 0.0198,
         "position": 8856691,
-        "value": 759549839,
+        "value": 806401742,
         "pctChange": 0.4351
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Value Aligned Research Advisors, LLC                          ",
         "pctHeld": 0.0185,
         "position": 8280763,
-        "value": 710158252,
+        "value": 753963496,
         "pctChange": 0.3737
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Situational Awareness Partners LP",
         "pctHeld": 0.016,
         "position": 7177919,
-        "value": 615578348,
+        "value": 653549546,
         "pctChange": 1
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Situational Awareness LP                          ",
         "pctHeld": 0.016,
         "position": 7177919,
-        "value": 615578348,
+        "value": 653549546,
         "pctChange": 0.1769
       }
     ]
@@ -1531,28 +1539,23 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.008045648,
-    "postMarketChange": 0.6899948,
-    "postMarketTime": "2026-08-03T23:59:45.000Z",
-    "postMarketPrice": 86.45,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.19492799,
-    "regularMarketChange": 13.99,
-    "regularMarketTime": "2026-08-03T20:00:01.000Z",
+    "regularMarketChangePercent": 0.061683785,
+    "regularMarketChange": 5.290001,
+    "regularMarketTime": "2026-08-04T14:33:18.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 85.76,
-    "regularMarketDayHigh": 86.2,
-    "regularMarketDayLow": 69.89,
-    "regularMarketVolume": 44007925,
+    "regularMarketPrice": 91.05,
+    "regularMarketDayHigh": 91.74,
+    "regularMarketDayLow": 86.345,
+    "regularMarketVolume": 11721539,
     "averageDailyVolume10Day": 27030520,
-    "averageDailyVolume3Month": 29006961,
-    "regularMarketPreviousClose": 71.77,
+    "averageDailyVolume3Month": 28987447,
+    "regularMarketPreviousClose": 85.76,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 70.74,
+    "regularMarketOpen": 86.36,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "REGULAR",
     "quoteType": "EQUITY",
     "symbol": "CRWV",
     "underlyingSymbol": null,
@@ -1564,13 +1567,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 46788116480
+    "marketCap": 49674182656
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 79669116928,
-    "forwardPE": -53.73198,
+    "forwardPE": -56.835564,
     "profitMargins": -0.25566,
     "floatShares": 314532216,
     "sharesOutstanding": 447573939,
@@ -1586,20 +1589,20 @@
     "impliedSharesOutstanding": 545570346,
     "category": null,
     "bookValue": 8.945,
-    "priceToBook": 9.58748,
+    "priceToBook": 10.178871,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": -1592999936,
-    "trailingEps": -2.72,
+    "trailingEps": -3.25,
     "forwardEps": -1.60199,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 12.794,
     "enterpriseToEbitda": 26.346,
-    "52WeekChange": -0.3229884,
-    "SandP52WeekChange": 0.18322134,
+    "52WeekChange": -0.3582797,
+    "SandP52WeekChange": 0.18899727,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3369,14 +3372,14 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 85.76,
+    "currentPrice": 91.05,
     "targetHighPrice": 303,
     "targetLowPrice": 36,
-    "targetMeanPrice": 138.0294,
-    "targetMedianPrice": 137.5,
-    "recommendationMean": 1.81081,
+    "targetMeanPrice": 138.4,
+    "targetMedianPrice": 140,
+    "recommendationMean": 1.81579,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 34,
+    "numberOfAnalystOpinions": 35,
     "totalCash": 2265999872,
     "totalCashPerShare": 4.153,
     "ebitda": 3024000000,
@@ -3398,6 +3401,6 @@
     "profitMargins": -0.25566,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T05:13:43.852Z",
+  "lastUpdated": "2026-08-04T14:33:20.299Z",
   "source": "Static Build (yahoo-finance2)"
 }

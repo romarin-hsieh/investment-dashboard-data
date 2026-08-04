@@ -12,13 +12,21 @@
       {
         "period": "-1m",
         "strongBuy": 3,
+        "buy": 13,
+        "hold": 10,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 3,
         "buy": 12,
         "hold": 9,
         "sell": 0,
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 4,
         "buy": 12,
         "hold": 8,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0862,
         "position": 260798584,
-        "value": 22921587388,
+        "value": 23114577783,
         "pctChange": -0.006
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0664,
         "position": 200762402,
-        "value": 17645007389,
+        "value": 17793571137,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0535,
         "position": 161693928,
-        "value": 14211279233,
+        "value": 14330932394,
         "pctChange": -0.1293
       },
       {
@@ -64,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0448,
         "position": 135493574,
-        "value": 11908530136,
+        "value": 12008795091,
         "pctChange": -0.0116
       },
       {
@@ -73,7 +81,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0427,
         "position": 129208607,
-        "value": 11356144390,
+        "value": 11451758483,
         "pctChange": -0.0126
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024400001,
         "position": 73848013,
-        "value": 6490501817,
+        "value": 6545149189,
         "pctChange": 0.0202
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.0241,
         "position": 72893582,
-        "value": 6406616877,
+        "value": 6460557972,
         "pctChange": 0.9479
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Wellington Management Group, LLP",
         "pctHeld": 0.0218,
         "position": 65846073,
-        "value": 5787211315,
+        "value": 5835937269,
         "pctChange": -0.09060001
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.020399999,
         "position": 61671445,
-        "value": 5420303263,
+        "value": 5465940000,
         "pctChange": 1
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0172,
         "position": 51973069,
-        "value": 4567913002,
+        "value": 4606372962,
         "pctChange": 0.0135
       }
     ]
@@ -179,7 +187,7 @@
           "reportedDate": 1784024901
         }
       ],
-      "currentQuarterEstimate": 1.83039,
+      "currentQuarterEstimate": 1.83539,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -5649,28 +5657,23 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0007099877,
-    "postMarketChange": 0.062400818,
-    "postMarketTime": "2026-08-03T23:55:24.000Z",
-    "postMarketPrice": 87.9524,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0166571,
-    "regularMarketChange": 1.44,
-    "regularMarketTime": "2026-08-03T20:04:54.000Z",
+    "regularMarketChangePercent": 0.008419591,
+    "regularMarketChange": 0.73999786,
+    "regularMarketTime": "2026-08-04T14:36:51.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 87.89,
-    "regularMarketDayHigh": 87.965,
-    "regularMarketDayLow": 86.4101,
-    "regularMarketVolume": 8098437,
+    "regularMarketPrice": 88.63,
+    "regularMarketDayHigh": 88.78,
+    "regularMarketDayLow": 87.37,
+    "regularMarketVolume": 1867648,
     "averageDailyVolume10Day": 14864700,
-    "averageDailyVolume3Month": 16512530,
-    "regularMarketPreviousClose": 86.45,
+    "averageDailyVolume3Month": 16570624,
+    "regularMarketPreviousClose": 87.89,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 87.56,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "REGULAR",
     "quoteType": "EQUITY",
     "symbol": "WFC",
     "underlyingSymbol": null,
@@ -5682,13 +5685,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 265779298304
+    "marketCap": 268017041408
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 265318301696,
-    "forwardPE": 11.15187,
+    "forwardPE": 11.245764,
     "profitMargins": 0.27232,
     "floatShares": 3015713578,
     "sharesOutstanding": 3023999336,
@@ -5705,7 +5708,7 @@
     "impliedSharesOutstanding": 3023999336,
     "category": null,
     "bookValue": 53.194,
-    "priceToBook": 1.652254,
+    "priceToBook": 1.6661654,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -5713,14 +5716,14 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.166,
     "netIncomeToCommon": 21614999552,
-    "trailingEps": 6.88,
+    "trailingEps": 7,
     "forwardEps": 7.88119,
     "pegRatio": 1.63,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1155513600,
     "enterpriseToRevenue": 3.196,
-    "52WeekChange": 0.11433363,
-    "SandP52WeekChange": 0.18322134,
+    "52WeekChange": 0.10890198,
+    "SandP52WeekChange": 0.18899727,
     "lastDividendValue": 0.45,
     "lastDividendDate": "2026-05-08T00:00:00.000Z",
     "latestShareClass": null,
@@ -5874,24 +5877,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 60000,
-        "value": 5244000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 87.40 per share.",
-        "filerName": "PATTERSON ELLEN REILLY",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-02-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 30000,
         "value": 2613000,
         "filerUrl": "",
         "transactionText": "Sale at price 87.10 per share.",
         "filerName": "ENGLE BRIDGET E.",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 60000,
+        "value": 5244000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 87.40 per share.",
+        "filerName": "PATTERSON ELLEN REILLY",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2026-02-26T00:00:00.000Z",
         "ownership": "D"
@@ -6097,10 +6100,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 952,
+        "shares": 3375,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HRANICKY KYLE G",
+        "filerName": "FLOWERS DEREK A",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-05T00:00:00.000Z",
@@ -6108,10 +6111,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 3375,
+        "shares": 952,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "FLOWERS DEREK A",
+        "filerName": "HRANICKY KYLE G",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-05T00:00:00.000Z",
@@ -6590,7 +6593,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 87.89,
+    "currentPrice": 88.63,
     "targetHighPrice": 115,
     "targetLowPrice": 90,
     "targetMeanPrice": 100.02174,
@@ -6615,6 +6618,6 @@
     "profitMargins": 0.27232,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T05:17:08.432Z",
+  "lastUpdated": "2026-08-04T14:36:54.732Z",
   "source": "Static Build (yahoo-finance2)"
 }

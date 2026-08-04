@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 5,
+        "buy": 15,
+        "hold": 4,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
         "strongBuy": 6,
         "buy": 15,
         "hold": 3,
@@ -18,7 +26,7 @@
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 6,
         "buy": 16,
         "hold": 2,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.076,
         "position": 539258516,
-        "value": 33692871832,
+        "value": 34100012588,
         "pctChange": -0.0058999998
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Berkshire Hathaway, Inc",
         "pctHeld": 0.072399996,
         "position": 513624165,
-        "value": 32091237594,
+        "value": 32479024387,
         "pctChange": -0.0070999996
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0577,
         "position": 409704665,
-        "value": 25598347281,
+        "value": 25907674741,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0416,
         "position": 294909309,
-        "value": 18425933491,
+        "value": 18648590334,
         "pctChange": -0.012
       },
       {
@@ -73,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.027999999,
         "position": 198484617,
-        "value": 12401318779,
+        "value": 12551174877,
         "pctChange": -0.0759
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.023,
         "position": 163431813,
-        "value": 10211219601,
+        "value": 10334610794,
         "pctChange": 1
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0223,
         "position": 157925189,
-        "value": 9867165736,
+        "value": 9986399422,
         "pctChange": 0.0223
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.020299999,
         "position": 144289396,
-        "value": 9015201396,
+        "value": 9124140044,
         "pctChange": 0.0211
       },
       {
@@ -109,7 +117,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0186,
         "position": 132271796,
-        "value": 8264341753,
+        "value": 8364207100,
         "pctChange": -0.18129998
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0153,
         "position": 108670801,
-        "value": 6789751596,
+        "value": 6871798167,
         "pctChange": -0.0365
       }
     ]
@@ -179,7 +187,7 @@
           "reportedDate": 1784025908
         }
       ],
-      "currentQuarterEstimate": 1.19089,
+      "currentQuarterEstimate": 1.19248,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -191,55 +199,8 @@
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2022,
-          "revenue": 94950000000,
-          "earnings": 27528000000,
-          "profitMargin": 0.28992102
-        },
-        {
-          "date": 2023,
-          "revenue": 102769000000,
-          "earnings": 26305000000,
-          "profitMargin": 0.2559624
-        },
-        {
-          "date": 2024,
-          "revenue": 105856000000,
-          "earnings": 26973000000,
-          "profitMargin": 0.25480843
-        },
-        {
-          "date": 2025,
-          "revenue": 113097000000,
-          "earnings": 30509000000,
-          "profitMargin": 0.2697596
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "3Q2025",
-          "revenue": 28088000000,
-          "earnings": 8469000000,
-          "profitMargin": 0.30151665
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 31180000000,
-          "earnings": 7528000000,
-          "profitMargin": 0.24143682
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 30272000000,
-          "earnings": 8584000000,
-          "profitMargin": 0.28356236
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "gaap"
@@ -4472,49 +4433,44 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.00064021954,
-    "postMarketChange": 0.040000916,
-    "postMarketTime": "2026-08-03T23:59:52.000Z",
-    "postMarketPrice": 62.52,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.00855527,
-    "regularMarketChange": 0.529999,
-    "regularMarketTime": "2026-08-03T20:00:02.000Z",
+    "regularMarketChangePercent": 0.012083884,
+    "regularMarketChange": 0.75500107,
+    "regularMarketTime": "2026-08-04T14:35:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 62.48,
-    "regularMarketDayHigh": 62.505,
-    "regularMarketDayLow": 61.71,
-    "regularMarketVolume": 18813868,
+    "regularMarketPrice": 63.235,
+    "regularMarketDayHigh": 63.285,
+    "regularMarketDayLow": 62.35,
+    "regularMarketVolume": 7595750,
     "averageDailyVolume10Day": 32782950,
-    "averageDailyVolume3Month": 36351266,
-    "regularMarketPreviousClose": 61.95,
+    "averageDailyVolume3Month": 36243434,
+    "regularMarketPreviousClose": 62.48,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 62.26,
+    "regularMarketOpen": 62.47,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "REGULAR",
     "quoteType": "EQUITY",
     "symbol": "BAC",
     "underlyingSymbol": null,
     "shortName": "Bank of America Corporation",
-    "longName": "Bank of America Corporation",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 438482599936
+    "marketCap": 442186465280
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 379039776768,
-    "forwardPE": 11.843584,
+    "enterpriseValue": 382745903104,
+    "forwardPE": 11.957529,
     "profitMargins": 0.29524,
     "floatShares": 6965406719,
-    "sharesOutstanding": 7017967460,
+    "sharesOutstanding": 6992748365,
     "sharesShort": 3560,
     "sharesShortPriorMonth": "1970-01-01T02:31:31.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
@@ -4525,10 +4481,10 @@
     "shortRatio": 0,
     "shortPercentOfFloat": 0,
     "beta": 1.168,
-    "impliedSharesOutstanding": 7017967460,
+    "impliedSharesOutstanding": 6992748365,
     "category": null,
     "bookValue": 39.342,
-    "priceToBook": 1.5881246,
+    "priceToBook": 1.6073154,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4536,14 +4492,14 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.266,
     "netIncomeToCommon": 32124999680,
-    "trailingEps": 4.33,
+    "trailingEps": 4.37,
     "forwardEps": 5.2883,
     "pegRatio": 1.06,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1093824000,
-    "enterpriseToRevenue": 3.327,
-    "52WeekChange": 0.35114503,
-    "SandP52WeekChange": 0.18322134,
+    "enterpriseToRevenue": 3.359,
+    "52WeekChange": 0.35974538,
+    "SandP52WeekChange": 0.18899727,
     "lastDividendValue": 0.28,
     "lastDividendDate": "2026-06-05T00:00:00.000Z",
     "latestShareClass": null,
@@ -6226,11 +6182,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 62.48,
+    "currentPrice": 63.235,
     "targetHighPrice": 75,
     "targetLowPrice": 62,
-    "targetMeanPrice": 68.68182,
-    "targetMedianPrice": 68,
+    "targetMeanPrice": 68.77273,
+    "targetMedianPrice": 68.5,
     "recommendationMean": 1.54167,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 22,
@@ -6251,6 +6207,6 @@
     "profitMargins": 0.29524,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T05:15:19.527Z",
+  "lastUpdated": "2026-08-04T14:35:02.271Z",
   "source": "Static Build (yahoo-finance2)"
 }

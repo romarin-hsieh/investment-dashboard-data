@@ -15,10 +15,18 @@
         "buy": 10,
         "hold": 2,
         "sell": 0,
-        "strongSell": 0
+        "strongSell": 1
       },
       {
         "period": "-2m",
+        "strongBuy": 8,
+        "buy": 10,
+        "hold": 2,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
         "strongBuy": 8,
         "buy": 10,
         "hold": 2,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0991,
         "position": 7989186,
-        "value": 4600812472,
+        "value": 4795908258,
         "pctChange": -0.0305
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0626,
         "position": 5043125,
-        "value": 2904234849,
+        "value": 3027387875,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.045700002,
         "position": 3681962,
-        "value": 2120368294,
+        "value": 2210281743,
         "pctChange": 0.037100002
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.044699997,
         "position": 3604673,
-        "value": 2075859104,
+        "value": 2163885157,
         "pctChange": 1
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.036199998,
         "position": 2921809,
-        "value": 1682611381,
+        "value": 1753961907,
         "pctChange": -0.113000005
       },
       {
@@ -82,7 +90,7 @@
         "organization": "BAILLIE GIFFORD & CO",
         "pctHeld": 0.0305,
         "position": 2459727,
-        "value": 1416507596,
+        "value": 1476574088,
         "pctChange": 0.4975
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Wellington Management Group, LLP",
         "pctHeld": 0.03,
         "position": 2418116,
-        "value": 1392544653,
+        "value": 1451595005,
         "pctChange": 0.5705
       },
       {
@@ -100,7 +108,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0297,
         "position": 2396339,
-        "value": 1380003715,
+        "value": 1438522272,
         "pctChange": -0.0691
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.027999999,
         "position": 2256286,
-        "value": 1299349992,
+        "value": 1354448458,
         "pctChange": 0.0135
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Edgewood Management Llc",
         "pctHeld": 0.0252,
         "position": 2028423,
-        "value": 1168128247,
+        "value": 1217662302,
         "pctChange": 0.3609
       }
     ]
@@ -1959,28 +1967,23 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.005070471,
-    "postMarketChange": 2.919983,
-    "postMarketTime": "2026-08-03T23:57:16.000Z",
-    "postMarketPrice": 578.8,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0911778,
-    "regularMarketChange": 48.12,
-    "regularMarketTime": "2026-08-03T20:00:01.000Z",
+    "regularMarketChangePercent": 0.042404637,
+    "regularMarketChange": 24.419983,
+    "regularMarketTime": "2026-08-04T14:34:20.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 575.88,
-    "regularMarketDayHigh": 577.44,
-    "regularMarketDayLow": 546.37,
-    "regularMarketVolume": 1088457,
+    "regularMarketPrice": 600.3,
+    "regularMarketDayHigh": 600.88,
+    "regularMarketDayLow": 580.26,
+    "regularMarketVolume": 166190,
     "averageDailyVolume10Day": 709450,
-    "averageDailyVolume3Month": 1125259,
-    "regularMarketPreviousClose": 527.76,
+    "averageDailyVolume3Month": 1129681,
+    "regularMarketPreviousClose": 575.88,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 547.78,
+    "regularMarketOpen": 583.02,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "REGULAR",
     "quoteType": "EQUITY",
     "symbol": "AXON",
     "underlyingSymbol": null,
@@ -1992,13 +1995,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 46417125376
+    "marketCap": 48385429504
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 43641937920,
-    "forwardPE": 54.76055,
+    "enterpriseValue": 47520509952,
+    "forwardPE": 57.082653,
     "profitMargins": 0.06905,
     "floatShares": 76780733,
     "sharesOutstanding": 80602077,
@@ -2015,7 +2018,7 @@
     "impliedSharesOutstanding": 80602077,
     "category": null,
     "bookValue": 43.863,
-    "priceToBook": 13.129062,
+    "priceToBook": 13.685795,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2023,15 +2026,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.924,
     "netIncomeToCommon": 205988000,
-    "trailingEps": 2.48,
+    "trailingEps": 2.71,
     "forwardEps": 10.51633,
     "pegRatio": 4.17,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1101772800,
-    "enterpriseToRevenue": 14.629,
-    "enterpriseToEbitda": 424.281,
-    "52WeekChange": -0.29148316,
-    "SandP52WeekChange": 0.18322134,
+    "enterpriseToRevenue": 15.929,
+    "enterpriseToEbitda": 461.988,
+    "52WeekChange": -0.3913645,
+    "SandP52WeekChange": 0.18899727,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3647,7 +3650,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 575.88,
+    "currentPrice": 600.3,
     "targetHighPrice": 825,
     "targetLowPrice": 409.68,
     "targetMeanPrice": 660.87787,
@@ -3677,6 +3680,6 @@
     "profitMargins": 0.06905,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T05:14:58.114Z",
+  "lastUpdated": "2026-08-04T14:34:39.760Z",
   "source": "Static Build (yahoo-finance2)"
 }

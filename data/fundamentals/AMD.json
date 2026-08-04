@@ -12,13 +12,21 @@
       {
         "period": "-1m",
         "strongBuy": 5,
+        "buy": 36,
+        "hold": 10,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 5,
         "buy": 37,
         "hold": 9,
         "sell": 0,
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 5,
         "buy": 36,
         "hold": 10,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.08930001,
         "position": 145574284,
-        "value": 70551123130,
+        "value": 75193489179,
         "pctChange": -0.013200001
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.065,
         "position": 105940266,
-        "value": 51342892066,
+        "value": 54721328700,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.045900002,
         "position": 74771220,
-        "value": 36237125156,
+        "value": 38621580457,
         "pctChange": -0.002
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0309,
         "position": 50443198,
-        "value": 24446792217,
+        "value": 26055426540,
         "pctChange": -0.0309
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024400001,
         "position": 39791086,
-        "value": 19284352501,
+        "value": 20553290817,
         "pctChange": 0.0587
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0231,
         "position": 37603675,
-        "value": 18224245602,
+        "value": 19423427349,
         "pctChange": 1
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0177,
         "position": 28846470,
-        "value": 13980153643,
+        "value": 14900067994,
         "pctChange": 0.41919997
       },
       {
@@ -100,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0149,
         "position": 24248547,
-        "value": 11751816173,
+        "value": 12525102692,
         "pctChange": 0.1596
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0146,
         "position": 23781608,
-        "value": 11525518849,
+        "value": 12283914676,
         "pctChange": -0.050300002
       },
       {
@@ -118,7 +126,7 @@
         "organization": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
         "pctHeld": 0.0117999995,
         "position": 19192764,
-        "value": 9301581426,
+        "value": 9913638951,
         "pctChange": 0.030199999
       }
     ]
@@ -179,7 +187,7 @@
           "reportedDate": 1778012166
         }
       ],
-      "currentQuarterEstimate": 1.61045,
+      "currentQuarterEstimate": 1.6107,
       "currentQuarterEstimateDate": "2Q",
       "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -191,62 +199,8 @@
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
-      "yearly": [
-        {
-          "date": 2022,
-          "revenue": 23601000000,
-          "earnings": 1320000000,
-          "profitMargin": 0.055929832
-        },
-        {
-          "date": 2023,
-          "revenue": 22680000000,
-          "earnings": 854000000,
-          "profitMargin": 0.03765432
-        },
-        {
-          "date": 2024,
-          "revenue": 25785000000,
-          "earnings": 1641000000,
-          "profitMargin": 0.06364165
-        },
-        {
-          "date": 2025,
-          "revenue": 34639000000,
-          "earnings": 4335000000,
-          "profitMargin": 0.12514795
-        }
-      ],
-      "quarterly": [
-        {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 7685000000,
-          "earnings": 872000000,
-          "profitMargin": 0.11346779
-        },
-        {
-          "date": "3Q2025",
-          "fiscalQuarter": "3Q2025",
-          "revenue": 9246000000,
-          "earnings": 1243000000,
-          "profitMargin": 0.13443652
-        },
-        {
-          "date": "4Q2025",
-          "fiscalQuarter": "4Q2025",
-          "revenue": 10270000000,
-          "earnings": 1511000000,
-          "profitMargin": 0.14712755
-        },
-        {
-          "date": "1Q2026",
-          "fiscalQuarter": "1Q2026",
-          "revenue": 10253000000,
-          "earnings": 1383000000,
-          "profitMargin": 0.13488737
-        }
-      ]
+      "yearly": [],
+      "quarterly": []
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
@@ -7759,49 +7713,42 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.020551318,
-    "postMarketChange": 9.959991,
-    "postMarketTime": "2026-08-03T23:59:59.000Z",
-    "postMarketPrice": 494.6,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0178306,
-    "regularMarketChange": 8.49002,
-    "regularMarketTime": "2026-08-03T20:00:01.000Z",
+    "regularMarketChangePercent": 0.06580145,
+    "regularMarketChange": 31.890015,
+    "regularMarketTime": "2026-08-04T14:34:55.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 484.64,
-    "regularMarketDayHigh": 490.9464,
-    "regularMarketDayLow": 455.3,
-    "regularMarketVolume": 24086408,
+    "regularMarketPrice": 516.53,
+    "regularMarketDayHigh": 517.8199,
+    "regularMarketDayLow": 502.2,
+    "regularMarketVolume": 10347778,
     "averageDailyVolume10Day": 29549110,
-    "averageDailyVolume3Month": 33033696,
-    "regularMarketPreviousClose": 476.15,
+    "averageDailyVolume3Month": 32886704,
+    "regularMarketPreviousClose": 484.64,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 461.79,
+    "regularMarketOpen": 504.24,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "REGULAR",
     "quoteType": "EQUITY",
     "symbol": "AMD",
     "underlyingSymbol": null,
     "shortName": "Advanced Micro Devices, Inc.",
-    "longName": "Advanced Micro Devices, Inc.",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 790254256128
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 767934464000,
-    "forwardPE": 34.93772,
+    "enterpriseValue": 781778288640,
+    "forwardPE": 37.1136,
     "profitMargins": 0.13374,
     "floatShares": 1622056292,
-    "sharesOutstanding": 1630600639,
     "sharesShort": 39768152,
     "sharesShortPriorMonth": "1971-06-26T05:35:36.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
@@ -7812,10 +7759,9 @@
     "shortRatio": 1.36,
     "shortPercentOfFloat": 0.024500001,
     "beta": 2.489,
-    "impliedSharesOutstanding": 1630600639,
     "category": null,
     "bookValue": 39.547,
-    "priceToBook": 12.254786,
+    "priceToBook": 13.061168,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-27T00:00:00.000Z",
@@ -7828,10 +7774,10 @@
     "pegRatio": 1.12,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 966902400,
-    "enterpriseToRevenue": 20.503,
-    "enterpriseToEbitda": 103.356,
-    "52WeekChange": 1.6934607,
-    "SandP52WeekChange": 0.18322134,
+    "enterpriseToRevenue": 20.873,
+    "enterpriseToEbitda": 105.219,
+    "52WeekChange": 1.7316275,
+    "SandP52WeekChange": 0.18899727,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -9410,7 +9356,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 484.64,
+    "currentPrice": 516.53,
     "targetHighPrice": 1250,
     "targetLowPrice": 320,
     "targetMeanPrice": 579.1064,
@@ -9440,6 +9386,6 @@
     "profitMargins": 0.13374,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T05:15:14.212Z",
+  "lastUpdated": "2026-08-04T14:34:56.675Z",
   "source": "Static Build (yahoo-finance2)"
 }

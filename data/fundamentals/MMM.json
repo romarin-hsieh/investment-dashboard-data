@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 1,
+        "buy": 8,
+        "hold": 6,
+        "sell": 0,
+        "strongSell": 3
+      },
+      {
+        "period": "-2m",
         "strongBuy": 0,
         "buy": 8,
         "hold": 7,
@@ -18,7 +26,7 @@
         "strongSell": 3
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 1,
         "buy": 8,
         "hold": 7,
@@ -37,7 +45,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.09,
         "position": 46431098,
-        "value": 8228983300,
+        "value": 8252198849,
         "pctChange": 0.019199999
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.08270001,
         "position": 42661966,
-        "value": 7560980051,
+        "value": 7582311034,
         "pctChange": 0.08939999
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0664,
         "position": 34227417,
-        "value": 6066124968,
+        "value": 6083238677,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0538,
         "position": 27723744,
-        "value": 4913479030,
+        "value": 4927340902,
         "pctChange": -0.0053
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0231,
         "position": 11897247,
-        "value": 2108549034,
+        "value": 2114497658,
         "pctChange": 0.0085
       },
       {
@@ -82,7 +90,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0184,
         "position": 9484937,
-        "value": 1681015343,
+        "value": 1685757812,
         "pctChange": 0.024300002
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0183,
         "position": 9450949,
-        "value": 1674991650,
+        "value": 1679717125,
         "pctChange": 1
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0178,
         "position": 9172034,
-        "value": 1625559546,
+        "value": 1630145563,
         "pctChange": -0.1535
       },
       {
@@ -109,7 +117,7 @@
         "organization": "State Farm Mutual Automobile Insurance Co",
         "pctHeld": 0.0154,
         "position": 7934035,
-        "value": 1406148989,
+        "value": 1410116006,
         "pctChange": 0
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0145000005,
         "position": 7481851,
-        "value": 1326008420,
+        "value": 1329749346,
         "pctChange": -0.08
       }
     ]
@@ -4519,46 +4527,41 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0012977245,
-    "postMarketChange": -0.22999573,
-    "postMarketTime": "2026-08-03T23:59:51.000Z",
-    "postMarketPrice": 177,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0053891405,
-    "regularMarketChange": 0.949997,
-    "regularMarketTime": "2026-08-03T20:03:07.000Z",
+    "regularMarketChangePercent": 0.0028211928,
+    "regularMarketChange": 0.5,
+    "regularMarketTime": "2026-08-04T14:35:57.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 177.23,
-    "regularMarketDayHigh": 179.44,
-    "regularMarketDayLow": 176.13,
-    "regularMarketVolume": 2075650,
+    "regularMarketPrice": 177.73,
+    "regularMarketDayHigh": 179.27,
+    "regularMarketDayLow": 176.61,
+    "regularMarketVolume": 425627,
     "averageDailyVolume10Day": 4913680,
-    "averageDailyVolume3Month": 3914477,
-    "regularMarketPreviousClose": 176.28,
+    "averageDailyVolume3Month": 3912201,
+    "regularMarketPreviousClose": 177.23,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 178,
+    "regularMarketOpen": 179.17,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "REGULAR",
     "quoteType": "EQUITY",
     "symbol": "MMM",
     "underlyingSymbol": null,
     "shortName": "3M Company",
     "longName": "3M Company",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 91401486336
+    "marketCap": 91659345920
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 99311484928,
-    "forwardPE": 18.277899,
+    "forwardPE": 18.275015,
     "profitMargins": 0.11902001,
     "floatShares": 514825060,
     "sharesOutstanding": 515722417,
@@ -4574,8 +4577,8 @@
     "beta": 1.08,
     "impliedSharesOutstanding": 515722417,
     "category": null,
-    "bookValue": 6.256,
-    "priceToBook": 28.329603,
+    "bookValue": 5.724,
+    "priceToBook": 31.049965,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4583,15 +4586,15 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.29,
     "netIncomeToCommon": 2996999936,
-    "trailingEps": 5.62,
-    "forwardEps": 9.69641,
+    "trailingEps": 5.65,
+    "forwardEps": 9.7253,
     "pegRatio": 1.77,
     "lastSplitFactor": "1196:1000",
     "lastSplitDate": 1711929600,
     "enterpriseToRevenue": 3.944,
     "enterpriseToEbitda": 15.307,
-    "52WeekChange": 0.19212818,
-    "SandP52WeekChange": 0.18322134,
+    "52WeekChange": 0.17449534,
+    "SandP52WeekChange": 0.18899727,
     "lastDividendValue": 0.78,
     "lastDividendDate": "2026-05-22T00:00:00.000Z",
     "latestShareClass": null,
@@ -6150,7 +6153,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 177.23,
+    "currentPrice": 177.73,
     "targetHighPrice": 219,
     "targetLowPrice": 120,
     "targetMeanPrice": 181.84647,
@@ -6180,6 +6183,6 @@
     "profitMargins": 0.11902001,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T05:16:16.921Z",
+  "lastUpdated": "2026-08-04T14:36:02.025Z",
   "source": "Static Build (yahoo-finance2)"
 }

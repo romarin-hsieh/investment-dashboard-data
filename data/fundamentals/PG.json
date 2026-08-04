@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 6,
+        "buy": 8,
+        "hold": 11,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
         "strongBuy": 5,
         "buy": 9,
         "hold": 11,
@@ -18,7 +26,7 @@
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 5,
         "buy": 9,
         "hold": 10,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.080299996,
         "position": 187029747,
-        "value": 27113702650,
+        "value": 27339073838,
         "pctChange": 0.0164
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.064899996,
         "position": 151049902,
-        "value": 21897704477,
+        "value": 22079719885,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0435,
         "position": 101250847,
-        "value": 14678335413,
+        "value": 14800342869,
         "pctChange": -0.0036000002
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0277,
         "position": 64403372,
-        "value": 9336556917,
+        "value": 9414163098,
         "pctChange": 0.027999999
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.027,
         "position": 62847265,
-        "value": 9110968083,
+        "value": 9186699153,
         "pctChange": 1
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0211,
         "position": 49216260,
-        "value": 7134881272,
+        "value": 7194186955,
         "pctChange": 0.008
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Charles Schwab Investment Management, Inc.",
         "pctHeld": 0.0178,
         "position": 41360143,
-        "value": 5995979981,
+        "value": 6045819029,
         "pctChange": 1.2025
       },
       {
@@ -100,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0143,
         "position": 33202858,
-        "value": 4813418364,
+        "value": 4853427869,
         "pctChange": 0.64269996
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0138,
         "position": 32092077,
-        "value": 4652388441,
+        "value": 4691059453,
         "pctChange": 0.0837
       },
       {
@@ -118,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.013200001,
         "position": 30709456,
-        "value": 4451949873,
+        "value": 4488954824,
         "pctChange": 0.1236
       }
     ]
@@ -3656,49 +3664,42 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.00020693094,
-    "postMarketChange": 0.02999878,
-    "postMarketTime": "2026-08-03T23:59:30.000Z",
-    "postMarketPrice": 145,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.003322,
-    "regularMarketChange": 0.479996,
-    "regularMarketTime": "2026-08-03T20:04:22.000Z",
+    "regularMarketChangePercent": 0.008312077,
+    "regularMarketChange": 1.2050018,
+    "regularMarketTime": "2026-08-04T14:36:07.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 144.97,
-    "regularMarketDayHigh": 147.15,
-    "regularMarketDayLow": 144.26,
-    "regularMarketVolume": 6559286,
+    "regularMarketPrice": 146.175,
+    "regularMarketDayHigh": 146.505,
+    "regularMarketDayLow": 143.8,
+    "regularMarketVolume": 1267378,
     "averageDailyVolume10Day": 8479090,
-    "averageDailyVolume3Month": 8886329,
-    "regularMarketPreviousClose": 144.49,
+    "averageDailyVolume3Month": 8873927,
+    "regularMarketPreviousClose": 144.97,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 145.85,
+    "regularMarketOpen": 144.04,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "REGULAR",
     "quoteType": "EQUITY",
     "symbol": "PG",
     "underlyingSymbol": null,
     "shortName": "Procter & Gamble Company (The)",
-    "longName": "The Procter & Gamble Company",
+    "longName": null,
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null,
-    "marketCap": 337577017344
+    "lastMarket": null
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 368952770560,
-    "forwardPE": 19.563839,
+    "forwardPE": 19.726456,
     "profitMargins": 0.18437,
     "floatShares": 2373701688,
-    "sharesOutstanding": 2328598978,
     "sharesShort": 23118701,
     "sharesShortPriorMonth": "1970-10-14T15:11:20.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
@@ -3709,10 +3710,9 @@
     "shortRatio": 2.34,
     "shortPercentOfFloat": 0.0099,
     "beta": 0.377,
-    "impliedSharesOutstanding": 2328598978,
     "category": null,
-    "bookValue": 23.081,
-    "priceToBook": 6.280924,
+    "bookValue": 22.838,
+    "priceToBook": 6.400517,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-06-30T00:00:00.000Z",
@@ -3727,8 +3727,8 @@
     "lastSplitDate": 1087776000,
     "enterpriseToRevenue": 4.239,
     "enterpriseToEbitda": 15.596,
-    "52WeekChange": -0.04158926,
-    "SandP52WeekChange": 0.18322134,
+    "52WeekChange": -0.03999734,
+    "SandP52WeekChange": 0.18899727,
     "lastDividendValue": 1.089,
     "lastDividendDate": "2026-07-24T00:00:00.000Z",
     "latestShareClass": null,
@@ -5551,7 +5551,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 144.97,
+    "currentPrice": 146.175,
     "targetHighPrice": 186,
     "targetLowPrice": 145,
     "targetMeanPrice": 160.69565,
@@ -5581,6 +5581,6 @@
     "profitMargins": 0.18437,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T05:16:26.300Z",
+  "lastUpdated": "2026-08-04T14:36:12.114Z",
   "source": "Static Build (yahoo-finance2)"
 }
