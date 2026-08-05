@@ -1,6 +1,6 @@
 {
   "ticker": "NFLX",
-  "updated_at": "2026-08-04T03:49:47.229936",
+  "updated_at": "2026-08-05T03:50:40.964630",
   "stats": {
     "sector": "Consumer Discretionary",
     "ownership_count": 9,
@@ -550,11 +550,19 @@
     },
     {
       "manager": "Polen Capital Management",
-      "percent_portfolio": 0.06,
-      "recent_activity": "Reduce 52.08%",
-      "shares": 83285,
-      "value": 8008000,
+      "percent_portfolio": 0.04,
+      "recent_activity": "Reduce 18.19%",
+      "shares": 68139,
+      "value": 4865000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 68139,
+          "percent_portfolio": "0.04",
+          "activity": "Reduce 18.19%",
+          "percent_change_portfolio": "0.01",
+          "reported_price": "$71.40"
+        },
         {
           "period": "2026   Q1",
           "shares": 83285,
@@ -978,6 +986,13 @@
         "type": "Buy",
         "shares_changed": 40000,
         "portfolio_change": "0.02"
+      },
+      {
+        "manager": "Polen Capital Management",
+        "action": "Reduce 18.19%",
+        "type": "Sell",
+        "shares_changed": -15146,
+        "portfolio_change": "0.01"
       }
     ],
     "Q1  2026": [
@@ -1702,13 +1717,6 @@
         "type": "Buy",
         "shares_changed": 92560,
         "portfolio_change": "0.06"
-      },
-      {
-        "manager": "Viking Global Investors",
-        "action": "Reduce 53.23%",
-        "type": "Sell",
-        "shares_changed": -4676310,
-        "portfolio_change": "0.80"
       }
     ]
   },
@@ -1719,11 +1727,51 @@
         "amount": 0
       },
       "sells": {
-        "count": 208,
-        "amount": 511986258
+        "count": 180,
+        "amount": 492650063
       }
     },
     "transactions": [
+      {
+        "filing_date": "04 Aug 2026 17:23",
+        "reporter": "HYMAN DAVID A",
+        "relationship": "Chief Legal Officer",
+        "transaction_date": "04 Aug 2026",
+        "transaction_type": "Sale",
+        "shares": 5723,
+        "price": 72.8463,
+        "value": 416899
+      },
+      {
+        "filing_date": "04 Aug 2026 17:15",
+        "reporter": "SARANDOS THEODORE A",
+        "relationship": "Co-CEO",
+        "transaction_date": "03 Aug 2026",
+        "transaction_type": "Sale",
+        "shares": 81891,
+        "price": 72.8985,
+        "value": 5969731
+      },
+      {
+        "filing_date": "04 Aug 2026 17:15",
+        "reporter": "SARANDOS THEODORE A",
+        "relationship": "Co-CEO",
+        "transaction_date": "03 Aug 2026",
+        "transaction_type": "Sale",
+        "shares": 23959,
+        "price": 73.4768,
+        "value": 1760431
+      },
+      {
+        "filing_date": "04 Aug 2026 17:15",
+        "reporter": "SARANDOS THEODORE A",
+        "relationship": "Co-CEO",
+        "transaction_date": "04 Aug 2026",
+        "transaction_type": "Sale",
+        "shares": 27312,
+        "price": 73.3532,
+        "value": 2003423
+      },
       {
         "filing_date": "18 Jun 2026 16:08",
         "reporter": "SMITH BRADFORD L",
@@ -2683,46 +2731,6 @@
         "shares": 100,
         "price": 1092.352,
         "value": 109235
-      },
-      {
-        "filing_date": "04 Nov 2025 20:36",
-        "reporter": "NEUMANN SPENCER ADAM",
-        "relationship": "Chief Financial Officer",
-        "transaction_date": "03 Nov 2025",
-        "transaction_type": "Sale",
-        "shares": 110,
-        "price": 1093.4336,
-        "value": 120278
-      },
-      {
-        "filing_date": "04 Nov 2025 20:36",
-        "reporter": "NEUMANN SPENCER ADAM",
-        "relationship": "Chief Financial Officer",
-        "transaction_date": "03 Nov 2025",
-        "transaction_type": "Sale",
-        "shares": 156,
-        "price": 1094.3076,
-        "value": 170712
-      },
-      {
-        "filing_date": "04 Nov 2025 20:36",
-        "reporter": "NEUMANN SPENCER ADAM",
-        "relationship": "Chief Financial Officer",
-        "transaction_date": "03 Nov 2025",
-        "transaction_type": "Sale",
-        "shares": 190,
-        "price": 1095.3195,
-        "value": 208111
-      },
-      {
-        "filing_date": "04 Nov 2025 20:36",
-        "reporter": "NEUMANN SPENCER ADAM",
-        "relationship": "Chief Financial Officer",
-        "transaction_date": "03 Nov 2025",
-        "transaction_type": "Sale",
-        "shares": 250,
-        "price": 1096.3396,
-        "value": 274085
       }
     ]
   }

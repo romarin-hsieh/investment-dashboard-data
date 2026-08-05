@@ -1,11 +1,11 @@
 {
   "ticker": "LRCX",
-  "updated_at": "2026-08-04T03:32:30.249846",
+  "updated_at": "2026-08-05T03:33:54.422851",
   "stats": {
     "sector": "Information Technology",
     "ownership_count": 6,
     "ownership_rank": 116,
-    "percent_of_portfolios": "0.09%"
+    "percent_of_portfolios": "0.11%"
   },
   "superinvestors": [
     {
@@ -123,11 +123,19 @@
     },
     {
       "manager": "Polen Capital Management",
-      "percent_portfolio": 1.56,
-      "recent_activity": "Buy",
-      "shares": 1054495,
-      "value": 225303000,
+      "percent_portfolio": 3.21,
+      "recent_activity": "Reduce 18.54%",
+      "shares": 859036,
+      "value": 372246000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 859036,
+          "percent_portfolio": "3.21",
+          "activity": "Reduce 18.54%",
+          "percent_change_portfolio": "0.73",
+          "reported_price": "$433.33"
+        },
         {
           "period": "2026   Q1",
           "shares": 1054495,
@@ -607,6 +615,13 @@
         "type": "Buy",
         "shares_changed": 500,
         "portfolio_change": "0.01"
+      },
+      {
+        "manager": "Polen Capital Management",
+        "action": "Reduce 18.54%",
+        "type": "Sell",
+        "shares_changed": -195459,
+        "portfolio_change": "0.73"
       }
     ],
     "Q1  2026": [
@@ -1385,15 +1400,6 @@
         "type": "Buy",
         "shares_changed": 14149000,
         "portfolio_change": "1.38"
-      }
-    ],
-    "Q1  2014": [
-      {
-        "manager": "David Einhorn - Greenlight Capital",
-        "action": "Buy",
-        "type": "Buy",
-        "shares_changed": 12251000,
-        "portfolio_change": "1.06"
       }
     ]
   },
