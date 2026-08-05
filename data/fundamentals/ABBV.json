@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0853,
         "position": 150698125,
-        "value": 36732667968,
+        "value": 36740203334,
         "pctChange": -0.0032
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.065,
         "position": 114880324,
-        "value": 28002078975,
+        "value": 28007823341,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.046,
         "position": 81217516,
-        "value": 19796769525,
+        "value": 19800830648,
         "pctChange": 0.0034
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0321,
         "position": 56741691,
-        "value": 13830787181,
+        "value": 13833624438,
         "pctChange": 0.083000004
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.027999999,
         "position": 49523078,
-        "value": 12071250262,
+        "value": 12073726567,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.026500002,
         "position": 46737581,
-        "value": 11392285368,
+        "value": 11394622390,
         "pctChange": 0.047199998
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0215,
         "position": 38016774,
-        "value": 9266588662,
+        "value": 9268489617,
         "pctChange": -0.0506
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.0177,
         "position": 31254786,
-        "value": 7618354087,
+        "value": 7619916922,
         "pctChange": 0.2301
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0135,
         "position": 23936943,
-        "value": 5834629856,
+        "value": 5835826776,
         "pctChange": -0.0731
       },
       {
@@ -126,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0123000005,
         "position": 21762703,
-        "value": 5304658856,
+        "value": 5305747057,
         "pctChange": -0.0374
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.0010899999,
-    "institutionsPercentHeld": 0.76873,
-    "institutionsFloatPercentHeld": 0.76957,
-    "institutionsCount": 5146
+    "institutionsPercentHeld": 0.76805,
+    "institutionsFloatPercentHeld": 0.76889,
+    "institutionsCount": 5155
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1785498692
         }
       ],
-      "currentQuarterEstimate": 3.87087,
+      "currentQuarterEstimate": 3.87304,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -254,6 +254,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-04T11:47:38.000Z",
+        "firm": "Guggenheim",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 288,
+        "priorPriceTarget": 261
+      },
+      {
+        "epochGradeDate": "2026-08-03T21:17:39.000Z",
+        "firm": "Canaccord Genuity",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 290,
+        "priorPriceTarget": 282
+      },
       {
         "epochGradeDate": "2026-08-03T12:45:56.000Z",
         "firm": "Cantor Fitzgerald",
@@ -4260,43 +4280,48 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0055079805,
-    "regularMarketChange": -1.3500061,
-    "regularMarketTime": "2026-08-04T17:25:46.000Z",
+    "postMarketChangePercent": 0.0026660946,
+    "postMarketChange": 0.6499939,
+    "postMarketTime": "2026-08-04T23:59:25.000Z",
+    "postMarketPrice": 244.45,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.00530397,
+    "regularMarketChange": -1.3,
+    "regularMarketTime": "2026-08-04T20:02:52.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 243.75,
+    "regularMarketPrice": 243.8,
     "regularMarketDayHigh": 246.91,
-    "regularMarketDayLow": 242.6,
-    "regularMarketVolume": 3004754,
-    "averageDailyVolume10Day": 5460300,
-    "averageDailyVolume3Month": 6819773,
+    "regularMarketDayLow": 242.385,
+    "regularMarketVolume": 5782249,
+    "averageDailyVolume10Day": 5771250,
+    "averageDailyVolume3Month": 6829808,
     "regularMarketPreviousClose": 245.1,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 246.74,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "REGULAR",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "ABBV",
     "underlyingSymbol": null,
     "shortName": "AbbVie Inc.",
     "longName": "AbbVie Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 430734835712
+    "marketCap": 430823211008
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 496605921280,
-    "forwardPE": 14.937384,
+    "enterpriseValue": 495186182144,
+    "forwardPE": 14.899467,
     "profitMargins": 0.098000005,
-    "floatShares": 1763612594,
+    "floatShares": 1763936474,
     "sharesOutstanding": 1767117285,
     "sharesShort": 22632412,
     "sharesShortPriorMonth": "1970-09-29T09:00:26.000Z",
@@ -4304,13 +4329,13 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0128,
     "heldPercentInsiders": 0.0010899999,
-    "heldPercentInstitutions": 0.76873,
+    "heldPercentInstitutions": 0.76805,
     "shortRatio": 2.42,
     "shortPercentOfFloat": 0.014199999,
     "beta": 0.28,
     "impliedSharesOutstanding": 1767117285,
     "category": null,
-    "bookValue": -3.767,
+    "bookValue": -3.359,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4319,13 +4344,13 @@
     "earningsQuarterlyGrowth": 2.852,
     "netIncomeToCommon": 6270000128,
     "trailingEps": 3.54,
-    "forwardEps": 16.334,
-    "pegRatio": 0.41,
+    "forwardEps": 16.363,
+    "pegRatio": 0.4,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 7.713,
-    "enterpriseToEbitda": 16.126,
-    "52WeekChange": 0.26386297,
-    "SandP52WeekChange": 0.18899727,
+    "enterpriseToRevenue": 7.691,
+    "enterpriseToEbitda": 16.097,
+    "52WeekChange": 0.23444974,
+    "SandP52WeekChange": 0.20658374,
     "lastDividendValue": 1.73,
     "lastDividendDate": "2026-07-15T00:00:00.000Z",
     "latestShareClass": null,
@@ -5156,47 +5181,40 @@
         "moneyText": "",
         "startDate": "2024-09-24T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 66500,
-        "value": 12403580,
-        "filerUrl": "",
-        "transactionText": "Sale at price 186.52 per share.",
-        "filerName": "GONZALEZ RICHARD A",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2024-08-05T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 243.75,
+    "currentPrice": 243.8,
     "targetHighPrice": 328,
     "targetLowPrice": 200,
-    "targetMeanPrice": 272.14285,
+    "targetMeanPrice": 272.17856,
     "targetMedianPrice": 280,
     "recommendationMean": 1.74194,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 28,
-    "totalCash": 9390999552,
-    "totalCashPerShare": 5.315,
-    "ebitda": 30795999232,
-    "totalDebt": 72912003072,
+    "totalCash": 6568999936,
+    "totalCashPerShare": 3.717,
+    "ebitda": 30762999808,
+    "totalDebt": 70884999168,
+    "quickRatio": 0.49,
+    "currentRatio": 0.809,
     "totalRevenue": 64385998848,
     "revenuePerShare": 36.387,
+    "returnOnAssets": 0.105100006,
     "grossProfits": 46868000768,
+    "freeCashflow": 16870250496,
+    "operatingCashflow": 19506999296,
     "earningsGrowth": 2.904,
     "revenueGrowth": 0.102,
     "grossMargins": 0.72792,
-    "ebitdaMargins": 0.4783,
-    "operatingMargins": 0.3957,
+    "ebitdaMargins": 0.47779,
+    "operatingMargins": 0.40035,
     "profitMargins": 0.098000005,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T17:25:49.441Z",
+  "lastUpdated": "2026-08-05T05:15:01.279Z",
   "source": "Static Build (yahoo-finance2)"
 }

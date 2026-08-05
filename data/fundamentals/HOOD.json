@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.080299996,
         "position": 63458589,
-        "value": 5920051825,
+        "value": 5934012792,
         "pctChange": -0.0113
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.064899996,
         "position": 51326495,
-        "value": 4788248765,
+        "value": 4799540657,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.047,
         "position": 37149630,
-        "value": 3465689016,
+        "value": 3473861980,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0422,
         "position": 33373068,
-        "value": 3113373544,
+        "value": 3120715659,
         "pctChange": 0.0076
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Newlands Management Operations LLC                          ",
         "pctHeld": 0.0306,
         "position": 24158860,
-        "value": 2253780071,
+        "value": 2259095050,
         "pctChange": 0
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0272,
         "position": 21505352,
-        "value": 2006234307,
+        "value": 2010965511,
         "pctChange": 0.015700001
       },
       {
@@ -99,7 +99,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0228,
         "position": 18057391,
-        "value": 1684574022,
+        "value": 1688546670,
         "pctChange": -0.1575
       },
       {
@@ -108,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.018,
         "position": 14268817,
-        "value": 1331137950,
+        "value": 1334277108,
         "pctChange": -0.5918
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Index Venture Associates VI Ltd",
         "pctHeld": 0.0146,
         "position": 11574318,
-        "value": 1079768136,
+        "value": 1082314500,
         "pctChange": 0
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.014400001,
         "position": 11420694,
-        "value": 1065436553,
+        "value": 1067949120,
         "pctChange": 0.069
       }
     ]
@@ -193,7 +193,9 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "3Q2026",
       "currentPeriodEndDate": 1790726400,
-      "earningsDate": [],
+      "earningsDate": [
+        "2026-11-04T20:00:00.000Z"
+      ],
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
@@ -3535,23 +3537,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.032654468,
-    "regularMarketChange": 2.9500046,
-    "regularMarketTime": "2026-08-04T17:24:57.000Z",
+    "postMarketChangePercent": -0.002780474,
+    "postMarketChange": -0.26000214,
+    "postMarketTime": "2026-08-04T23:59:36.000Z",
+    "postMarketPrice": 93.25,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.0350897,
+    "regularMarketChange": 3.17001,
+    "regularMarketTime": "2026-08-04T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 93.29,
+    "regularMarketPrice": 93.51,
     "regularMarketDayHigh": 95.5999,
     "regularMarketDayLow": 90.0717,
-    "regularMarketVolume": 13982334,
-    "averageDailyVolume10Day": 20439590,
-    "averageDailyVolume3Month": 27090867,
+    "regularMarketVolume": 22245741,
+    "averageDailyVolume10Day": 20540520,
+    "averageDailyVolume3Month": 26972456,
     "regularMarketPreviousClose": 90.34,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 92.725,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "REGULAR",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "HOOD",
     "underlyingSymbol": null,
@@ -3563,13 +3570,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 83875389440
+    "marketCap": 84073185280
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 80304095232,
-    "forwardPE": 29.29447,
+    "enterpriseValue": 83154182144,
+    "forwardPE": 29.363554,
     "profitMargins": 0.42011002,
     "floatShares": 783649100,
     "sharesOutstanding": 790630234,
@@ -3586,7 +3593,7 @@
     "impliedSharesOutstanding": 899082273,
     "category": null,
     "bookValue": 10.545,
-    "priceToBook": 8.846847,
+    "priceToBook": 8.86771,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3594,13 +3601,13 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.453,
     "netIncomeToCommon": 2072000000,
-    "trailingEps": 2.36,
+    "trailingEps": 2.34,
     "forwardEps": 3.18456,
     "pegRatio": 2.34,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 16.282,
-    "52WeekChange": -0.1792149,
-    "SandP52WeekChange": 0.18899727,
+    "enterpriseToRevenue": 16.86,
+    "52WeekChange": -0.14337188,
+    "SandP52WeekChange": 0.20658374,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3698,6 +3705,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 19377,
+        "value": 2324465,
+        "filerUrl": "",
+        "transactionText": "Sale at price 119.96 per share.",
+        "filerName": "QUIRK STEVEN M",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 3750,
         "value": 440625,
         "filerUrl": "",
@@ -3722,14 +3741,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 19377,
-        "value": 2324465,
+        "shares": 373,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 119.96 per share.",
-        "filerName": "QUIRK STEVEN M",
-        "filerRelation": "Officer",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "RUBINSTEIN JONATHAN J",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-07-02T00:00:00.000Z",
+        "startDate": "2026-06-30T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3775,18 +3794,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "HEGEMAN JOHN WILLIAM",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 373,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "RUBINSTEIN JONATHAN J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
@@ -3865,11 +3872,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 836771,
+        "shares": 10837,
+        "value": 931024,
         "filerUrl": "",
-        "transactionText": "Sale at price 83.08 - 85.78 per share.",
-        "filerName": "GALLAGHER DANIEL MARTIN JR",
+        "transactionText": "Sale at price 85.77 - 86.42 per share.",
+        "filerName": "QUIRK STEVEN M",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-03T00:00:00.000Z",
@@ -3877,11 +3884,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 10837,
-        "value": 931024,
+        "shares": 10000,
+        "value": 836771,
         "filerUrl": "",
-        "transactionText": "Sale at price 85.77 - 86.42 per share.",
-        "filerName": "QUIRK STEVEN M",
+        "transactionText": "Sale at price 83.08 - 85.78 per share.",
+        "filerName": "GALLAGHER DANIEL MARTIN JR",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-03T00:00:00.000Z",
@@ -3903,7 +3910,7 @@
         "shares": 801,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ZOELLICK ROBERT B.",
+        "filerName": "RUBINSTEIN JONATHAN J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-01T00:00:00.000Z",
@@ -3911,11 +3918,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 71176,
+        "shares": 801,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "QUIRK STEVEN M",
-        "filerRelation": "Officer",
+        "filerName": "ZOELLICK ROBERT B.",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-01T00:00:00.000Z",
         "ownership": "D"
@@ -3936,8 +3943,19 @@
         "shares": 801,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "RUBINSTEIN JONATHAN J",
+        "filerName": "TRESEDER OLUWADARA JOHNSON",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 71176,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "QUIRK STEVEN M",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-01T00:00:00.000Z",
         "ownership": "D"
@@ -3948,17 +3966,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "MALKA MEYER",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 801,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LOOP PAULA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-01T00:00:00.000Z",
@@ -3980,7 +3987,7 @@
         "shares": 801,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TRESEDER OLUWADARA JOHNSON",
+        "filerName": "LOOP PAULA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-01T00:00:00.000Z",
@@ -4167,7 +4174,7 @@
         "shares": 800,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MALKA MEYER",
+        "filerName": "TRESEDER OLUWADARA JOHNSON",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
@@ -4189,7 +4196,7 @@
         "shares": 800,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LOOP PAULA",
+        "filerName": "MALKA MEYER",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
@@ -4211,10 +4218,22 @@
         "shares": 800,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TRESEDER OLUWADARA JOHNSON",
+        "filerName": "LOOP PAULA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 422,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "RUBINSTEIN JONATHAN J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-03-31T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4267,18 +4286,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 422,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "RUBINSTEIN JONATHAN J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 288,
         "value": 0,
         "filerUrl": "",
@@ -4287,18 +4294,6 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5835,
-        "value": 416392,
-        "filerUrl": "",
-        "transactionText": "Sale at price 70.55 - 73.28 per share.",
-        "filerName": "PINNER JEFFREY TSVI",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2026-03-20T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4312,6 +4307,18 @@
         "moneyText": "",
         "startDate": "2026-03-20T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5835,
+        "value": 416392,
+        "filerUrl": "",
+        "transactionText": "Sale at price 70.55 - 73.28 per share.",
+        "filerName": "PINNER JEFFREY TSVI",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2026-03-20T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -4384,10 +4391,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 61329,
+        "shares": 133587,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "QUIRK STEVEN M",
+        "filerName": "GALLAGHER DANIEL MARTIN JR",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-27T00:00:00.000Z",
@@ -4395,10 +4402,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 133587,
+        "shares": 61329,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GALLAGHER DANIEL MARTIN JR",
+        "filerName": "QUIRK STEVEN M",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-27T00:00:00.000Z",
@@ -4453,11 +4460,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 870665,
+        "shares": 52540,
+        "value": 4613285,
         "filerUrl": "",
-        "transactionText": "Sale at price 85.55 - 90.33 per share.",
-        "filerName": "GALLAGHER DANIEL MARTIN JR",
+        "transactionText": "Sale at price 85.54 - 90.06 per share.",
+        "filerName": "QUIRK STEVEN M",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-03T00:00:00.000Z",
@@ -4465,11 +4472,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 52540,
-        "value": 4613285,
+        "shares": 10000,
+        "value": 870665,
         "filerUrl": "",
-        "transactionText": "Sale at price 85.54 - 90.06 per share.",
-        "filerName": "QUIRK STEVEN M",
+        "transactionText": "Sale at price 85.55 - 90.33 per share.",
+        "filerName": "GALLAGHER DANIEL MARTIN JR",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-03T00:00:00.000Z",
@@ -4512,6 +4519,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 375000,
+        "value": 45609760,
+        "filerUrl": "",
+        "transactionText": "Sale at price 118.38 - 123.11 per share.",
+        "filerName": "TENEV VLADIMIR",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-01-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 5864,
         "value": 712984,
         "filerUrl": "",
@@ -4525,9 +4544,8 @@
       {
         "maxAge": 1,
         "shares": 375000,
-        "value": 45609760,
         "filerUrl": "",
-        "transactionText": "Sale at price 118.38 - 123.11 per share.",
+        "transactionText": "",
         "filerName": "TENEV VLADIMIR",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -4536,13 +4554,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 375000,
+        "shares": 258,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "TENEV VLADIMIR",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "RUBINSTEIN JONATHAN J",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-01-05T00:00:00.000Z",
+        "startDate": "2025-12-31T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4595,11 +4614,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 258,
+        "shares": 176,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "RUBINSTEIN JONATHAN J",
+        "filerName": "SEGAL SUSAN L",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
@@ -4607,11 +4626,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 176,
-        "value": 0,
+        "shares": 801,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SEGAL SUSAN L",
+        "transactionText": "",
+        "filerName": "RUBINSTEIN JONATHAN J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
@@ -4633,29 +4651,18 @@
         "shares": 801,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "TRESEDER OLUWADARA JOHNSON",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-12-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 801,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "MALKA MEYER",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-12-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 801,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RUBINSTEIN JONATHAN J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-12-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 801,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LOOP PAULA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
@@ -4674,22 +4681,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 19290,
+        "shares": 801,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WARNICK JASON",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "LOOP PAULA",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 801,
+        "shares": 19290,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TRESEDER OLUWADARA JOHNSON",
-        "filerRelation": "Director",
+        "filerName": "WARNICK JASON",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
         "ownership": "D"
@@ -4882,18 +4889,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 42430,
-        "value": 5611795,
-        "filerUrl": "",
-        "transactionText": "Sale at price 131.76 - 134.37 per share.",
-        "filerName": "RUBINSTEIN JONATHAN J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-11T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 300000,
         "value": 39842135,
         "filerUrl": "",
@@ -4903,6 +4898,18 @@
         "moneyText": "",
         "startDate": "2025-11-11T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 42430,
+        "value": 5611795,
+        "filerUrl": "",
+        "transactionText": "Sale at price 131.76 - 134.37 per share.",
+        "filerName": "RUBINSTEIN JONATHAN J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-11-11T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5047,21 +5054,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 750000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "TENEV VLADIMIR",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-10-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 800,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ZOELLICK ROBERT B.",
+        "filerName": "RUBINSTEIN JONATHAN J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-10-01T00:00:00.000Z",
@@ -5072,7 +5068,18 @@
         "shares": 800,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "RUBINSTEIN JONATHAN J",
+        "filerName": "TRESEDER OLUWADARA JOHNSON",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-10-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 800,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ZOELLICK ROBERT B.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-10-01T00:00:00.000Z",
@@ -5102,22 +5109,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 19290,
+        "shares": 750000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WARNICK JASON",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-10-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 800,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "TRESEDER OLUWADARA JOHNSON",
-        "filerRelation": "Director",
+        "filerName": "TENEV VLADIMIR",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-10-01T00:00:00.000Z",
         "ownership": "D"
@@ -5135,15 +5131,26 @@
       },
       {
         "maxAge": 1,
-        "shares": 102,
+        "shares": 19290,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WARNICK JASON",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-10-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 204,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MALKA MEYER",
+        "filerName": "RUBINSTEIN JONATHAN J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-09-30T00:00:00.000Z",
-        "ownership": "I"
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5183,18 +5190,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 204,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "RUBINSTEIN JONATHAN J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-09-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 137,
         "value": 0,
         "filerUrl": "",
@@ -5204,6 +5199,18 @@
         "moneyText": "",
         "startDate": "2025-09-30T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 102,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MALKA MEYER",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-09-30T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5373,7 +5380,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 93.29,
+    "currentPrice": 93.51,
     "targetHighPrice": 163.6,
     "targetLowPrice": 57,
     "targetMeanPrice": 119.50769,
@@ -5401,6 +5408,6 @@
     "profitMargins": 0.42011002,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T17:24:59.513Z",
+  "lastUpdated": "2026-08-05T05:14:14.654Z",
   "source": "Static Build (yahoo-finance2)"
 }

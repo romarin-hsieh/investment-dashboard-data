@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0773,
         "position": 23640172,
-        "value": 9805233880,
+        "value": 9921780476,
         "pctChange": -0.022
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0548,
         "position": 16750884,
-        "value": 6947763972,
+        "value": 7030346219,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0513,
         "position": 15691414,
-        "value": 6508327612,
+        "value": 6585686647,
         "pctChange": 0.19860001
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0385,
         "position": 11767329,
-        "value": 4880734920,
+        "value": 4938748124,
         "pctChange": -0.0116
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0346,
         "position": 10589435,
-        "value": 4392179838,
+        "value": 4444385998,
         "pctChange": -0.097399995
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0238,
         "position": 7288372,
-        "value": 3022997974,
+        "value": 3058929817,
         "pctChange": 0.016900001
       },
       {
@@ -99,7 +99,7 @@
         "organization": "BAILLIE GIFFORD & CO",
         "pctHeld": 0.0219,
         "position": 6700132,
-        "value": 2779013676,
+        "value": 2812045482,
         "pctChange": 0.0866
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0194,
         "position": 5935893,
-        "value": 2462030274,
+        "value": 2491294364,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0183,
         "position": 5604841,
-        "value": 2324719839,
+        "value": 2352351836,
         "pctChange": 0.0078
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0178,
         "position": 5434726,
-        "value": 2254161243,
+        "value": 2280954568,
         "pctChange": -0.1076
       }
     ]
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-03T20:25:18.000Z",
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 798,
+        "priorPriceTarget": 750
+      },
       {
         "epochGradeDate": "2026-07-07T10:41:16.000Z",
         "firm": "Wells Fargo",
@@ -2957,23 +2967,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.021198506,
-    "regularMarketChange": 8.609985,
-    "regularMarketTime": "2026-08-04T17:24:46.000Z",
+    "postMarketChangePercent": 0.033380937,
+    "postMarketChange": 14.009979,
+    "postMarketTime": "2026-08-04T23:59:58.000Z",
+    "postMarketPrice": 433.71,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.0333366,
+    "regularMarketChange": 13.54,
+    "regularMarketTime": "2026-08-04T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 414.77,
+    "regularMarketPrice": 419.7,
     "regularMarketDayHigh": 426.9,
     "regularMarketDayLow": 405.33,
-    "regularMarketVolume": 3717306,
-    "averageDailyVolume10Day": 6733460,
-    "averageDailyVolume3Month": 5723750,
+    "regularMarketVolume": 7000922,
+    "averageDailyVolume10Day": 6679600,
+    "averageDailyVolume3Month": 5705335,
     "regularMarketPreviousClose": 406.16,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 419.67,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "REGULAR",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "APP",
     "underlyingSymbol": null,
@@ -2985,13 +3000,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 139337629696
+    "marketCap": 140993822720
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 137536552960,
-    "forwardPE": 19.213434,
+    "enterpriseValue": 142085193728,
+    "forwardPE": 19.441807,
     "profitMargins": 0.6429,
     "floatShares": 255707450,
     "sharesOutstanding": 305732000,
@@ -3008,7 +3023,7 @@
     "impliedSharesOutstanding": 335939521,
     "category": null,
     "bookValue": 7.028,
-    "priceToBook": 59.01679,
+    "priceToBook": 59.718273,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3016,14 +3031,14 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 1.092,
     "netIncomeToCommon": 3914972928,
-    "trailingEps": 11.78,
+    "trailingEps": 11.88,
     "forwardEps": 21.5875,
     "pegRatio": 1.09,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 22.312,
-    "enterpriseToEbitda": 28.23,
-    "52WeekChange": 0.047548532,
-    "SandP52WeekChange": 0.18899727,
+    "enterpriseToRevenue": 23.05,
+    "enterpriseToEbitda": 29.163,
+    "52WeekChange": 0.07469642,
+    "SandP52WeekChange": 0.20658374,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3175,31 +3190,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MESSING BARBARA",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 525,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BILLINGS CRAIG SCOTT",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 525,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CHEN HERALD Y",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-03T00:00:00.000Z",
@@ -3235,6 +3226,18 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MESSING BARBARA",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 525,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "VIVAS EDUARDO",
         "filerRelation": "Director",
         "moneyText": "",
@@ -3248,6 +3251,18 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "WEBB MAYNARD GEORGE JR",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 525,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CHEN HERALD Y",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-03T00:00:00.000Z",
@@ -3723,9 +3738,9 @@
       {
         "maxAge": 1,
         "shares": 2350,
-        "value": 1393368,
+        "value": 60042,
         "filerUrl": "",
-        "transactionText": "Sale at price 591.16 - 594.98 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 25.55 per share.",
         "filerName": "BILLINGS CRAIG SCOTT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -3735,9 +3750,9 @@
       {
         "maxAge": 1,
         "shares": 2350,
-        "value": 60042,
+        "value": 1393368,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 25.55 per share.",
+        "transactionText": "Sale at price 591.16 - 594.98 per share.",
         "filerName": "BILLINGS CRAIG SCOTT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -3878,6 +3893,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 7401,
+        "value": 3108170,
+        "filerUrl": "",
+        "transactionText": "Sale at price 412.91 - 430.91 per share.",
+        "filerName": "FOROUGHI ARASH ADAM",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-08-22T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 26200,
+        "value": 11534004,
+        "filerUrl": "",
+        "transactionText": "Sale at price 428.93 - 445.93 per share.",
+        "filerName": "FOROUGHI ARASH ADAM",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-08-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 30000,
         "value": 13127047,
         "filerUrl": "",
@@ -3926,27 +3965,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 7401,
-        "value": 3108170,
+        "shares": 3101,
         "filerUrl": "",
-        "transactionText": "Sale at price 412.91 - 430.91 per share.",
+        "transactionText": "",
         "filerName": "FOROUGHI ARASH ADAM",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-08-22T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 26200,
-        "value": 11534004,
-        "filerUrl": "",
-        "transactionText": "Sale at price 428.93 - 445.93 per share.",
-        "filerName": "FOROUGHI ARASH ADAM",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-08-22T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2025-08-21T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -3986,17 +4012,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 3101,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FOROUGHI ARASH ADAM",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-08-21T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 41180,
         "value": 0,
         "filerUrl": "",
@@ -4009,10 +4024,20 @@
       },
       {
         "maxAge": 1,
-        "shares": 11829,
-        "value": 4762108,
+        "shares": 10428,
         "filerUrl": "",
-        "transactionText": "Sale at price 386.35 - 412.55 per share.",
+        "transactionText": "",
+        "filerName": "FOROUGHI ARASH ADAM",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-08-20T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20858,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "FOROUGHI ARASH ADAM",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -4057,9 +4082,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 10428,
+        "shares": 11829,
+        "value": 4762108,
         "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Sale at price 386.35 - 412.55 per share.",
         "filerName": "FOROUGHI ARASH ADAM",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -4068,14 +4094,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 20858,
+        "shares": 250000,
+        "value": 1262500,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FOROUGHI ARASH ADAM",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
+        "filerName": "CHEN HERALD Y",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2025-08-20T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2025-08-15T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -4103,22 +4130,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 250000,
-        "value": 1262500,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
-        "filerName": "CHEN HERALD Y",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 200000,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "CHEN HERALD Y",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-08-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 600000,
+        "value": 2020000,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
         "filerName": "CHEN HERALD Y",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4143,18 +4170,6 @@
         "value": 15107577,
         "filerUrl": "",
         "transactionText": "Sale at price 453.78 - 464.40 per share.",
-        "filerName": "CHEN HERALD Y",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 600000,
-        "value": 2020000,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
         "filerName": "CHEN HERALD Y",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4223,6 +4238,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 100000,
+        "value": 505000,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
+        "filerName": "CHEN HERALD Y",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 3500,
         "value": 1452163,
         "filerUrl": "",
@@ -4251,18 +4278,6 @@
         "value": 41990543,
         "filerUrl": "",
         "transactionText": "Sale at price 414.65 - 423.70 per share.",
-        "filerName": "CHEN HERALD Y",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 100000,
-        "value": 505000,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
         "filerName": "CHEN HERALD Y",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4300,18 +4315,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BILLINGS CRAIG SCOTT",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 720,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CHEN HERALD Y",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-04T00:00:00.000Z",
@@ -4379,6 +4382,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 720,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CHEN HERALD Y",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 31181,
         "value": 11016443,
         "filerUrl": "",
@@ -4427,18 +4442,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 56300,
-        "value": 20473041,
-        "filerUrl": "",
-        "transactionText": "Sale at price 361.87 - 368.00 per share.",
-        "filerName": "FOROUGHI ARASH ADAM",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-05-20T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 15000,
         "filerUrl": "",
         "transactionText": "",
@@ -4450,15 +4453,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 571420,
-        "value": 213914133,
+        "shares": 56300,
+        "value": 20473041,
         "filerUrl": "",
-        "transactionText": "Sale at price 369.41 - 379.97 per share.",
-        "filerName": "CHEN HERALD Y",
-        "filerRelation": "Director",
+        "transactionText": "Sale at price 361.87 - 368.00 per share.",
+        "filerName": "FOROUGHI ARASH ADAM",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-05-14T00:00:00.000Z",
-        "ownership": "D/I"
+        "startDate": "2025-05-20T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -4474,10 +4477,34 @@
       },
       {
         "maxAge": 1,
+        "shares": 571420,
+        "value": 213914133,
+        "filerUrl": "",
+        "transactionText": "Sale at price 369.41 - 379.97 per share.",
+        "filerName": "CHEN HERALD Y",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-14T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
         "shares": 200000,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "CHEN HERALD Y",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 200000,
+        "value": 1010000,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
         "filerName": "CHEN HERALD Y",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4510,22 +4537,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 200000,
-        "value": 1010000,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
-        "filerName": "CHEN HERALD Y",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 12000,
-        "value": 4237397,
+        "value": 311040,
         "filerUrl": "",
-        "transactionText": "Sale at price 352.89 - 354.50 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 25.55 - 27.03 per share.",
         "filerName": "BILLINGS CRAIG SCOTT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4535,9 +4550,9 @@
       {
         "maxAge": 1,
         "shares": 12000,
-        "value": 311040,
+        "value": 4237397,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 25.55 - 27.03 per share.",
+        "transactionText": "Sale at price 352.89 - 354.50 per share.",
         "filerName": "BILLINGS CRAIG SCOTT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4570,18 +4585,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 30993,
-        "value": 7489643,
-        "filerUrl": "",
-        "transactionText": "Sale at price 235.49 - 254.76 per share.",
-        "filerName": "SHIKIN VASILY",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-03-10T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
         "shares": 12917,
         "value": 3129892,
         "filerUrl": "",
@@ -4606,6 +4609,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 30993,
+        "value": 7489643,
+        "filerUrl": "",
+        "transactionText": "Sale at price 235.49 - 254.76 per share.",
+        "filerName": "SHIKIN VASILY",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-03-10T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
         "shares": 200000,
         "value": 0,
         "filerUrl": "",
@@ -4619,9 +4634,9 @@
       {
         "maxAge": 1,
         "shares": 200000,
-        "value": 64930457,
+        "value": 1010000,
         "filerUrl": "",
-        "transactionText": "Sale at price 319.12 - 330.92 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
         "filerName": "CHEN HERALD Y",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4631,9 +4646,9 @@
       {
         "maxAge": 1,
         "shares": 200000,
-        "value": 1010000,
+        "value": 64930457,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
+        "transactionText": "Sale at price 319.12 - 330.92 per share.",
         "filerName": "CHEN HERALD Y",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4726,6 +4741,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 200000,
+        "value": 1010000,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
+        "filerName": "CHEN HERALD Y",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-12-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 124569,
         "value": 41907123,
         "filerUrl": "",
@@ -4742,18 +4769,6 @@
         "value": 32620953,
         "filerUrl": "",
         "transactionText": "Sale at price 326.13 - 340.05 per share.",
-        "filerName": "CHEN HERALD Y",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-12-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 200000,
-        "value": 1010000,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
         "filerName": "CHEN HERALD Y",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4786,6 +4801,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 110000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "CHEN HERALD Y",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-12-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 8739,
         "value": 0,
         "filerUrl": "",
@@ -4798,10 +4825,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 110000,
-        "value": 0,
+        "shares": 200000,
+        "value": 1010000,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 5.05 per share.",
         "filerName": "CHEN HERALD Y",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4831,25 +4858,13 @@
         "moneyText": "",
         "startDate": "2024-12-10T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 194080,
-        "value": 63922049,
-        "filerUrl": "",
-        "transactionText": "Sale at price 320.12 - 348.20 per share.",
-        "filerName": "CHEN HERALD Y",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-12-10T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 414.77,
+    "currentPrice": 419.7,
     "targetHighPrice": 860,
     "targetLowPrice": 406,
     "targetMeanPrice": 656.2,
@@ -4879,6 +4894,6 @@
     "profitMargins": 0.6429,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T17:25:01.937Z",
+  "lastUpdated": "2026-08-05T05:14:16.360Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 6,
+        "buy": 11,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
         "strongBuy": 5,
         "buy": 12,
         "hold": 0,
@@ -18,7 +26,7 @@
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 5,
         "buy": 11,
         "hold": 0,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0766,
         "position": 8625260,
-        "value": 914579475,
+        "value": 872531333,
         "pctChange": 0.024
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Lone Pine Capital Llc",
         "pctHeld": 0.054,
         "position": 6078951,
-        "value": 644581591,
+        "value": 614946705,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0428,
         "position": 4824572,
-        "value": 511573509,
+        "value": 488053721,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0395,
         "position": 4442077,
-        "value": 471015650,
+        "value": 449360525,
         "pctChange": 1
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Srs Investment Management, Llc",
         "pctHeld": 0.0274,
         "position": 3084905,
-        "value": 327107912,
+        "value": 312069001,
         "pctChange": 0.075
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0.026700001,
         "position": 3002186,
-        "value": 318336803,
+        "value": 303701146,
         "pctChange": 0.2586
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.025999999,
         "position": 2925480,
-        "value": 310203282,
+        "value": 295941567,
         "pctChange": 0.1278
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Ameriprise Financial, Inc.",
         "pctHeld": 0.025899999,
         "position": 2911391,
-        "value": 308709355,
+        "value": 294516324,
         "pctChange": 0.3872
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Value Aligned Research Advisors, LLC                          ",
         "pctHeld": 0.0256,
         "position": 2882566,
-        "value": 305652896,
+        "value": 291600387,
         "pctChange": 0.0337
       },
       {
@@ -118,7 +126,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0226,
         "position": 2542999,
-        "value": 269646908,
+        "value": 257249788,
         "pctChange": 0.0271
       }
     ]
@@ -126,25 +134,14 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.08559,
-    "institutionsPercentHeld": 0.76023,
-    "institutionsFloatPercentHeld": 0.83139,
-    "institutionsCount": 504
+    "institutionsPercentHeld": 0.74834996,
+    "institutionsFloatPercentHeld": 0.81839997,
+    "institutionsCount": 501
   },
   "earnings": {
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
-        {
-          "date": "2Q2025",
-          "actual": 1.3394,
-          "estimate": -0.14,
-          "fiscalQuarter": "2Q2025",
-          "calendarQuarter": "2Q2025",
-          "difference": "1.48",
-          "surprisePct": "1056.71",
-          "periodEndDate": 1751241600,
-          "reportedDate": 1754563210
-        },
         {
           "date": "3Q2025",
           "actual": -0.0461,
@@ -177,14 +174,25 @@
           "surprisePct": "127.64",
           "periodEndDate": 1774915200,
           "reportedDate": 1778064351
+        },
+        {
+          "date": "2Q2026",
+          "actual": -0.3901,
+          "estimate": -0.4675,
+          "fiscalQuarter": "2Q2026",
+          "calendarQuarter": "2Q2026",
+          "difference": "0.08",
+          "surprisePct": "16.56",
+          "periodEndDate": 1782777600,
+          "reportedDate": 1785840157
         }
       ],
-      "currentQuarterEstimate": -0.4675,
-      "currentQuarterEstimateDate": "2Q",
-      "currentCalendarQuarter": "2Q2026",
+      "currentQuarterEstimate": -0.895,
+      "currentQuarterEstimateDate": "3Q",
+      "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "2Q2026",
-      "currentPeriodEndDate": 1782777600,
+      "currentFiscalQuarter": "3Q2026",
+      "currentPeriodEndDate": 1790726400,
       "earningsDate": [],
       "isEarningsDateEstimate": false
     },
@@ -204,13 +212,6 @@
         }
       ],
       "quarterly": [
-        {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 41299000,
-          "earnings": 137312000,
-          "profitMargin": 3.3248262
-        },
         {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
@@ -1415,23 +1416,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.053934675,
-    "regularMarketChange": -6.044998,
-    "regularMarketTime": "2026-08-04T17:26:27.000Z",
+    "postMarketChangePercent": 0.012905261,
+    "postMarketChange": 1.3054962,
+    "postMarketTime": "2026-08-04T23:59:53.000Z",
+    "postMarketPrice": 102.4655,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.0974304,
+    "regularMarketChange": -10.92,
+    "regularMarketTime": "2026-08-04T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 106.035,
+    "regularMarketPrice": 101.16,
     "regularMarketDayHigh": 110.8537,
-    "regularMarketDayLow": 101.15,
-    "regularMarketVolume": 3962245,
-    "averageDailyVolume10Day": 5013390,
-    "averageDailyVolume3Month": 4749824,
+    "regularMarketDayLow": 100.85,
+    "regularMarketVolume": 6660665,
+    "averageDailyVolume10Day": 4635340,
+    "averageDailyVolume3Month": 4729487,
     "regularMarketPreviousClose": 112.08,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 103.74,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "REGULAR",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "HUT",
     "underlyingSymbol": null,
@@ -1443,13 +1449,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 11938917376
+    "marketCap": 11390020608
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 13192779776,
-    "forwardPE": -42.641365,
+    "forwardPE": -40.680912,
     "profitMargins": -1.09774,
     "floatShares": 86843839,
     "sharesOutstanding": 112594112,
@@ -1459,28 +1465,28 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.105,
     "heldPercentInsiders": 0.08559,
-    "heldPercentInstitutions": 0.76023,
+    "heldPercentInstitutions": 0.74834996,
     "shortRatio": 2.8,
     "shortPercentOfFloat": 0.1158,
     "beta": 6.108,
     "impliedSharesOutstanding": 112594112,
     "category": null,
     "bookValue": 12.26,
-    "priceToBook": 8.648858,
+    "priceToBook": 8.251224,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": -311396992,
-    "trailingEps": -2.81,
+    "trailingEps": -2.54,
     "forwardEps": -2.48667,
     "lastSplitFactor": "1:5",
     "lastSplitDate": 1701648000,
     "enterpriseToRevenue": 46.401,
     "enterpriseToEbitda": -31.629,
-    "52WeekChange": 4.3098173,
-    "SandP52WeekChange": 0.18899727,
+    "52WeekChange": 4.5293536,
+    "SandP52WeekChange": 0.20658374,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1536,6 +1542,39 @@
         "shares": 15713,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "TAI WILLIAM PING",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 15478,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "O'NEAL E. STANLEY",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 16416,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SHATTUCK MAYO ADAMS III",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 15713,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "WILKINSON AMY MARIE",
         "filerRelation": "Director",
         "moneyText": "",
@@ -1570,39 +1609,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "SHATTUCK MAYO A III",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 15713,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "TAI WILLIAM PING",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 15478,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "O'NEAL E. STANLEY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16416,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SHATTUCK MAYO ADAMS III",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-11T00:00:00.000Z",
@@ -1681,22 +1687,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 10398,
+        "shares": 14556,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GLENNAN SEAN JOSEPH",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "SEMAH VICTOR",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-06T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 14556,
+        "shares": 10398,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SEMAH VICTOR",
-        "filerRelation": "Officer",
+        "filerName": "GLENNAN SEAN JOSEPH",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-03-06T00:00:00.000Z",
         "ownership": "D"
@@ -1750,28 +1756,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 17491,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RICKERTSEN RICK J.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 18999,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FLINN JOSEPH PATRICK",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 18698,
         "filerUrl": "",
         "transactionText": "",
@@ -1809,6 +1793,28 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "WILKINSON AMY MARIE",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17491,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "RICKERTSEN RICK J.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 18999,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FLINN JOSEPH PATRICK",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-18T00:00:00.000Z",
@@ -1877,10 +1883,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 106.035,
+    "currentPrice": 101.16,
     "targetHighPrice": 263,
     "targetLowPrice": 80,
-    "targetMeanPrice": 158.76471,
+    "targetMeanPrice": 158,
     "targetMedianPrice": 156,
     "recommendationMean": 1.35294,
     "recommendationKey": "strong_buy",
@@ -1906,6 +1912,6 @@
     "profitMargins": -1.09774,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T17:26:33.229Z",
+  "lastUpdated": "2026-08-05T05:15:46.250Z",
   "source": "Static Build (yahoo-finance2)"
 }

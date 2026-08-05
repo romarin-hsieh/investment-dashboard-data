@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0813,
         "position": 23989366,
-        "value": 25439762131,
+        "value": 25260322142,
         "pctChange": 0.0317
       },
       {
@@ -54,7 +54,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0653,
         "position": 19255058,
-        "value": 20419218054,
+        "value": 20275190596,
         "pctChange": -0.015800001
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0623,
         "position": 18386634,
-        "value": 19498289173,
+        "value": 19360757510,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.024500001,
         "position": 7215462,
-        "value": 7651708550,
+        "value": 7597737035,
         "pctChange": -0.0837
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.024400001,
         "position": 7208245,
-        "value": 7644055211,
+        "value": 7590137679,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0241,
         "position": 7114833,
-        "value": 7544995525,
+        "value": 7491776713,
         "pctChange": 0.0577
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.0231,
         "position": 6827310,
-        "value": 7240088895,
+        "value": 7189020750,
         "pctChange": 0.0082
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0231,
         "position": 6816599,
-        "value": 7228730309,
+        "value": 7177742281,
         "pctChange": -0.0866
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0219,
         "position": 6455011,
-        "value": 6845280712,
+        "value": 6796997356,
         "pctChange": 0.0798
       },
       {
@@ -126,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0113,
         "position": 3341232,
-        "value": 3543242756,
+        "value": 3518250406,
         "pctChange": -0.175
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.0053600003,
-    "institutionsPercentHeld": 0.74738,
-    "institutionsFloatPercentHeld": 0.75141,
-    "institutionsCount": 3877
+    "institutionsPercentHeld": 0.74758005,
+    "institutionsFloatPercentHeld": 0.75161004,
+    "institutionsCount": 3873
   },
   "earnings": {
     "maxAge": 86400,
@@ -207,6 +207,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-03T20:48:06.000Z",
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 1150,
+        "priorPriceTarget": 1120
+      },
       {
         "epochGradeDate": "2026-07-21T12:20:22.000Z",
         "firm": "HSBC",
@@ -4563,23 +4573,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.032519914,
-    "regularMarketChange": 33.399902,
-    "regularMarketTime": "2026-08-04T17:26:11.000Z",
+    "postMarketChangePercent": 0.0010921616,
+    "postMarketChange": 1.1500244,
+    "postMarketTime": "2026-08-04T23:59:51.000Z",
+    "postMarketPrice": 1054.13,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.025237,
+    "regularMarketChange": 25.9199,
+    "regularMarketTime": "2026-08-04T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 1060.46,
+    "regularMarketPrice": 1052.98,
     "regularMarketDayHigh": 1066.16,
     "regularMarketDayLow": 1043.27,
-    "regularMarketVolume": 953158,
-    "averageDailyVolume10Day": 2000350,
-    "averageDailyVolume3Month": 2191195,
+    "regularMarketVolume": 1546041,
+    "averageDailyVolume10Day": 1999280,
+    "averageDailyVolume3Month": 2183395,
     "regularMarketPreviousClose": 1027.06,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 1050,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "REGULAR",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "GS",
     "underlyingSymbol": null,
@@ -4590,28 +4605,31 @@
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null
+    "lastMarket": null,
+    "marketCap": 310636904448
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 141248708608,
-    "forwardPE": 14.324261,
+    "forwardPE": 14.223224,
     "profitMargins": 0.31039,
     "floatShares": 298455452,
+    "sharesOutstanding": 295007421,
     "sharesShort": 6311123,
     "sharesShortPriorMonth": "1970-03-21T04:37:01.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0214,
     "heldPercentInsiders": 0.0053600003,
-    "heldPercentInstitutions": 0.74738,
+    "heldPercentInstitutions": 0.74758005,
     "shortRatio": 2.84,
     "shortPercentOfFloat": 0.0215,
     "beta": 1.288,
+    "impliedSharesOutstanding": 295007421,
     "category": null,
     "bookValue": 366.451,
-    "priceToBook": 2.8938658,
+    "priceToBook": 2.8734539,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4619,13 +4637,13 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.78,
     "netIncomeToCommon": 19989999616,
-    "trailingEps": 64.81,
+    "trailingEps": 64.77,
     "forwardEps": 74.03244,
     "pegRatio": 1.45,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 2.09,
-    "52WeekChange": 0.41263127,
-    "SandP52WeekChange": 0.18899727,
+    "52WeekChange": 0.42467165,
+    "SandP52WeekChange": 0.20658374,
     "lastDividendValue": 4.5,
     "lastDividendDate": "2026-06-01T00:00:00.000Z",
     "latestShareClass": null,
@@ -4761,28 +4779,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 27071,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RUEMMLER KATHRYN H",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-04-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 19206,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "COLEMAN DENIS P.",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-04-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 27446,
         "filerUrl": "",
         "transactionText": "",
@@ -4799,6 +4795,28 @@
         "transactionText": "",
         "filerName": "FREDMAN SHEARA J.",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 27071,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "RUEMMLER KATHRYN H",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-04-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 19206,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "COLEMAN DENIS P.",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-04-28T00:00:00.000Z",
         "ownership": "D"
@@ -4981,18 +4999,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 3390,
-        "value": 3292137,
-        "filerUrl": "",
-        "transactionText": "Sale at price 968.60 - 975.68 per share.",
-        "filerName": "VINIAR DAVID A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-16T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 64796,
         "value": 62528399,
         "filerUrl": "",
@@ -5002,6 +5008,18 @@
         "moneyText": "",
         "startDate": "2026-01-16T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3390,
+        "value": 3292137,
+        "filerUrl": "",
+        "transactionText": "Sale at price 968.60 - 975.68 per share.",
+        "filerName": "VINIAR DAVID A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-16T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5147,28 +5165,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 41462,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RUEMMLER KATHRYN H",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-04-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 11933,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "COLEMAN DENIS P.",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-04-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 40395,
         "filerUrl": "",
         "transactionText": "",
@@ -5185,6 +5181,28 @@
         "transactionText": "",
         "filerName": "FREDMAN SHEARA J.",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-04-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 41462,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "RUEMMLER KATHRYN H",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-04-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11933,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "COLEMAN DENIS P.",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-04-30T00:00:00.000Z",
         "ownership": "D"
@@ -5239,6 +5257,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 7498,
+        "value": 4758906,
+        "filerUrl": "",
+        "transactionText": "Sale at price 634.69 per share.",
+        "filerName": "RUEMMLER KATHRYN H",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-01-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1545,
         "value": 965120,
         "filerUrl": "",
@@ -5257,18 +5287,6 @@
         "transactionText": "Sale at price 620.88 - 635.11 per share.",
         "filerName": "FREDMAN SHEARA J.",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 7498,
-        "value": 4758906,
-        "filerUrl": "",
-        "transactionText": "Sale at price 634.69 per share.",
-        "filerName": "RUEMMLER KATHRYN H",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-01-21T00:00:00.000Z",
         "ownership": "D"
@@ -5490,7 +5508,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 1060.46,
+    "currentPrice": 1052.98,
     "targetHighPrice": 1325,
     "targetLowPrice": 730,
     "targetMeanPrice": 1141.65,
@@ -5517,6 +5535,6 @@
     "profitMargins": 0.31039,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T17:26:27.565Z",
+  "lastUpdated": "2026-08-05T05:15:40.347Z",
   "source": "Static Build (yahoo-finance2)"
 }

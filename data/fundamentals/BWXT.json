@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1363,
         "position": 12487506,
-        "value": 2176697140,
+        "value": 2152845958,
         "pctChange": 0.0202
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.053400002,
         "position": 4891237,
-        "value": 852591509,
+        "value": 843249228,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.044699997,
         "position": 4094093,
-        "value": 713641340,
+        "value": 705821608,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.040900003,
         "position": 3748950,
-        "value": 653479465,
+        "value": 646318957,
         "pctChange": 0.0419
       },
       {
@@ -81,7 +81,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.028099999,
         "position": 2572811,
-        "value": 448466679,
+        "value": 443552600,
         "pctChange": 0.2662
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0275,
         "position": 2522532,
-        "value": 439702546,
+        "value": 434884501,
         "pctChange": -0.0178
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Franklin Resources, Inc.",
         "pctHeld": 0.0208,
         "position": 1901316,
-        "value": 331418387,
+        "value": 327786866,
         "pctChange": -0.15810001
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0196,
         "position": 1793566,
-        "value": 312636485,
+        "value": 309210767,
         "pctChange": -0.0345
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Alkeon Capital Management LLC",
         "pctHeld": 0.019,
         "position": 1739348,
-        "value": 303185745,
+        "value": 299863584,
         "pctChange": 0.1003
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.0173,
         "position": 1584460,
-        "value": 276187218,
+        "value": 273160894,
         "pctChange": 0.2697
       }
     ]
@@ -254,6 +254,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-04T10:16:45.000Z",
+        "firm": "BTIG",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 235,
+        "priorPriceTarget": 235
+      },
       {
         "epochGradeDate": "2026-07-27T11:07:39.000Z",
         "firm": "JP Morgan",
@@ -1140,23 +1150,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0029921415,
-    "regularMarketChange": 0.5200043,
-    "regularMarketTime": "2026-08-04T17:25:03.000Z",
+    "postMarketChangePercent": 0.008526689,
+    "postMarketChange": 1.4700012,
+    "postMarketTime": "2026-08-04T23:54:18.000Z",
+    "postMarketPrice": 173.87,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.00799816,
+    "regularMarketChange": -1.39,
+    "regularMarketTime": "2026-08-04T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 174.31,
-    "regularMarketDayHigh": 176,
+    "regularMarketPrice": 172.4,
+    "regularMarketDayHigh": 178.378,
     "regularMarketDayLow": 170.91,
-    "regularMarketVolume": 643159,
-    "averageDailyVolume10Day": 853730,
-    "averageDailyVolume3Month": 997809,
+    "regularMarketVolume": 1423119,
+    "averageDailyVolume10Day": 901060,
+    "averageDailyVolume3Month": 1000295,
     "regularMarketPreviousClose": 173.79,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 173.5,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "REGULAR",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "BWXT",
     "underlyingSymbol": null,
@@ -1168,13 +1183,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 15969348608
+    "marketCap": 15794364416
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 23831443456,
-    "forwardPE": 33.59629,
+    "enterpriseValue": 23652124672,
+    "forwardPE": 33.22816,
     "profitMargins": 0.10108,
     "floatShares": 128429903,
     "sharesOutstanding": 91614649,
@@ -1190,7 +1205,7 @@
     "impliedSharesOutstanding": 91614649,
     "category": null,
     "bookValue": 13.976,
-    "priceToBook": 12.472095,
+    "priceToBook": 12.335432,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1198,15 +1213,15 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.136,
     "netIncomeToCommon": 355179008,
-    "trailingEps": 3.75,
+    "trailingEps": 3.72,
     "forwardEps": 5.19411,
     "pegRatio": 1.67,
     "lastSplitFactor": "1398:1000",
     "lastSplitDate": 1435708800,
-    "enterpriseToRevenue": 6.782,
-    "enterpriseToEbitda": 50.474,
-    "52WeekChange": -0.073076904,
-    "SandP52WeekChange": 0.18899727,
+    "enterpriseToRevenue": 6.731,
+    "enterpriseToEbitda": 50.094,
+    "52WeekChange": -0.045109868,
+    "SandP52WeekChange": 0.20658374,
     "lastDividendValue": 0.27,
     "lastDividendDate": "2026-05-19T00:00:00.000Z",
     "latestShareClass": null,
@@ -1705,22 +1720,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 760,
+        "shares": 25,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LEMASTERS ROBB A.",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "DUFFY ROBERT L",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-28T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 25,
+        "shares": 760,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DUFFY ROBERT L",
-        "filerRelation": "Officer",
+        "filerName": "LEMASTERS ROBB A.",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-02-28T00:00:00.000Z",
         "ownership": "D"
@@ -1782,22 +1797,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 1162,
+        "shares": 91,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LEMASTERS ROBB A.",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "DUFFY ROBERT L",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-27T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 91,
+        "shares": 1162,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DUFFY ROBERT L",
-        "filerRelation": "Officer",
+        "filerName": "LEMASTERS ROBB A.",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-02-27T00:00:00.000Z",
         "ownership": "D"
@@ -1872,6 +1887,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1064,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MCCOY KEVIN M",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 532,
         "filerUrl": "",
         "transactionText": "",
@@ -1899,17 +1925,6 @@
         "transactionText": "",
         "filerName": "LEMASTERS ROBB A.",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-02-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1064,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MCCOY KEVIN M",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-18T00:00:00.000Z",
         "ownership": "D"
@@ -1974,7 +1989,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 174.31,
+    "currentPrice": 172.4,
     "targetHighPrice": 290,
     "targetLowPrice": 200,
     "targetMeanPrice": 238.16214,
@@ -2004,6 +2019,6 @@
     "profitMargins": 0.10108,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T17:25:41.982Z",
+  "lastUpdated": "2026-08-05T05:14:54.108Z",
   "source": "Static Build (yahoo-finance2)"
 }

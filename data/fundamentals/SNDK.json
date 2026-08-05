@@ -13,12 +13,20 @@
         "period": "-1m",
         "strongBuy": 3,
         "buy": 15,
+        "hold": 4,
+        "sell": 0,
+        "strongSell": 1
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 3,
+        "buy": 15,
         "hold": 3,
         "sell": 1,
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 3,
         "buy": 15,
         "hold": 3,
@@ -37,7 +45,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0904,
         "position": 13389985,
-        "value": 19295504507,
+        "value": 19115810320,
         "pctChange": -0.3762
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.070300005,
         "position": 10403455,
-        "value": 14991795199,
+        "value": 14852180376,
         "pctChange": 0.0809
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0643,
         "position": 9526119,
-        "value": 13727518895,
+        "value": 13599677960,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0376,
         "position": 5573852,
-        "value": 8032143903,
+        "value": 7957342565,
         "pctChange": 0.0553
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.028399998,
         "position": 4212772,
-        "value": 6070773127,
+        "value": 6014237542,
         "pctChange": 0.1523
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0242,
         "position": 3576487,
-        "value": 5153860966,
+        "value": 5105864353,
         "pctChange": 1
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.019199999,
         "position": 2839492,
-        "value": 4091821662,
+        "value": 4053715555,
         "pctChange": -0.044099998
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Arrowstreet Capital, Limited Partnership",
         "pctHeld": 0.0191,
         "position": 2823970,
-        "value": 4069453839,
+        "value": 4031556037,
         "pctChange": -0.188
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0138,
         "position": 2042540,
-        "value": 2943381921,
+        "value": 2915970944,
         "pctChange": 2.1011
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Jane Street Group, LLC",
         "pctHeld": 0.0121,
         "position": 1787655,
-        "value": 2576082431,
+        "value": 2552092022,
         "pctChange": 1.1127
       }
     ]
@@ -1167,23 +1175,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.11879382,
-    "regularMarketChange": 153.01001,
-    "regularMarketTime": "2026-08-04T17:27:22.000Z",
+    "postMarketChangePercent": 0.006670079,
+    "postMarketChange": 9.522339,
+    "postMarketTime": "2026-08-04T23:59:58.000Z",
+    "postMarketPrice": 1437.1423,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.108375,
+    "regularMarketChange": 139.59,
+    "regularMarketTime": "2026-08-04T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 1441.04,
-    "regularMarketDayHigh": 1443.23,
+    "regularMarketPrice": 1427.62,
+    "regularMarketDayHigh": 1446.6226,
     "regularMarketDayLow": 1340,
-    "regularMarketVolume": 9857667,
-    "averageDailyVolume10Day": 18212750,
-    "averageDailyVolume3Month": 13807611,
+    "regularMarketVolume": 13742730,
+    "averageDailyVolume10Day": 18425270,
+    "averageDailyVolume3Month": 13821959,
     "regularMarketPreviousClose": 1288.03,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 1357.68,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "REGULAR",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "SNDK",
     "underlyingSymbol": null,
@@ -1195,13 +1208,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 213403271168
+    "marketCap": 211415908352
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 187216052224,
-    "forwardPE": 6.7671676,
+    "enterpriseValue": 208133734400,
+    "forwardPE": 6.704147,
     "profitMargins": 0.34185,
     "floatShares": 146003173,
     "sharesOutstanding": 148089758,
@@ -1217,20 +1230,20 @@
     "impliedSharesOutstanding": 148089758,
     "category": null,
     "bookValue": 93.088,
-    "priceToBook": 15.480407,
+    "priceToBook": 15.336242,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-06-27T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-06-27T00:00:00.000Z",
     "mostRecentQuarter": "2026-04-03T00:00:00.000Z",
     "netIncomeToCommon": 4506999808,
-    "trailingEps": 29.24,
+    "trailingEps": 32.41,
     "forwardEps": 212.94582,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 14.2,
-    "enterpriseToEbitda": 33.241,
-    "52WeekChange": 27.972813,
-    "SandP52WeekChange": 0.18899727,
+    "enterpriseToRevenue": 15.787,
+    "enterpriseToEbitda": 36.956,
+    "52WeekChange": 29.718578,
+    "SandP52WeekChange": 0.20658374,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1680,7 +1693,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 1441.04,
+    "currentPrice": 1427.62,
     "targetHighPrice": 3169,
     "targetLowPrice": 1000,
     "targetMeanPrice": 2217.7727,
@@ -1709,6 +1722,6 @@
     "profitMargins": 0.34185,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T17:27:24.924Z",
+  "lastUpdated": "2026-08-05T05:16:36.533Z",
   "source": "Static Build (yahoo-finance2)"
 }

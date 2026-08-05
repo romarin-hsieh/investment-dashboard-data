@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0862,
         "position": 260798584,
-        "value": 23138050690,
+        "value": 23051986680,
         "pctChange": -0.006
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0664,
         "position": 200762402,
-        "value": 17811640550,
+        "value": 17745388590,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0535,
         "position": 161693928,
-        "value": 14345485489,
+        "value": 14292126197,
         "pctChange": -0.1293
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0448,
         "position": 135493574,
-        "value": 12020990050,
+        "value": 11976276923,
         "pctChange": -0.0116
       },
       {
@@ -81,7 +81,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0427,
         "position": 129208607,
-        "value": 11463387770,
+        "value": 11420748693,
         "pctChange": -0.0126
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024400001,
         "position": 73848013,
-        "value": 6551795803,
+        "value": 6527425823,
         "pctChange": 0.0202
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.0241,
         "position": 72893582,
-        "value": 6467118684,
+        "value": 6443063668,
         "pctChange": 0.9479
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Wellington Management Group, LLP",
         "pctHeld": 0.0218,
         "position": 65846073,
-        "value": 5841863676,
+        "value": 5820134352,
         "pctChange": -0.09060001
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.020399999,
         "position": 61671445,
-        "value": 5471490675,
+        "value": 5451138985,
         "pctChange": 1
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0172,
         "position": 51973069,
-        "value": 4611050745,
+        "value": 4593899537,
         "pctChange": 0.0135
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00090000004,
-    "institutionsPercentHeld": 0.79546,
-    "institutionsFloatPercentHeld": 0.79617,
-    "institutionsCount": 3474
+    "institutionsPercentHeld": 0.79503,
+    "institutionsFloatPercentHeld": 0.79573995,
+    "institutionsCount": 3478
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1784024901
         }
       ],
-      "currentQuarterEstimate": 1.83539,
+      "currentQuarterEstimate": 1.83958,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -5657,41 +5657,46 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0094436435,
-    "regularMarketChange": 0.83000183,
-    "regularMarketTime": "2026-08-04T17:27:47.000Z",
+    "postMarketChangePercent": 0.0014707237,
+    "postMarketChange": 0.12999725,
+    "postMarketTime": "2026-08-05T00:00:00.000Z",
+    "postMarketPrice": 88.52,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.00568893,
+    "regularMarketChange": 0.5,
+    "regularMarketTime": "2026-08-04T20:02:34.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 88.72,
+    "regularMarketPrice": 88.39,
     "regularMarketDayHigh": 89.43,
     "regularMarketDayLow": 87.37,
-    "regularMarketVolume": 4978138,
-    "averageDailyVolume10Day": 14864700,
-    "averageDailyVolume3Month": 16570624,
+    "regularMarketVolume": 8801072,
+    "averageDailyVolume10Day": 14229570,
+    "averageDailyVolume3Month": 16483756,
     "regularMarketPreviousClose": 87.89,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 87.56,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "REGULAR",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "WFC",
     "underlyingSymbol": null,
     "shortName": "Wells Fargo & Company",
     "longName": "Wells Fargo & Company",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 268289212416
+    "marketCap": 267291295744
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 265318301696,
-    "forwardPE": 11.257184,
+    "enterpriseValue": 266830299136,
+    "forwardPE": 11.188012,
     "profitMargins": 0.27232,
     "floatShares": 3015713578,
     "sharesOutstanding": 3023999336,
@@ -5701,14 +5706,14 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0,
     "heldPercentInsiders": 0.00090000004,
-    "heldPercentInstitutions": 0.79546,
+    "heldPercentInstitutions": 0.79503,
     "shortRatio": 0,
     "shortPercentOfFloat": 0,
     "beta": 0.92,
     "impliedSharesOutstanding": 3023999336,
     "category": null,
     "bookValue": 53.194,
-    "priceToBook": 1.6678573,
+    "priceToBook": 1.6616535,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -5716,14 +5721,14 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.166,
     "netIncomeToCommon": 21614999552,
-    "trailingEps": 7,
-    "forwardEps": 7.88119,
-    "pegRatio": 1.63,
+    "trailingEps": 6.92,
+    "forwardEps": 7.90042,
+    "pegRatio": 1.66,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1155513600,
-    "enterpriseToRevenue": 3.196,
-    "52WeekChange": 0.10890198,
-    "SandP52WeekChange": 0.18899727,
+    "enterpriseToRevenue": 3.214,
+    "52WeekChange": 0.12737298,
+    "SandP52WeekChange": 0.20658374,
     "lastDividendValue": 0.45,
     "lastDividendDate": "2026-05-08T00:00:00.000Z",
     "latestShareClass": null,
@@ -5789,6 +5794,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 97258,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "PATTERSON ELLEN REILLY",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-03-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 101035,
         "filerUrl": "",
         "transactionText": "",
@@ -5816,17 +5832,6 @@
         "transactionText": "",
         "filerName": "HRANICKY KYLE G",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 97258,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PATTERSON ELLEN REILLY",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2026-03-05T00:00:00.000Z",
         "ownership": "D"
@@ -5913,6 +5918,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 59618,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "PATTERSON ELLEN REILLY",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-02-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 57039,
         "filerUrl": "",
         "transactionText": "",
@@ -5928,6 +5944,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "VAN BEURDEN SAUL",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 33207,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LING BEI",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-05T00:00:00.000Z",
@@ -5968,33 +5995,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 33207,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LING BEI",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 49716,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "FLOWERS DEREK A",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 59618,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PATTERSON ELLEN REILLY",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2026-02-05T00:00:00.000Z",
         "ownership": "D"
@@ -6100,10 +6105,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 3375,
+        "shares": 952,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "FLOWERS DEREK A",
+        "filerName": "HRANICKY KYLE G",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-05T00:00:00.000Z",
@@ -6111,10 +6116,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 952,
+        "shares": 3375,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HRANICKY KYLE G",
+        "filerName": "FLOWERS DEREK A",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-05T00:00:00.000Z",
@@ -6213,11 +6218,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 56770,
+        "shares": 62447,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WILLIAMS ATHER III",
-        "filerRelation": "Officer",
+        "filerName": "PATTERSON ELLEN REILLY",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-03-05T00:00:00.000Z",
         "ownership": "D"
@@ -6228,17 +6233,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "VAN BEURDEN SAUL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-03-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 29269,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HRANICKY KYLE G",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-03-05T00:00:00.000Z",
@@ -6257,10 +6251,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 37255,
+        "shares": 56770,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "FLOWERS DEREK A",
+        "filerName": "WILLIAMS ATHER III",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-03-05T00:00:00.000Z",
@@ -6268,11 +6262,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 62447,
+        "shares": 29269,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PATTERSON ELLEN REILLY",
-        "filerRelation": "General Counsel",
+        "filerName": "HRANICKY KYLE G",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-03-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 37255,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FLOWERS DEREK A",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-03-05T00:00:00.000Z",
         "ownership": "D"
@@ -6346,10 +6351,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 45935,
+        "shares": 57369,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WILLIAMS ATHER III",
+        "filerName": "VAN BEURDEN SAUL",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-05T00:00:00.000Z",
@@ -6357,10 +6362,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 57369,
+        "shares": 30324,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "VAN BEURDEN SAUL",
+        "filerName": "LING BEI",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-05T00:00:00.000Z",
@@ -6379,10 +6384,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 33518,
+        "shares": 45935,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HRANICKY KYLE G",
+        "filerName": "WILLIAMS ATHER III",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-05T00:00:00.000Z",
@@ -6390,10 +6395,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 30324,
+        "shares": 33518,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LING BEI",
+        "filerName": "HRANICKY KYLE G",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-05T00:00:00.000Z",
@@ -6593,7 +6598,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 88.72,
+    "currentPrice": 88.39,
     "targetHighPrice": 115,
     "targetLowPrice": 90,
     "targetMeanPrice": 100.02174,
@@ -6618,6 +6623,6 @@
     "profitMargins": 0.27232,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T17:27:49.043Z",
+  "lastUpdated": "2026-08-05T05:17:00.387Z",
   "source": "Static Build (yahoo-finance2)"
 }

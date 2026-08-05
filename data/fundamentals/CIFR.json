@@ -37,7 +37,7 @@
         "organization": "V3 Holding Ltd                          ",
         "pctHeld": 0.1499,
         "position": 61316694,
-        "value": 1321681357,
+        "value": 1249634172,
         "pctChange": 0
       },
       {
@@ -46,7 +46,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0696,
         "position": 28462858,
-        "value": 613516912,
+        "value": 580073022,
         "pctChange": 0.0109
       },
       {
@@ -55,7 +55,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0545,
         "position": 22310297,
-        "value": 480898458,
+        "value": 454683834,
         "pctChange": 1
       },
       {
@@ -64,7 +64,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0.0401,
         "position": 16388535,
-        "value": 353254876,
+        "value": 333998329,
         "pctChange": 0.065
       },
       {
@@ -73,7 +73,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0395,
         "position": 16147783,
-        "value": 348065467,
+        "value": 329091803,
         "pctChange": 1
       },
       {
@@ -82,7 +82,7 @@
         "organization": "Jane Street Group, LLC",
         "pctHeld": 0.0279,
         "position": 11428614,
-        "value": 246343778,
+        "value": 232915143,
         "pctChange": -0.304
       },
       {
@@ -91,7 +91,7 @@
         "organization": "Value Aligned Research Advisors, LLC                          ",
         "pctHeld": 0.0269,
         "position": 11001606,
-        "value": 237139620,
+        "value": 224212721,
         "pctChange": 0.4772
       },
       {
@@ -100,7 +100,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.020599999,
         "position": 8409275,
-        "value": 181261925,
+        "value": 171381017,
         "pctChange": 0.03
       },
       {
@@ -109,7 +109,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0202,
         "position": 8257795,
-        "value": 177996773,
+        "value": 168293855,
         "pctChange": 0.0222
       },
       {
@@ -118,7 +118,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.013200001,
         "position": 5391289,
-        "value": 116209236,
+        "value": 109874465,
         "pctChange": 0.1663
       }
     ]
@@ -126,9 +126,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.03602,
-    "institutionsPercentHeld": 0.82421,
-    "institutionsFloatPercentHeld": 0.85501,
-    "institutionsCount": 523
+    "institutionsPercentHeld": 0.82098997,
+    "institutionsFloatPercentHeld": 0.85167,
+    "institutionsCount": 521
   },
   "earnings": {
     "maxAge": 86400,
@@ -217,13 +217,6 @@
       ],
       "quarterly": [
         {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 43565000,
-          "earnings": -45781000,
-          "profitMargin": -1.0508665
-        },
-        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 71707000,
@@ -251,6 +244,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-04T12:32:03.000Z",
+        "firm": "Chardan Capital",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 32,
+        "priorPriceTarget": 32
+      },
       {
         "epochGradeDate": "2026-07-28T18:07:21.000Z",
         "firm": "Keefe, Bruyette & Woods",
@@ -1407,23 +1410,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.10782282,
-    "regularMarketChange": -2.6049995,
-    "regularMarketTime": "2026-08-04T17:26:04.000Z",
+    "postMarketChangePercent": 0.014224815,
+    "postMarketChange": 0.28990173,
+    "postMarketTime": "2026-08-04T23:59:57.000Z",
+    "postMarketPrice": 20.6699,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.156457,
+    "regularMarketChange": -3.78,
+    "regularMarketTime": "2026-08-04T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 21.555,
+    "regularMarketPrice": 20.38,
     "regularMarketDayHigh": 22.39,
     "regularMarketDayLow": 20.2,
-    "regularMarketVolume": 40201817,
-    "averageDailyVolume10Day": 31799230,
-    "averageDailyVolume3Month": 26553947,
+    "regularMarketVolume": 58951661,
+    "averageDailyVolume10Day": 31269560,
+    "averageDailyVolume3Month": 26700548,
     "regularMarketPreviousClose": 24.16,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 20.225,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "REGULAR",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "CIFR",
     "underlyingSymbol": null,
@@ -1435,13 +1443,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 8817055744
+    "marketCap": 8336421888
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 13939791872,
-    "forwardPE": 41.652176,
+    "forwardPE": 39.38164,
     "profitMargins": 0,
     "floatShares": 335641228,
     "sharesOutstanding": 409049197,
@@ -1451,27 +1459,27 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1371,
     "heldPercentInsiders": 0.03602,
-    "heldPercentInstitutions": 0.82421,
+    "heldPercentInstitutions": 0.82098997,
     "shortRatio": 2.32,
     "shortPercentOfFloat": 0.1674,
     "beta": 3.223,
     "impliedSharesOutstanding": 409049197,
     "category": null,
     "bookValue": 1.762,
-    "priceToBook": 12.233258,
+    "priceToBook": 11.5664015,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": -897585024,
-    "trailingEps": -2.32,
+    "trailingEps": -1.96,
     "forwardEps": 0.5175,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 66.437,
     "enterpriseToEbitda": 84.066,
-    "52WeekChange": 3.45509,
-    "SandP52WeekChange": 0.18899727,
+    "52WeekChange": 3.8223553,
+    "SandP52WeekChange": 0.20658374,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1636,15 +1644,39 @@
       },
       {
         "maxAge": 1,
-        "shares": 1800000,
-        "value": 47912485,
+        "shares": 8299,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 26.28 - 28.10 per share.",
-        "filerName": "V3 HOLDING LTD",
-        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "LONG CAITLIN",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-03T00:00:00.000Z",
-        "ownership": "I"
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8299,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "FLATLEY ROBERT",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8299,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "DUDA THOMAS DAVID",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-03T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1684,39 +1716,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 8299,
-        "value": 0,
+        "shares": 1800000,
+        "value": 47912485,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "LONG CAITLIN",
-        "filerRelation": "Director",
+        "transactionText": "Sale at price 26.28 - 28.10 per share.",
+        "filerName": "V3 HOLDING LTD",
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
         "moneyText": "",
         "startDate": "2026-06-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8299,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "FLATLEY ROBERT",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8299,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "DUDA THOMAS DAVID",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-03T00:00:00.000Z",
-        "ownership": "D"
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1728,18 +1736,6 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 48000,
-        "value": 929280,
-        "filerUrl": "",
-        "transactionText": "Sale at price 19.36 per share.",
-        "filerName": "KELLY PATRICK ARTHUR",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-05-12T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1756,14 +1752,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 28169,
-        "value": 627042,
+        "shares": 48000,
+        "value": 929280,
         "filerUrl": "",
-        "transactionText": "Sale at price 22.26 per share.",
-        "filerName": "WILLIAMS WESLEY HASTIE",
-        "filerRelation": "Director",
+        "transactionText": "Sale at price 19.36 per share.",
+        "filerName": "KELLY PATRICK ARTHUR",
+        "filerRelation": "President",
         "moneyText": "",
-        "startDate": "2026-05-06T00:00:00.000Z",
+        "startDate": "2026-05-12T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1773,6 +1769,18 @@
         "filerUrl": "",
         "transactionText": "Sale at price 21.82 per share.",
         "filerName": "GROSSMAN CARY M",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 28169,
+        "value": 627042,
+        "filerUrl": "",
+        "transactionText": "Sale at price 22.26 per share.",
+        "filerName": "WILLIAMS WESLEY HASTIE",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-06T00:00:00.000Z",
@@ -1836,24 +1844,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 30000,
-        "value": 436200,
-        "filerUrl": "",
-        "transactionText": "Sale at price 14.54 per share.",
-        "filerName": "GROSSMAN CARY M",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 21700,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "KELLY PATRICK ARTHUR",
         "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2026-03-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 30000,
+        "value": 436200,
+        "filerUrl": "",
+        "transactionText": "Sale at price 14.54 per share.",
+        "filerName": "GROSSMAN CARY M",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-23T00:00:00.000Z",
         "ownership": "D"
@@ -1920,12 +1928,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 49867,
-        "value": 801861,
+        "shares": 26000,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 16.08 per share.",
-        "filerName": "WILLIAMS WESLEY HASTIE",
-        "filerRelation": "Director",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "IWASCHUK WILLIAM",
+        "filerRelation": "President",
         "moneyText": "",
         "startDate": "2025-12-19T00:00:00.000Z",
         "ownership": "D"
@@ -1944,12 +1952,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 26000,
-        "value": 0,
+        "shares": 49867,
+        "value": 801861,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "IWASCHUK WILLIAM",
-        "filerRelation": "President",
+        "transactionText": "Sale at price 16.08 per share.",
+        "filerName": "WILLIAMS WESLEY HASTIE",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-19T00:00:00.000Z",
         "ownership": "D"
@@ -2034,11 +2042,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 15000,
-        "value": 281100,
+        "shares": 25000,
+        "value": 475000,
         "filerUrl": "",
-        "transactionText": "Sale at price 18.74 per share.",
-        "filerName": "EVANS HOLLY MORROW",
+        "transactionText": "Sale at price 19.00 per share.",
+        "filerName": "GROSSMAN CARY M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-11-26T00:00:00.000Z",
@@ -2046,11 +2054,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 25000,
-        "value": 475000,
+        "shares": 15000,
+        "value": 281100,
         "filerUrl": "",
-        "transactionText": "Sale at price 19.00 per share.",
-        "filerName": "GROSSMAN CARY M",
+        "transactionText": "Sale at price 18.74 per share.",
+        "filerName": "EVANS HOLLY MORROW",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-11-26T00:00:00.000Z",
@@ -2552,6 +2560,30 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "LONG CAITLIN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 59701,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "FLATLEY ROBERT",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 59701,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "GROSSMAN CARY M",
         "filerRelation": "Director",
         "moneyText": "",
@@ -2589,30 +2621,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "WILLIAMS WESLEY HASTIE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 59701,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "LONG CAITLIN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 59701,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "FLATLEY ROBERT",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-04T00:00:00.000Z",
@@ -2911,7 +2919,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 21.555,
+    "currentPrice": 20.38,
     "targetHighPrice": 69,
     "targetLowPrice": 23,
     "targetMeanPrice": 32.79412,
@@ -2940,6 +2948,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T17:26:06.046Z",
+  "lastUpdated": "2026-08-05T05:15:17.511Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.076,
         "position": 539258516,
-        "value": 34121583422,
+        "value": 33919361479,
         "pctChange": -0.0058999998
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Berkshire Hathaway, Inc",
         "pctHeld": 0.072399996,
         "position": 513624165,
-        "value": 32499569824,
+        "value": 32306960762,
         "pctChange": -0.0070999996
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0577,
         "position": 409704665,
-        "value": 25924063303,
+        "value": 25770424053,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0416,
         "position": 294909309,
-        "value": 18660386976,
+        "value": 18549795986,
         "pctChange": -0.012
       },
       {
@@ -81,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.027999999,
         "position": 198484617,
-        "value": 12559114443,
+        "value": 12484682712,
         "pctChange": -0.0759
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.023,
         "position": 163431813,
-        "value": 10341148216,
+        "value": 10279861287,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0223,
         "position": 157925189,
-        "value": 9992716574,
+        "value": 9933494629,
         "pctChange": 0.0223
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.020299999,
         "position": 144289396,
-        "value": 9129911752,
+        "value": 9075803228,
         "pctChange": 0.0211
       },
       {
@@ -117,7 +117,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0186,
         "position": 132271796,
-        "value": 8369498093,
+        "value": 8319896170,
         "pctChange": -0.18129998
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0153,
         "position": 108670801,
-        "value": 6876145099,
+        "value": 6835393548,
         "pctChange": -0.0365
       }
     ]
@@ -207,6 +207,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-03T20:29:21.000Z",
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 70,
+        "priorPriceTarget": 68
+      },
       {
         "epochGradeDate": "2026-07-29T18:08:58.000Z",
         "firm": "JP Morgan",
@@ -4433,23 +4443,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.012724104,
-    "regularMarketChange": 0.795002,
-    "regularMarketTime": "2026-08-04T17:25:51.000Z",
+    "postMarketChangePercent": 0.0011128727,
+    "postMarketChange": 0.069999695,
+    "postMarketTime": "2026-08-04T23:59:26.000Z",
+    "postMarketPrice": 62.97,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.00672218,
+    "regularMarketChange": 0.420002,
+    "regularMarketTime": "2026-08-04T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 63.275,
+    "regularMarketPrice": 62.9,
     "regularMarketDayHigh": 63.54,
     "regularMarketDayLow": 62.35,
-    "regularMarketVolume": 15674401,
-    "averageDailyVolume10Day": 32782950,
-    "averageDailyVolume3Month": 36243434,
+    "regularMarketVolume": 28232805,
+    "averageDailyVolume10Day": 32111500,
+    "averageDailyVolume3Month": 36046388,
     "regularMarketPreviousClose": 62.48,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 62.47,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "REGULAR",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "BAC",
     "underlyingSymbol": null,
@@ -4461,13 +4476,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 442466172928
+    "marketCap": 439843880960
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 382745903104,
-    "forwardPE": 11.965093,
+    "enterpriseValue": 385682866176,
+    "forwardPE": 11.894181,
     "profitMargins": 0.29524,
     "floatShares": 6965406719,
     "sharesOutstanding": 6992748365,
@@ -4484,7 +4499,7 @@
     "impliedSharesOutstanding": 6992748365,
     "category": null,
     "bookValue": 39.342,
-    "priceToBook": 1.6083322,
+    "priceToBook": 1.5988003,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4497,9 +4512,9 @@
     "pegRatio": 1.06,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1093824000,
-    "enterpriseToRevenue": 3.359,
-    "52WeekChange": 0.35974538,
-    "SandP52WeekChange": 0.18899727,
+    "enterpriseToRevenue": 3.385,
+    "52WeekChange": 0.37137842,
+    "SandP52WeekChange": 0.20658374,
     "lastDividendValue": 0.28,
     "lastDividendDate": "2026-06-05T00:00:00.000Z",
     "latestShareClass": null,
@@ -6164,25 +6179,13 @@
         "moneyText": "",
         "startDate": "2024-08-15T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10901,
-        "value": 402410,
-        "filerUrl": "",
-        "transactionText": "Sale at price 36.92 per share.",
-        "filerName": "HANS LINDSAY D",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-05T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 63.275,
+    "currentPrice": 62.9,
     "targetHighPrice": 75,
     "targetLowPrice": 62,
     "targetMeanPrice": 68.77273,
@@ -6207,6 +6210,6 @@
     "profitMargins": 0.29524,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-04T17:25:58.419Z",
+  "lastUpdated": "2026-08-05T05:15:10.396Z",
   "source": "Static Build (yahoo-finance2)"
 }

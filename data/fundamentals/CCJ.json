@@ -45,7 +45,7 @@
         "organization": "Mirae Asset Global ETFs Holdings Ltd.",
         "pctHeld": 0.0353,
         "position": 15373206,
-        "value": 1447541133,
+        "value": 1431091690,
         "pctChange": 0.058000002
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0305,
         "position": 13262917,
-        "value": 1248836313,
+        "value": 1234644894,
         "pctChange": -0.0209
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0272,
         "position": 11861339,
-        "value": 1116863723,
+        "value": 1104172004,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Royal Bank of Canada",
         "pctHeld": 0.022,
         "position": 9598933,
-        "value": 903835566,
+        "value": 893564637,
         "pctChange": 0.0469
       },
       {
@@ -81,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0212,
         "position": 9239264,
-        "value": 869969132,
+        "value": 860083051,
         "pctChange": -0.38819999
       },
       {
@@ -90,7 +90,7 @@
         "organization": "FIL LTD",
         "pctHeld": 0.020399999,
         "position": 8893505,
-        "value": 837412463,
+        "value": 827896347,
         "pctChange": 0.0242
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.017,
         "position": 7397589,
-        "value": 696557007,
+        "value": 688641532,
         "pctChange": -0.0235
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.0159,
         "position": 6944545,
-        "value": 653898382,
+        "value": 646467668,
         "pctChange": 0.1035
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of Montreal /CAN/",
         "pctHeld": 0.0138,
         "position": 6008985,
-        "value": 565806049,
+        "value": 559376391,
         "pctChange": 0.1475
       },
       {
@@ -126,7 +126,7 @@
         "organization": "TD Asset Management, Inc",
         "pctHeld": 0.011,
         "position": 4789688,
-        "value": 450997039,
+        "value": 445872038,
         "pctChange": 0.0958
       }
     ]
@@ -187,7 +187,7 @@
           "reportedDate": 1785496367
         }
       ],
-      "currentQuarterEstimate": 0.35775,
+      "currentQuarterEstimate": 0.34303,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -254,6 +254,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-04T10:54:19.000Z",
+        "firm": "Barclays",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 97,
+        "priorPriceTarget": 104
+      },
       {
         "epochGradeDate": "2026-07-16T12:43:51.000Z",
         "firm": "Barclays",
@@ -980,41 +990,46 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.04948732,
-    "regularMarketChange": 4.4400024,
-    "regularMarketTime": "2026-08-04T17:25:06.000Z",
+    "postMarketChangePercent": 0,
+    "postMarketChange": 0,
+    "postMarketTime": "2026-08-04T23:56:40.000Z",
+    "postMarketPrice": 93.09,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.0375612,
+    "regularMarketChange": 3.37,
+    "regularMarketTime": "2026-08-04T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 94.16,
-    "regularMarketDayHigh": 94.415,
+    "regularMarketPrice": 93.09,
+    "regularMarketDayHigh": 94.815,
     "regularMarketDayLow": 91.06,
-    "regularMarketVolume": 2154655,
-    "averageDailyVolume10Day": 4047560,
-    "averageDailyVolume3Month": 3500001,
+    "regularMarketVolume": 3950360,
+    "averageDailyVolume10Day": 3841160,
+    "averageDailyVolume3Month": 3490479,
     "regularMarketPreviousClose": 89.72,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 91.06,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "REGULAR",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "CCJ",
     "underlyingSymbol": null,
     "shortName": "Cameco Corporation",
     "longName": null,
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 41009786880
+    "marketCap": 40543764480
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 39185465344,
-    "forwardPE": 35.69601,
+    "enterpriseValue": 40653213696,
+    "forwardPE": 35.27138,
     "profitMargins": 0.102139995,
     "floatShares": 434478989,
     "sharesOutstanding": 435532978,
@@ -1030,7 +1045,7 @@
     "impliedSharesOutstanding": 435532979,
     "category": null,
     "bookValue": 11.687399,
-    "priceToBook": 8.0565405,
+    "priceToBook": 7.964988,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1039,14 +1054,14 @@
     "earningsQuarterlyGrowth": -0.921,
     "netIncomeToCommon": 354894016,
     "trailingEps": 0.6,
-    "forwardEps": 1.9019874,
+    "forwardEps": 1.8788029,
     "pegRatio": 1.92,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1140652800,
-    "enterpriseToRevenue": 11.278,
-    "enterpriseToEbitda": 49.077,
-    "52WeekChange": 0.15806413,
-    "SandP52WeekChange": 0.18899727,
+    "enterpriseToRevenue": 11.7,
+    "enterpriseToEbitda": 50.915,
+    "52WeekChange": 0.20284224,
+    "SandP52WeekChange": 0.20658374,
     "lastDividendValue": 0.172,
     "lastDividendDate": "2025-12-01T00:00:00.000Z",
     "latestShareClass": null,
@@ -1079,11 +1094,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 94.16,
-    "targetHighPrice": 174.47374,
-    "targetLowPrice": 84.17738,
-    "targetMeanPrice": 129.12231,
-    "targetMedianPrice": 134.59384,
+    "currentPrice": 93.09,
+    "targetHighPrice": 174.44151,
+    "targetLowPrice": 84.161835,
+    "targetMeanPrice": 129.10898,
+    "targetMedianPrice": 134.56897,
     "recommendationMean": 1.70833,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 11,
@@ -1109,6 +1124,6 @@
     "profitMargins": 0.102139995,
     "financialCurrency": "CAD"
   },
-  "lastUpdated": "2026-08-04T17:25:13.868Z",
+  "lastUpdated": "2026-08-05T05:14:27.434Z",
   "source": "Static Build (yahoo-finance2)"
 }
