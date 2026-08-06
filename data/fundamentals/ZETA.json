@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0797,
         "position": 17983373,
-        "value": 436276633,
+        "value": 486809901,
         "pctChange": 0.0717
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.056999996,
         "position": 12870889,
-        "value": 312247770,
+        "value": 348414961,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Greenvale Capital, LLP",
         "pctHeld": 0.0461,
         "position": 10400000,
-        "value": 252304002,
+        "value": 281527996,
         "pctChange": 0.4809
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0399,
         "position": 8995535,
-        "value": 218231681,
+        "value": 243509129,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0357,
         "position": 8058636,
-        "value": 195502511,
+        "value": 218147274,
         "pctChange": 0.6073
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Disciplined Growth Investors, Inc.",
         "pctHeld": 0.0273,
         "position": 6153472,
-        "value": 149283232,
+        "value": 166574485,
         "pctChange": 0.1187
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Neuberger Berman Group, LLC",
         "pctHeld": 0.025999999,
         "position": 5870619,
-        "value": 142421218,
+        "value": 158917654,
         "pctChange": 0.019299999
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.024300002,
         "position": 5486377,
-        "value": 133099507,
+        "value": 148516223,
         "pctChange": -0.0172
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0228,
         "position": 5140566,
-        "value": 124710132,
+        "value": 139155120,
         "pctChange": 0.13430001
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Contour Asset Management LLC",
         "pctHeld": 0.0224,
         "position": 5062355,
-        "value": 122812733,
+        "value": 137037948,
         "pctChange": -0.5465
       }
     ]
@@ -193,8 +193,10 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "earningsDate": [
+        "2026-11-03T20:00:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -225,13 +227,6 @@
       ],
       "quarterly": [
         {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 308442000,
-          "earnings": -12814000,
-          "profitMargin": -0.04154428
-        },
-        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 337169000,
@@ -259,6 +254,56 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-05T22:15:08.000Z",
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 32,
+        "priorPriceTarget": 30
+      },
+      {
+        "epochGradeDate": "2026-08-05T17:37:47.000Z",
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 31,
+        "priorPriceTarget": 29
+      },
+      {
+        "epochGradeDate": "2026-08-05T16:51:00.000Z",
+        "firm": "B. Riley Securities",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 32,
+        "priorPriceTarget": 30
+      },
+      {
+        "epochGradeDate": "2026-08-05T14:47:16.000Z",
+        "firm": "Keybanc",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 27,
+        "priorPriceTarget": 22
+      },
+      {
+        "epochGradeDate": "2026-08-05T12:00:56.000Z",
+        "firm": "Needham",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 30,
+        "priorPriceTarget": 25
+      },
       {
         "epochGradeDate": "2026-06-30T13:08:55.000Z",
         "firm": "Freedom Broker",
@@ -1785,24 +1830,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.05070072,
-    "postMarketChange": -1.2299995,
-    "postMarketTime": "2026-08-05T00:00:00.000Z",
-    "postMarketPrice": 23.03,
+    "postMarketChangePercent": -0.01403765,
+    "postMarketChange": -0.37999916,
+    "postMarketTime": "2026-08-05T23:59:44.000Z",
+    "postMarketPrice": 26.69,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0753546,
-    "regularMarketChange": 1.7,
-    "regularMarketTime": "2026-08-04T20:00:54.000Z",
+    "regularMarketChangePercent": 0.115828,
+    "regularMarketChange": 2.81,
+    "regularMarketTime": "2026-08-05T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 24.26,
-    "regularMarketDayHigh": 24.48,
-    "regularMarketDayLow": 23.01,
-    "regularMarketVolume": 18307653,
+    "regularMarketPrice": 27.07,
+    "regularMarketDayHigh": 28.5,
+    "regularMarketDayLow": 24.46,
+    "regularMarketVolume": 35155879,
     "averageDailyVolume10Day": 6332640,
-    "averageDailyVolume3Month": 8740385,
-    "regularMarketPreviousClose": 22.56,
+    "averageDailyVolume3Month": 8741011,
+    "regularMarketPreviousClose": 24.26,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 23.205,
+    "regularMarketOpen": 24.65,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -1818,13 +1863,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 6046989824
+    "marketCap": 6747403776
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 5976819712,
-    "forwardPE": 21.064146,
+    "enterpriseValue": 5553081856,
+    "forwardPE": 23.503975,
     "profitMargins": -0.01612,
     "floatShares": 220453410,
     "sharesOutstanding": 225619195,
@@ -1841,21 +1886,21 @@
     "impliedSharesOutstanding": 249257621,
     "category": null,
     "bookValue": 3.286,
-    "priceToBook": 7.3828363,
+    "priceToBook": 8.237979,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": -23156000,
-    "trailingEps": -0.1,
-    "forwardEps": 1.15172,
+    "trailingEps": -0.11,
+    "forwardEps": 1.19422,
     "pegRatio": 0.77,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 4.161,
-    "enterpriseToEbitda": 67.416,
-    "52WeekChange": 0.42155004,
-    "SandP52WeekChange": 0.20658374,
+    "enterpriseToRevenue": 3.866,
+    "enterpriseToEbitda": 62.636,
+    "52WeekChange": 0.115175486,
+    "SandP52WeekChange": 0.19786096,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -2659,7 +2704,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 24.26,
+    "currentPrice": 27.07,
     "targetHighPrice": 44,
     "targetLowPrice": 22,
     "targetMeanPrice": 28.67857,
@@ -2688,6 +2733,6 @@
     "profitMargins": -0.01612,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-05T05:14:47.232Z",
+  "lastUpdated": "2026-08-06T05:16:15.002Z",
   "source": "Static Build (yahoo-finance2)"
 }

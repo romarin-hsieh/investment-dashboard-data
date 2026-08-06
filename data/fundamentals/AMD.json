@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.08930001,
         "position": 145574284,
-        "value": 75491914684,
+        "value": 70174081825,
         "pctChange": -0.013200001
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.065,
         "position": 105940266,
-        "value": 54938504952,
+        "value": 51068503932,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.045900002,
         "position": 74771220,
-        "value": 38774860545,
+        "value": 36043465688,
         "pctChange": -0.002
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0309,
         "position": 50443198,
-        "value": 26158834480,
+        "value": 24316142980,
         "pctChange": -0.0309
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024400001,
         "position": 39791086,
-        "value": 20634862057,
+        "value": 19181292520,
         "pctChange": 0.0587
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0231,
         "position": 37603675,
-        "value": 19500514424,
+        "value": 18126851074,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0177,
         "position": 28846470,
-        "value": 14959202905,
+        "value": 13905440511,
         "pctChange": 0.41919997
       },
       {
@@ -108,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0149,
         "position": 24248547,
-        "value": 12574811917,
+        "value": 11689011785,
         "pctChange": 0.1596
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0146,
         "position": 23781608,
-        "value": 12332666683,
+        "value": 11463923846,
         "pctChange": -0.050300002
       },
       {
@@ -126,7 +126,7 @@
         "organization": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
         "pctHeld": 0.0117999995,
         "position": 19192764,
-        "value": 9952983883,
+        "value": 9251871651,
         "pctChange": 0.030199999
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.004,
-    "institutionsPercentHeld": 0.71996003,
-    "institutionsFloatPercentHeld": 0.72285,
-    "institutionsCount": 4601
+    "institutionsPercentHeld": 0.71836,
+    "institutionsFloatPercentHeld": 0.72125,
+    "institutionsCount": 4633
   },
   "earnings": {
     "maxAge": 86400,
@@ -193,8 +193,10 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "3Q2026",
       "currentPeriodEndDate": 1790726400,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "earningsDate": [
+        "2026-11-03T20:00:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -252,6 +254,76 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-05T22:07:57.000Z",
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 550,
+        "priorPriceTarget": 425
+      },
+      {
+        "epochGradeDate": "2026-08-05T18:34:18.000Z",
+        "firm": "Morgan Stanley",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 465,
+        "priorPriceTarget": 410
+      },
+      {
+        "epochGradeDate": "2026-08-05T17:56:30.000Z",
+        "firm": "Truist Securities",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 594,
+        "priorPriceTarget": 478
+      },
+      {
+        "epochGradeDate": "2026-08-05T15:40:00.000Z",
+        "firm": "Wells Fargo",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 700,
+        "priorPriceTarget": 615
+      },
+      {
+        "epochGradeDate": "2026-08-05T15:31:07.000Z",
+        "firm": "RBC Capital",
+        "toGrade": "Sector Perform",
+        "fromGrade": "Sector Perform",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 540,
+        "priorPriceTarget": 540
+      },
+      {
+        "epochGradeDate": "2026-08-05T13:35:30.000Z",
+        "firm": "Wedbush",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 600,
+        "priorPriceTarget": 600
+      },
+      {
+        "epochGradeDate": "2026-08-05T13:10:48.000Z",
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 700,
+        "priorPriceTarget": 700
+      },
       {
         "epochGradeDate": "2026-07-30T18:27:09.000Z",
         "firm": "Susquehanna",
@@ -7758,24 +7830,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.088182375,
-    "postMarketChange": -45.729614,
-    "postMarketTime": "2026-08-04T23:59:59.000Z",
-    "postMarketPrice": 472.8504,
+    "postMarketChangePercent": -0.0017632521,
+    "postMarketChange": -0.8499756,
+    "postMarketTime": "2026-08-05T23:59:58.000Z",
+    "postMarketPrice": 481.2,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0700314,
-    "regularMarketChange": 33.94,
-    "regularMarketTime": "2026-08-04T20:00:01.000Z",
+    "regularMarketChangePercent": -0.0704424,
+    "regularMarketChange": -36.53,
+    "regularMarketTime": "2026-08-05T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 518.58,
-    "regularMarketDayHigh": 530.13,
-    "regularMarketDayLow": 502.2,
-    "regularMarketVolume": 37243667,
+    "regularMarketPrice": 482.05,
+    "regularMarketDayHigh": 502,
+    "regularMarketDayLow": 478.2,
+    "regularMarketVolume": 47426772,
     "averageDailyVolume10Day": 29638610,
-    "averageDailyVolume3Month": 32748785,
-    "regularMarketPreviousClose": 484.64,
+    "averageDailyVolume3Month": 32232616,
+    "regularMarketPreviousClose": 518.58,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 504.24,
+    "regularMarketOpen": 484.495,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -7796,7 +7868,7 @@
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 781778288640,
-    "forwardPE": 37.2609,
+    "forwardPE": 34.63615,
     "profitMargins": 0.13374,
     "floatShares": 1622056292,
     "sharesShort": 39768152,
@@ -7805,13 +7877,13 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.024400001,
     "heldPercentInsiders": 0.004,
-    "heldPercentInstitutions": 0.71996003,
+    "heldPercentInstitutions": 0.71836,
     "shortRatio": 1.36,
     "shortPercentOfFloat": 0.024500001,
     "beta": 2.489,
     "category": null,
-    "bookValue": 39.547,
-    "priceToBook": 13.113005,
+    "bookValue": 38.65,
+    "priceToBook": 12.472185,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-27T00:00:00.000Z",
@@ -7819,15 +7891,15 @@
     "mostRecentQuarter": "2026-03-28T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.951,
     "netIncomeToCommon": 4931999744,
-    "trailingEps": 3,
-    "forwardEps": 13.91754,
+    "trailingEps": 2.8,
+    "forwardEps": 14.98479,
     "pegRatio": 1.14,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 966902400,
     "enterpriseToRevenue": 20.873,
     "enterpriseToEbitda": 105.219,
-    "52WeekChange": 1.780334,
-    "SandP52WeekChange": 0.20658374,
+    "52WeekChange": 1.9710643,
+    "SandP52WeekChange": 0.19786096,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -7989,7 +8061,7 @@
         "shares": 2613,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HOUSEHOLDER JOSEPH A",
+        "filerName": "DENZEL NORA M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-14T00:00:00.000Z",
@@ -8000,7 +8072,7 @@
         "shares": 2613,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DENZEL NORA M",
+        "filerName": "HOUSEHOLDER JOSEPH A",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-14T00:00:00.000Z",
@@ -8887,7 +8959,7 @@
         "shares": 1547,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HOUSEHOLDER JOSEPH A",
+        "filerName": "DENZEL NORA M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-08T00:00:00.000Z",
@@ -8898,7 +8970,7 @@
         "shares": 1547,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DENZEL NORA M",
+        "filerName": "HOUSEHOLDER JOSEPH A",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-08T00:00:00.000Z",
@@ -9376,13 +9448,37 @@
         "moneyText": "",
         "startDate": "2024-08-09T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 30000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "VANDERSLICE ELIZABETH W",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-08-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 30000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "VANDERSLICE ELIZABETH W",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-08-05T00:00:00.000Z",
+        "ownership": "I"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 518.58,
+    "currentPrice": 482.05,
     "targetHighPrice": 1250,
     "targetLowPrice": 320,
     "targetMeanPrice": 579.1064,
@@ -9412,6 +9508,6 @@
     "profitMargins": 0.13374,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-05T05:15:04.811Z",
+  "lastUpdated": "2026-08-06T05:16:33.579Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -37,7 +37,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.056799997,
         "position": 28142025,
-        "value": 531321408,
+        "value": 508526383,
         "pctChange": 0.0088
       },
       {
@@ -46,7 +46,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.045300003,
         "position": 22462422,
-        "value": 424090508,
+        "value": 405895958,
         "pctChange": 1
       },
       {
@@ -55,7 +55,7 @@
         "organization": "Lone Pine Capital Llc",
         "pctHeld": 0.0402,
         "position": 19921430,
-        "value": 376116581,
+        "value": 359980234,
         "pctChange": 1
       },
       {
@@ -64,7 +64,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0315,
         "position": 15627257,
-        "value": 295042599,
+        "value": 282384529,
         "pctChange": 1
       },
       {
@@ -73,7 +73,7 @@
         "organization": "Marshall Wace LLP",
         "pctHeld": 0.0189,
         "position": 9374298,
-        "value": 176986738,
+        "value": 169393561,
         "pctChange": 1.9422001
       },
       {
@@ -82,7 +82,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0172,
         "position": 8523976,
-        "value": 160932659,
+        "value": 154028243,
         "pctChange": 0.0175
       },
       {
@@ -91,7 +91,7 @@
         "organization": "Two Sigma Investments, LP",
         "pctHeld": 0.015800001,
         "position": 7837097,
-        "value": 147964384,
+        "value": 141616340,
         "pctChange": 0.981
       },
       {
@@ -100,7 +100,7 @@
         "organization": "Value Aligned Research Advisors, LLC                          ",
         "pctHeld": 0.015800001,
         "position": 7848232,
-        "value": 148174613,
+        "value": 141817549,
         "pctChange": 1
       },
       {
@@ -109,7 +109,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0154,
         "position": 7613660,
-        "value": 143745894,
+        "value": 137578833,
         "pctChange": 0.0359
       },
       {
@@ -118,7 +118,7 @@
         "organization": "Scoggin Management, LP",
         "pctHeld": 0.0150999995,
         "position": 7500000,
-        "value": 141599993,
+        "value": 135524997,
         "pctChange": 0.1858
       }
     ]
@@ -134,17 +134,6 @@
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
-        {
-          "date": "2Q2025",
-          "actual": -0.0276,
-          "estimate": -0.068,
-          "fiscalQuarter": "2Q2025",
-          "calendarQuarter": "2Q2025",
-          "difference": "0.04",
-          "surprisePct": "59.41",
-          "periodEndDate": 1751241600,
-          "reportedDate": 1754650800
-        },
         {
           "date": "3Q2025",
           "actual": -0.038,
@@ -173,21 +162,30 @@
           "estimate": -0.19,
           "fiscalQuarter": "1Q2026",
           "calendarQuarter": "1Q2026",
-          "difference": "-0.008",
+          "difference": "-0.01",
           "surprisePct": "-4.0",
           "periodEndDate": 1774915200,
           "reportedDate": 1778238000
+        },
+        {
+          "date": "2Q2026",
+          "actual": -0.3337,
+          "estimate": -0.27,
+          "fiscalQuarter": "2Q2026",
+          "calendarQuarter": "2Q2026",
+          "difference": "-0.06",
+          "surprisePct": "-23.59",
+          "periodEndDate": 1782777600,
+          "reportedDate": 1785927600
         }
       ],
-      "currentQuarterEstimate": -0.27,
-      "currentQuarterEstimateDate": "2Q",
-      "currentCalendarQuarter": "2Q2026",
+      "currentQuarterEstimate": -0.15,
+      "currentQuarterEstimateDate": "3Q",
+      "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "2Q2026",
-      "currentPeriodEndDate": 1782777600,
-      "earningsDate": [
-        "2026-08-05T12:30:00.000Z"
-      ],
+      "currentFiscalQuarter": "3Q2026",
+      "currentPeriodEndDate": 1790726400,
+      "earningsDate": [],
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
@@ -219,13 +217,6 @@
       ],
       "quarterly": [
         {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 47636000,
-          "earnings": -18370000,
-          "profitMargin": -0.38563272
-        },
-        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 50578000,
@@ -253,6 +244,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-05T21:41:43.000Z",
+        "firm": "Chardan Capital",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 32,
+        "priorPriceTarget": 32
+      },
       {
         "epochGradeDate": "2026-08-03T16:15:59.000Z",
         "firm": "B. Riley Securities",
@@ -1219,24 +1220,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.008474669,
-    "postMarketChange": 0.16000175,
-    "postMarketTime": "2026-08-04T23:59:49.000Z",
-    "postMarketPrice": 19.04,
+    "postMarketChangePercent": 0.0038683184,
+    "postMarketChange": 0.06990051,
+    "postMarketTime": "2026-08-05T23:59:11.000Z",
+    "postMarketPrice": 18.1399,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0026552998,
-    "regularMarketChange": 0.0499992,
-    "regularMarketTime": "2026-08-04T20:00:00.000Z",
+    "regularMarketChangePercent": -0.0429025,
+    "regularMarketChange": -0.809999,
+    "regularMarketTime": "2026-08-05T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 18.88,
-    "regularMarketDayHigh": 19.66,
-    "regularMarketDayLow": 18.56,
-    "regularMarketVolume": 24967777,
+    "regularMarketPrice": 18.07,
+    "regularMarketDayHigh": 19.44,
+    "regularMarketDayLow": 18.05,
+    "regularMarketVolume": 28208739,
     "averageDailyVolume10Day": 33389740,
-    "averageDailyVolume3Month": 32001585,
-    "regularMarketPreviousClose": 18.83,
+    "averageDailyVolume3Month": 31996918,
+    "regularMarketPreviousClose": 18.88,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 18.902,
+    "regularMarketOpen": 18.445,
     "exchange": "NCM",
     "exchangeName": "NasdaqCM",
     "exchangeDataDelayedBy": 0,
@@ -1252,13 +1253,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 9355656192
+    "marketCap": 8954274816
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 12043360256,
-    "forwardPE": 96.82051,
+    "enterpriseValue": 12016105472,
+    "forwardPE": 92.66667,
     "profitMargins": 0,
     "floatShares": 382055669,
     "sharesOutstanding": 495532645,
@@ -1281,14 +1282,14 @@
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": -1027632000,
-    "trailingEps": -2.51,
-    "forwardEps": 0.195,
+    "trailingEps": -2.4,
+    "forwardEps": -0.22333,
     "lastSplitFactor": "3:2",
     "lastSplitDate": 1084492800,
-    "enterpriseToRevenue": 71.66,
-    "enterpriseToEbitda": -83.714,
-    "52WeekChange": 2.7213438,
-    "SandP52WeekChange": 0.20658374,
+    "enterpriseToRevenue": 71.498,
+    "enterpriseToEbitda": -83.525,
+    "52WeekChange": 2.6563108,
+    "SandP52WeekChange": 0.19786096,
     "lastDividendValue": 5,
     "lastDividendDate": "2021-12-14T00:00:00.000Z",
     "latestShareClass": null,
@@ -1316,6 +1317,28 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 500000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FLEURY PATRICK",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-07-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 500000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LANGLAIS KERRI M.",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-07-31T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 1013,
@@ -1380,6 +1403,28 @@
         "shares": 56023,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "BUCELLA MICHAEL C",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 56023,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FABIANO AMANDA",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 56023,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "CARTER WALTER E.",
         "filerRelation": "Director",
         "moneyText": "",
@@ -1414,28 +1459,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "PINCUS STEVEN T.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 56023,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BUCELLA MICHAEL C",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 56023,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FABIANO AMANDA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-23T00:00:00.000Z",
@@ -1822,6 +1845,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 35487,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BUCELLA MICHAEL C",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-12-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 35629,
         "filerUrl": "",
         "transactionText": "",
@@ -1837,17 +1871,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "PINCUS STEVEN T.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-12-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 35487,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BUCELLA MICHAEL C",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-09T00:00:00.000Z",
@@ -2033,6 +2056,28 @@
         "shares": 21661,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "BUCELLA MICHAEL C",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 31189,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FABIANO AMANDA",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 21661,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "CARTER WALTER E.",
         "filerRelation": "Director",
         "moneyText": "",
@@ -2074,28 +2119,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 21661,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BUCELLA MICHAEL C",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 31189,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FABIANO AMANDA",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 21182,
         "value": 83033,
         "filerUrl": "",
@@ -2120,22 +2143,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 500000,
+        "shares": 100000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "FLEURY PATRICK",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "DEANE KENNETH J.",
+        "filerRelation": "Officer and Treasurer",
         "moneyText": "",
         "startDate": "2025-05-16T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 100000,
+        "shares": 500000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DEANE KENNETH J.",
-        "filerRelation": "Officer and Treasurer",
+        "filerName": "FLEURY PATRICK",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-05-16T00:00:00.000Z",
         "ownership": "D"
@@ -2226,6 +2249,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 54000,
+        "value": 297540,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 5.51 per share.",
+        "filerName": "DEANE KENNETH J.",
+        "filerRelation": "Officer and Treasurer",
+        "moneyText": "",
+        "startDate": "2025-01-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 140000,
+        "value": 771400,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 5.51 per share.",
+        "filerName": "FLEURY PATRICK",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-01-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 140000,
         "value": 771400,
         "filerUrl": "",
@@ -2256,30 +2303,6 @@
         "transactionText": "Conversion of Exercise of derivative security at price 5.51 per share.",
         "filerName": "KHAN NAZAR M.",
         "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-01-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 140000,
-        "value": 771400,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 5.51 per share.",
-        "filerName": "FLEURY PATRICK",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-01-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 54000,
-        "value": 297540,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 5.51 per share.",
-        "filerName": "DEANE KENNETH J.",
-        "filerRelation": "Officer and Treasurer",
         "moneyText": "",
         "startDate": "2025-01-08T00:00:00.000Z",
         "ownership": "D"
@@ -2565,7 +2588,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 18.88,
+    "currentPrice": 18.07,
     "targetHighPrice": 72,
     "targetLowPrice": 30,
     "targetMeanPrice": 38.38889,
@@ -2593,6 +2616,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-05T05:17:04.051Z",
+  "lastUpdated": "2026-08-06T05:18:31.699Z",
   "source": "Static Build (yahoo-finance2)"
 }

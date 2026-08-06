@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1532,
         "position": 5293331,
-        "value": 427436478,
+        "value": 404886876,
         "pctChange": -0.0189
       },
       {
@@ -54,7 +54,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.1475,
         "position": 5096243,
-        "value": 411521622,
+        "value": 389811616,
         "pctChange": 0.0038
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0555,
         "position": 1919535,
-        "value": 155002451,
+        "value": 146825228,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0428,
         "position": 1478152,
-        "value": 119360774,
+        "value": 113063843,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0382,
         "position": 1319479,
-        "value": 106547929,
+        "value": 100926945,
         "pctChange": 0.0348
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.03,
         "position": 1037974,
-        "value": 83816400,
+        "value": 79394629,
         "pctChange": 0.5162
       },
       {
@@ -99,7 +99,7 @@
         "organization": "UBS AM, a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC",
         "pctHeld": 0.0272,
         "position": 939523,
-        "value": 75866482,
+        "value": 71864112,
         "pctChange": -0.0575
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Nomura Asset Management International Inc",
         "pctHeld": 0.0256,
         "position": 885841,
-        "value": 71531660,
+        "value": 67757976,
         "pctChange": 0.0644
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0251,
         "position": 866282,
-        "value": 69952271,
+        "value": 66261908,
         "pctChange": -0.103199996
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024300002,
         "position": 839155,
-        "value": 67761766,
+        "value": 64186964,
         "pctChange": 0.0278
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.03654,
-    "institutionsPercentHeld": 1.09453,
-    "institutionsFloatPercentHeld": 1.13604,
-    "institutionsCount": 533
+    "institutionsPercentHeld": 1.09428,
+    "institutionsFloatPercentHeld": 1.1357701,
+    "institutionsCount": 526
   },
   "earnings": {
     "maxAge": 86400,
@@ -193,8 +193,10 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "earningsDate": [
+        "2026-10-29T20:00:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -252,6 +254,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-05T20:56:00.000Z",
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 77,
+        "priorPriceTarget": 80
+      },
+      {
+        "epochGradeDate": "2026-08-05T16:00:59.000Z",
+        "firm": "Piper Sandler",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "reit",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 100,
+        "priorPriceTarget": 120
+      },
       {
         "epochGradeDate": "2026-08-03T10:22:27.000Z",
         "firm": "Needham",
@@ -1478,24 +1500,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.07834051,
-    "postMarketChange": -6.3259964,
-    "postMarketTime": "2026-08-04T23:57:01.000Z",
-    "postMarketPrice": 74.424,
+    "postMarketChangePercent": -0.012942841,
+    "postMarketChange": -0.98999786,
+    "postMarketTime": "2026-08-05T23:59:18.000Z",
+    "postMarketPrice": 75.5,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.00980997,
-    "regularMarketChange": -0.800003,
-    "regularMarketTime": "2026-08-04T20:00:01.000Z",
+    "regularMarketChangePercent": -0.0527554,
+    "regularMarketChange": -4.26,
+    "regularMarketTime": "2026-08-05T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 80.75,
-    "regularMarketDayHigh": 82.0701,
-    "regularMarketDayLow": 78.8071,
-    "regularMarketVolume": 1288442,
+    "regularMarketPrice": 76.49,
+    "regularMarketDayHigh": 77.41,
+    "regularMarketDayLow": 68,
+    "regularMarketVolume": 2949395,
     "averageDailyVolume10Day": 892400,
-    "averageDailyVolume3Month": 1328569,
-    "regularMarketPreviousClose": 81.55,
+    "averageDailyVolume3Month": 1313598,
+    "regularMarketPreviousClose": 80.75,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 79.838,
+    "regularMarketOpen": 72.335,
     "exchange": "NGM",
     "exchangeName": "NasdaqGM",
     "exchangeDataDelayedBy": 0,
@@ -1511,44 +1533,43 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 2790793728
+    "marketCap": 2652301568
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 3186939904,
-    "forwardPE": 28.160122,
-    "profitMargins": 0.27037,
-    "floatShares": 33431115,
-    "sharesOutstanding": 34560911,
+    "enterpriseValue": 3047346944,
+    "forwardPE": 26.674522,
+    "profitMargins": 0.22694,
+    "floatShares": 33541615,
+    "sharesOutstanding": 34675145,
     "sharesShort": 7715332,
     "sharesShortPriorMonth": "1970-03-30T21:36:38.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.2232,
     "heldPercentInsiders": 0.03654,
-    "heldPercentInstitutions": 1.09453,
+    "heldPercentInstitutions": 1.09428,
     "shortRatio": 7.24,
     "shortPercentOfFloat": 0.3482,
-    "beta": 1.88,
-    "impliedSharesOutstanding": 34560911,
+    "impliedSharesOutstanding": 34675145,
     "category": null,
     "bookValue": 14.3,
-    "priceToBook": 5.646853,
+    "priceToBook": 5.348951,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
-    "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
-    "earningsQuarterlyGrowth": -0.715,
-    "netIncomeToCommon": 171924000,
-    "trailingEps": 4.37,
-    "forwardEps": 2.86753,
+    "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
+    "earningsQuarterlyGrowth": -0.579,
+    "netIncomeToCommon": 151699008,
+    "trailingEps": 4.14,
+    "forwardEps": 2.37395,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 5.012,
-    "enterpriseToEbitda": 25.425,
-    "52WeekChange": -0.35143948,
-    "SandP52WeekChange": 0.20658374,
+    "enterpriseToRevenue": 4.559,
+    "enterpriseToEbitda": 26.106,
+    "52WeekChange": -0.3135522,
+    "SandP52WeekChange": 0.19786096,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1757,11 +1778,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1193,
-        "value": 178497,
+        "shares": 3571,
+        "value": 524294,
         "filerUrl": "",
-        "transactionText": "Sale at price 149.62 per share.",
-        "filerName": "LOVELL STEPHANIE",
+        "transactionText": "Sale at price 146.82 per share.",
+        "filerName": "WEILL DAVID",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-04T00:00:00.000Z",
@@ -1769,11 +1790,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 3571,
-        "value": 524294,
+        "shares": 1193,
+        "value": 178497,
         "filerUrl": "",
-        "transactionText": "Sale at price 146.82 per share.",
-        "filerName": "WEILL DAVID",
+        "transactionText": "Sale at price 149.62 per share.",
+        "filerName": "LOVELL STEPHANIE",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-04T00:00:00.000Z",
@@ -2534,37 +2555,13 @@
         "moneyText": "",
         "startDate": "2024-08-07T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 6750,
-        "value": 189810,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 28.12 per share.",
-        "filerName": "BASILE EDWARD M.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-08-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 6750,
-        "value": 1012230,
-        "filerUrl": "",
-        "transactionText": "Sale at price 148.26 - 151.89 per share.",
-        "filerName": "BASILE EDWARD M.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-08-06T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 80.75,
+    "currentPrice": 76.49,
     "targetHighPrice": 125,
     "targetLowPrice": 80,
     "targetMeanPrice": 106,
@@ -2572,28 +2569,28 @@
     "recommendationMean": 1.90909,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 10,
-    "totalCash": 461739008,
-    "totalCashPerShare": 13.36,
-    "ebitda": 125349000,
-    "totalDebt": 863414976,
-    "quickRatio": 6.01,
-    "currentRatio": 6.737,
-    "totalRevenue": 635889984,
-    "debtToEquity": 174.778,
-    "revenuePerShare": 18.616,
-    "returnOnAssets": 0.05195,
-    "returnOnEquity": 0.45224,
-    "grossProfits": 375739008,
-    "freeCashflow": 108822248,
-    "operatingCashflow": 220228000,
-    "earningsGrowth": -0.715,
-    "revenueGrowth": 0.212,
-    "grossMargins": 0.59089,
-    "ebitdaMargins": 0.19712,
-    "operatingMargins": 0.07645,
-    "profitMargins": 0.27037,
+    "totalCash": 472675008,
+    "totalCashPerShare": 13.632,
+    "ebitda": 116729000,
+    "totalDebt": 867720000,
+    "quickRatio": 5.869,
+    "currentRatio": 6.625,
+    "totalRevenue": 668467968,
+    "debtToEquity": 167.496,
+    "revenuePerShare": 19.474,
+    "returnOnAssets": 0.043319996,
+    "returnOnEquity": 0.36285,
+    "grossProfits": 392348000,
+    "freeCashflow": 44268752,
+    "operatingCashflow": 145928000,
+    "earningsGrowth": -0.554,
+    "revenueGrowth": 0.207,
+    "grossMargins": 0.58694,
+    "ebitdaMargins": 0.17462,
+    "operatingMargins": 0.124960005,
+    "profitMargins": 0.22694,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-05T05:13:56.463Z",
+  "lastUpdated": "2026-08-06T05:15:23.739Z",
   "source": "Static Build (yahoo-finance2)"
 }

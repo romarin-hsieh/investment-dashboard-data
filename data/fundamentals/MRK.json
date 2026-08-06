@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.091400005,
         "position": 225830330,
-        "value": 28906282240,
+        "value": 28980806662,
         "pctChange": 0.0307
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0652,
         "position": 160987624,
-        "value": 20606415872,
+        "value": 20659542082,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.048299998,
         "position": 119325673,
-        "value": 15273686144,
+        "value": 15313063834,
         "pctChange": -0.006
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Wellington Management Group, LLP",
         "pctHeld": 0.0341,
         "position": 84314971,
-        "value": 10792316288,
+        "value": 10820140382,
         "pctChange": -0.024500001
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0273,
         "position": 67304305,
-        "value": 8614951040,
+        "value": 8637161583,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0241,
         "position": 59558154,
-        "value": 7623443712,
+        "value": 7643098011,
         "pctChange": -0.0082
       },
       {
@@ -99,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0214,
         "position": 52972983,
-        "value": 6780541824,
+        "value": 6798023005,
         "pctChange": 0.8141
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Charles Schwab Investment Management, Inc.",
         "pctHeld": 0.0201,
         "position": 49765225,
-        "value": 6369948800,
+        "value": 6386371415,
         "pctChange": 0.0247
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.019299999,
         "position": 47632487,
-        "value": 6096958336,
+        "value": 6112677143,
         "pctChange": 0.0598
       },
       {
@@ -126,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.018,
         "position": 44516010,
-        "value": 5698049280,
+        "value": 5712739644,
         "pctChange": 0.090100005
       }
     ]
@@ -193,7 +193,9 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "3Q2026",
       "currentPeriodEndDate": 1790726400,
-      "earningsDate": [],
+      "earningsDate": [
+        "2026-10-29T12:30:00.000Z"
+      ],
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
@@ -252,6 +254,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-05T12:20:06.000Z",
+        "firm": "Guggenheim",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 146,
+        "priorPriceTarget": 145
+      },
       {
         "epochGradeDate": "2026-07-29T12:04:06.000Z",
         "firm": "Barclays",
@@ -3808,24 +3820,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0051288605,
-    "postMarketChange": 0.65649414,
-    "postMarketTime": "2026-08-04T23:59:05.000Z",
-    "postMarketPrice": 128.6565,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.00180014,
-    "regularMarketChange": 0.230003,
-    "regularMarketTime": "2026-08-04T20:03:46.000Z",
+    "postMarketChangePercent": -0.0006234071,
+    "postMarketChange": -0.08000183,
+    "postMarketTime": "2026-08-05T23:58:29.000Z",
+    "postMarketPrice": 128.25,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.00257814,
+    "regularMarketChange": 0.330002,
+    "regularMarketTime": "2026-08-05T20:04:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 128,
-    "regularMarketDayHigh": 129.99,
-    "regularMarketDayLow": 126.22,
-    "regularMarketVolume": 8332565,
+    "regularMarketPrice": 128.33,
+    "regularMarketDayHigh": 131.07,
+    "regularMarketDayLow": 127.555,
+    "regularMarketVolume": 9508733,
     "averageDailyVolume10Day": 8125400,
-    "averageDailyVolume3Month": 10093143,
-    "regularMarketPreviousClose": 127.77,
+    "averageDailyVolume3Month": 10128926,
+    "regularMarketPreviousClose": 128,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 128.46,
+    "regularMarketOpen": 129.41,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -3836,7 +3848,7 @@
     "shortName": "Merck & Company, Inc.",
     "longName": null,
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
@@ -3846,7 +3858,7 @@
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 359037468672,
-    "forwardPE": 13.270188,
+    "forwardPE": 13.304401,
     "profitMargins": 0.13586001,
     "floatShares": 2465699808,
     "sharesShort": 29359028,
@@ -3861,22 +3873,22 @@
     "beta": 0.211,
     "category": null,
     "bookValue": 18.576,
-    "priceToBook": 6.8906116,
+    "priceToBook": 6.908376,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": 8935000064,
-    "trailingEps": 3.56,
-    "forwardEps": 9.64568,
+    "trailingEps": 1.26,
+    "forwardEps": 9.616,
     "pegRatio": 11.83,
     "lastSplitFactor": "1048:1000",
     "lastSplitDate": 1622678400,
     "enterpriseToRevenue": 5.459,
     "enterpriseToEbitda": 12.164,
-    "52WeekChange": 0.58150756,
-    "SandP52WeekChange": 0.20658374,
+    "52WeekChange": 0.60838366,
+    "SandP52WeekChange": 0.19786096,
     "lastDividendValue": 0.85,
     "lastDividendDate": "2026-06-15T00:00:00.000Z",
     "latestShareClass": null,
@@ -4708,13 +4720,25 @@
         "moneyText": "",
         "startDate": "2025-01-27T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 36901,
+        "value": 4250995,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 115.20 per share.",
+        "filerName": "GUINDO CHIRFI",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-08-05T00:00:00.000Z",
+        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 128,
+    "currentPrice": 128.33,
     "targetHighPrice": 155,
     "targetLowPrice": 105,
     "targetMeanPrice": 135.38461,
@@ -4743,6 +4767,6 @@
     "profitMargins": 0.13586001,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-05T05:16:11.979Z",
+  "lastUpdated": "2026-08-06T05:17:38.662Z",
   "source": "Static Build (yahoo-finance2)"
 }

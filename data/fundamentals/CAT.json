@@ -12,21 +12,13 @@
       {
         "period": "-1m",
         "strongBuy": 1,
-        "buy": 13,
-        "hold": 12,
-        "sell": 1,
-        "strongSell": 1
-      },
-      {
-        "period": "-2m",
-        "strongBuy": 1,
         "buy": 14,
         "hold": 11,
         "sell": 2,
         "strongSell": 0
       },
       {
-        "period": "-3m",
+        "period": "-2m",
         "strongBuy": 1,
         "buy": 14,
         "hold": 11,
@@ -45,7 +37,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.080699995,
         "position": 37169433,
-        "value": 32580493985,
+        "value": 32377550332,
         "pctChange": 0.026500002
       },
       {
@@ -54,7 +46,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0757,
         "position": 34880604,
-        "value": 30574243863,
+        "value": 30383797128,
         "pctChange": -0.014400001
       },
       {
@@ -63,7 +55,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0656,
         "position": 30234453,
-        "value": 26501706768,
+        "value": 26336627835,
         "pctChange": 1
       },
       {
@@ -72,7 +64,7 @@
         "organization": "State Farm Mutual Automobile Insurance Co",
         "pctHeld": 0.031600002,
         "position": 14564726,
-        "value": 12766564608,
+        "value": 12687041772,
         "pctChange": -0.16440001
       },
       {
@@ -81,7 +73,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0254,
         "position": 11705890,
-        "value": 10260680563,
+        "value": 10196766861,
         "pctChange": 1
       },
       {
@@ -90,7 +82,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0242,
         "position": 11127483,
-        "value": 9753683704,
+        "value": 9692928081,
         "pctChange": 0.048800003
       },
       {
@@ -99,7 +91,7 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.0212,
         "position": 9775952,
-        "value": 8569012751,
+        "value": 8515636435,
         "pctChange": 0.0298
       },
       {
@@ -108,7 +100,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0163,
         "position": 7499662,
-        "value": 6573753564,
+        "value": 6532805703,
         "pctChange": 0.06
       },
       {
@@ -117,7 +109,7 @@
         "organization": "Gates Foundation Trust",
         "pctHeld": 0.0138,
         "position": 6353614,
-        "value": 5569196675,
+        "value": 5534506191,
         "pctChange": 0
       },
       {
@@ -126,7 +118,7 @@
         "organization": "Northern Trust Corporation",
         "pctHeld": 0.0123000005,
         "position": 5678795,
-        "value": 4977690844,
+        "value": 4946684845,
         "pctChange": -0.0295
       }
     ]
@@ -134,14 +126,25 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00219,
-    "institutionsPercentHeld": 0.72814006,
-    "institutionsFloatPercentHeld": 0.72973996,
-    "institutionsCount": 4729
+    "institutionsPercentHeld": 0.72873,
+    "institutionsFloatPercentHeld": 0.73033,
+    "institutionsCount": 4744
   },
   "earnings": {
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
+        {
+          "date": "2Q2025",
+          "actual": 4.72,
+          "estimate": 4.90312,
+          "fiscalQuarter": "2Q2025",
+          "calendarQuarter": "2Q2025",
+          "difference": "-0.18",
+          "surprisePct": "-3.73",
+          "periodEndDate": 1751241600,
+          "reportedDate": 1754389800
+        },
         {
           "date": "3Q2025",
           "actual": 4.95,
@@ -174,26 +177,17 @@
           "surprisePct": "19.3",
           "periodEndDate": 1774915200,
           "reportedDate": 1777545000
-        },
-        {
-          "date": "2Q2026",
-          "actual": 8.17,
-          "estimate": 6.19742,
-          "fiscalQuarter": "2Q2026",
-          "calendarQuarter": "2Q2026",
-          "difference": "1.97",
-          "surprisePct": "31.83",
-          "periodEndDate": 1782777600,
-          "reportedDate": 1785839400
         }
       ],
-      "currentQuarterEstimate": 6.74348,
-      "currentQuarterEstimateDate": "3Q",
-      "currentCalendarQuarter": "3Q2026",
+      "currentQuarterEstimate": 6.19742,
+      "currentQuarterEstimateDate": "2Q",
+      "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "3Q2026",
-      "currentPeriodEndDate": 1790726400,
-      "earningsDate": [],
+      "currentFiscalQuarter": "2Q2026",
+      "currentPeriodEndDate": 1782777600,
+      "earningsDate": [
+        "2026-10-29T12:30:00.000Z"
+      ],
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
@@ -224,6 +218,13 @@
         }
       ],
       "quarterly": [
+        {
+          "date": "2Q2025",
+          "fiscalQuarter": "2Q2025",
+          "revenue": 16569000000,
+          "earnings": 2179000000,
+          "profitMargin": 0.13151066
+        },
         {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
@@ -3808,24 +3809,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0027146698,
-    "postMarketChange": 2.3795166,
-    "postMarketTime": "2026-08-04T23:59:34.000Z",
-    "postMarketPrice": 878.9195,
+    "postMarketChangePercent": 0.0035817549,
+    "postMarketChange": 3.119995,
+    "postMarketTime": "2026-08-05T23:59:52.000Z",
+    "postMarketPrice": 874.2,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0560341,
-    "regularMarketChange": 46.5099,
-    "regularMarketTime": "2026-08-04T20:00:02.000Z",
+    "regularMarketChangePercent": -0.00622899,
+    "regularMarketChange": -5.45996,
+    "regularMarketTime": "2026-08-05T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 876.54,
-    "regularMarketDayHigh": 934.9994,
-    "regularMarketDayLow": 866.85,
-    "regularMarketVolume": 6059222,
+    "regularMarketPrice": 871.08,
+    "regularMarketDayHigh": 905.56,
+    "regularMarketDayLow": 870,
+    "regularMarketVolume": 3103668,
     "averageDailyVolume10Day": 3201230,
-    "averageDailyVolume3Month": 3188482,
-    "regularMarketPreviousClose": 830.03,
+    "averageDailyVolume3Month": 3198439,
+    "regularMarketPreviousClose": 876.54,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 922,
+    "regularMarketOpen": 874.9,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -3846,7 +3847,7 @@
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 422091554816,
-    "forwardPE": 28.614668,
+    "forwardPE": 28.605564,
     "profitMargins": 0.13328,
     "floatShares": 459181413,
     "sharesShort": 8054245,
@@ -3855,13 +3856,13 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0175,
     "heldPercentInsiders": 0.00219,
-    "heldPercentInstitutions": 0.72814006,
+    "heldPercentInstitutions": 0.72873,
     "shortRatio": 2.12,
     "shortPercentOfFloat": 0.0195,
     "beta": 1.605,
     "category": null,
-    "bookValue": 40.511,
-    "priceToBook": 21.637085,
+    "bookValue": 42.126,
+    "priceToBook": 20.677967,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3869,15 +3870,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.273,
     "netIncomeToCommon": 9429999616,
-    "trailingEps": 20.42,
-    "forwardEps": 30.5418,
-    "pegRatio": 1.95,
+    "trailingEps": 23.08,
+    "forwardEps": 30.45142,
+    "pegRatio": 1.91,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1121299200,
     "enterpriseToRevenue": 5.966,
     "enterpriseToEbitda": 28.996,
-    "52WeekChange": 0.91149855,
-    "SandP52WeekChange": 0.20658374,
+    "52WeekChange": 0.94059193,
+    "SandP52WeekChange": 0.19786096,
     "lastDividendValue": 1.63,
     "lastDividendDate": "2026-07-20T00:00:00.000Z",
     "latestShareClass": null,
@@ -4030,11 +4031,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 360,
-        "value": 326160,
+        "shares": 6196,
+        "value": 5637081,
         "filerUrl": "",
-        "transactionText": "Sale at price 906.00 per share.",
-        "filerName": "SCHAUPP WILLIAM E",
+        "transactionText": "Sale at price 909.46 - 910.24 per share.",
+        "filerName": "JOHNSON DENISE C.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-13T00:00:00.000Z",
@@ -4042,11 +4043,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 6196,
-        "value": 5637081,
+        "shares": 360,
+        "value": 326160,
         "filerUrl": "",
-        "transactionText": "Sale at price 909.46 - 910.24 per share.",
-        "filerName": "JOHNSON DENISE C.",
+        "transactionText": "Sale at price 906.00 per share.",
+        "filerName": "SCHAUPP WILLIAM E",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-13T00:00:00.000Z",
@@ -4678,11 +4679,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 15977,
-        "value": 10912131,
+        "shares": 39138,
+        "value": 26655960,
         "filerUrl": "",
-        "transactionText": "Sale at price 682.99 per share.",
-        "filerName": "DE LANGE BOB",
+        "transactionText": "Sale at price 678.52 - 684.93 per share.",
+        "filerName": "JOHNSON DENISE C.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-02T00:00:00.000Z",
@@ -4690,11 +4691,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 39138,
-        "value": 26655960,
+        "shares": 15977,
+        "value": 10912131,
         "filerUrl": "",
-        "transactionText": "Sale at price 678.52 - 684.93 per share.",
-        "filerName": "JOHNSON DENISE C.",
+        "transactionText": "Sale at price 682.99 per share.",
+        "filerName": "DE LANGE BOB",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-02T00:00:00.000Z",
@@ -4858,11 +4859,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1200,
-        "value": 686664,
+        "shares": 14638,
+        "value": 8231826,
         "filerUrl": "",
-        "transactionText": "Sale at price 572.22 per share.",
-        "filerName": "SCHAUPP WILLIAM E",
+        "transactionText": "Sale at price 562.36 per share.",
+        "filerName": "DE LANGE BOB",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-05T00:00:00.000Z",
@@ -4870,11 +4871,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 14638,
-        "value": 8231826,
+        "shares": 1200,
+        "value": 686664,
         "filerUrl": "",
-        "transactionText": "Sale at price 562.36 per share.",
-        "filerName": "DE LANGE BOB",
+        "transactionText": "Sale at price 572.22 per share.",
+        "filerName": "SCHAUPP WILLIAM E",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-05T00:00:00.000Z",
@@ -5665,11 +5666,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 876.54,
+    "currentPrice": 871.08,
     "targetHighPrice": 1218,
     "targetLowPrice": 575,
-    "targetMeanPrice": 963.5635,
-    "targetMedianPrice": 967.5,
+    "targetMeanPrice": 958.8327,
+    "targetMedianPrice": 957.975,
     "recommendationMean": 2.14286,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 26,
@@ -5695,6 +5696,6 @@
     "profitMargins": 0.13328,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-05T05:15:15.776Z",
+  "lastUpdated": "2026-08-06T05:16:44.547Z",
   "source": "Static Build (yahoo-finance2)"
 }

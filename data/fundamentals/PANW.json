@@ -37,7 +37,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.7436,
         "position": 72431433,
-        "value": 26534530899,
+        "value": 26267983757,
         "pctChange": 0.216
       },
       {
@@ -46,7 +46,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.5417,
         "position": 52765656,
-        "value": 19330170225,
+        "value": 19135992998,
         "pctChange": 1
       },
       {
@@ -55,7 +55,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.3643,
         "position": 35486318,
-        "value": 13000057606,
+        "value": 12869468215,
         "pctChange": 0.1699
       },
       {
@@ -64,7 +64,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.3318,
         "position": 32318958,
-        "value": 11839726955,
+        "value": 11720793426,
         "pctChange": 0.060900003
       },
       {
@@ -73,7 +73,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.2457,
         "position": 23928423,
-        "value": 8765938394,
+        "value": 8677881972,
         "pctChange": 0.1125
       },
       {
@@ -82,7 +82,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.2308,
         "position": 22476753,
-        "value": 8234133611,
+        "value": 8151419325,
         "pctChange": 0.1601
       },
       {
@@ -91,7 +91,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.20120001,
         "position": 19601462,
-        "value": 7180799517,
+        "value": 7108666280,
         "pctChange": 1
       },
       {
@@ -100,7 +100,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.1984,
         "position": 19323515,
-        "value": 7078976414,
+        "value": 7007866020,
         "pctChange": 0.2085
       },
       {
@@ -109,7 +109,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.1383,
         "position": 13469336,
-        "value": 4934356500,
+        "value": 4884789443,
         "pctChange": 0.1709
       },
       {
@@ -118,7 +118,7 @@
         "organization": "Northern Trust Corporation",
         "pctHeld": 0.089099996,
         "position": 8680485,
-        "value": 3180008843,
+        "value": 3148064721,
         "pctChange": 0.1542
       }
     ]
@@ -126,9 +126,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00759,
-    "institutionsPercentHeld": 0.82495004,
-    "institutionsFloatPercentHeld": 0.83125,
-    "institutionsCount": 3630
+    "institutionsPercentHeld": 0.83153,
+    "institutionsFloatPercentHeld": 0.83789,
+    "institutionsCount": 3646
   },
   "earnings": {
     "maxAge": 86400,
@@ -253,6 +253,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-05T13:02:15.000Z",
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 370,
+        "priorPriceTarget": 315
+      },
       {
         "epochGradeDate": "2026-08-04T17:13:06.000Z",
         "firm": "Oppenheimer",
@@ -9239,24 +9249,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.00835289,
-    "postMarketChange": 3.0599976,
-    "postMarketTime": "2026-08-04T23:59:13.000Z",
-    "postMarketPrice": 369.4,
+    "postMarketChangePercent": -0.0015441392,
+    "postMarketChange": -0.55999756,
+    "postMarketTime": "2026-08-05T23:59:07.000Z",
+    "postMarketPrice": 362.1,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0553395,
-    "regularMarketChange": 19.21,
-    "regularMarketTime": "2026-08-04T20:00:01.000Z",
+    "regularMarketChangePercent": -0.010045299,
+    "regularMarketChange": -3.67999,
+    "regularMarketTime": "2026-08-05T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 366.34,
-    "regularMarketDayHigh": 367.49,
-    "regularMarketDayLow": 349.07,
-    "regularMarketVolume": 8169509,
+    "regularMarketPrice": 362.66,
+    "regularMarketDayHigh": 376.98,
+    "regularMarketDayLow": 362.22,
+    "regularMarketVolume": 5509799,
     "averageDailyVolume10Day": 6140490,
-    "averageDailyVolume3Month": 8088674,
-    "regularMarketPreviousClose": 347.13,
+    "averageDailyVolume3Month": 8136837,
+    "regularMarketPreviousClose": 366.34,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 351.6,
+    "regularMarketOpen": 373.87,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -9272,13 +9282,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 298567106560
+    "marketCap": 295567917056
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 297586098176,
-    "forwardPE": 88.81013,
+    "enterpriseValue": 294586908672,
+    "forwardPE": 87.91801,
     "profitMargins": 0.07947,
     "floatShares": 808186600,
     "sharesOutstanding": 815000000,
@@ -9288,29 +9298,29 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0251,
     "heldPercentInsiders": 0.00759,
-    "heldPercentInstitutions": 0.82495004,
+    "heldPercentInstitutions": 0.83153,
     "shortRatio": 2.73,
     "shortPercentOfFloat": 0.0252,
     "beta": 0.893,
     "impliedSharesOutstanding": 815000000,
     "category": null,
     "bookValue": 34.032,
-    "priceToBook": 10.764574,
+    "priceToBook": 10.656441,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-07-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-07-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
     "netIncomeToCommon": 842899968,
-    "trailingEps": 1.21,
-    "forwardEps": 4.12498,
+    "trailingEps": 1.12,
+    "forwardEps": 4.12244,
     "pegRatio": 3.68,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1734307200,
-    "enterpriseToRevenue": 28.057,
-    "enterpriseToEbitda": 200.597,
-    "52WeekChange": 1.0529304,
-    "SandP52WeekChange": 0.20658374,
+    "enterpriseToRevenue": 27.774,
+    "enterpriseToEbitda": 198.576,
+    "52WeekChange": 1.0078084,
+    "SandP52WeekChange": 0.19786096,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -9410,18 +9420,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1468,
-        "value": 399835,
-        "filerUrl": "",
-        "transactionText": "Sale at price 265.00 - 280.00 per share.",
-        "filerName": "BAWA APARNA",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-12T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 7500,
         "value": 2094300,
         "filerUrl": "",
@@ -9431,6 +9429,18 @@
         "moneyText": "",
         "startDate": "2026-06-12T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1468,
+        "value": 399835,
+        "filerUrl": "",
+        "transactionText": "Sale at price 265.00 - 280.00 per share.",
+        "filerName": "BAWA APARNA",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-12T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -10766,11 +10776,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 60000,
-        "value": 23364704,
+        "shares": 200,
+        "value": 78048,
         "filerUrl": "",
-        "transactionText": "Sale at price 387.39 - 391.73 per share.",
-        "filerName": "KLARICH LEE",
+        "transactionText": "Sale at price 390.24 per share.",
+        "filerName": "PAUL JOSHUA D.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-12-02T00:00:00.000Z",
@@ -10778,11 +10788,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 200,
-        "value": 78048,
+        "shares": 60000,
+        "value": 23364704,
         "filerUrl": "",
-        "transactionText": "Sale at price 390.24 per share.",
-        "filerName": "PAUL JOSHUA D.",
+        "transactionText": "Sale at price 387.39 - 391.73 per share.",
+        "filerName": "KLARICH LEE",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-12-02T00:00:00.000Z",
@@ -11141,7 +11151,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 366.34,
+    "currentPrice": 362.66,
     "targetHighPrice": 433,
     "targetLowPrice": 162.34,
     "targetMeanPrice": 336.7008,
@@ -11170,6 +11180,6 @@
     "profitMargins": 0.07947,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-05T05:14:39.537Z",
+  "lastUpdated": "2026-08-06T05:16:07.650Z",
   "source": "Static Build (yahoo-finance2)"
 }
