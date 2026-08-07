@@ -4,7 +4,7 @@
       {
         "period": "0m",
         "strongBuy": 2,
-        "buy": 11,
+        "buy": 10,
         "hold": 2,
         "sell": 0,
         "strongSell": 0
@@ -12,7 +12,7 @@
       {
         "period": "-1m",
         "strongBuy": 2,
-        "buy": 11,
+        "buy": 10,
         "hold": 2,
         "sell": 0,
         "strongSell": 0
@@ -20,7 +20,7 @@
       {
         "period": "-2m",
         "strongBuy": 2,
-        "buy": 11,
+        "buy": 10,
         "hold": 2,
         "sell": 0,
         "strongSell": 0
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0797,
         "position": 17983373,
-        "value": 459655004,
+        "value": 486809901,
         "pctChange": 0.0717
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.056999996,
         "position": 12870889,
-        "value": 328979915,
+        "value": 348414961,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Greenvale Capital, LLP",
         "pctHeld": 0.0461,
         "position": 10400000,
-        "value": 265823994,
+        "value": 281527996,
         "pctChange": 0.4809
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0399,
         "position": 8995535,
-        "value": 229925869,
+        "value": 243509129,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0357,
         "position": 8058636,
-        "value": 205978731,
+        "value": 218147274,
         "pctChange": 0.6073
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Disciplined Growth Investors, Inc.",
         "pctHeld": 0.0273,
         "position": 6153472,
-        "value": 157282741,
+        "value": 166574485,
         "pctChange": 0.1187
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Neuberger Berman Group, LLC",
         "pctHeld": 0.025999999,
         "position": 5870619,
-        "value": 150053018,
+        "value": 158917654,
         "pctChange": 0.019299999
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.024300002,
         "position": 5486377,
-        "value": 140231793,
+        "value": 148516223,
         "pctChange": -0.0172
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0228,
         "position": 5140566,
-        "value": 131392864,
+        "value": 139155120,
         "pctChange": 0.13430001
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Contour Asset Management LLC",
         "pctHeld": 0.0224,
         "position": 5062355,
-        "value": 129393791,
+        "value": 137037948,
         "pctChange": -0.5465
       }
     ]
@@ -134,14 +134,25 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01877,
-    "institutionsPercentHeld": 0.85630995,
-    "institutionsFloatPercentHeld": 0.87268996,
-    "institutionsCount": 524
+    "institutionsPercentHeld": 0.85532,
+    "institutionsFloatPercentHeld": 0.87168,
+    "institutionsCount": 520
   },
   "earnings": {
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
+        {
+          "date": "2Q2025",
+          "actual": 0.14,
+          "estimate": 0.12417,
+          "fiscalQuarter": "2Q2025",
+          "calendarQuarter": "2Q2025",
+          "difference": "0.02",
+          "surprisePct": "12.75",
+          "periodEndDate": 1751241600,
+          "reportedDate": 1754431759
+        },
         {
           "date": "3Q2025",
           "actual": 0.27066,
@@ -174,25 +185,14 @@
           "surprisePct": "39.18",
           "periodEndDate": 1774915200,
           "reportedDate": 1777636837
-        },
-        {
-          "date": "2Q2026",
-          "actual": 0.26703,
-          "estimate": 0.19095,
-          "fiscalQuarter": "2Q2026",
-          "calendarQuarter": "2Q2026",
-          "difference": "0.08",
-          "surprisePct": "39.84",
-          "periodEndDate": 1782777600,
-          "reportedDate": 1785931240
         }
       ],
-      "currentQuarterEstimate": 0.27773,
-      "currentQuarterEstimateDate": "3Q",
-      "currentCalendarQuarter": "3Q2026",
+      "currentQuarterEstimate": 0.19095,
+      "currentQuarterEstimateDate": "2Q",
+      "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "3Q2026",
-      "currentPeriodEndDate": 1790726400,
+      "currentFiscalQuarter": "2Q2026",
+      "currentPeriodEndDate": 1782777600,
       "earningsDate": [
         "2026-11-03T20:00:00.000Z"
       ],
@@ -1830,24 +1830,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0023473972,
-    "postMarketChange": -0.059999466,
-    "postMarketTime": "2026-08-06T23:59:39.000Z",
-    "postMarketPrice": 25.5,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.055781297,
-    "regularMarketChange": -1.51,
-    "regularMarketTime": "2026-08-06T20:00:02.000Z",
+    "postMarketChangePercent": -0.01403765,
+    "postMarketChange": -0.37999916,
+    "postMarketTime": "2026-08-05T23:59:44.000Z",
+    "postMarketPrice": 26.69,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.115828,
+    "regularMarketChange": 2.81,
+    "regularMarketTime": "2026-08-05T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 25.56,
-    "regularMarketDayHigh": 27.01,
-    "regularMarketDayLow": 25.29,
-    "regularMarketVolume": 15513985,
-    "averageDailyVolume10Day": 10618330,
-    "averageDailyVolume3Month": 9337946,
-    "regularMarketPreviousClose": 27.07,
+    "regularMarketPrice": 27.07,
+    "regularMarketDayHigh": 28.5,
+    "regularMarketDayLow": 24.46,
+    "regularMarketVolume": 35155879,
+    "averageDailyVolume10Day": 6332640,
+    "averageDailyVolume3Month": 8741011,
+    "regularMarketPreviousClose": 24.26,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 26.8,
+    "regularMarketOpen": 24.65,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -1858,49 +1858,49 @@
     "shortName": "Zeta Global Holdings Corp.",
     "longName": "Zeta Global Holdings Corp.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 6415907328
+    "marketCap": 6747403776
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 6258553856,
-    "forwardPE": 21.403091,
-    "profitMargins": -0.0013799999,
+    "enterpriseValue": 5553081856,
+    "forwardPE": 23.503975,
+    "profitMargins": -0.01612,
     "floatShares": 220453410,
-    "sharesOutstanding": 227375179,
+    "sharesOutstanding": 225619195,
     "sharesShort": 31820346,
     "sharesShortPriorMonth": "1970-12-14T09:02:28.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1277,
     "heldPercentInsiders": 0.01877,
-    "heldPercentInstitutions": 0.85630995,
+    "heldPercentInstitutions": 0.85532,
     "shortRatio": 3.38,
     "shortPercentOfFloat": 0.1426,
     "beta": 1.386,
-    "impliedSharesOutstanding": 251013605,
+    "impliedSharesOutstanding": 249257621,
     "category": null,
     "bookValue": 3.286,
-    "priceToBook": 7.778454,
+    "priceToBook": 8.237979,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
-    "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
-    "netIncomeToCommon": -2169000,
-    "trailingEps": 0,
-    "forwardEps": 1.20543,
+    "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
+    "netIncomeToCommon": -23156000,
+    "trailingEps": -0.11,
+    "forwardEps": 1.19422,
     "pegRatio": 0.77,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 3.984,
-    "enterpriseToEbitda": 53.981,
-    "52WeekChange": 0.3825332,
-    "SandP52WeekChange": 0.2182256,
+    "enterpriseToRevenue": 3.866,
+    "enterpriseToEbitda": 62.636,
+    "52WeekChange": 0.115175486,
+    "SandP52WeekChange": 0.19786096,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -2025,18 +2025,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 724021,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "GERBER STEVEN H",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-05-20T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 633060,
         "value": 0,
         "filerUrl": "",
@@ -2046,6 +2034,18 @@
         "moneyText": "",
         "startDate": "2026-05-20T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 724021,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "GERBER STEVEN H",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2026-05-20T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2109,18 +2109,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 12990,
-        "value": 251185,
-        "filerUrl": "",
-        "transactionText": "Sale at price 19.34 per share.",
-        "filerName": "SILBERBLATT JEANINE",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-12-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 698883,
         "value": 0,
         "filerUrl": "",
@@ -2133,14 +2121,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 74256,
-        "value": 0,
+        "shares": 12990,
+        "value": 251185,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "RAVELLA SATISH",
-        "filerRelation": "Officer",
+        "transactionText": "Sale at price 19.34 per share.",
+        "filerName": "SILBERBLATT JEANINE",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2025-12-05T00:00:00.000Z",
+        "startDate": "2025-12-12T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2151,6 +2139,18 @@
         "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "GREINER CHRISTOPHER E",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-12-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 74256,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "RAVELLA SATISH",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-05T00:00:00.000Z",
         "ownership": "D"
@@ -2442,18 +2442,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 18387,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "RAVELLA SATISH",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-12-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 999057,
         "value": 0,
         "filerUrl": "",
@@ -2475,6 +2463,18 @@
         "moneyText": "",
         "startDate": "2024-12-11T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 18387,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "RAVELLA SATISH",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-12-11T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2653,18 +2653,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 70300,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "RAVELLA SATISH",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 367812,
         "value": 0,
         "filerUrl": "",
@@ -2698,41 +2686,53 @@
         "moneyText": "",
         "startDate": "2024-08-09T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 70300,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "RAVELLA SATISH",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-08-09T00:00:00.000Z",
+        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 25.56,
+    "currentPrice": 27.07,
     "targetHighPrice": 44,
-    "targetLowPrice": 25,
-    "targetMeanPrice": 30.32143,
-    "targetMedianPrice": 30,
-    "recommendationMean": 1.4,
+    "targetLowPrice": 22,
+    "targetMeanPrice": 28.67857,
+    "targetMedianPrice": 28.75,
+    "recommendationMean": 1.42857,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 14,
-    "totalCash": 309952000,
-    "totalCashPerShare": 1.244,
-    "ebitda": 115940000,
-    "totalDebt": 197480992,
-    "quickRatio": 2.239,
-    "currentRatio": 2.382,
-    "totalRevenue": 1570877056,
-    "debtToEquity": 21.315,
-    "revenuePerShare": 6.316,
-    "returnOnAssets": 0.025980001,
-    "returnOnEquity": -0.00271,
-    "grossProfits": 934323008,
-    "freeCashflow": 262708624,
-    "operatingCashflow": 240968000,
-    "revenueGrowth": 0.435,
-    "grossMargins": 0.59478,
-    "ebitdaMargins": 0.07381,
-    "operatingMargins": 0.03822,
-    "profitMargins": -0.0013799999,
+    "totalCash": 288779008,
+    "totalCashPerShare": 1.159,
+    "ebitda": 88656000,
+    "totalDebt": 218608992,
+    "quickRatio": 1.943,
+    "currentRatio": 2.066,
+    "totalRevenue": 1436552960,
+    "debtToEquity": 24.833,
+    "revenuePerShare": 6.322,
+    "returnOnAssets": 0.01546,
+    "returnOnEquity": -0.029749999,
+    "grossProfits": 864008000,
+    "freeCashflow": 254794000,
+    "operatingCashflow": 213836992,
+    "revenueGrowth": 0.499,
+    "grossMargins": 0.60145,
+    "ebitdaMargins": 0.06171,
+    "operatingMargins": -0.026300002,
+    "profitMargins": -0.01612,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-07T04:26:34.459Z",
+  "lastUpdated": "2026-08-06T05:16:15.002Z",
   "source": "Static Build (yahoo-finance2)"
 }
