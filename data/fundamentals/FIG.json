@@ -3,6 +3,14 @@
     "trend": [
       {
         "period": "0m",
+        "strongBuy": 1,
+        "buy": 4,
+        "hold": 9,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-1m",
         "strongBuy": 2,
         "buy": 4,
         "hold": 8,
@@ -10,7 +18,7 @@
         "strongSell": 0
       },
       {
-        "period": "-1m",
+        "period": "-2m",
         "strongBuy": 1,
         "buy": 3,
         "hold": 9,
@@ -18,7 +26,7 @@
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 1,
         "buy": 2,
         "hold": 9,
@@ -37,7 +45,7 @@
         "organization": "Greylock Xiv Gp LLC",
         "pctHeld": 0.1311,
         "position": 58420365,
-        "value": 1644533252,
+        "value": 1400336108,
         "pctChange": 0
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Index Venture Associates VI Ltd",
         "pctHeld": 0.1294,
         "position": 57658069,
-        "value": 1623074620,
+        "value": 1382063874,
         "pctChange": 0
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Sc Us (ttgp), Ltd.",
         "pctHeld": 0.06,
         "position": 26728171,
-        "value": 752398003,
+        "value": 640674240,
         "pctChange": 0.0581
       },
       {
@@ -64,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0465,
         "position": 20735448,
-        "value": 583702853,
+        "value": 497028674,
         "pctChange": 1.199
       },
       {
@@ -73,7 +81,7 @@
         "organization": "a16z Capital Management, L.L.C.",
         "pctHeld": 0.0359,
         "position": 16011378,
-        "value": 450720284,
+        "value": 383792719,
         "pctChange": -0.014400001
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.028099999,
         "position": 12518656,
-        "value": 352400161,
+        "value": 300072175,
         "pctChange": 5.9469
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Two Sigma Investments, LP",
         "pctHeld": 0.025,
         "position": 11158349,
-        "value": 314107520,
+        "value": 267465617,
         "pctChange": 2.4114
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0224,
         "position": 10000129,
-        "value": 281503627,
+        "value": 239703085,
         "pctChange": 1
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0195,
         "position": 8690972,
-        "value": 244650858,
+        "value": 208322592,
         "pctChange": 1
       },
       {
@@ -118,7 +126,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.018099999,
         "position": 8052958,
-        "value": 226690764,
+        "value": 193029397,
         "pctChange": 3.8174
       }
     ]
@@ -134,17 +142,6 @@
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
-        {
-          "date": "2Q2025",
-          "actual": 0.0854,
-          "estimate": 0.07691,
-          "fiscalQuarter": "2Q2025",
-          "calendarQuarter": "2Q2025",
-          "difference": "0.008",
-          "surprisePct": "11.04",
-          "periodEndDate": 1751241600,
-          "reportedDate": 1756930169
-        },
         {
           "date": "3Q2025",
           "actual": 0.132,
@@ -177,20 +174,68 @@
           "surprisePct": "60.98",
           "periodEndDate": 1774915200,
           "reportedDate": 1778789222
+        },
+        {
+          "date": "2Q2026",
+          "actual": 0.08,
+          "estimate": 0.04834,
+          "fiscalQuarter": "2Q2026",
+          "calendarQuarter": "2Q2026",
+          "difference": "0.03",
+          "surprisePct": "65.49",
+          "periodEndDate": 1782777600,
+          "reportedDate": 1785960448
         }
       ],
-      "currentQuarterEstimate": 0.04083,
-      "currentQuarterEstimateDate": "2Q",
-      "currentCalendarQuarter": "2Q2026",
+      "currentQuarterEstimate": 0.05,
+      "currentQuarterEstimateDate": "3Q",
+      "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "2Q2026",
-      "currentPeriodEndDate": 1782777600,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "currentFiscalQuarter": "3Q2026",
+      "currentPeriodEndDate": 1790726400,
+      "earningsDate": [
+        "2026-11-04T20:00:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
-      "yearly": [],
-      "quarterly": []
+      "yearly": [
+        {
+          "date": 2024,
+          "revenue": 749011000,
+          "earnings": -732120000,
+          "profitMargin": -0.97744894
+        },
+        {
+          "date": 2025,
+          "revenue": 1055788000,
+          "earnings": -1250463000,
+          "profitMargin": -1.1843883
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2025",
+          "fiscalQuarter": "3Q2025",
+          "revenue": 274173000,
+          "earnings": -1097015000,
+          "profitMargin": -4.0011783
+        },
+        {
+          "date": "4Q2025",
+          "fiscalQuarter": "4Q2025",
+          "revenue": 303776000,
+          "earnings": -226557000,
+          "profitMargin": -0.7458028
+        },
+        {
+          "date": "1Q2026",
+          "fiscalQuarter": "1Q2026",
+          "revenue": 333439000,
+          "earnings": -142401000,
+          "profitMargin": -0.42706758
+        }
+      ]
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
@@ -563,24 +608,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.15310833,
-    "postMarketChange": -4.3099995,
-    "postMarketTime": "2026-08-05T23:59:59.000Z",
-    "postMarketPrice": 23.84,
+    "postMarketChangePercent": -0.004171818,
+    "postMarketChange": -0.099998474,
+    "postMarketTime": "2026-08-06T23:59:34.000Z",
+    "postMarketPrice": 23.87,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0379793,
-    "regularMarketChange": 1.03,
-    "regularMarketTime": "2026-08-05T20:00:02.000Z",
+    "regularMarketChangePercent": -0.14849,
+    "regularMarketChange": -4.18,
+    "regularMarketTime": "2026-08-06T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 28.15,
-    "regularMarketDayHigh": 28.48,
-    "regularMarketDayLow": 27.165,
-    "regularMarketVolume": 37824051,
-    "averageDailyVolume10Day": 20299490,
-    "averageDailyVolume3Month": 21767096,
-    "regularMarketPreviousClose": 27.12,
+    "regularMarketPrice": 23.97,
+    "regularMarketDayHigh": 24.628,
+    "regularMarketDayLow": 22.145,
+    "regularMarketVolume": 52085171,
+    "averageDailyVolume10Day": 23184640,
+    "averageDailyVolume3Month": 22338916,
+    "regularMarketPreviousClose": 28.15,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 27.48,
+    "regularMarketOpen": 23.23,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -589,21 +634,23 @@
     "symbol": "FIG",
     "underlyingSymbol": null,
     "shortName": "Figma, Inc.",
-    "longName": null,
+    "longName": "Figma, Inc.",
     "currency": "USD",
     "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null
+    "lastMarket": null,
+    "marketCap": 12776246272
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 13291500544,
-    "forwardPE": 86.12776,
+    "forwardPE": 70.5,
     "profitMargins": -1.23834,
     "floatShares": 238223862,
+    "sharesOutstanding": 455113611,
     "sharesShort": 66087132,
     "sharesShortPriorMonth": "1972-06-23T16:34:45.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
@@ -613,23 +660,24 @@
     "heldPercentInstitutions": 0.85219,
     "shortRatio": 2.93,
     "shortPercentOfFloat": 0.3475,
+    "impliedSharesOutstanding": 533009867,
     "category": null,
-    "bookValue": 2.769,
-    "priceToBook": 10.166124,
+    "bookValue": 2.944,
+    "priceToBook": 8.141983,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": -1401474944,
-    "trailingEps": -4.23,
-    "forwardEps": 0.32684,
+    "trailingEps": -3.47,
+    "forwardEps": 0.33909,
     "pegRatio": 7.95,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 11.448,
     "enterpriseToEbitda": -9.183,
-    "52WeekChange": -0.7240921,
-    "SandP52WeekChange": 0.19786096,
+    "52WeekChange": -0.6402096,
+    "SandP52WeekChange": 0.2182256,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -656,6 +704,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 1536,
+        "value": 39936,
+        "filerUrl": "",
+        "transactionText": "Sale at price 26.00 per share.",
+        "filerName": "HERB TYLER",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-08-03T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 395478,
@@ -1267,24 +1327,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 195597,
-        "value": 7285457,
-        "filerUrl": "",
-        "transactionText": "Sale at price 36.90 - 38.38 per share.",
-        "filerName": "RASMUSSEN KRISTOPHER",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2026-01-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 12459,
         "value": 463798,
         "filerUrl": "",
         "transactionText": "Sale at price 36.90 - 37.95 per share.",
         "filerName": "MULLIGAN BRENDAN",
         "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-01-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 195597,
+        "value": 7285457,
+        "filerUrl": "",
+        "transactionText": "Sale at price 36.90 - 38.38 per share.",
+        "filerName": "RASMUSSEN KRISTOPHER",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2026-01-05T00:00:00.000Z",
         "ownership": "D"
@@ -1315,6 +1375,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 312500,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FIELD DYLAN THOMAS",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-12-15T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
         "shares": 15124,
         "value": 4295,
         "filerUrl": "",
@@ -1324,17 +1395,6 @@
         "moneyText": "",
         "startDate": "2025-12-15T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 312500,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FIELD DYLAN THOMAS",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-12-15T00:00:00.000Z",
-        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -1625,18 +1685,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 26059,
-        "value": 604386,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 23.19 per share.",
-        "filerName": "HERB TYLER",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-11-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 417795,
         "value": 9689919,
         "filerUrl": "",
@@ -1667,6 +1715,18 @@
         "transactionText": "Conversion of Exercise of derivative security at price 23.19 per share.",
         "filerName": "MULLIGAN BRENDAN",
         "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-11-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 26059,
+        "value": 604386,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 23.19 per share.",
+        "filerName": "HERB TYLER",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-10T00:00:00.000Z",
         "ownership": "D"
@@ -1805,6 +1865,50 @@
       },
       {
         "maxAge": 1,
+        "shares": 49215680,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KLEINER PERKINS CAUFIELD & BYERS XVII, L.L.C",
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "moneyText": "",
+        "startDate": "2025-08-01T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 127522,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KRIEGER MICHEL",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-08-01T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 25969417,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "REED ANDREW PHILLIPS",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-08-01T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2350000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FIELD DYLAN THOMAS",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-08-01T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
         "shares": 50070083,
         "filerUrl": "",
         "transactionText": "",
@@ -1857,50 +1961,6 @@
         "moneyText": "",
         "startDate": "2025-08-01T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 49215680,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "KLEINER PERKINS CAUFIELD & BYERS XVII, L.L.C",
-        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2025-08-01T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 127522,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "KRIEGER MICHEL",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-01T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 25969417,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "REED ANDREW PHILLIPS",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-01T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2350000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FIELD DYLAN THOMAS",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-08-01T00:00:00.000Z",
-        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -2106,12 +2166,12 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 28.15,
-    "targetHighPrice": 38,
-    "targetLowPrice": 22,
-    "targetMeanPrice": 30.4,
+    "currentPrice": 23.97,
+    "targetHighPrice": 36,
+    "targetLowPrice": 25,
+    "targetMeanPrice": 30.5,
     "targetMedianPrice": 30,
-    "recommendationMean": 2.28571,
+    "recommendationMean": 2.35714,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 10,
     "totalCash": 1638464000,
@@ -2135,6 +2195,6 @@
     "profitMargins": -1.23834,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-06T05:16:05.659Z",
+  "lastUpdated": "2026-08-07T04:26:24.690Z",
   "source": "Static Build (yahoo-finance2)"
 }

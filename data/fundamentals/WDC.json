@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1038,
         "position": 35769222,
-        "value": 18570306374,
+        "value": 16150518724,
         "pctChange": 0.0073
       },
       {
@@ -54,7 +54,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0917,
         "position": 31623418,
-        "value": 16417929382,
+        "value": 14278605347,
         "pctChange": -0.0642
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0639,
         "position": 22034861,
-        "value": 11439838408,
+        "value": 9949180196,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0508,
         "position": 17512148,
-        "value": 9091781577,
+        "value": 7907084872,
         "pctChange": 0.225
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0498,
         "position": 17172653,
-        "value": 8915525964,
+        "value": 7753796093,
         "pctChange": 1
       },
       {
@@ -90,7 +90,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.044899996,
         "position": 15465766,
-        "value": 8029361469,
+        "value": 6983102494,
         "pctChange": -0.0147
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0367,
         "position": 12646421,
-        "value": 6565642174,
+        "value": 5710111870,
         "pctChange": -0.0373
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0345,
         "position": 11880038,
-        "value": 6167759125,
+        "value": 5364074627,
         "pctChange": 10.1696005
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0275,
         "position": 9477201,
-        "value": 4920278281,
+        "value": 4279145691,
         "pctChange": 0.021
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.024600001,
         "position": 8489612,
-        "value": 4407551716,
+        "value": 3833229516,
         "pctChange": -0.2952
       }
     ]
@@ -193,8 +193,10 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "1Q2027",
       "currentPeriodEndDate": 1790726400,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "earningsDate": [
+        "2026-11-05T20:00:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -246,6 +248,36 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-06T20:01:18.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 540,
+        "priorPriceTarget": 500
+      },
+      {
+        "epochGradeDate": "2026-08-06T18:34:57.000Z",
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 525,
+        "priorPriceTarget": 560
+      },
+      {
+        "epochGradeDate": "2026-08-06T11:31:46.000Z",
+        "firm": "Rosenblatt",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 800,
+        "priorPriceTarget": 900
+      },
       {
         "epochGradeDate": "2026-07-13T18:00:42.000Z",
         "firm": "Citigroup",
@@ -5952,24 +5984,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.11728334,
-    "postMarketChange": -60.889984,
-    "postMarketTime": "2026-08-05T23:59:57.000Z",
-    "postMarketPrice": 458.28,
+    "postMarketChangePercent": 0.012743617,
+    "postMarketChange": 5.753998,
+    "postMarketTime": "2026-08-06T23:59:51.000Z",
+    "postMarketPrice": 457.274,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.053576697,
-    "regularMarketChange": -29.39,
-    "regularMarketTime": "2026-08-05T20:00:00.000Z",
+    "regularMarketChangePercent": -0.13030401,
+    "regularMarketChange": -67.65,
+    "regularMarketTime": "2026-08-06T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 519.17,
-    "regularMarketDayHigh": 564.66,
-    "regularMarketDayLow": 518.28,
-    "regularMarketVolume": 7899406,
-    "averageDailyVolume10Day": 7547780,
-    "averageDailyVolume3Month": 8291306,
-    "regularMarketPreviousClose": 548.56,
+    "regularMarketPrice": 451.52,
+    "regularMarketDayHigh": 477.63,
+    "regularMarketDayLow": 407.475,
+    "regularMarketVolume": 16109734,
+    "averageDailyVolume10Day": 8005610,
+    "averageDailyVolume3Month": 8304729,
+    "regularMarketPreviousClose": 519.17,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 544.935,
+    "regularMarketOpen": 428.885,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -5978,21 +6010,23 @@
     "symbol": "WDC",
     "underlyingSymbol": null,
     "shortName": "Western Digital Corporation",
-    "longName": null,
+    "longName": "Western Digital Corporation",
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null
+    "lastMarket": null,
+    "marketCap": 155630878720
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 177435623424,
-    "forwardPE": 17.695642,
+    "forwardPE": 15.389828,
     "profitMargins": 0.55286,
     "floatShares": 342138377,
+    "sharesOutstanding": 344682131,
     "sharesShort": 23258520,
     "sharesShortPriorMonth": "1970-11-03T03:03:26.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
@@ -6003,7 +6037,10 @@
     "shortRatio": 2.24,
     "shortPercentOfFloat": 0.0761,
     "beta": 2.217,
+    "impliedSharesOutstanding": 344682131,
     "category": null,
+    "bookValue": 20.915,
+    "priceToBook": 21.588333,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-06-27T00:00:00.000Z",
@@ -6011,15 +6048,15 @@
     "mostRecentQuarter": "2026-04-03T00:00:00.000Z",
     "earningsQuarterlyGrowth": 5.163,
     "netIncomeToCommon": 6350000128,
-    "trailingEps": 15.83,
-    "forwardEps": 18.36534,
+    "trailingEps": 24.3,
+    "forwardEps": 31.83239,
     "pegRatio": 0.49,
     "lastSplitFactor": "1323:1000",
     "lastSplitDate": 1740355200,
     "enterpriseToRevenue": 15.066,
     "enterpriseToEbitda": 45.172,
-    "52WeekChange": 6.145839,
-    "SandP52WeekChange": 0.19786096,
+    "52WeekChange": 5.974342,
+    "SandP52WeekChange": 0.2182256,
     "lastDividendValue": 0.15,
     "lastDividendDate": "2026-06-05T00:00:00.000Z",
     "latestShareClass": null,
@@ -6418,10 +6455,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 12,
+        "shares": 34,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TREGILLIS CYNTHIA LOCK",
+        "filerName": "GUBBI VIDYADHARA K",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-20T00:00:00.000Z",
@@ -6429,10 +6466,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 34,
+        "shares": 12,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GUBBI VIDYADHARA K",
+        "filerName": "TREGILLIS CYNTHIA LOCK",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-20T00:00:00.000Z",
@@ -6509,6 +6546,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 47,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GUBBI VIDYADHARA K",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 23,
         "filerUrl": "",
         "transactionText": "",
@@ -6525,17 +6573,6 @@
         "transactionText": "",
         "filerName": "TAN IRVING",
         "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-03-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 47,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GUBBI VIDYADHARA K",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-03T00:00:00.000Z",
         "ownership": "D"
@@ -6760,22 +6797,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 6,
+        "shares": 43,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DAVIS BRIAN SCOTT",
-        "filerRelation": "Officer",
+        "filerName": "TAN IRVING",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-12-19T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 43,
+        "shares": 6,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TAN IRVING",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "DAVIS BRIAN SCOTT",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-19T00:00:00.000Z",
         "ownership": "D"
@@ -6841,11 +6878,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 5,
+        "shares": 21,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DAVIS BRIAN SCOTT",
-        "filerRelation": "Officer",
+        "filerName": "TAN IRVING",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-11-25T00:00:00.000Z",
         "ownership": "D"
@@ -6863,11 +6900,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 21,
+        "shares": 5,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TAN IRVING",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "DAVIS BRIAN SCOTT",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-25T00:00:00.000Z",
         "ownership": "D"
@@ -6909,11 +6946,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 6,
+        "shares": 24,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DAVIS BRIAN SCOTT",
-        "filerRelation": "Officer",
+        "filerName": "TAN IRVING",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-11-21T00:00:00.000Z",
         "ownership": "D"
@@ -6931,11 +6968,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 24,
+        "shares": 6,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TAN IRVING",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "DAVIS BRIAN SCOTT",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-21T00:00:00.000Z",
         "ownership": "D"
@@ -7029,7 +7066,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "DOLUCA TUNC",
+        "filerName": "MASSENGILL MATTHEW E",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-11-20T00:00:00.000Z",
@@ -7041,7 +7078,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MASSENGILL MATTHEW E",
+        "filerName": "DOLUCA TUNC",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-11-20T00:00:00.000Z",
@@ -7082,17 +7119,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 10,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "KIDDOO BRUCE E",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 9,
         "filerUrl": "",
         "transactionText": "",
@@ -7108,6 +7134,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "OULMAN ROXANNE M",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-11-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KIDDOO BRUCE E",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-11-19T00:00:00.000Z",
@@ -7150,22 +7187,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 5,
+        "shares": 34,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DAVIS BRIAN SCOTT",
-        "filerRelation": "Officer",
+        "filerName": "TAN IRVING",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-09-19T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 34,
+        "shares": 5,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TAN IRVING",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "DAVIS BRIAN SCOTT",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-19T00:00:00.000Z",
         "ownership": "D"
@@ -7199,7 +7236,7 @@
         "shares": 1,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ZAMISKA GENE M",
+        "filerName": "TREGILLIS CYNTHIA LOCK",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-27T00:00:00.000Z",
@@ -7210,7 +7247,7 @@
         "shares": 1,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TREGILLIS CYNTHIA LOCK",
+        "filerName": "GUBBI VIDYADHARA K",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-27T00:00:00.000Z",
@@ -7232,7 +7269,7 @@
         "shares": 1,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GUBBI VIDYADHARA K",
+        "filerName": "ZAMISKA GENE M",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-27T00:00:00.000Z",
@@ -7245,6 +7282,18 @@
         "filerUrl": "",
         "transactionText": "Sale at price 79.10 per share.",
         "filerName": "ZAMISKA GENE M",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 27810,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SHIHAB AHMED MOHAMMED",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-26T00:00:00.000Z",
@@ -7288,18 +7337,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 27810,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SHIHAB AHMED MOHAMMED",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 74162,
         "value": 0,
         "filerUrl": "",
@@ -7320,17 +7357,6 @@
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-08-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ZAMISKA GENE M",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-25T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7357,6 +7383,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 13,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "TAN IRVING",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-08-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 3,
         "filerUrl": "",
         "transactionText": "",
@@ -7368,11 +7405,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 13,
+        "shares": 2,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TAN IRVING",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "ZAMISKA GENE M",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-25T00:00:00.000Z",
         "ownership": "D"
@@ -7399,17 +7436,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 6,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ZAMISKA GENE M",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-21T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7458,10 +7484,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 9,
+        "shares": 6,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "ZAMISKA GENE M",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "TREGILLIS CYNTHIA LOCK",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-20T00:00:00.000Z",
@@ -7491,22 +7528,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 10,
+        "shares": 101,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TREGILLIS CYNTHIA LOCK",
-        "filerRelation": "Officer",
+        "filerName": "TAN IRVING",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-08-20T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 101,
+        "shares": 9,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TAN IRVING",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "ZAMISKA GENE M",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-20T00:00:00.000Z",
         "ownership": "D"
@@ -7548,6 +7585,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 0,
+        "value": 52,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 59.29 per share.",
+        "filerName": "TREGILLIS CYNTHIA LOCK",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 3,
         "filerUrl": "",
         "transactionText": "",
@@ -7585,18 +7634,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "GUBBI VIDYADHARA K",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-06-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 0,
-        "value": 52,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 59.29 per share.",
-        "filerName": "TREGILLIS CYNTHIA LOCK",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-06-20T00:00:00.000Z",
@@ -7688,6 +7725,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 55307,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "TAN IRVING",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-03-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 42544,
         "value": 0,
         "filerUrl": "",
@@ -7718,18 +7767,6 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "DAVIS BRIAN SCOTT",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-03-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 55307,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "TAN IRVING",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-03-03T00:00:00.000Z",
         "ownership": "D"
@@ -7775,7 +7812,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 519.17,
+    "currentPrice": 451.52,
     "targetHighPrice": 1050,
     "targetLowPrice": 415,
     "targetMeanPrice": 655.5,
@@ -7805,6 +7842,6 @@
     "profitMargins": 0.55286,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-06T05:18:25.925Z",
+  "lastUpdated": "2026-08-07T04:28:47.831Z",
   "source": "Static Build (yahoo-finance2)"
 }

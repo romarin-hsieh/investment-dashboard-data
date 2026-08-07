@@ -20,6 +20,14 @@
       {
         "period": "-2m",
         "strongBuy": 1,
+        "buy": 5,
+        "hold": 1,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 1,
         "buy": 6,
         "hold": 1,
         "sell": 0,
@@ -37,7 +45,7 @@
         "organization": "Mirae Asset Global ETFs Holdings Ltd.",
         "pctHeld": 0.0675,
         "position": 16868058,
-        "value": 209838634,
+        "value": 217597941,
         "pctChange": 0.2251
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.0624,
         "position": 15582553,
-        "value": 193846952,
+        "value": 201014927,
         "pctChange": 0.2869
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0579,
         "position": 14468942,
-        "value": 179993632,
+        "value": 186649346,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.057600003,
         "position": 14397960,
-        "value": 179110616,
+        "value": 185733678,
         "pctChange": 0.0224
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Alps Advisors Inc.",
         "pctHeld": 0.038900003,
         "position": 9710888,
-        "value": 120803442,
+        "value": 125270451,
         "pctChange": 0.17
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0251,
         "position": 6271669,
-        "value": 78019559,
+        "value": 80904527,
         "pctChange": 0.58669996
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.023,
         "position": 5748065,
-        "value": 71505926,
+        "value": 74150036,
         "pctChange": 1
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Ameriprise Financial, Inc.",
         "pctHeld": 0.023,
         "position": 5743677,
-        "value": 71451339,
+        "value": 74093431,
         "pctChange": 0.33650002
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0224,
         "position": 5610361,
-        "value": 69792888,
+        "value": 72373654,
         "pctChange": -0.1505
       },
       {
@@ -118,7 +126,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0153,
         "position": 3830621,
-        "value": 47652923,
+        "value": 49415009,
         "pctChange": 0.038599998
       }
     ]
@@ -184,8 +192,10 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2026",
       "currentPeriodEndDate": 1782777600,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "earningsDate": [
+        "2026-11-02T20:00:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -215,13 +225,6 @@
         }
       ],
       "quarterly": [
-        {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 4212000,
-          "earnings": -21812000,
-          "profitMargin": -5.1785374
-        },
         {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
@@ -756,24 +759,24 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0072668605,
-    "postMarketChange": -0.09039974,
-    "postMarketTime": "2026-08-05T23:59:40.000Z",
-    "postMarketPrice": 12.3496,
+    "postMarketChangePercent": 0.0077519678,
+    "postMarketChange": 0.10000038,
+    "postMarketTime": "2026-08-06T23:59:55.000Z",
+    "postMarketPrice": 13,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0326594,
-    "regularMarketChange": -0.42,
-    "regularMarketTime": "2026-08-05T20:00:00.000Z",
+    "regularMarketChangePercent": 0.0369775,
+    "regularMarketChange": 0.46,
+    "regularMarketTime": "2026-08-06T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 12.44,
-    "regularMarketDayHigh": 13.29,
-    "regularMarketDayLow": 12.375,
-    "regularMarketVolume": 9933290,
-    "averageDailyVolume10Day": 6177910,
-    "averageDailyVolume3Month": 9506995,
-    "regularMarketPreviousClose": 12.86,
+    "regularMarketPrice": 12.9,
+    "regularMarketDayHigh": 12.91,
+    "regularMarketDayLow": 11.8,
+    "regularMarketVolume": 7921029,
+    "averageDailyVolume10Day": 6862860,
+    "averageDailyVolume3Month": 9438035,
+    "regularMarketPreviousClose": 12.44,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 13.2,
+    "regularMarketOpen": 12,
     "exchange": "ASE",
     "exchangeName": "NYSE American",
     "exchangeDataDelayedBy": 0,
@@ -789,16 +792,16 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 3108994048
+    "marketCap": 3224548352
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 2879202560,
-    "forwardPE": 37.696968,
+    "forwardPE": 39.090908,
     "profitMargins": -0.82699996,
     "floatShares": 248082950,
-    "sharesOutstanding": 249919146,
+    "sharesOutstanding": 249965000,
     "sharesShort": 48993940,
     "sharesShortPriorMonth": "1971-03-14T02:31:10.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
@@ -809,24 +812,24 @@
     "shortRatio": 5.4,
     "shortPercentOfFloat": 0.19790001,
     "beta": 1.573,
-    "impliedSharesOutstanding": 249919146,
+    "impliedSharesOutstanding": 249965000,
     "category": null,
     "bookValue": 2.959,
-    "priceToBook": 4.2041225,
+    "priceToBook": 4.3595805,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": -70181000,
-    "trailingEps": -0.28,
+    "trailingEps": -0.3,
     "forwardEps": 0.33,
     "lastSplitFactor": "1:50",
     "lastSplitDate": 1383609600,
     "enterpriseToRevenue": 33.928,
     "enterpriseToEbitda": -35.47,
-    "52WeekChange": 0.25516534,
-    "SandP52WeekChange": 0.19786096,
+    "52WeekChange": 0.29583335,
+    "SandP52WeekChange": 0.2182256,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1385,10 +1388,10 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 146580,
+        "value": 148500,
         "filerUrl": "",
-        "transactionText": "Sale at price 14.33 - 15.24 per share.",
-        "filerName": "HIGGS DENNIS LYLE",
+        "transactionText": "Sale at price 14.85 per share.",
+        "filerName": "BOVAIRD J BIRKS",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-09-19T00:00:00.000Z",
@@ -1397,10 +1400,10 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 148500,
+        "value": 146580,
         "filerUrl": "",
-        "transactionText": "Sale at price 14.85 per share.",
-        "filerName": "BOVAIRD J BIRKS",
+        "transactionText": "Sale at price 14.33 - 15.24 per share.",
+        "filerName": "HIGGS DENNIS LYLE",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-09-19T00:00:00.000Z",
@@ -1732,6 +1735,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 21559,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SHUMWAY LOGAN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 26362,
         "value": 0,
         "filerUrl": "",
@@ -1941,18 +1956,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "KAPOSTASY DANIEL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 21559,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SHUMWAY LOGAN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-01-29T00:00:00.000Z",
@@ -2251,7 +2254,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 12.44,
+    "currentPrice": 12.9,
     "targetHighPrice": 32.5,
     "targetLowPrice": 16,
     "targetMeanPrice": 26.125,
@@ -2280,6 +2283,6 @@
     "profitMargins": -0.82699996,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-06T05:15:56.529Z",
+  "lastUpdated": "2026-08-07T04:26:15.189Z",
   "source": "Static Build (yahoo-finance2)"
 }
