@@ -1,11 +1,11 @@
 {
   "ticker": "MCD",
-  "updated_at": "2026-08-07T03:44:06.606760",
+  "updated_at": "2026-08-08T02:42:16.949414",
   "stats": {
     "sector": "Consumer Discretionary",
     "ownership_count": 9,
-    "ownership_rank": 50,
-    "percent_of_portfolios": "0.08%"
+    "ownership_rank": 49,
+    "percent_of_portfolios": "0.077%"
   },
   "superinvestors": [
     {
@@ -107,11 +107,19 @@
     },
     {
       "manager": "Jensen Investment Management",
-      "percent_portfolio": 1.69,
-      "recent_activity": "Reduce 37.68%",
-      "shares": 276262,
-      "value": 85859000,
+      "percent_portfolio": 1.48,
+      "recent_activity": "Reduce 18.35%",
+      "shares": 225570,
+      "value": 60974000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 225570,
+          "percent_portfolio": "1.48",
+          "activity": "Reduce 18.35%",
+          "percent_change_portfolio": "0.33",
+          "reported_price": "$270.31"
+        },
         {
           "period": "2026   Q1",
           "shares": 276262,
@@ -1674,6 +1682,13 @@
         "type": "Buy",
         "shares_changed": 11241,
         "portfolio_change": "0.25"
+      },
+      {
+        "manager": "Jensen Investment Management",
+        "action": "Reduce 18.35%",
+        "type": "Sell",
+        "shares_changed": -50692,
+        "portfolio_change": "0.33"
       }
     ],
     "Q1  2026": [
@@ -2409,13 +2424,6 @@
         "action": "Reduce 21.04%",
         "type": "Sell",
         "shares_changed": -625,
-        "portfolio_change": "0.00"
-      },
-      {
-        "manager": "Lee Ainslie - Maverick Capital",
-        "action": "Reduce 23.78%",
-        "type": "Sell",
-        "shares_changed": -994,
         "portfolio_change": "0.00"
       }
     ]

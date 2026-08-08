@@ -1,10 +1,10 @@
 {
   "ticker": "MMM",
-  "updated_at": "2026-08-07T03:49:26.789731",
+  "updated_at": "2026-08-08T02:47:23.637968",
   "stats": {
     "sector": "Industrials",
     "ownership_count": 4,
-    "ownership_rank": 206,
+    "ownership_rank": 208,
     "percent_of_portfolios": "0.008%"
   },
   "superinvestors": [
@@ -91,11 +91,19 @@
     },
     {
       "manager": "Jensen Investment Management",
-      "percent_portfolio": 0.08,
-      "recent_activity": "Reduce 0.72%",
-      "shares": 27629,
-      "value": 4013000,
+      "percent_portfolio": 0.11,
+      "recent_activity": "Reduce 0.04%",
+      "shares": 27618,
+      "value": 4472000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 27618,
+          "percent_portfolio": "0.11",
+          "activity": "Reduce 0.04%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$161.92"
+        },
         {
           "period": "2026   Q1",
           "shares": 27629,
@@ -566,6 +574,15 @@
     }
   ],
   "activity": {
+    "Q2  2026": [
+      {
+        "manager": "Jensen Investment Management",
+        "action": "Reduce 0.04%",
+        "type": "Sell",
+        "shares_changed": -11,
+        "portfolio_change": "0.00"
+      }
+    ],
     "Q1  2026": [
       {
         "manager": "Mairs & Power Funds",
@@ -1326,15 +1343,6 @@
         "action": "Add 7.02%",
         "type": "Buy",
         "shares_changed": 100,
-        "portfolio_change": "0.00"
-      }
-    ],
-    "Q1  2016": [
-      {
-        "manager": "Thomas Russo - Gardner Russo & Quinn",
-        "action": "Reduce 10.94%",
-        "type": "Sell",
-        "shares_changed": -175,
         "portfolio_change": "0.00"
       }
     ]

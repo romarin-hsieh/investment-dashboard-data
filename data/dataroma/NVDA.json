@@ -1,11 +1,11 @@
 {
   "ticker": "NVDA",
-  "updated_at": "2026-08-07T03:59:53.196571",
+  "updated_at": "2026-08-08T02:57:25.382148",
   "stats": {
     "sector": "Information Technology",
-    "ownership_count": 18,
+    "ownership_count": 19,
     "ownership_rank": 12,
-    "percent_of_portfolios": "0.812%"
+    "percent_of_portfolios": "0.814%"
   },
   "superinvestors": [
     {
@@ -624,11 +624,19 @@
     },
     {
       "manager": "Jensen Investment Management",
-      "percent_portfolio": 5.61,
-      "recent_activity": "Reduce 27.59%",
-      "shares": 1632015,
-      "value": 284623000,
+      "percent_portfolio": 5.81,
+      "recent_activity": "Reduce 26.63%",
+      "shares": 1197487,
+      "value": 239605000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 1197487,
+          "percent_portfolio": "5.81",
+          "activity": "Reduce 26.63%",
+          "percent_change_portfolio": "2.11",
+          "reported_price": "$200.09"
+        },
         {
           "period": "2026   Q1",
           "shares": 1632015,
@@ -1289,39 +1297,6 @@
       ]
     },
     {
-      "manager": "Dodge & Cox Funds",
-      "percent_portfolio": 0.0,
-      "recent_activity": "",
-      "shares": 3400,
-      "value": 593000,
-      "history": [
-        {
-          "period": "2026   Q1",
-          "shares": 3400,
-          "percent_portfolio": "0.00",
-          "activity": "",
-          "percent_change_portfolio": "",
-          "reported_price": "$174.41"
-        },
-        {
-          "period": "2025   Q4",
-          "shares": 3400,
-          "percent_portfolio": "0.00",
-          "activity": "",
-          "percent_change_portfolio": "",
-          "reported_price": "$186.47"
-        },
-        {
-          "period": "2025   Q3",
-          "shares": 3400,
-          "percent_portfolio": "0.00",
-          "activity": "Buy",
-          "percent_change_portfolio": "0.00",
-          "reported_price": "$186.47"
-        }
-      ]
-    },
-    {
       "manager": "Bill Nygren - Oakmark Funds",
       "percent_portfolio": 0.0,
       "recent_activity": "Reduce 5.22%",
@@ -1385,6 +1360,56 @@
           "reported_price": "$121.35"
         }
       ]
+    },
+    {
+      "manager": "Dodge & Cox Funds",
+      "percent_portfolio": 0.0,
+      "recent_activity": "",
+      "shares": 3400,
+      "value": 593000,
+      "history": [
+        {
+          "period": "2026   Q1",
+          "shares": 3400,
+          "percent_portfolio": "0.00",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$174.41"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 3400,
+          "percent_portfolio": "0.00",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$186.47"
+        },
+        {
+          "period": "2025   Q3",
+          "shares": 3400,
+          "percent_portfolio": "0.00",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$186.47"
+        }
+      ]
+    },
+    {
+      "manager": "Richard Pzena - Pzena Investment Management",
+      "percent_portfolio": 0.0,
+      "recent_activity": "Buy",
+      "shares": 1445,
+      "value": 289000,
+      "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 1445,
+          "percent_portfolio": "0.00",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$200.00"
+        }
+      ]
     }
   ],
   "activity": {
@@ -1395,6 +1420,13 @@
         "type": "Buy",
         "shares_changed": 742932,
         "portfolio_change": "1.44"
+      },
+      {
+        "manager": "Richard Pzena - Pzena Investment Management",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 1445,
+        "portfolio_change": "0.00"
       },
       {
         "manager": "Polen Capital Management",
@@ -1416,6 +1448,13 @@
         "type": "Sell",
         "shares_changed": -1765,
         "portfolio_change": "0.03"
+      },
+      {
+        "manager": "Jensen Investment Management",
+        "action": "Reduce 26.63%",
+        "type": "Sell",
+        "shares_changed": -434528,
+        "portfolio_change": "2.11"
       },
       {
         "manager": "Steven Check - Check Capital Management",
@@ -2088,22 +2127,6 @@
         "type": "Sell",
         "shares_changed": -65000,
         "portfolio_change": "0.12"
-      },
-      {
-        "manager": "Torray Funds",
-        "action": "Reduce 33.33%",
-        "type": "Sell",
-        "shares_changed": -1000,
-        "portfolio_change": "0.02"
-      }
-    ],
-    "Q2  2024": [
-      {
-        "manager": "David Katz - Matrix Asset Advisors",
-        "action": "Add 14.47%",
-        "type": "Buy",
-        "shares_changed": 1100,
-        "portfolio_change": "0.02"
       }
     ]
   },

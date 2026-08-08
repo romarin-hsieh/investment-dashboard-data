@@ -13,20 +13,12 @@
         "period": "-1m",
         "strongBuy": 5,
         "buy": 10,
-        "hold": 9,
-        "sell": 0,
-        "strongSell": 1
-      },
-      {
-        "period": "-2m",
-        "strongBuy": 5,
-        "buy": 10,
         "hold": 8,
         "sell": 0,
         "strongSell": 1
       },
       {
-        "period": "-3m",
+        "period": "-2m",
         "strongBuy": 5,
         "buy": 10,
         "hold": 7,
@@ -45,7 +37,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.091400005,
         "position": 15907512,
-        "value": 770241701,
+        "value": 683863967,
         "pctChange": 0.0733
       },
       {
@@ -54,7 +46,7 @@
         "organization": "Mirae Asset Global ETFs Holdings Ltd.",
         "pctHeld": 0.0509,
         "position": 8856496,
-        "value": 428831520,
+        "value": 380740777,
         "pctChange": 0.1321
       },
       {
@@ -63,7 +55,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0359,
         "position": 6237918,
-        "value": 302039978,
+        "value": 268168105,
         "pctChange": 1
       },
       {
@@ -72,7 +64,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.035,
         "position": 6081517,
-        "value": 294467042,
+        "value": 261444426,
         "pctChange": 0.53720003
       },
       {
@@ -81,7 +73,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0335,
         "position": 5830933,
-        "value": 282333765,
+        "value": 250671819,
         "pctChange": 1
       },
       {
@@ -90,7 +82,7 @@
         "organization": "Defiance Etfs, LLC",
         "pctHeld": 0.0209,
         "position": 3643044,
-        "value": 176396183,
+        "value": 156614467,
         "pctChange": 1
       },
       {
@@ -99,7 +91,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0191,
         "position": 3326142,
-        "value": 161051789,
+        "value": 142990850,
         "pctChange": 0.086899996
       },
       {
@@ -108,7 +100,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0176,
         "position": 3054149,
-        "value": 147881888,
+        "value": 131297870,
         "pctChange": 0.0846
       },
       {
@@ -117,7 +109,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0154,
         "position": 2681738,
-        "value": 129849749,
+        "value": 115287921,
         "pctChange": 0.4234
       },
       {
@@ -126,22 +118,33 @@
         "organization": "Alyeska Investment Group, L.p.",
         "pctHeld": 0.0098,
         "position": 1709692,
-        "value": 82783283,
+        "value": 73499661,
         "pctChange": 1
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.16482,
-    "institutionsPercentHeld": 0.5534,
-    "institutionsFloatPercentHeld": 0.66261,
-    "institutionsCount": 865
+    "insidersPercentHeld": 0.1604,
+    "institutionsPercentHeld": 0.55365,
+    "institutionsFloatPercentHeld": 0.65943,
+    "institutionsCount": 866
   },
   "earnings": {
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
+        {
+          "date": "2Q2025",
+          "actual": -0.18,
+          "estimate": -0.11,
+          "fiscalQuarter": "2Q2025",
+          "calendarQuarter": "2Q2025",
+          "difference": "-0.07",
+          "surprisePct": "-63.64",
+          "periodEndDate": 1751241600,
+          "reportedDate": 1754943388
+        },
         {
           "date": "3Q2025",
           "actual": -0.2,
@@ -170,26 +173,17 @@
           "fiscalQuarter": "1Q2026",
           "calendarQuarter": "1Q2026",
           "periodEndDate": 1774915200
-        },
-        {
-          "date": "2Q2026",
-          "actual": -0.28,
-          "estimate": -0.16039,
-          "fiscalQuarter": "2Q2026",
-          "calendarQuarter": "2Q2026",
-          "difference": "-0.12",
-          "surprisePct": "-74.57",
-          "periodEndDate": 1782777600,
-          "reportedDate": 1786101552
         }
       ],
-      "currentQuarterEstimate": -0.1742,
-      "currentQuarterEstimateDate": "3Q",
-      "currentCalendarQuarter": "3Q2026",
+      "currentQuarterEstimate": -0.16039,
+      "currentQuarterEstimateDate": "2Q",
+      "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "3Q2026",
-      "currentPeriodEndDate": 1790726400,
-      "earningsDate": [],
+      "currentFiscalQuarter": "2Q2026",
+      "currentPeriodEndDate": 1782777600,
+      "earningsDate": [
+        "2026-08-07T12:30:00.000Z"
+      ],
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
@@ -214,6 +208,13 @@
         }
       ],
       "quarterly": [
+        {
+          "date": "1Q2025",
+          "fiscalQuarter": "1Q2025",
+          "revenue": 0,
+          "earnings": -9810000,
+          "profitMargin": 0
+        },
         {
           "date": "2Q2025",
           "fiscalQuarter": "2Q2025",
@@ -848,46 +849,46 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.002131409,
-    "postMarketChange": 0.10320282,
-    "postMarketTime": "2026-08-07T23:59:58.000Z",
-    "postMarketPrice": 48.5232,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.14766501,
-    "regularMarketChange": 6.23,
-    "regularMarketTime": "2026-08-07T20:00:02.000Z",
+    "postMarketChangePercent": -0.0023261756,
+    "postMarketChange": -0.10000229,
+    "postMarketTime": "2026-08-05T23:59:52.000Z",
+    "postMarketPrice": 42.89,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.007846761,
+    "regularMarketChange": -0.34,
+    "regularMarketTime": "2026-08-05T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 48.42,
-    "regularMarketDayHigh": 49.48,
-    "regularMarketDayLow": 43.85,
-    "regularMarketVolume": 18859180,
-    "averageDailyVolume10Day": 9942450,
-    "averageDailyVolume3Month": 11593546,
-    "regularMarketPreviousClose": 42.19,
+    "regularMarketPrice": 42.99,
+    "regularMarketDayHigh": 44.16,
+    "regularMarketDayLow": 42.42,
+    "regularMarketVolume": 5123540,
+    "averageDailyVolume10Day": 9139840,
+    "averageDailyVolume3Month": 11796837,
+    "regularMarketPreviousClose": 43.33,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 44.29,
+    "regularMarketOpen": 43.03,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "POSTPOST",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "OKLO",
     "underlyingSymbol": null,
     "shortName": "Oklo Inc.",
     "longName": "Oklo Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 8424643584
+    "marketCap": 7479873024
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 5134690816,
-    "forwardPE": -57.39755,
+    "enterpriseValue": 5273883648,
+    "forwardPE": -50.960777,
     "profitMargins": 0,
     "floatShares": 138319355,
     "sharesOutstanding": 173990987,
@@ -896,27 +897,27 @@
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.16059999,
-    "heldPercentInsiders": 0.16482,
-    "heldPercentInstitutions": 0.5534,
+    "heldPercentInsiders": 0.1604,
+    "heldPercentInstitutions": 0.55365,
     "shortRatio": 2.89,
     "shortPercentOfFloat": 0.1839,
     "beta": 1.201,
     "impliedSharesOutstanding": 173990987,
     "category": null,
     "bookValue": 15.176,
-    "priceToBook": 3.190564,
+    "priceToBook": 2.8327625,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "netIncomeToCommon": -128918000,
-    "trailingEps": -0.96,
-    "forwardEps": -0.84216,
+    "trailingEps": -0.83,
+    "forwardEps": -0.84359,
     "lastSplitFactor": null,
-    "enterpriseToEbitda": -29.834,
-    "52WeekChange": -0.32618982,
-    "SandP52WeekChange": 0.21718061,
+    "enterpriseToEbitda": -30.643,
+    "52WeekChange": -0.5039711,
+    "SandP52WeekChange": 0.19786096,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -942,65 +943,6 @@
   },
   "insiderTransactions": {
     "transactions": [
-      {
-        "maxAge": 1,
-        "shares": 22096,
-        "value": 70265,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.18 per share.",
-        "filerName": "BEALMEAR RICHARD CRAIG",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-08-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16452,
-        "value": 638338,
-        "filerUrl": "",
-        "transactionText": "Sale at price 38.80 per share.",
-        "filerName": "BEALMEAR RICHARD CRAIG",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-08-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 120000,
-        "value": 4904396,
-        "filerUrl": "",
-        "transactionText": "Sale at price 38.55 - 41.68 per share.",
-        "filerName": "DEWITTE JACOB",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-08-03T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 120000,
-        "value": 4904396,
-        "filerUrl": "",
-        "transactionText": "Sale at price 38.55 - 41.68 per share.",
-        "filerName": "COCHRAN CAROLINE",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-08-03T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1014,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "NARAYANADAS VIVEK",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-08-03T00:00:00.000Z",
-        "ownership": "D"
-      },
       {
         "maxAge": 1,
         "shares": 22096,
@@ -2155,7 +2097,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 48.42,
+    "currentPrice": 42.99,
     "targetHighPrice": 130,
     "targetLowPrice": 14,
     "targetMeanPrice": 84.2,
@@ -2180,6 +2122,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-08T03:23:23.034Z",
+  "lastUpdated": "2026-08-06T05:15:30.662Z",
   "source": "Static Build (yahoo-finance2)"
 }

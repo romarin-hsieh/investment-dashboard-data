@@ -1,6 +1,6 @@
 {
   "ticker": "ABBV",
-  "updated_at": "2026-08-07T02:48:54.298282",
+  "updated_at": "2026-08-08T01:48:29.294799",
   "stats": {
     "sector": "Health Care",
     "ownership_count": 7,
@@ -693,11 +693,19 @@
     },
     {
       "manager": "Jensen Investment Management",
-      "percent_portfolio": 0.05,
-      "recent_activity": "",
-      "shares": 11144,
-      "value": 2424000,
+      "percent_portfolio": 0.07,
+      "recent_activity": "Reduce 0.72%",
+      "shares": 11064,
+      "value": 2784000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 11064,
+          "percent_portfolio": "0.07",
+          "activity": "Reduce 0.72%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$251.63"
+        },
         {
           "period": "2026   Q1",
           "shares": 11144,
@@ -1538,6 +1546,13 @@
         "portfolio_change": "0.00"
       },
       {
+        "manager": "Jensen Investment Management",
+        "action": "Reduce 0.72%",
+        "type": "Sell",
+        "shares_changed": -80,
+        "portfolio_change": "0.00"
+      },
+      {
         "manager": "Torray Funds",
         "action": "Reduce 11.74%",
         "type": "Sell",
@@ -2266,13 +2281,6 @@
         "type": "Buy",
         "shares_changed": 52,
         "portfolio_change": "0.00"
-      },
-      {
-        "manager": "Torray Funds",
-        "action": "Reduce 4.79%",
-        "type": "Sell",
-        "shares_changed": -986,
-        "portfolio_change": "0.02"
       }
     ]
   },
@@ -2283,8 +2291,8 @@
         "amount": 0
       },
       "sells": {
-        "count": 8,
-        "amount": 21791006
+        "count": 6,
+        "amount": 19151753
       }
     },
     "transactions": [
@@ -2347,16 +2355,6 @@
         "shares": 42370,
         "price": 198.42,
         "value": 8407055
-      },
-      {
-        "filing_date": "07 Aug 2025 17:00",
-        "reporter": "DONOGHOE NICHOLAS",
-        "relationship": "EVP, CHIEF BUS/STRAT OFFICER",
-        "transaction_date": "05 Aug 2025",
-        "transaction_type": "Sale",
-        "shares": 10061,
-        "price": 198.59,
-        "value": 1998014
       }
     ]
   }

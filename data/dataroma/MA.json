@@ -1,11 +1,11 @@
 {
   "ticker": "MA",
-  "updated_at": "2026-08-07T03:42:40.207220",
+  "updated_at": "2026-08-08T02:40:47.159830",
   "stats": {
     "sector": "Services",
     "ownership_count": 21,
     "ownership_rank": 11,
-    "percent_of_portfolios": "1.279%"
+    "percent_of_portfolios": "1.273%"
   },
   "superinvestors": [
     {
@@ -2547,11 +2547,19 @@
     },
     {
       "manager": "Jensen Investment Management",
-      "percent_portfolio": 4.84,
-      "recent_activity": "Add 1.70%",
-      "shares": 490929,
-      "value": 245298000,
+      "percent_portfolio": 4.33,
+      "recent_activity": "Reduce 29.17%",
+      "shares": 347714,
+      "value": 178586000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 347714,
+          "percent_portfolio": "4.33",
+          "activity": "Reduce 29.17%",
+          "percent_change_portfolio": "1.78",
+          "reported_price": "$513.60"
+        },
         {
           "period": "2026   Q1",
           "shares": 490929,
@@ -4949,6 +4957,13 @@
         "type": "Sell",
         "shares_changed": -399430,
         "portfolio_change": "1.77"
+      },
+      {
+        "manager": "Jensen Investment Management",
+        "action": "Reduce 29.17%",
+        "type": "Sell",
+        "shares_changed": -143215,
+        "portfolio_change": "1.78"
       }
     ],
     "Q1  2026": [
@@ -5642,13 +5657,6 @@
         "type": "Sell",
         "shares_changed": -45319,
         "portfolio_change": "0.37"
-      },
-      {
-        "manager": "Polen Capital Management",
-        "action": "Reduce 9.59%",
-        "type": "Sell",
-        "shares_changed": -406640,
-        "portfolio_change": "0.52"
       }
     ]
   },

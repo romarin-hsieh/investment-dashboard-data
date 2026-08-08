@@ -1,11 +1,11 @@
 {
   "ticker": "KO",
-  "updated_at": "2026-08-07T03:37:54.062553",
+  "updated_at": "2026-08-08T02:36:12.017684",
   "stats": {
     "sector": "Consumer Staples",
     "ownership_count": 9,
-    "ownership_rank": 50,
-    "percent_of_portfolios": "0.185%"
+    "ownership_rank": 49,
+    "percent_of_portfolios": "0.186%"
   },
   "superinvestors": [
     {
@@ -1069,11 +1069,19 @@
     },
     {
       "manager": "Jensen Investment Management",
-      "percent_portfolio": 0.17,
-      "recent_activity": "Reduce 0.00%",
-      "shares": 111651,
-      "value": 8491000,
+      "percent_portfolio": 0.22,
+      "recent_activity": "Add 0.02%",
+      "shares": 111668,
+      "value": 9075000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 111668,
+          "percent_portfolio": "0.22",
+          "activity": "Add 0.02%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$81.27"
+        },
         {
           "period": "2026   Q1",
           "shares": 111651,
@@ -2523,6 +2531,15 @@
     }
   ],
   "activity": {
+    "Q2  2026": [
+      {
+        "manager": "Jensen Investment Management",
+        "action": "Add 0.02%",
+        "type": "Buy",
+        "shares_changed": 17,
+        "portfolio_change": "0.00"
+      }
+    ],
     "Q1  2026": [
       {
         "manager": "Jensen Investment Management",
@@ -3256,13 +3273,6 @@
         "type": "Buy",
         "shares_changed": 114987,
         "portfolio_change": "0.06"
-      },
-      {
-        "manager": "Jensen Investment Management",
-        "action": "Reduce 0.98%",
-        "type": "Sell",
-        "shares_changed": -1320,
-        "portfolio_change": "0.00"
       }
     ]
   },
@@ -3273,11 +3283,31 @@
         "amount": 998677
       },
       "sells": {
-        "count": 34,
-        "amount": 237997521
+        "count": 35,
+        "amount": 240241311
       }
     },
     "transactions": [
+      {
+        "filing_date": "07 Aug 2026 15:19",
+        "reporter": "ORTEGA LUISA",
+        "relationship": "Europe OU President",
+        "transaction_date": "06 Aug 2026",
+        "transaction_type": "Sale",
+        "shares": 19772,
+        "price": 86.6721,
+        "value": 1713681
+      },
+      {
+        "filing_date": "07 Aug 2026 15:19",
+        "reporter": "ORTEGA LUISA",
+        "relationship": "Europe OU President",
+        "transaction_date": "06 Aug 2026",
+        "transaction_type": "Sale",
+        "shares": 35983,
+        "price": 86.5468,
+        "value": 3114214
+      },
       {
         "filing_date": "03 Aug 2026 11:52",
         "reporter": "MURPHY JOHN",
@@ -3637,16 +3667,6 @@
         "shares": 7206,
         "price": 69.8706,
         "value": 503488
-      },
-      {
-        "filing_date": "07 Aug 2025 12:40",
-        "reporter": "KOUMETTIS NIKOLAOS",
-        "relationship": "Europe OU President",
-        "transaction_date": "05 Aug 2025",
-        "transaction_type": "Sale",
-        "shares": 37396,
-        "price": 69.1011,
-        "value": 2584105
       }
     ]
   }
