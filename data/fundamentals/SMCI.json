@@ -21,6 +21,14 @@
         "period": "-2m",
         "strongBuy": 2,
         "buy": 3,
+        "hold": 11,
+        "sell": 2,
+        "strongSell": 1
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 2,
+        "buy": 3,
         "hold": 10,
         "sell": 2,
         "strongSell": 1
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0721,
         "position": 43360579,
-        "value": 1314692742,
+        "value": 1349814787,
         "pctChange": 0.041500002
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0547,
         "position": 32894995,
-        "value": 997376238,
+        "value": 1024021166,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.049200002,
         "position": 29569380,
-        "value": 896543592,
+        "value": 920494774,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0366,
         "position": 22017501,
-        "value": 667570623,
+        "value": 685404787,
         "pctChange": -0.006
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0235,
         "position": 14155928,
-        "value": 429207732,
+        "value": 440674026,
         "pctChange": 0.0252
       },
       {
@@ -82,7 +90,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.0201,
         "position": 12073477,
-        "value": 366067818,
+        "value": 375847328,
         "pctChange": 0.6292
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0196,
         "position": 11813138,
-        "value": 358174340,
+        "value": 367742976,
         "pctChange": 0.1868
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0128,
         "position": 7671682,
-        "value": 232605395,
+        "value": 238819454,
         "pctChange": -0.32029998
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Marshall Wace LLP",
         "pctHeld": 0.012,
         "position": 7188017,
-        "value": 217940673,
+        "value": 223762963,
         "pctChange": 156.12201
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Defiance Etfs, LLC",
         "pctHeld": 0.010299999,
         "position": 6220438,
-        "value": 188603678,
+        "value": 193642229,
         "pctChange": 1
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.12874,
-    "institutionsPercentHeld": 0.64627,
-    "institutionsFloatPercentHeld": 0.74177,
-    "institutionsCount": 1057
+    "institutionsPercentHeld": 0.65064,
+    "institutionsFloatPercentHeld": 0.74678004,
+    "institutionsCount": 1061
   },
   "earnings": {
     "maxAge": 86400,
@@ -1209,28 +1217,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.002928774,
-    "postMarketChange": -0.08880043,
-    "postMarketTime": "2026-08-05T23:59:48.000Z",
-    "postMarketPrice": 30.2312,
+    "postMarketChangePercent": 0.008030838,
+    "postMarketChange": 0.25,
+    "postMarketTime": "2026-08-07T23:59:51.000Z",
+    "postMarketPrice": 31.38,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0432313,
-    "regularMarketChange": -1.37,
-    "regularMarketTime": "2026-08-05T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0595643,
+    "regularMarketChange": 1.75,
+    "regularMarketTime": "2026-08-07T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 30.32,
-    "regularMarketDayHigh": 31.73,
-    "regularMarketDayLow": 30.295,
-    "regularMarketVolume": 33789623,
-    "averageDailyVolume10Day": 56132920,
-    "averageDailyVolume3Month": 55040719,
-    "regularMarketPreviousClose": 31.69,
+    "regularMarketPrice": 31.13,
+    "regularMarketDayHigh": 31.33,
+    "regularMarketDayLow": 29.68,
+    "regularMarketVolume": 30314372,
+    "averageDailyVolume10Day": 36172420,
+    "averageDailyVolume3Month": 52725414,
+    "regularMarketPreviousClose": 29.38,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 31.685,
+    "regularMarketOpen": 29.94,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "POSTPOST",
     "quoteType": "EQUITY",
     "symbol": "SMCI",
     "underlyingSymbol": null,
@@ -1242,13 +1250,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 19613190144
+    "marketCap": 20137156608
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 26081292288,
-    "forwardPE": 9.155723,
+    "enterpriseValue": 26568441856,
+    "forwardPE": 9.400318,
     "profitMargins": 0.03701,
     "floatShares": 508968433,
     "sharesOutstanding": 646873027,
@@ -1258,14 +1266,14 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.15020001,
     "heldPercentInsiders": 0.12874,
-    "heldPercentInstitutions": 0.64627,
+    "heldPercentInstitutions": 0.65064,
     "shortRatio": 1.94,
     "shortPercentOfFloat": 0.19610001,
     "beta": 1.967,
     "impliedSharesOutstanding": 646873027,
     "category": null,
     "bookValue": 12.597,
-    "priceToBook": 2.4069223,
+    "priceToBook": 2.471223,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-06-30T00:00:00.000Z",
@@ -1273,15 +1281,15 @@
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 3.444,
     "netIncomeToCommon": 1247389952,
-    "trailingEps": 1.82,
+    "trailingEps": 1.9,
     "forwardEps": 3.31159,
     "pegRatio": 0.91,
     "lastSplitFactor": "10:1",
     "lastSplitDate": 1727740800,
-    "enterpriseToRevenue": 0.774,
-    "enterpriseToEbitda": 16.521,
-    "52WeekChange": -0.3879034,
-    "SandP52WeekChange": 0.19786096,
+    "enterpriseToRevenue": 0.788,
+    "enterpriseToEbitda": 16.83,
+    "52WeekChange": -0.31128317,
+    "SandP52WeekChange": 0.21718061,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1314,6 +1322,17 @@
         "shares": 1613,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "LIU LIANG CHIU-CHU SARA",
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "moneyText": "",
+        "startDate": "2026-07-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1613,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "LIANG CHARLES",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -1322,11 +1341,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1613,
+        "shares": 19725,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LIU LIANG CHIU-CHU SARA",
-        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "filerName": "WEIGAND DAVID E",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -1338,17 +1357,6 @@
         "transactionText": "",
         "filerName": "MALYALA VIKRANTH",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-07-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 19725,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "WEIGAND DAVID E",
-        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -1410,17 +1418,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 7500,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MALYALA VIKRANTH",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-06-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 5000,
         "filerUrl": "",
         "transactionText": "",
@@ -1432,57 +1429,46 @@
       },
       {
         "maxAge": 1,
-        "shares": 340000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "LIANG CHARLES",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-26T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 340000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "LIU LIANG CHIU-CHU SARA",
-        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2026-05-26T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 6218,
+        "shares": 7500,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LIANG CHARLES",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "MALYALA VIKRANTH",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2026-05-08T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 6218,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIU LIANG CHIU-CHU SARA",
-        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2026-05-08T00:00:00.000Z",
+        "startDate": "2026-06-17T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 2310,
+        "shares": 340000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "LIANG CHARLES",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-05-26T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 340000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "LIU LIANG CHIU-CHU SARA",
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "moneyText": "",
+        "startDate": "2026-05-26T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 6218,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "CLEGG DON W",
-        "filerRelation": "Officer",
+        "filerName": "LIU LIANG CHIU-CHU SARA",
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
         "moneyText": "",
         "startDate": "2026-05-08T00:00:00.000Z",
         "ownership": "D"
@@ -1497,6 +1483,17 @@
         "moneyText": "",
         "startDate": "2026-05-08T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 6218,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LIANG CHARLES",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-05-08T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1522,15 +1519,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20980,
-        "value": 88850,
+        "shares": 2310,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 4.24 per share.",
-        "filerName": "LIANG CHARLES",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "",
+        "filerName": "CLEGG DON W",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2026-02-27T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-05-08T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1546,24 +1542,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 3400,
+        "shares": 20980,
+        "value": 88850,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIAW YIH SHYAN WALLY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-02-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3650,
-        "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 4.24 per share.",
         "filerName": "LIANG CHARLES",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-02-17T00:00:00.000Z",
+        "startDate": "2026-02-27T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -1601,14 +1587,25 @@
       },
       {
         "maxAge": 1,
-        "shares": 4000,
+        "shares": 3400,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "XIAO JIN",
-        "filerRelation": "Officer",
+        "filerName": "LIAW YIH SHYAN WALLY",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-02-17T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3650,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LIANG CHARLES",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-02-17T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1623,25 +1620,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 9598,
+        "shares": 4000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LIAW YIH SHYAN WALLY",
-        "filerRelation": "Director",
+        "filerName": "XIAO JIN",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2026-02-10T00:00:00.000Z",
+        "startDate": "2026-02-17T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2110,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIANG CHARLES",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-02-10T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1678,14 +1664,25 @@
       },
       {
         "maxAge": 1,
-        "shares": 1970,
+        "shares": 9598,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "XIAO JIN",
-        "filerRelation": "Officer",
+        "filerName": "LIAW YIH SHYAN WALLY",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-02-10T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2110,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LIANG CHARLES",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-02-10T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1694,6 +1691,17 @@
         "transactionText": "",
         "filerName": "WEIGAND DAVID E",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-02-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1970,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "XIAO JIN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-10T00:00:00.000Z",
         "ownership": "D"
@@ -1748,9 +1756,9 @@
       {
         "maxAge": 1,
         "shares": 56904,
-        "value": 1868221,
+        "value": 573507,
         "filerUrl": "",
-        "transactionText": "Sale at price 32.83 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 7.66 - 24.52 per share.",
         "filerName": "KAO GEORGE W",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -1760,9 +1768,9 @@
       {
         "maxAge": 1,
         "shares": 56904,
-        "value": 573507,
+        "value": 1868221,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 7.66 - 24.52 per share.",
+        "transactionText": "Sale at price 32.83 per share.",
         "filerName": "KAO GEORGE W",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -1780,28 +1788,6 @@
         "moneyText": "",
         "startDate": "2025-11-13T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 12144,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIAW YIH SHYAN WALLY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2110,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIANG CHARLES",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-11-10T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1838,14 +1824,25 @@
       },
       {
         "maxAge": 1,
-        "shares": 5510,
+        "shares": 12144,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "KAO GEORGE W",
-        "filerRelation": "Officer",
+        "filerName": "LIAW YIH SHYAN WALLY",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-11-10T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2110,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LIANG CHARLES",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-11-10T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1860,25 +1857,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 5000,
+        "shares": 5510,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LIAW YIH SHYAN WALLY",
-        "filerRelation": "Director",
+        "filerName": "KAO GEORGE W",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-10-30T00:00:00.000Z",
+        "startDate": "2025-11-10T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 6000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIANG CHARLES",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-10-30T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1907,11 +1893,22 @@
         "shares": 5000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "KAO GEORGE W",
-        "filerRelation": "Officer",
+        "filerName": "LIAW YIH SHYAN WALLY",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-10-30T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 6000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LIANG CHARLES",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-10-30T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1922,6 +1919,29 @@
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-10-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KAO GEORGE W",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-10-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 25000,
+        "value": 132600,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 5.30 per share.",
+        "filerName": "WEIGAND DAVID E",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-09-15T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1945,7 +1965,7 @@
         "filerName": "WEIGAND DAVID E",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2025-09-15T00:00:00.000Z",
+        "startDate": "2025-09-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1962,14 +1982,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 25000,
-        "value": 132600,
+        "shares": 40000,
+        "value": 107800,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 5.30 per share.",
-        "filerName": "WEIGAND DAVID E",
-        "filerRelation": "Chief Financial Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 2.70 per share.",
+        "filerName": "KAO GEORGE W",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-09-03T00:00:00.000Z",
+        "startDate": "2025-08-22T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1983,40 +2003,6 @@
         "moneyText": "",
         "startDate": "2025-08-22T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 40000,
-        "value": 107800,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 2.70 per share.",
-        "filerName": "KAO GEORGE W",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8750,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIAW YIH SHYAN WALLY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2110,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIANG CHARLES",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-08-08T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2053,14 +2039,25 @@
       },
       {
         "maxAge": 1,
-        "shares": 1830,
+        "shares": 8750,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "KAO GEORGE W",
-        "filerRelation": "Officer",
+        "filerName": "LIAW YIH SHYAN WALLY",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-08-08T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2110,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LIANG CHARLES",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-08-08T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2069,6 +2066,17 @@
         "transactionText": "",
         "filerName": "WEIGAND DAVID E",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-08-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1830,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KAO GEORGE W",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-08T00:00:00.000Z",
         "ownership": "D"
@@ -2095,28 +2103,6 @@
         "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
         "moneyText": "",
         "startDate": "2025-07-28T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1393,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIAW YIH SHYAN WALLY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-07-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1330,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIANG CHARLES",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -2143,14 +2129,25 @@
       },
       {
         "maxAge": 1,
-        "shares": 603,
+        "shares": 1393,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "KAO GEORGE W",
-        "filerRelation": "Officer",
+        "filerName": "LIAW YIH SHYAN WALLY",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1330,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LIANG CHARLES",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-07-01T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2159,6 +2156,17 @@
         "transactionText": "",
         "filerName": "WEIGAND DAVID E",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-07-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 603,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KAO GEORGE W",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -2176,10 +2184,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 3160,
+        "shares": 1580,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TUAN SHERMAN",
+        "filerName": "LIU TALLY C",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-30T00:00:00.000Z",
@@ -2187,10 +2195,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 1580,
+        "shares": 3160,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LIU TALLY C",
+        "filerName": "TUAN SHERMAN",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-30T00:00:00.000Z",
@@ -2279,6 +2287,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 28400,
+        "value": 76538,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 2.70 per share.",
+        "filerName": "KAO GEORGE W",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-05-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 200000,
         "value": 8989316,
         "filerUrl": "",
@@ -2315,40 +2335,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 28400,
-        "value": 76538,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 2.70 per share.",
-        "filerName": "KAO GEORGE W",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-05-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8750,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIAW YIH SHYAN WALLY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4490,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIANG CHARLES",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-05-09T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 4490,
         "filerUrl": "",
         "transactionText": "",
@@ -2382,14 +2368,25 @@
       },
       {
         "maxAge": 1,
-        "shares": 1830,
+        "shares": 8750,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "KAO GEORGE W",
-        "filerRelation": "Officer",
+        "filerName": "LIAW YIH SHYAN WALLY",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-09T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4490,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LIANG CHARLES",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-05-09T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2404,14 +2401,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 19460,
-        "value": 828557,
+        "shares": 1830,
         "filerUrl": "",
-        "transactionText": "Sale at price 42.46 - 42.85 per share.",
-        "filerName": "BLAIR ROBERT L",
-        "filerRelation": "Director",
+        "transactionText": "",
+        "filerName": "KAO GEORGE W",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
+        "startDate": "2025-05-09T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2420,6 +2416,18 @@
         "value": 357000,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 26.25 per share.",
+        "filerName": "BLAIR ROBERT L",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-02-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 19460,
+        "value": 828557,
+        "filerUrl": "",
+        "transactionText": "Sale at price 42.46 - 42.85 per share.",
         "filerName": "BLAIR ROBERT L",
         "filerRelation": "Director",
         "moneyText": "",
@@ -2464,28 +2472,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 8750,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIAW YIH SHYAN WALLY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-02-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4470,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIANG CHARLES",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-02-10T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 4470,
         "filerUrl": "",
         "transactionText": "",
@@ -2519,14 +2505,25 @@
       },
       {
         "maxAge": 1,
-        "shares": 1830,
+        "shares": 8750,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "KAO GEORGE W",
-        "filerRelation": "Officer",
+        "filerName": "LIAW YIH SHYAN WALLY",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-02-10T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4470,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LIANG CHARLES",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-02-10T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2541,6 +2538,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1830,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KAO GEORGE W",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 860,
         "filerUrl": "",
         "transactionText": "",
@@ -2548,6 +2556,28 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2024-12-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4470,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LIU LIANG CHIU-CHU SARA",
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "moneyText": "",
+        "startDate": "2024-11-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1020,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "CLEGG DON W",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-11-08T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2574,28 +2604,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1020,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "CLEGG DON W",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-11-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4470,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIU LIANG CHIU-CHU SARA",
-        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2024-11-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 3350,
         "filerUrl": "",
         "transactionText": "",
@@ -2618,15 +2626,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 25000,
-        "value": 97975,
+        "shares": 1667500,
+        "value": 5847922,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.92 per share.",
-        "filerName": "TUAN SHERMAN",
-        "filerRelation": "Director",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.51 per share.",
+        "filerName": "LIU LIANG CHIU-CHU SARA",
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
         "moneyText": "",
         "startDate": "2024-10-30T00:00:00.000Z",
-        "ownership": "D"
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2642,15 +2650,37 @@
       },
       {
         "maxAge": 1,
-        "shares": 1667500,
-        "value": 5847922,
+        "shares": 25000,
+        "value": 97975,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.51 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.92 per share.",
+        "filerName": "TUAN SHERMAN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-10-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 447,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "LIU LIANG CHIU-CHU SARA",
         "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
         "moneyText": "",
-        "startDate": "2024-10-30T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2024-08-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 102,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "CLEGG DON W",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-08-09T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2673,28 +2703,6 @@
         "moneyText": "",
         "startDate": "2024-08-09T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 102,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "CLEGG DON W",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 447,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LIU LIANG CHIU-CHU SARA",
-        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2024-08-09T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2723,7 +2731,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 30.32,
+    "currentPrice": 31.13,
     "targetHighPrice": 58,
     "targetLowPrice": 15,
     "targetMeanPrice": 37.8125,
@@ -2753,6 +2761,6 @@
     "profitMargins": 0.03701,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-06T05:18:01.974Z",
+  "lastUpdated": "2026-08-08T03:25:54.039Z",
   "source": "Static Build (yahoo-finance2)"
 }
