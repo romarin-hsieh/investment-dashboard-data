@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 11,
+        "buy": 34,
+        "hold": 9,
+        "sell": 1,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
         "strongBuy": 10,
         "buy": 34,
         "hold": 10,
@@ -18,7 +26,7 @@
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 10,
         "buy": 34,
         "hold": 9,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.7436,
         "position": 72431433,
-        "value": 26267983757,
+        "value": 26354900150,
         "pctChange": 0.216
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.5417,
         "position": 52765656,
-        "value": 19135992998,
+        "value": 19199310819,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.3643,
         "position": 35486318,
-        "value": 12869468215,
+        "value": 12912051147,
         "pctChange": 0.1699
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.3318,
         "position": 32318958,
-        "value": 11720793426,
+        "value": 11759575584,
         "pctChange": 0.060900003
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.2457,
         "position": 23928423,
-        "value": 8677881972,
+        "value": 8706595642,
         "pctChange": 0.1125
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.2308,
         "position": 22476753,
-        "value": 8151419325,
+        "value": 8178391017,
         "pctChange": 0.1601
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.20120001,
         "position": 19601462,
-        "value": 7108666280,
+        "value": 7132187676,
         "pctChange": 1
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.1984,
         "position": 19323515,
-        "value": 7007866020,
+        "value": 7031053884,
         "pctChange": 0.2085
       },
       {
@@ -109,7 +117,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.1383,
         "position": 13469336,
-        "value": 4884789443,
+        "value": 4900952399,
         "pctChange": 0.1709
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Northern Trust Corporation",
         "pctHeld": 0.089099996,
         "position": 8680485,
-        "value": 3148064721,
+        "value": 3158481144,
         "pctChange": 0.1542
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00759,
-    "institutionsPercentHeld": 0.83153,
-    "institutionsFloatPercentHeld": 0.83789,
-    "institutionsCount": 3646
+    "institutionsPercentHeld": 0.83519995,
+    "institutionsFloatPercentHeld": 0.84159,
+    "institutionsCount": 3708
   },
   "earnings": {
     "maxAge": 86400,
@@ -9249,28 +9257,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0015441392,
-    "postMarketChange": -0.55999756,
-    "postMarketTime": "2026-08-05T23:59:07.000Z",
-    "postMarketPrice": 362.1,
+    "postMarketChangePercent": 0.001569073,
+    "postMarketChange": 0.57092285,
+    "postMarketTime": "2026-08-07T23:58:50.000Z",
+    "postMarketPrice": 364.4309,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.010045299,
-    "regularMarketChange": -3.67999,
-    "regularMarketTime": "2026-08-05T20:00:00.000Z",
+    "regularMarketChangePercent": 0.0121561,
+    "regularMarketChange": 4.37,
+    "regularMarketTime": "2026-08-07T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 362.66,
-    "regularMarketDayHigh": 376.98,
-    "regularMarketDayLow": 362.22,
-    "regularMarketVolume": 5509799,
-    "averageDailyVolume10Day": 6140490,
-    "averageDailyVolume3Month": 8136837,
-    "regularMarketPreviousClose": 366.34,
+    "regularMarketPrice": 363.86,
+    "regularMarketDayHigh": 370.5,
+    "regularMarketDayLow": 359.15,
+    "regularMarketVolume": 4574502,
+    "averageDailyVolume10Day": 6154830,
+    "averageDailyVolume3Month": 7949116,
+    "regularMarketPreviousClose": 359.49,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 373.87,
+    "regularMarketOpen": 365.5,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "PANW",
     "underlyingSymbol": null,
@@ -9282,15 +9290,15 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 295567917056
+    "marketCap": 296545878016
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 294586908672,
-    "forwardPE": 87.91801,
+    "enterpriseValue": 295564902400,
+    "forwardPE": 88.26326,
     "profitMargins": 0.07947,
-    "floatShares": 808186600,
+    "floatShares": 806972250,
     "sharesOutstanding": 815000000,
     "sharesShort": 20423492,
     "sharesShortPriorMonth": "1970-09-18T19:09:22.000Z",
@@ -9298,29 +9306,29 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0251,
     "heldPercentInsiders": 0.00759,
-    "heldPercentInstitutions": 0.83153,
+    "heldPercentInstitutions": 0.83519995,
     "shortRatio": 2.73,
     "shortPercentOfFloat": 0.0252,
     "beta": 0.893,
     "impliedSharesOutstanding": 815000000,
     "category": null,
     "bookValue": 34.032,
-    "priceToBook": 10.656441,
+    "priceToBook": 10.691701,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-07-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-07-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
     "netIncomeToCommon": 842899968,
-    "trailingEps": 1.12,
+    "trailingEps": 1.16,
     "forwardEps": 4.12244,
-    "pegRatio": 3.68,
+    "pegRatio": 3.98,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1734307200,
-    "enterpriseToRevenue": 27.774,
-    "enterpriseToEbitda": 198.576,
-    "52WeekChange": 1.0078084,
-    "SandP52WeekChange": 0.19786096,
+    "enterpriseToRevenue": 27.866,
+    "enterpriseToEbitda": 199.235,
+    "52WeekChange": 1.1636438,
+    "SandP52WeekChange": 0.21718061,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -9420,18 +9428,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 7500,
-        "value": 2094300,
-        "filerUrl": "",
-        "transactionText": "Sale at price 279.24 per share.",
-        "filerName": "KEY JOHN PHILLIP",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1468,
         "value": 399835,
         "filerUrl": "",
@@ -9441,6 +9437,18 @@
         "moneyText": "",
         "startDate": "2026-06-12T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7500,
+        "value": 2094300,
+        "filerUrl": "",
+        "transactionText": "Sale at price 279.24 per share.",
+        "filerName": "KEY JOHN PHILLIP",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-12T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -9864,24 +9872,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 700,
-        "value": 153979,
-        "filerUrl": "",
-        "transactionText": "Sale at price 219.97 per share.",
-        "filerName": "PAUL JOSHUA D.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-11-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 120774,
         "value": 26321980,
         "filerUrl": "",
         "transactionText": "Sale at price 215.88 - 220.40 per share.",
         "filerName": "KLARICH LEE",
         "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-11-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 700,
+        "value": 153979,
+        "filerUrl": "",
+        "transactionText": "Sale at price 219.97 per share.",
+        "filerName": "PAUL JOSHUA D.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-03T00:00:00.000Z",
         "ownership": "D"
@@ -10332,24 +10340,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 120774,
-        "value": 18253119,
-        "filerUrl": "",
-        "transactionText": "Sale at price 144.84 - 158.81 per share.",
-        "filerName": "KLARICH LEE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-04-07T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 5000,
         "value": 750000,
         "filerUrl": "",
         "transactionText": "Sale at price 150.00 per share.",
         "filerName": "GOLECHHA DIPAK",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-04-07T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 120774,
+        "value": 18253119,
+        "filerUrl": "",
+        "transactionText": "Sale at price 144.84 - 158.81 per share.",
+        "filerName": "KLARICH LEE",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-04-07T00:00:00.000Z",
         "ownership": "D"
@@ -10560,18 +10568,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 700,
-        "value": 126854,
-        "filerUrl": "",
-        "transactionText": "Sale at price 181.22 per share.",
-        "filerName": "PAUL JOSHUA D.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 99707,
         "value": 18191148,
         "filerUrl": "",
@@ -10584,14 +10580,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 788404,
-        "value": 26083085,
+        "shares": 700,
+        "value": 126854,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 33.08 per share.",
-        "filerName": "ARORA NIKESH",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Sale at price 181.22 per share.",
+        "filerName": "PAUL JOSHUA D.",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-01-06T00:00:00.000Z",
+        "startDate": "2025-02-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -10602,6 +10598,18 @@
         "transactionText": "Conversion of Exercise of derivative security at price 32.25 per share.",
         "filerName": "KLARICH LEE",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 788404,
+        "value": 26083085,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 33.08 per share.",
+        "filerName": "ARORA NIKESH",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-01-06T00:00:00.000Z",
         "ownership": "D"
@@ -10776,11 +10784,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 200,
-        "value": 78048,
+        "shares": 60000,
+        "value": 23364704,
         "filerUrl": "",
-        "transactionText": "Sale at price 390.24 per share.",
-        "filerName": "PAUL JOSHUA D.",
+        "transactionText": "Sale at price 387.39 - 391.73 per share.",
+        "filerName": "KLARICH LEE",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-12-02T00:00:00.000Z",
@@ -10788,11 +10796,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 60000,
-        "value": 23364704,
+        "shares": 200,
+        "value": 78048,
         "filerUrl": "",
-        "transactionText": "Sale at price 387.39 - 391.73 per share.",
-        "filerName": "KLARICH LEE",
+        "transactionText": "Sale at price 390.24 per share.",
+        "filerName": "PAUL JOSHUA D.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-12-02T00:00:00.000Z",
@@ -11004,18 +11012,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 66666,
-        "value": 4411069,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 66.17 per share.",
-        "filerName": "ARORA NIKESH",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2024-09-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 60000,
         "value": 3870198,
         "filerUrl": "",
@@ -11028,12 +11024,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 60000,
-        "value": 20698788,
+        "shares": 66666,
+        "value": 4411069,
         "filerUrl": "",
-        "transactionText": "Sale at price 339.96 - 347.15 per share.",
-        "filerName": "KLARICH LEE",
-        "filerRelation": "Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 66.17 per share.",
+        "filerName": "ARORA NIKESH",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2024-09-04T00:00:00.000Z",
         "ownership": "D"
@@ -11046,6 +11042,18 @@
         "transactionText": "Sale at price 338.85 - 346.49 per share.",
         "filerName": "ARORA NIKESH",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2024-09-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 60000,
+        "value": 20698788,
+        "filerUrl": "",
+        "transactionText": "Sale at price 339.96 - 347.15 per share.",
+        "filerName": "KLARICH LEE",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-09-04T00:00:00.000Z",
         "ownership": "D"
@@ -11151,11 +11159,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 362.66,
+    "currentPrice": 363.86,
     "targetHighPrice": 433,
     "targetLowPrice": 162.34,
-    "targetMeanPrice": 336.7008,
-    "targetMedianPrice": 335,
+    "targetMeanPrice": 339.4008,
+    "targetMedianPrice": 340,
     "recommendationMean": 1.6,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 50,
@@ -11180,6 +11188,6 @@
     "profitMargins": 0.07947,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-06T05:16:07.650Z",
+  "lastUpdated": "2026-08-09T03:32:58.138Z",
   "source": "Static Build (yahoo-finance2)"
 }

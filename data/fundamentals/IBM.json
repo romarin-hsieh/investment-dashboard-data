@@ -12,13 +12,21 @@
       {
         "period": "-1m",
         "strongBuy": 3,
+        "buy": 11,
+        "hold": 9,
+        "sell": 1,
+        "strongSell": 1
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 3,
         "buy": 12,
         "hold": 7,
         "sell": 0,
         "strongSell": 1
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 1,
         "buy": 11,
         "hold": 7,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.08229999,
         "position": 77565953,
-        "value": 18299359489,
+        "value": 18404849233,
         "pctChange": -0.004
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0646,
         "position": 60845605,
-        "value": 14354695020,
+        "value": 14437445080,
         "pctChange": 1
       },
       {
@@ -55,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0579,
         "position": 54594493,
-        "value": 12879932688,
+        "value": 12954181232,
         "pctChange": -0.0073
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0294,
         "position": 27660866,
-        "value": 6525751456,
+        "value": 6563370250,
         "pctChange": 1
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024500001,
         "position": 23076329,
-        "value": 5444167495,
+        "value": 5475551316,
         "pctChange": 0.0208
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0208,
         "position": 19630951,
-        "value": 4631333923,
+        "value": 4658032029,
         "pctChange": 0.3211
       },
       {
@@ -91,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0197,
         "position": 18544694,
-        "value": 4375064174,
+        "value": 4400284969,
         "pctChange": 0.2198
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.018099999,
         "position": 17062453,
-        "value": 4025373880,
+        "value": 4048578827,
         "pctChange": -0.2252
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0171,
         "position": 16063653,
-        "value": 3789736986,
+        "value": 3811583564,
         "pctChange": 0.0699
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Northern Trust Corporation",
         "pctHeld": 0.0109,
         "position": 10304788,
-        "value": 2431105566,
+        "value": 2445120084,
         "pctChange": 0.017
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00106,
-    "institutionsPercentHeld": 0.65502,
-    "institutionsFloatPercentHeld": 0.65571,
-    "institutionsCount": 4409
+    "institutionsPercentHeld": 0.65865,
+    "institutionsFloatPercentHeld": 0.65935,
+    "institutionsCount": 4433
   },
   "earnings": {
     "maxAge": 86400,
@@ -3719,28 +3727,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0030942513,
-    "postMarketChange": -0.7299957,
-    "postMarketTime": "2026-08-05T23:59:58.000Z",
-    "postMarketPrice": 235.19,
+    "postMarketChangePercent": -0.00075856654,
+    "postMarketChange": -0.17999268,
+    "postMarketTime": "2026-08-07T23:59:37.000Z",
+    "postMarketPrice": 237.1,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.00327452,
-    "regularMarketChange": 0.770004,
-    "regularMarketTime": "2026-08-05T20:00:03.000Z",
+    "regularMarketChangePercent": 0.0164932,
+    "regularMarketChange": 3.85001,
+    "regularMarketTime": "2026-08-07T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 235.92,
-    "regularMarketDayHigh": 238.9627,
-    "regularMarketDayLow": 233.48,
-    "regularMarketVolume": 5689668,
-    "averageDailyVolume10Day": 10961150,
-    "averageDailyVolume3Month": 11487040,
-    "regularMarketPreviousClose": 235.15,
+    "regularMarketPrice": 237.28,
+    "regularMarketDayHigh": 237.315,
+    "regularMarketDayLow": 232.7672,
+    "regularMarketVolume": 3687029,
+    "averageDailyVolume10Day": 7944840,
+    "averageDailyVolume3Month": 11362916,
+    "regularMarketPreviousClose": 233.43,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 236.1,
+    "regularMarketOpen": 235.38,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "IBM",
     "underlyingSymbol": null,
@@ -3752,15 +3760,15 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 222268342272
+    "marketCap": 223549652992
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 279497342976,
-    "forwardPE": 17.906765,
+    "enterpriseValue": 280778637312,
+    "forwardPE": 18.00999,
     "profitMargins": 0.15522,
-    "floatShares": 940137065,
+    "floatShares": 939006504,
     "sharesOutstanding": 942134390,
     "sharesShort": 33088057,
     "sharesShortPriorMonth": "1970-12-13T11:58:31.000Z",
@@ -3768,14 +3776,14 @@
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.035099998,
     "heldPercentInsiders": 0.00106,
-    "heldPercentInstitutions": 0.65502,
+    "heldPercentInstitutions": 0.65865,
     "shortRatio": 2.75,
     "shortPercentOfFloat": 0.039,
     "beta": 0.705,
     "impliedSharesOutstanding": 942134390,
     "category": null,
     "bookValue": 36.568,
-    "priceToBook": 6.4515424,
+    "priceToBook": 6.4887333,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3783,15 +3791,15 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": -0.013,
     "netIncomeToCommon": 10705000448,
-    "trailingEps": 11.3,
+    "trailingEps": 11.27,
     "forwardEps": 13.17491,
-    "pegRatio": 2.27,
+    "pegRatio": 2.38,
     "lastSplitFactor": "1046:1000",
     "lastSplitDate": 1635984000,
-    "enterpriseToRevenue": 4.045,
-    "enterpriseToEbitda": 16.967,
-    "52WeekChange": -0.102941155,
-    "SandP52WeekChange": 0.19786096,
+    "enterpriseToRevenue": 4.064,
+    "enterpriseToEbitda": 17.045,
+    "52WeekChange": 0.004147291,
+    "SandP52WeekChange": 0.21718061,
     "lastDividendValue": 1.69,
     "lastDividendDate": "2026-05-08T00:00:00.000Z",
     "latestShareClass": null,
@@ -3869,6 +3877,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1568,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FEHRING NICOLAS A.",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 8414,
         "filerUrl": "",
         "transactionText": "",
@@ -3902,17 +3921,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1568,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FEHRING NICOLAS A.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 9832,
         "filerUrl": "",
         "transactionText": "",
@@ -3931,6 +3939,17 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 696,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FEHRING NICOLAS A.",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-18T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3972,17 +3991,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "LAMOREAUX NICKLE JACLYN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 696,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FEHRING NICOLAS A.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-18T00:00:00.000Z",
@@ -4281,6 +4289,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1566,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FEHRING NICOLAS A.",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 8410,
         "filerUrl": "",
         "transactionText": "",
@@ -4307,17 +4326,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "LAMOREAUX NICKLE JACLYN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1566,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FEHRING NICOLAS A.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-21T00:00:00.000Z",
@@ -4514,7 +4522,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 235.92,
+    "currentPrice": 237.28,
     "targetHighPrice": 350,
     "targetLowPrice": 174,
     "targetMeanPrice": 244.15652,
@@ -4544,6 +4552,6 @@
     "profitMargins": 0.15522,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-06T05:17:15.410Z",
+  "lastUpdated": "2026-08-09T03:34:08.168Z",
   "source": "Static Build (yahoo-finance2)"
 }
