@@ -45,7 +45,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0708,
         "position": 22735569,
-        "value": 6826809053,
+        "value": 6660612099,
         "pctChange": -0.36540002
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0657,
         "position": 21094282,
-        "value": 6333979824,
+        "value": 6179780674,
         "pctChange": -0.0688
       },
       {
@@ -63,8 +63,17 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0499,
         "position": 16039889,
-        "value": 4816297293,
+        "value": 4699045744,
         "pctChange": 1
+      },
+      {
+        "maxAge": 1,
+        "reportDate": "2026-03-31T00:00:00.000Z",
+        "organization": "BAILLIE GIFFORD & CO",
+        "pctHeld": 0.0496,
+        "position": 15924423,
+        "value": 4665218826,
+        "pctChange": -0.0535
       },
       {
         "maxAge": 1,
@@ -72,17 +81,8 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0495,
         "position": 15883321,
-        "value": 4769284622,
+        "value": 4653177584,
         "pctChange": -0.118
-      },
-      {
-        "maxAge": 1,
-        "reportDate": "2026-06-30T00:00:00.000Z",
-        "organization": "BAILLIE GIFFORD & CO",
-        "pctHeld": 0.045500003,
-        "position": 14598594,
-        "value": 4383519659,
-        "pctChange": -0.0833
       },
       {
         "maxAge": 1,
@@ -90,7 +90,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0427,
         "position": 13716196,
-        "value": 4118562022,
+        "value": 4018296662,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0422,
         "position": 13560451,
-        "value": 4071796472,
+        "value": 3972669609,
         "pctChange": 0.0635
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Capital International Investors",
         "pctHeld": 0.0339,
         "position": 10893165,
-        "value": 3270890534,
+        "value": 3191261525,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0224,
         "position": 7178719,
-        "value": 2155553875,
+        "value": 2103077456,
         "pctChange": 0.0271
       },
       {
@@ -126,22 +126,33 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0187,
         "position": 5993429,
-        "value": 1799646859,
+        "value": 1755834908,
         "pctChange": -0.0041
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.00653,
-    "institutionsPercentHeld": 0.89795995,
-    "institutionsFloatPercentHeld": 0.90386003,
-    "institutionsCount": 1628
+    "insidersPercentHeld": 0.0065499996,
+    "institutionsPercentHeld": 0.90151,
+    "institutionsFloatPercentHeld": 0.90746003,
+    "institutionsCount": 1609
   },
   "earnings": {
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
+        {
+          "date": "2Q2025",
+          "actual": 0.21,
+          "estimate": 0.18181,
+          "fiscalQuarter": "2Q2025",
+          "calendarQuarter": "2Q2025",
+          "difference": "0.03",
+          "surprisePct": "15.51",
+          "periodEndDate": 1751241600,
+          "reportedDate": 1753993121
+        },
         {
           "date": "3Q2025",
           "actual": 0.27,
@@ -174,29 +185,18 @@
           "surprisePct": "7.03",
           "periodEndDate": 1774915200,
           "reportedDate": 1778185283
-        },
-        {
-          "date": "2Q2026",
-          "actual": 0.29,
-          "estimate": 0.26976,
-          "fiscalQuarter": "2Q2026",
-          "calendarQuarter": "2Q2026",
-          "difference": "0.02",
-          "surprisePct": "7.5",
-          "periodEndDate": 1782777600,
-          "reportedDate": 1786047652
         }
       ],
-      "currentQuarterEstimate": 0.34333,
-      "currentQuarterEstimateDate": "3Q",
-      "currentCalendarQuarter": "3Q2026",
+      "currentQuarterEstimate": 0.26976,
+      "currentQuarterEstimateDate": "2Q",
+      "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "3Q2026",
-      "currentPeriodEndDate": 1790726400,
+      "currentFiscalQuarter": "2Q2026",
+      "currentPeriodEndDate": 1782777600,
       "earningsDate": [
-        "2026-10-29T20:00:00.000Z"
+        "2026-08-06T20:00:00.000Z"
       ],
-      "isEarningsDateEstimate": true
+      "isEarningsDateEstimate": false
     },
     "financialsChart": {
       "yearly": [
@@ -227,6 +227,13 @@
       ],
       "quarterly": [
         {
+          "date": "2Q2025",
+          "fiscalQuarter": "2Q2025",
+          "revenue": 512316000,
+          "earnings": -50446000,
+          "profitMargin": -0.09846657
+        },
+        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 562027000,
@@ -246,13 +253,6 @@
           "revenue": 639755000,
           "earnings": -22927000,
           "profitMargin": -0.035837155
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "2Q2026",
-          "revenue": 696061000,
-          "earnings": -169981000,
-          "profitMargin": -0.24420416
         }
       ]
     },
@@ -261,146 +261,6 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
-      {
-        "epochGradeDate": "2026-08-08T01:09:42.000Z",
-        "firm": "Scotiabank",
-        "toGrade": "Sector Outperform",
-        "fromGrade": "Sector Outperform",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 390,
-        "priorPriceTarget": 300
-      },
-      {
-        "epochGradeDate": "2026-08-07T22:52:26.000Z",
-        "firm": "UBS",
-        "toGrade": "Neutral",
-        "fromGrade": "Neutral",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 350,
-        "priorPriceTarget": 250
-      },
-      {
-        "epochGradeDate": "2026-08-07T20:30:32.000Z",
-        "firm": "TD Cowen",
-        "toGrade": "Buy",
-        "fromGrade": "Buy",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 355,
-        "priorPriceTarget": 300
-      },
-      {
-        "epochGradeDate": "2026-08-07T18:40:26.000Z",
-        "firm": "RBC Capital",
-        "toGrade": "Outperform",
-        "fromGrade": "Outperform",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 346,
-        "priorPriceTarget": 290
-      },
-      {
-        "epochGradeDate": "2026-08-07T17:23:52.000Z",
-        "firm": "Piper Sandler",
-        "toGrade": "Overweight",
-        "fromGrade": "Overweight",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 333,
-        "priorPriceTarget": 250
-      },
-      {
-        "epochGradeDate": "2026-08-07T16:34:13.000Z",
-        "firm": "Guggenheim",
-        "toGrade": "Sell",
-        "fromGrade": "Sell",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 160,
-        "priorPriceTarget": 140
-      },
-      {
-        "epochGradeDate": "2026-08-07T15:10:21.000Z",
-        "firm": "Wells Fargo",
-        "toGrade": "Overweight",
-        "fromGrade": "Overweight",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 380,
-        "priorPriceTarget": 300
-      },
-      {
-        "epochGradeDate": "2026-08-07T15:02:14.000Z",
-        "firm": "Citizens",
-        "toGrade": "Market Outperform",
-        "fromGrade": "Market Outperform",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 394,
-        "priorPriceTarget": 330
-      },
-      {
-        "epochGradeDate": "2026-08-07T14:08:10.000Z",
-        "firm": "Keybanc",
-        "toGrade": "Overweight",
-        "fromGrade": "Overweight",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 375,
-        "priorPriceTarget": 300
-      },
-      {
-        "epochGradeDate": "2026-08-07T13:56:14.000Z",
-        "firm": "Oppenheimer",
-        "toGrade": "Outperform",
-        "fromGrade": "Outperform",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 380,
-        "priorPriceTarget": 330
-      },
-      {
-        "epochGradeDate": "2026-08-07T13:33:48.000Z",
-        "firm": "Needham",
-        "toGrade": "Buy",
-        "fromGrade": "Buy",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 380,
-        "priorPriceTarget": 280
-      },
-      {
-        "epochGradeDate": "2026-08-07T13:13:35.000Z",
-        "firm": "Truist Securities",
-        "toGrade": "Buy",
-        "fromGrade": "Buy",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 350,
-        "priorPriceTarget": 300
-      },
-      {
-        "epochGradeDate": "2026-08-07T10:55:20.000Z",
-        "firm": "Barclays",
-        "toGrade": "Overweight",
-        "fromGrade": "Overweight",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 355,
-        "priorPriceTarget": 300
-      },
-      {
-        "epochGradeDate": "2026-08-07T09:19:17.000Z",
-        "firm": "BTIG",
-        "toGrade": "Buy",
-        "fromGrade": "Buy",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 382,
-        "priorPriceTarget": 314
-      },
       {
         "epochGradeDate": "2026-07-23T14:37:24.000Z",
         "firm": "Oppenheimer",
@@ -3787,77 +3647,77 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0057948544,
-    "postMarketChange": 1.7400208,
-    "postMarketTime": "2026-08-07T23:59:48.000Z",
-    "postMarketPrice": 302.01,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0556903,
-    "regularMarketChange": 15.84,
-    "regularMarketTime": "2026-08-07T20:04:01.000Z",
+    "postMarketChangePercent": -0.00167255,
+    "postMarketChange": -0.48999023,
+    "postMarketTime": "2026-08-05T23:59:42.000Z",
+    "postMarketPrice": 292.47,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.0277768,
+    "regularMarketChange": -8.37,
+    "regularMarketTime": "2026-08-05T20:04:10.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 300.27,
-    "regularMarketDayHigh": 324.728,
-    "regularMarketDayLow": 295.955,
-    "regularMarketVolume": 8373097,
-    "averageDailyVolume10Day": 4230990,
-    "averageDailyVolume3Month": 3731175,
-    "regularMarketPreviousClose": 284.43,
+    "regularMarketPrice": 292.96,
+    "regularMarketDayHigh": 305,
+    "regularMarketDayLow": 291.05,
+    "regularMarketVolume": 3581788,
+    "averageDailyVolume10Day": 2893950,
+    "averageDailyVolume3Month": 3937039,
+    "regularMarketPreviousClose": 301.33,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 318,
+    "regularMarketOpen": 300.08,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "NET",
     "underlyingSymbol": null,
     "shortName": "Cloudflare, Inc.",
     "longName": "Cloudflare, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 106920050688
+    "marketCap": 103983087616
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 106286604288,
-    "forwardPE": 187.40286,
-    "profitMargins": -0.082100004,
-    "floatShares": 319991036,
-    "sharesOutstanding": 322618775,
+    "enterpriseValue": 102912131072,
+    "forwardPE": 184.72792,
+    "profitMargins": -0.037249997,
+    "floatShares": 317730809,
+    "sharesOutstanding": 321184834,
     "sharesShort": 9834475,
     "sharesShortPriorMonth": "1970-04-14T10:41:08.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0277,
-    "heldPercentInsiders": 0.00653,
-    "heldPercentInstitutions": 0.89795995,
+    "heldPercentInsiders": 0.0065499996,
+    "heldPercentInstitutions": 0.90151,
     "shortRatio": 3,
     "shortPercentOfFloat": 0.0347,
     "beta": 1.66,
-    "impliedSharesOutstanding": 356079715,
+    "impliedSharesOutstanding": 354939564,
     "category": null,
     "bookValue": 4.32,
-    "priceToBook": 69.50694,
+    "priceToBook": 67.81481,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
-    "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
-    "netIncomeToCommon": -206275008,
-    "trailingEps": -0.57,
-    "forwardEps": 1.66856,
+    "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
+    "netIncomeToCommon": -86740000,
+    "trailingEps": -0.23,
+    "forwardEps": 1.5859,
     "pegRatio": 2.38,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 42.306,
-    "enterpriseToEbitda": -21059.363,
-    "52WeekChange": 0.4926182,
-    "SandP52WeekChange": 0.21718061,
+    "enterpriseToRevenue": 44.195,
+    "enterpriseToEbitda": -2836.373,
+    "52WeekChange": 0.31183589,
+    "SandP52WeekChange": 0.19786096,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3876,117 +3736,13 @@
     "sectorKey": "technology",
     "sectorDisp": "Technology",
     "longBusinessSummary": "Cloudflare, Inc. operates as a cloud services provider that delivers a range of services to businesses worldwide. The company provides a cloud-based security solution to secure a range of combination of platforms, including public and private cloud, on-premises, software-as-a-service applications, and Internet of things (IoT) devices; and application security products comprising web application firewall, bot management, distributed denial of service mitigation, API security, SSL/TLS encryption, client-side security, and security center products. It also offers application performance solutions, such as content delivery, load balancing, DNS, smart shield, video stream delivery, web optimization, cloudfare waiting room, and cloudfare data localization suite; SASE platform that combines network services and Zero Trust and workplace security products that provides a cloud-based network and security-as-a-service; network services, including magic WAN, magic transit, magic firewall, cloudflare network interconnect, and spectrum. In addition, the company provides zero trust security services which include cloudflare zero trust network access, secure web gateway, and one client; and remote browser isolation, cloud access security broker, cloud email security, digital experience monitoring, and data loss prevention products. Further, it provides developer-based solutions comprising workers AI, vectorize, AI gateway, cloudflare workers, cloudflare pages, R2 object storage, workers KV, durable objects, D1, hyperdrive, queues, cloudfare stream, cloudfare images, and cloudflare realtime; and consumer offerings, such as 1.1.1.1 DNS and with WARPm and cloudfare registrar that offers secure registration and management of domain names. The company serves customers in technology, healthcare, financial services, consumer and retail, industrial, and non-profit industries, as well as government. The company was incorporated in 2009 and is headquartered in San Francisco, California.",
-    "fullTimeEmployees": 5156,
+    "fullTimeEmployees": 5483,
     "companyOfficers": [],
     "executiveTeam": [],
     "maxAge": 86400
   },
   "insiderTransactions": {
     "transactions": [
-      {
-        "maxAge": 1,
-        "shares": 52383,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-08-05T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 51034,
-        "value": 15186721,
-        "filerUrl": "",
-        "transactionText": "Sale at price 287.99 - 303.60 per share.",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-08-05T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 33631,
-        "value": 9958254,
-        "filerUrl": "",
-        "transactionText": "Sale at price 291.57 - 302.86 per share.",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-08-05T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 52383,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-08-04T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 20101,
-        "value": 5967817,
-        "filerUrl": "",
-        "transactionText": "Sale at price 279.82 - 303.60 per share.",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-08-04T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 52383,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-08-03T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 52383,
-        "value": 14846244,
-        "filerUrl": "",
-        "transactionText": "Sale at price 277.02 - 286.23 per share.",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-08-03T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 133,
-        "value": 36939,
-        "filerUrl": "",
-        "transactionText": "Sale at price 277.74 per share.",
-        "filerName": "HAWKINS MARK J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-08-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SEIFERT THOMAS J",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-07-17T00:00:00.000Z",
-        "ownership": "D"
-      },
       {
         "maxAge": 1,
         "shares": 10000,
@@ -4001,9 +3757,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 99064,
+        "shares": 10000,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-07-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 99064,
+        "value": 27419061,
+        "filerUrl": "",
+        "transactionText": "Sale at price 264.03 - 289.88 per share.",
         "filerName": "ZATLYN MICHELLE",
         "filerRelation": "President",
         "moneyText": "",
@@ -4013,9 +3781,8 @@
       {
         "maxAge": 1,
         "shares": 99064,
-        "value": 27419061,
         "filerUrl": "",
-        "transactionText": "Sale at price 264.03 - 289.88 per share.",
+        "transactionText": "",
         "filerName": "ZATLYN MICHELLE",
         "filerRelation": "President",
         "moneyText": "",
@@ -4032,29 +3799,6 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-07-07T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2520,
-        "value": 112694,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
-        "filerName": "GRAHAM-CUMMING JOHN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-07-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 86014,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-07-06T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -4083,9 +3827,33 @@
       },
       {
         "maxAge": 1,
-        "shares": 71174,
+        "shares": 86014,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-07-06T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2520,
+        "value": 112694,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
+        "filerName": "GRAHAM-CUMMING JOHN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-07-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 71174,
+        "value": 17600256,
+        "filerUrl": "",
+        "transactionText": "Sale at price 239.84 - 252.14 per share.",
         "filerName": "PRINCE MATTHEW",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -4095,9 +3863,8 @@
       {
         "maxAge": 1,
         "shares": 71174,
-        "value": 17600256,
         "filerUrl": "",
-        "transactionText": "Sale at price 239.84 - 252.14 per share.",
+        "transactionText": "",
         "filerName": "PRINCE MATTHEW",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -4203,17 +3970,6 @@
       {
         "maxAge": 1,
         "shares": 52384,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-06-24T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 52384,
         "value": 11749771,
         "filerUrl": "",
         "transactionText": "Sale at price 221.46 - 228.14 per share.",
@@ -4225,13 +3981,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 79218,
+        "shares": 52384,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "PRINCE MATTHEW",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-06-23T00:00:00.000Z",
+        "startDate": "2026-06-24T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -4248,13 +4004,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 76923,
+        "shares": 79218,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ZATLYN MICHELLE",
-        "filerRelation": "President",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-06-18T00:00:00.000Z",
+        "startDate": "2026-06-23T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -4271,14 +4027,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
+        "shares": 76923,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SEIFERT THOMAS J",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "ZATLYN MICHELLE",
+        "filerRelation": "President",
         "moneyText": "",
-        "startDate": "2026-06-17T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-06-18T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -4294,10 +4050,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 2520,
-        "value": 112694,
+        "shares": 10000,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
+        "transactionText": "",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-06-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2520,
+        "value": 594595,
+        "filerUrl": "",
+        "transactionText": "Sale at price 231.60 - 238.52 per share.",
         "filerName": "GRAHAM-CUMMING JOHN",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4307,9 +4074,9 @@
       {
         "maxAge": 1,
         "shares": 2520,
-        "value": 594595,
+        "value": 112694,
         "filerUrl": "",
-        "transactionText": "Sale at price 231.60 - 238.52 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
         "filerName": "GRAHAM-CUMMING JOHN",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4330,18 +4097,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 133,
-        "value": 32774,
-        "filerUrl": "",
-        "transactionText": "Sale at price 246.42 per share.",
-        "filerName": "HAWKINS MARK J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 15000,
         "value": 3690929,
         "filerUrl": "",
@@ -4354,14 +4109,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 10001,
-        "value": 777078,
+        "shares": 133,
+        "value": 32774,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 77.70 per share.",
-        "filerName": "STARZAK ALISSA MICHELLE",
-        "filerRelation": "Officer",
+        "transactionText": "Sale at price 246.42 per share.",
+        "filerName": "HAWKINS MARK J",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-05-28T00:00:00.000Z",
+        "startDate": "2026-06-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4378,14 +4133,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 76923,
+        "shares": 10001,
+        "value": 777078,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ZATLYN MICHELLE",
-        "filerRelation": "President",
+        "transactionText": "Conversion of Exercise of derivative security at price 77.70 per share.",
+        "filerName": "STARZAK ALISSA MICHELLE",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2026-05-27T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-05-28T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -4401,13 +4157,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 157152,
+        "shares": 76923,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "ZATLYN MICHELLE",
+        "filerRelation": "President",
         "moneyText": "",
-        "startDate": "2026-05-21T00:00:00.000Z",
+        "startDate": "2026-05-27T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -4424,14 +4180,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
+        "shares": 157152,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SEIFERT THOMAS J",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-05-18T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-05-21T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -4451,6 +4207,17 @@
         "value": 2006068,
         "filerUrl": "",
         "transactionText": "Sale at price 193.28 - 203.02 per share.",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-05-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "SEIFERT THOMAS J",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -4484,18 +4251,6 @@
       {
         "maxAge": 1,
         "shares": 2520,
-        "value": 112694,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
-        "filerName": "GRAHAM-CUMMING JOHN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2520,
         "value": 558382,
         "filerUrl": "",
         "transactionText": "Sale at price 218.05 - 223.73 per share.",
@@ -4507,14 +4262,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 133,
-        "value": 28145,
+        "shares": 2520,
+        "value": 112694,
         "filerUrl": "",
-        "transactionText": "Sale at price 211.62 per share.",
-        "filerName": "HAWKINS MARK J",
+        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
+        "filerName": "GRAHAM-CUMMING JOHN",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-05-01T00:00:00.000Z",
+        "startDate": "2026-05-04T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4528,6 +4283,18 @@
         "moneyText": "",
         "startDate": "2026-05-01T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 133,
+        "value": 28145,
+        "filerUrl": "",
+        "transactionText": "Sale at price 211.62 per share.",
+        "filerName": "HAWKINS MARK J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-01T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -4556,17 +4323,6 @@
       {
         "maxAge": 1,
         "shares": 76923,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ZATLYN MICHELLE",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-04-22T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 76923,
         "value": 15759466,
         "filerUrl": "",
         "transactionText": "Sale at price 195.86 - 211.59 per share.",
@@ -4578,14 +4334,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
+        "shares": 76923,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SEIFERT THOMAS J",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "ZATLYN MICHELLE",
+        "filerRelation": "President",
         "moneyText": "",
-        "startDate": "2026-04-17T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-04-22T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -4601,14 +4357,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 157152,
+        "shares": 10000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2026-04-08T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-04-17T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -4636,6 +4392,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 157152,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-04-08T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 133,
         "value": 27877,
         "filerUrl": "",
@@ -4644,18 +4411,6 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2520,
-        "value": 112694,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
-        "filerName": "GRAHAM-CUMMING JOHN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-27T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4672,14 +4427,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 134241,
+        "shares": 2520,
+        "value": 112694,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
+        "filerName": "GRAHAM-CUMMING JOHN",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-03-18T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-03-27T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -4719,14 +4475,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 10341,
+        "shares": 134241,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SEIFERT THOMAS J",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-03-17T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-03-18T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -4742,26 +4498,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 23332,
-        "value": 1581676,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 67.79 per share.",
-        "filerName": "RILEY JANEL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 76923,
+        "shares": 10341,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ZATLYN MICHELLE",
-        "filerRelation": "President",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2026-03-05T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-03-17T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -4789,6 +4533,29 @@
       },
       {
         "maxAge": 1,
+        "shares": 23332,
+        "value": 1581676,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 67.79 per share.",
+        "filerName": "RILEY JANEL",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 76923,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ZATLYN MICHELLE",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2026-03-05T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 4160,
         "value": 748800,
         "filerUrl": "",
@@ -4797,18 +4564,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2520,
-        "value": 112694,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
-        "filerName": "GRAHAM-CUMMING JOHN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4837,14 +4592,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 157152,
+        "shares": 2520,
+        "value": 112694,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
+        "filerName": "GRAHAM-CUMMING JOHN",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-02-26T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-03-02T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -4860,13 +4616,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 76923,
+        "shares": 157152,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ZATLYN MICHELLE",
-        "filerRelation": "President",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-02-23T00:00:00.000Z",
+        "startDate": "2026-02-26T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -4883,14 +4639,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
+        "shares": 76923,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SEIFERT THOMAS J",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "ZATLYN MICHELLE",
+        "filerRelation": "President",
         "moneyText": "",
-        "startDate": "2026-02-20T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-02-23T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -4906,10 +4662,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 2520,
-        "value": 112694,
+        "shares": 10000,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
+        "transactionText": "",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-02-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2520,
+        "value": 436831,
+        "filerUrl": "",
+        "transactionText": "Sale at price 170.15 - 175.42 per share.",
         "filerName": "GRAHAM-CUMMING JOHN",
         "filerRelation": "Director",
         "moneyText": "",
@@ -4919,9 +4686,9 @@
       {
         "maxAge": 1,
         "shares": 2520,
-        "value": 436831,
+        "value": 112694,
         "filerUrl": "",
-        "transactionText": "Sale at price 170.15 - 175.42 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
         "filerName": "GRAHAM-CUMMING JOHN",
         "filerRelation": "Director",
         "moneyText": "",
@@ -5015,17 +4782,6 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SEIFERT THOMAS J",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-01-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
         "value": 1783682,
         "filerUrl": "",
         "transactionText": "Sale at price 176.27 - 181.98 per share.",
@@ -5037,14 +4793,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 76923,
+        "shares": 10000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ZATLYN MICHELLE",
-        "filerRelation": "President",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2026-01-15T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-01-20T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5060,13 +4816,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 157152,
+        "shares": 76923,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "ZATLYN MICHELLE",
+        "filerRelation": "President",
         "moneyText": "",
-        "startDate": "2026-01-08T00:00:00.000Z",
+        "startDate": "2026-01-15T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -5083,15 +4839,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 2520,
-        "value": 112694,
+        "shares": 157152,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
-        "filerName": "GRAHAM-CUMMING JOHN",
-        "filerRelation": "Director",
+        "transactionText": "",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-01-05T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-01-08T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5116,6 +4871,18 @@
         "moneyText": "",
         "startDate": "2026-01-05T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2520,
+        "value": 112694,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
+        "filerName": "GRAHAM-CUMMING JOHN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-05T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5155,17 +4922,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SEIFERT THOMAS J",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-12-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2031,
         "value": 406200,
         "filerUrl": "",
@@ -5190,14 +4946,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 2520,
-        "value": 112694,
+        "shares": 10000,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
-        "filerName": "GRAHAM-CUMMING JOHN",
-        "filerRelation": "Director",
+        "transactionText": "",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2025-12-15T00:00:00.000Z",
+        "startDate": "2025-12-22T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -5214,14 +4969,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 76923,
+        "shares": 2520,
+        "value": 112694,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ZATLYN MICHELLE",
-        "filerRelation": "President",
+        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
+        "filerName": "GRAHAM-CUMMING JOHN",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2025-12-11T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2025-12-15T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5237,13 +4993,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 134977,
+        "shares": 76923,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "ZATLYN MICHELLE",
+        "filerRelation": "President",
         "moneyText": "",
-        "startDate": "2025-12-05T00:00:00.000Z",
+        "startDate": "2025-12-11T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -5252,6 +5008,17 @@
         "value": 31801472,
         "filerUrl": "",
         "transactionText": "Sale at price 198.80 - 205.02 per share.",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-12-05T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 134977,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "PRINCE MATTHEW",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -5284,17 +5051,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 76923,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ZATLYN MICHELLE",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2025-11-24T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 86381,
         "value": 16665788,
         "filerUrl": "",
@@ -5307,14 +5063,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
+        "shares": 76923,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SEIFERT THOMAS J",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "ZATLYN MICHELLE",
+        "filerRelation": "President",
         "moneyText": "",
-        "startDate": "2025-11-20T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2025-11-24T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5330,14 +5086,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 157152,
+        "shares": 10000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2025-11-19T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2025-11-20T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5362,6 +5118,17 @@
         "moneyText": "",
         "startDate": "2025-11-19T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 157152,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-11-19T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5435,30 +5202,6 @@
       {
         "maxAge": 1,
         "shares": 2520,
-        "value": 112694,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
-        "filerName": "GRAHAM-CUMMING JOHN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-11-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 18500,
-        "value": 4590035,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 248.11 per share.",
-        "filerName": "KRAMER DOUGLAS JAMES",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-11-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2520,
         "value": 632096,
         "filerUrl": "",
         "transactionText": "Sale at price 245.68 - 257.23 per share.",
@@ -5494,25 +5237,26 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
+        "shares": 2520,
+        "value": 112694,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SEIFERT THOMAS J",
-        "filerRelation": "Chief Financial Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
+        "filerName": "GRAHAM-CUMMING JOHN",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2025-10-20T00:00:00.000Z",
+        "startDate": "2025-11-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 2118137,
+        "shares": 18500,
+        "value": 4590035,
         "filerUrl": "",
-        "transactionText": "Sale at price 209.62 - 213.40 per share.",
-        "filerName": "SEIFERT THOMAS J",
-        "filerRelation": "Chief Financial Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 248.11 per share.",
+        "filerName": "KRAMER DOUGLAS JAMES",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-10-20T00:00:00.000Z",
+        "startDate": "2025-11-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -5529,14 +5273,26 @@
       },
       {
         "maxAge": 1,
-        "shares": 157152,
+        "shares": 10000,
+        "value": 2118137,
+        "filerUrl": "",
+        "transactionText": "Sale at price 209.62 - 213.40 per share.",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-10-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PRINCE MATTHEW",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2025-10-16T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2025-10-20T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5564,15 +5320,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 2520,
-        "value": 112694,
+        "shares": 157152,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
-        "filerName": "GRAHAM-CUMMING JOHN",
-        "filerRelation": "Director",
+        "transactionText": "",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-10-13T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2025-10-16T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5588,9 +5343,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 76923,
+        "shares": 2520,
+        "value": 112694,
         "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 44.72 per share.",
+        "filerName": "GRAHAM-CUMMING JOHN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-10-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 76923,
+        "value": 16718699,
+        "filerUrl": "",
+        "transactionText": "Sale at price 214.86 - 220.99 per share.",
         "filerName": "ZATLYN MICHELLE",
         "filerRelation": "President",
         "moneyText": "",
@@ -5600,9 +5368,8 @@
       {
         "maxAge": 1,
         "shares": 76923,
-        "value": 16718699,
         "filerUrl": "",
-        "transactionText": "Sale at price 214.86 - 220.99 per share.",
+        "transactionText": "",
         "filerName": "ZATLYN MICHELLE",
         "filerRelation": "President",
         "moneyText": "",
@@ -5636,6 +5403,18 @@
       {
         "maxAge": 1,
         "shares": 76923,
+        "value": 16849792,
+        "filerUrl": "",
+        "transactionText": "Sale at price 211.43 - 227.01 per share.",
+        "filerName": "ZATLYN MICHELLE",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2025-09-25T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 76923,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "ZATLYN MICHELLE",
@@ -5643,41 +5422,123 @@
         "moneyText": "",
         "startDate": "2025-09-25T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 15000,
+        "value": 3358639,
+        "filerUrl": "",
+        "transactionText": "Sale at price 223.36 - 225.46 per share.",
+        "filerName": "LEDBETTER CARL",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-09-22T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "value": 2276444,
+        "filerUrl": "",
+        "transactionText": "Sale at price 223.49 - 229.93 per share.",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-09-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SEIFERT THOMAS J",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-09-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 157152,
+        "value": 34870915,
+        "filerUrl": "",
+        "transactionText": "Sale at price 215.62 - 229.74 per share.",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-09-11T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 137041,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "PRINCE MATTHEW",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-09-11T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10215,
+        "value": 2107518,
+        "filerUrl": "",
+        "transactionText": "Sale at price 200.20 - 208.52 per share.",
+        "filerName": "GRAHAM-CUMMING JOHN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-09-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3000,
+        "value": 606304,
+        "filerUrl": "",
+        "transactionText": "Sale at price 199.93 - 203.34 per share.",
+        "filerName": "KRAMER DOUGLAS JAMES",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-02T00:00:00.000Z",
+        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 300.27,
-    "targetHighPrice": 380,
+    "currentPrice": 292.96,
+    "targetHighPrice": 330,
     "targetLowPrice": 136,
-    "targetMeanPrice": 272.3584,
-    "targetMedianPrice": 290,
+    "targetMeanPrice": 265.00354,
+    "targetMedianPrice": 286,
     "recommendationMean": 1.88235,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 31,
-    "totalCash": 4162798080,
-    "totalCashPerShare": 11.691,
-    "ebitda": -5047000,
-    "totalDebt": 3529349888,
-    "quickRatio": 1.755,
-    "currentRatio": 1.818,
-    "totalRevenue": 2512349952,
-    "debtToEquity": 217.858,
-    "revenuePerShare": 7.14,
-    "returnOnAssets": -0.02052,
-    "returnOnEquity": -0.14425999,
-    "grossProfits": 1823376000,
-    "freeCashflow": 691048256,
-    "operatingCashflow": 633427968,
-    "revenueGrowth": 0.359,
-    "grossMargins": 0.72577006,
-    "ebitdaMargins": -0.00201,
-    "operatingMargins": -0.07902,
-    "profitMargins": -0.082100004,
+    "totalCash": 4163877888,
+    "totalCashPerShare": 11.78,
+    "ebitda": -36283000,
+    "totalDebt": 3524536064,
+    "quickRatio": 1.895,
+    "currentRatio": 1.956,
+    "totalRevenue": 2328604928,
+    "debtToEquity": 230.859,
+    "revenuePerShare": 6.65,
+    "returnOnAssets": -0.026530001,
+    "returnOnEquity": -0.05876,
+    "grossProfits": 1707497984,
+    "freeCashflow": 754998272,
+    "operatingCashflow": 615660032,
+    "revenueGrowth": 0.335,
+    "grossMargins": 0.73327005,
+    "ebitdaMargins": -0.015579999,
+    "operatingMargins": -0.09689999,
+    "profitMargins": -0.037249997,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-09T03:34:35.886Z",
+  "lastUpdated": "2026-08-06T05:17:42.283Z",
   "source": "Static Build (yahoo-finance2)"
 }
