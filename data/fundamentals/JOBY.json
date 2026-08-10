@@ -4,7 +4,7 @@
       {
         "period": "0m",
         "strongBuy": 1,
-        "buy": 1,
+        "buy": 2,
         "hold": 5,
         "sell": 2,
         "strongSell": 1
@@ -24,6 +24,14 @@
         "hold": 5,
         "sell": 2,
         "strongSell": 1
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 1,
+        "buy": 2,
+        "hold": 5,
+        "sell": 2,
+        "strongSell": 1
       }
     ],
     "maxAge": 86400
@@ -33,21 +41,21 @@
     "ownershipList": [
       {
         "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
+        "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "TOYOTA MOTOR CORP/",
         "pctHeld": 0.1306,
         "position": 128454401,
-        "value": 1001944352,
+        "value": 1109846068,
         "pctChange": 0
       },
       {
         "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
+        "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "BAILLIE GIFFORD & CO",
-        "pctHeld": 0.0635,
-        "position": 62419803,
-        "value": 486874475,
-        "pctChange": 0.2592
+        "pctHeld": 0.0622,
+        "position": 61139048,
+        "value": 528241395,
+        "pctChange": -0.020499999
       },
       {
         "maxAge": 1,
@@ -55,7 +63,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0473,
         "position": 46552486,
-        "value": 363109399,
+        "value": 402213495,
         "pctChange": 0.1714
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Capricorn Investment Group LLC",
         "pctHeld": 0.028900001,
         "position": 28470647,
-        "value": 222071052,
+        "value": 245986399,
         "pctChange": 0
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.026400002,
         "position": 26016083,
-        "value": 202925452,
+        "value": 224778966,
         "pctChange": 1
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.026400002,
         "position": 25992624,
-        "value": 202742472,
+        "value": 224576280,
         "pctChange": 1
       },
       {
@@ -91,7 +99,7 @@
         "organization": "INTEL CORP",
         "pctHeld": 0.0156,
         "position": 15316315,
-        "value": 119467259,
+        "value": 132332966,
         "pctChange": 0
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Delta Air Lines Inc",
         "pctHeld": 0.0148,
         "position": 14590713,
-        "value": 113807564,
+        "value": 126063765,
         "pctChange": 0.3211
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.014099999,
         "position": 13846489,
-        "value": 108002616,
+        "value": 119633669,
         "pctChange": 0.1744
       },
       {
@@ -118,33 +126,22 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0134000005,
         "position": 13143737,
-        "value": 102521151,
+        "value": 113561892,
         "pctChange": 0.2156
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.32586,
-    "institutionsPercentHeld": 0.41962,
-    "institutionsFloatPercentHeld": 0.62245,
-    "institutionsCount": 654
+    "insidersPercentHeld": 0.32404998,
+    "institutionsPercentHeld": 0.42546,
+    "institutionsFloatPercentHeld": 0.62942004,
+    "institutionsCount": 652
   },
   "earnings": {
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
-        {
-          "date": "2Q2025",
-          "actual": -0.1984,
-          "estimate": -0.19558,
-          "fiscalQuarter": "2Q2025",
-          "calendarQuarter": "2Q2025",
-          "difference": "-0.003",
-          "surprisePct": "-1.44",
-          "periodEndDate": 1751241600,
-          "reportedDate": 1754510967
-        },
         {
           "date": "3Q2025",
           "actual": -0.2037,
@@ -177,15 +174,28 @@
           "surprisePct": "41.49",
           "periodEndDate": 1774915200,
           "reportedDate": 1778011787
+        },
+        {
+          "date": "2Q2026",
+          "actual": -0.25,
+          "estimate": -0.23446,
+          "fiscalQuarter": "2Q2026",
+          "calendarQuarter": "2Q2026",
+          "difference": "-0.02",
+          "surprisePct": "-6.63",
+          "periodEndDate": 1782777600,
+          "reportedDate": 1785960219
         }
       ],
-      "currentQuarterEstimateDate": "2Q",
-      "currentCalendarQuarter": "2Q2026",
+      "currentQuarterEstimateDate": "3Q",
+      "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "2Q2026",
-      "currentPeriodEndDate": 1782777600,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "currentFiscalQuarter": "3Q2026",
+      "currentPeriodEndDate": 1790726400,
+      "earningsDate": [
+        "2026-11-04T20:00:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -216,13 +226,6 @@
       ],
       "quarterly": [
         {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 15000,
-          "earnings": -324674000,
-          "profitMargin": -21644.932
-        },
-        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 22574000,
@@ -242,6 +245,13 @@
           "revenue": 24246000,
           "earnings": -109950000,
           "profitMargin": -4.5347686
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 38639000,
+          "earnings": -245443000,
+          "profitMargin": -6.352209
         }
       ]
     },
@@ -250,6 +260,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-06T11:28:35.000Z",
+        "firm": "Needham",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 15,
+        "priorPriceTarget": 18
+      },
       {
         "epochGradeDate": "2026-05-07T22:11:49.000Z",
         "firm": "Canaccord Genuity",
@@ -936,76 +956,75 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0060896995,
-    "postMarketChange": 0.047499657,
-    "postMarketTime": "2026-08-05T23:59:43.000Z",
-    "postMarketPrice": 7.8475,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.021329898,
-    "regularMarketChange": -0.17,
-    "regularMarketTime": "2026-08-05T20:00:02.000Z",
+    "postMarketChangePercent": -0.0023148677,
+    "postMarketChange": -0.020000458,
+    "postMarketTime": "2026-08-08T00:00:00.000Z",
+    "postMarketPrice": 8.62,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.0498178,
+    "regularMarketChange": 0.410001,
+    "regularMarketTime": "2026-08-07T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 7.8,
-    "regularMarketDayHigh": 8.01,
-    "regularMarketDayLow": 7.74,
-    "regularMarketVolume": 27346524,
-    "averageDailyVolume10Day": 43510040,
-    "averageDailyVolume3Month": 40995262,
-    "regularMarketPreviousClose": 7.97,
+    "regularMarketPrice": 8.64,
+    "regularMarketDayHigh": 8.72,
+    "regularMarketDayLow": 8.35,
+    "regularMarketVolume": 31503644,
+    "averageDailyVolume10Day": 35451860,
+    "averageDailyVolume3Month": 40331151,
+    "regularMarketPreviousClose": 8.23,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 7.94,
+    "regularMarketOpen": 8.4,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "JOBY",
     "underlyingSymbol": null,
     "shortName": "Joby Aviation, Inc.",
     "longName": "Joby Aviation, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 7672414720
+    "marketCap": 8546033664
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 5953951232,
-    "forwardPE": -15.6,
+    "enterpriseValue": 7029920256,
+    "forwardPE": -13.3953495,
     "profitMargins": 0,
-    "floatShares": 662896591,
-    "sharesOutstanding": 983642852,
+    "floatShares": 663781493,
+    "sharesOutstanding": 989124237,
     "sharesShort": 109764445,
     "sharesShortPriorMonth": "1973-03-11T22:49:08.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1116,
-    "heldPercentInsiders": 0.32586,
-    "heldPercentInstitutions": 0.41962,
+    "heldPercentInsiders": 0.32404998,
+    "heldPercentInstitutions": 0.42546,
     "shortRatio": 2.33,
     "shortPercentOfFloat": 0.1673,
     "beta": 2.698,
-    "impliedSharesOutstanding": 983642852,
+    "impliedSharesOutstanding": 989124237,
     "category": null,
     "bookValue": 1.996,
-    "priceToBook": 3.9078157,
+    "priceToBook": 4.328657,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
-    "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
-    "netIncomeToCommon": -957385984,
-    "trailingEps": -1.14,
-    "forwardEps": -0.5,
+    "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
+    "netIncomeToCommon": -878155008,
+    "trailingEps": -0.98,
+    "forwardEps": -0.645,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 76.656,
-    "enterpriseToEbitda": -7.961,
-    "52WeekChange": -0.6101426,
-    "SandP52WeekChange": 0.19786096,
+    "enterpriseToRevenue": 60.449,
+    "enterpriseToEbitda": -8.381,
+    "52WeekChange": -0.49384886,
+    "SandP52WeekChange": 0.21718061,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1069,10 +1088,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 53549,
+        "shares": 16065,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ALLISON ERIC",
+        "filerName": "DEHOFF KATHERINE",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-07-10T00:00:00.000Z",
@@ -1080,10 +1099,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 16065,
+        "shares": 53549,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DEHOFF KATHERINE",
+        "filerName": "ALLISON ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-07-10T00:00:00.000Z",
@@ -1151,30 +1170,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 9575,
-        "value": 85409,
-        "filerUrl": "",
-        "transactionText": "Sale at price 8.92 per share.",
-        "filerName": "DEHOFF KATHERINE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-07-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 9330,
-        "value": 83224,
-        "filerUrl": "",
-        "transactionText": "Sale at price 8.92 per share.",
-        "filerName": "ALLISON ERIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-07-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 12939,
         "value": 115416,
         "filerUrl": "",
@@ -1193,6 +1188,30 @@
         "transactionText": "Sale at price 8.92 per share.",
         "filerName": "BRUMANA RODRIGO MOREIRA",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-07-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 9330,
+        "value": 83224,
+        "filerUrl": "",
+        "transactionText": "Sale at price 8.92 per share.",
+        "filerName": "ALLISON ERIC",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 9575,
+        "value": 85409,
+        "filerUrl": "",
+        "transactionText": "Sale at price 8.92 per share.",
+        "filerName": "DEHOFF KATHERINE",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-07-02T00:00:00.000Z",
         "ownership": "D"
@@ -1219,17 +1238,6 @@
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-07-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 18101,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ALLISON ERIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-07-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1267,6 +1275,28 @@
       },
       {
         "maxAge": 1,
+        "shares": 18101,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ALLISON ERIC",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 30636,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BEVIRT JOEBEN",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-07-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 16499,
         "filerUrl": "",
         "transactionText": "",
@@ -1283,17 +1313,6 @@
         "transactionText": "",
         "filerName": "SIMI BONNY W",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-07-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 30636,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BEVIRT JOEBEN",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -1335,24 +1354,33 @@
       },
       {
         "maxAge": 1,
-        "shares": 15201,
-        "value": 178916,
+        "shares": 19157,
         "filerUrl": "",
-        "transactionText": "Sale at price 11.77 per share.",
-        "filerName": "DEHOFF KATHERINE",
-        "filerRelation": "Officer",
+        "transactionText": "",
+        "filerName": "OGAWA TETSUO",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 140716,
-        "value": 1656227,
+        "shares": 19157,
         "filerUrl": "",
-        "transactionText": "Sale at price 11.77 per share.",
-        "filerName": "BRUMANA RODRIGO MOREIRA",
-        "filerRelation": "Chief Financial Officer",
+        "transactionText": "",
+        "filerName": "DELAINE PRADO HALIMAH",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 19157,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SALUJA DIPENDER",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-02T00:00:00.000Z",
         "ownership": "D"
@@ -1384,28 +1412,6 @@
         "shares": 19157,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "OGAWA TETSUO",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 19157,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "DELAINE PRADO HALIMAH",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 19157,
-        "filerUrl": "",
-        "transactionText": "",
         "filerName": "SCIARRA PAUL CAHILL",
         "filerRelation": "Director",
         "moneyText": "",
@@ -1425,26 +1431,27 @@
       },
       {
         "maxAge": 1,
-        "shares": 19157,
+        "shares": 140716,
+        "value": 1656227,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SALUJA DIPENDER",
-        "filerRelation": "Director",
+        "transactionText": "Sale at price 11.77 per share.",
+        "filerName": "BRUMANA RODRIGO MOREIRA",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-06-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 83334,
-        "value": 1000008,
+        "shares": 15201,
+        "value": 178916,
         "filerUrl": "",
-        "transactionText": "Sale at price 12.00 per share.",
-        "filerName": "SCIARRA PAUL CAHILL",
-        "filerRelation": "Director",
+        "transactionText": "Sale at price 11.77 per share.",
+        "filerName": "DEHOFF KATHERINE",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2026-06-01T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-06-02T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1467,6 +1474,18 @@
         "moneyText": "",
         "startDate": "2026-06-01T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 83334,
+        "value": 1000008,
+        "filerUrl": "",
+        "transactionText": "Sale at price 12.00 per share.",
+        "filerName": "SCIARRA PAUL CAHILL",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-01T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1565,10 +1584,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 53549,
+        "shares": 16064,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ALLISON ERIC",
+        "filerName": "DEHOFF KATHERINE",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-10T00:00:00.000Z",
@@ -1576,10 +1595,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 16064,
+        "shares": 53549,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DEHOFF KATHERINE",
+        "filerName": "ALLISON ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-10T00:00:00.000Z",
@@ -1595,42 +1614,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 667,
-        "value": 5916,
-        "filerUrl": "",
-        "transactionText": "Sale at price 8.87 per share.",
-        "filerName": "DEHOFF KATHERINE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 826,
-        "value": 7327,
-        "filerUrl": "",
-        "transactionText": "Sale at price 8.87 per share.",
-        "filerName": "ALLISON ERIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 357,
-        "value": 3167,
-        "filerUrl": "",
-        "transactionText": "Sale at price 8.87 per share.",
-        "filerName": "BOWLES GREGORY",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-08T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1653,6 +1636,42 @@
         "transactionText": "Sale at price 8.87 per share.",
         "filerName": "BRUMANA RODRIGO MOREIRA",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-04-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 826,
+        "value": 7327,
+        "filerUrl": "",
+        "transactionText": "Sale at price 8.87 per share.",
+        "filerName": "ALLISON ERIC",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 667,
+        "value": 5916,
+        "filerUrl": "",
+        "transactionText": "Sale at price 8.87 per share.",
+        "filerName": "DEHOFF KATHERINE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 357,
+        "value": 3167,
+        "filerUrl": "",
+        "transactionText": "Sale at price 8.87 per share.",
+        "filerName": "BOWLES GREGORY",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-08T00:00:00.000Z",
         "ownership": "D"
@@ -1686,17 +1705,6 @@
         "shares": 1601,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ALLISON ERIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-07T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1601,
-        "filerUrl": "",
-        "transactionText": "",
         "filerName": "PAPADOPOULOS DIDIER",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -1716,17 +1724,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1292,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "DEHOFF KATHERINE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-07T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1138,
         "filerUrl": "",
         "transactionText": "",
@@ -1738,10 +1735,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 1443,
+        "shares": 1292,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SIMI BONNY W",
+        "filerName": "DEHOFF KATHERINE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-07T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1601,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ALLISON ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-07T00:00:00.000Z",
@@ -1760,14 +1768,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 4720,
-        "value": 41347,
+        "shares": 1443,
         "filerUrl": "",
-        "transactionText": "Sale at price 8.76 per share.",
-        "filerName": "BOWLES GREGORY",
+        "transactionText": "",
+        "filerName": "SIMI BONNY W",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2026-04-06T00:00:00.000Z",
+        "startDate": "2026-04-07T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1777,6 +1784,18 @@
         "filerUrl": "",
         "transactionText": "Sale at price 8.76 per share.",
         "filerName": "PAPADOPOULOS DIDIER",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4720,
+        "value": 41347,
+        "filerUrl": "",
+        "transactionText": "Sale at price 8.76 per share.",
+        "filerName": "BOWLES GREGORY",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-06T00:00:00.000Z",
@@ -1832,42 +1851,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 9594,
-        "value": 78191,
-        "filerUrl": "",
-        "transactionText": "Sale at price 8.15 per share.",
-        "filerName": "DEHOFF KATHERINE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 9350,
-        "value": 76202,
-        "filerUrl": "",
-        "transactionText": "Sale at price 8.15 per share.",
-        "filerName": "ALLISON ERIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5167,
-        "value": 42111,
-        "filerUrl": "",
-        "transactionText": "Sale at price 8.15 per share.",
-        "filerName": "BOWLES GREGORY",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 12965,
         "value": 105665,
         "filerUrl": "",
@@ -1886,6 +1869,42 @@
         "transactionText": "Sale at price 8.15 per share.",
         "filerName": "BRUMANA RODRIGO MOREIRA",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-04-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 9350,
+        "value": 76202,
+        "filerUrl": "",
+        "transactionText": "Sale at price 8.15 per share.",
+        "filerName": "ALLISON ERIC",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 9594,
+        "value": 78191,
+        "filerUrl": "",
+        "transactionText": "Sale at price 8.15 per share.",
+        "filerName": "DEHOFF KATHERINE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5167,
+        "value": 42111,
+        "filerUrl": "",
+        "transactionText": "Sale at price 8.15 per share.",
+        "filerName": "BOWLES GREGORY",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-02T00:00:00.000Z",
         "ownership": "D"
@@ -1916,17 +1935,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 18100,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ALLISON ERIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 25102,
         "filerUrl": "",
         "transactionText": "",
@@ -1949,17 +1957,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 18574,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "DEHOFF KATHERINE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 16498,
         "filerUrl": "",
         "transactionText": "",
@@ -1971,10 +1968,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 21126,
+        "shares": 18574,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SIMI BONNY W",
+        "filerName": "DEHOFF KATHERINE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 18100,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ALLISON ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
@@ -1987,6 +1995,17 @@
         "transactionText": "",
         "filerName": "BEVIRT JOEBEN",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 21126,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SIMI BONNY W",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
         "ownership": "D"
@@ -2028,6 +2047,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 3087,
+        "value": 31232,
+        "filerUrl": "",
+        "transactionText": "Sale at price 9.90 - 10.25 per share.",
+        "filerName": "PAPADOPOULOS DIDIER",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 3626,
         "value": 36665,
         "filerUrl": "",
@@ -2052,14 +2083,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 3087,
-        "value": 31232,
+        "shares": 1159,
+        "value": 11880,
         "filerUrl": "",
-        "transactionText": "Sale at price 9.90 - 10.25 per share.",
-        "filerName": "PAPADOPOULOS DIDIER",
-        "filerRelation": "Officer",
+        "transactionText": "Sale at price 10.25 per share.",
+        "filerName": "BRUMANA RODRIGO MOREIRA",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2026-03-11T00:00:00.000Z",
+        "startDate": "2026-03-10T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2070,18 +2101,6 @@
         "transactionText": "Sale at price 10.25 per share.",
         "filerName": "ALLISON ERIC",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1159,
-        "value": 11880,
-        "filerUrl": "",
-        "transactionText": "Sale at price 10.25 per share.",
-        "filerName": "BRUMANA RODRIGO MOREIRA",
-        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-03-10T00:00:00.000Z",
         "ownership": "D"
@@ -2112,17 +2131,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 4559,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ALLISON ERIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 5263,
         "filerUrl": "",
         "transactionText": "",
@@ -2145,17 +2153,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 4252,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "DEHOFF KATHERINE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 3746,
         "filerUrl": "",
         "transactionText": "",
@@ -2167,10 +2164,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 4748,
+        "shares": 4252,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SIMI BONNY W",
+        "filerName": "DEHOFF KATHERINE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4559,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ALLISON ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-09T00:00:00.000Z",
@@ -2183,6 +2191,17 @@
         "transactionText": "",
         "filerName": "BEVIRT JOEBEN",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-03-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4748,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SIMI BONNY W",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-09T00:00:00.000Z",
         "ownership": "D"
@@ -2236,11 +2255,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 8539,
-        "value": 84365,
+        "shares": 9815,
+        "value": 96972,
         "filerUrl": "",
         "transactionText": "Sale at price 9.88 per share.",
-        "filerName": "DEHOFF KATHERINE",
+        "filerName": "ALLISON ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-13T00:00:00.000Z",
@@ -2248,11 +2267,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 9815,
-        "value": 96972,
+        "shares": 8539,
+        "value": 84365,
         "filerUrl": "",
         "transactionText": "Sale at price 9.88 per share.",
-        "filerName": "ALLISON ERIC",
+        "filerName": "DEHOFF KATHERINE",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-13T00:00:00.000Z",
@@ -2284,32 +2303,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 19047,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ALLISON ERIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 28571,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "PAPADOPOULOS DIDIER",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 19047,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "DEHOFF KATHERINE",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-12T00:00:00.000Z",
@@ -2328,10 +2325,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 23809,
+        "shares": 19047,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SIMI BONNY W",
+        "filerName": "DEHOFF KATHERINE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 19047,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ALLISON ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-12T00:00:00.000Z",
@@ -2350,14 +2358,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 17311,
-        "value": 172241,
+        "shares": 23809,
         "filerUrl": "",
-        "transactionText": "Sale at price 9.91 - 10.55 per share.",
-        "filerName": "DEHOFF KATHERINE",
+        "transactionText": "",
+        "filerName": "SIMI BONNY W",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2026-02-11T00:00:00.000Z",
+        "startDate": "2026-02-12T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2370,6 +2377,30 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17311,
+        "value": 172241,
+        "filerUrl": "",
+        "transactionText": "Sale at price 9.91 - 10.55 per share.",
+        "filerName": "DEHOFF KATHERINE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 510,
+        "value": 5380,
+        "filerUrl": "",
+        "transactionText": "Sale at price 10.55 per share.",
+        "filerName": "BRUMANA RODRIGO MOREIRA",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-02-10T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2392,18 +2423,6 @@
         "transactionText": "Sale at price 10.55 per share.",
         "filerName": "BOWLES GREGORY",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 510,
-        "value": 5380,
-        "filerUrl": "",
-        "transactionText": "Sale at price 10.55 per share.",
-        "filerName": "BRUMANA RODRIGO MOREIRA",
-        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-02-10T00:00:00.000Z",
         "ownership": "D"
@@ -2434,17 +2453,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2958,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ALLISON ERIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 3663,
         "filerUrl": "",
         "transactionText": "",
@@ -2467,17 +2475,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2958,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "DEHOFF KATHERINE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2606,
         "filerUrl": "",
         "transactionText": "",
@@ -2489,10 +2486,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 3303,
+        "shares": 2958,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SIMI BONNY W",
+        "filerName": "DEHOFF KATHERINE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2958,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ALLISON ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-09T00:00:00.000Z",
@@ -2505,6 +2513,17 @@
         "transactionText": "",
         "filerName": "BEVIRT JOEBEN",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-02-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3303,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SIMI BONNY W",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-09T00:00:00.000Z",
         "ownership": "D"
@@ -2534,6 +2553,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 2171,
+        "value": 31968,
+        "filerUrl": "",
+        "transactionText": "Sale at price 14.53 - 14.84 per share.",
+        "filerName": "PAPADOPOULOS DIDIER",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 35352,
         "value": 521232,
         "filerUrl": "",
@@ -2558,14 +2589,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 2171,
-        "value": 31968,
+        "shares": 523,
+        "value": 7756,
         "filerUrl": "",
-        "transactionText": "Sale at price 14.53 - 14.84 per share.",
-        "filerName": "PAPADOPOULOS DIDIER",
-        "filerRelation": "Officer",
+        "transactionText": "Sale at price 14.83 per share.",
+        "filerName": "BRUMANA RODRIGO MOREIRA",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2026-01-14T00:00:00.000Z",
+        "startDate": "2026-01-13T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2576,18 +2607,6 @@
         "transactionText": "Sale at price 14.84 per share.",
         "filerName": "ALLISON ERIC",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 523,
-        "value": 7756,
-        "filerUrl": "",
-        "transactionText": "Sale at price 14.83 per share.",
-        "filerName": "BRUMANA RODRIGO MOREIRA",
-        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-01-13T00:00:00.000Z",
         "ownership": "D"
@@ -2618,17 +2637,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 56509,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ALLISON ERIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 3664,
         "filerUrl": "",
         "transactionText": "",
@@ -2651,17 +2659,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 19025,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "DEHOFF KATHERINE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2607,
         "filerUrl": "",
         "transactionText": "",
@@ -2673,10 +2670,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 3303,
+        "shares": 19025,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SIMI BONNY W",
+        "filerName": "DEHOFF KATHERINE",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 56509,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ALLISON ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-12T00:00:00.000Z",
@@ -2689,6 +2697,17 @@
         "transactionText": "",
         "filerName": "BEVIRT JOEBEN",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-01-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3303,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SIMI BONNY W",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-12T00:00:00.000Z",
         "ownership": "D"
@@ -2755,11 +2774,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 10484,
-        "value": 141639,
+        "shares": 5447,
+        "value": 73589,
         "filerUrl": "",
         "transactionText": "Sale at price 13.51 per share.",
-        "filerName": "DEHOFF KATHERINE",
+        "filerName": "ALLISON ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-02T00:00:00.000Z",
@@ -2770,34 +2789,35 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 7.8,
+    "currentPrice": 8.64,
     "targetHighPrice": 18,
     "targetLowPrice": 6,
-    "targetMeanPrice": 11.00889,
+    "targetMeanPrice": 10.67556,
     "targetMedianPrice": 11.5,
-    "recommendationMean": 3.2,
+    "recommendationMean": 3,
     "recommendationKey": "hold",
     "numberOfAnalystOpinions": 9,
-    "totalCash": 2466189056,
-    "totalCashPerShare": 2.507,
-    "ebitda": -747873024,
-    "totalDebt": 747726016,
-    "quickRatio": 21.757,
-    "currentRatio": 22.055,
-    "totalRevenue": 77671000,
-    "debtToEquity": 38.194,
-    "revenuePerShare": 0.089,
-    "returnOnAssets": -0.24611999,
-    "returnOnEquity": -0.67968005,
-    "grossProfits": 29540000,
-    "freeCashflow": -380630368,
-    "operatingCashflow": -543361984,
-    "grossMargins": 0.38032,
+    "totalCash": 2263825920,
+    "totalCashPerShare": 2.289,
+    "ebitda": -838780032,
+    "totalDebt": 747713024,
+    "quickRatio": 17.665,
+    "currentRatio": 17.975,
+    "totalRevenue": 116295000,
+    "debtToEquity": 42.322,
+    "revenuePerShare": 0.127,
+    "returnOnAssets": -0.27508,
+    "returnOnEquity": -0.65902,
+    "grossProfits": 39876000,
+    "freeCashflow": -436446240,
+    "operatingCashflow": -609942016,
+    "revenueGrowth": 2574.933,
+    "grossMargins": 0.34289002,
     "ebitdaMargins": 0,
-    "operatingMargins": -9.63375,
+    "operatingMargins": -6.75181,
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-06T05:17:26.168Z",
+  "lastUpdated": "2026-08-10T03:54:07.680Z",
   "source": "Static Build (yahoo-finance2)"
 }

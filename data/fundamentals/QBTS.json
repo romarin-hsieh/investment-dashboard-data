@@ -4,7 +4,7 @@
       {
         "period": "0m",
         "strongBuy": 1,
-        "buy": 13,
+        "buy": 14,
         "hold": 1,
         "sell": 0,
         "strongSell": 0
@@ -12,7 +12,7 @@
       {
         "period": "-1m",
         "strongBuy": 1,
-        "buy": 13,
+        "buy": 14,
         "hold": 1,
         "sell": 0,
         "strongSell": 0
@@ -20,7 +20,7 @@
       {
         "period": "-2m",
         "strongBuy": 1,
-        "buy": 13,
+        "buy": 14,
         "hold": 1,
         "sell": 0,
         "strongSell": 0
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.082200006,
         "position": 30153928,
-        "value": 488795145,
+        "value": 625995552,
         "pctChange": 0.069299996
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.056700002,
         "position": 20793131,
-        "value": 337056634,
+        "value": 431665404,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0432,
         "position": 15851525,
-        "value": 256953205,
+        "value": 329077662,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.0269,
         "position": 9869575,
-        "value": 159985801,
+        "value": 204892379,
         "pctChange": -0.038399998
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024600001,
         "position": 9039744,
-        "value": 146534241,
+        "value": 187665087,
         "pctChange": 0.076799996
       },
       {
@@ -90,7 +90,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0231,
         "position": 8470803,
-        "value": 137311708,
+        "value": 175853872,
         "pctChange": 0.0991
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Clear Street Group Inc.",
         "pctHeld": 0.0156,
         "position": 5708970,
-        "value": 92542398,
+        "value": 118518218,
         "pctChange": 0.3335
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0117,
         "position": 4277322,
-        "value": 69335385,
+        "value": 88797205,
         "pctChange": 0.2056
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0106,
         "position": 3886036,
-        "value": 62992640,
+        "value": 80674108,
         "pctChange": 0.10479999
       },
       {
@@ -126,33 +126,22 @@
         "organization": "HRT Financial LP",
         "pctHeld": 0.0092,
         "position": 3359551,
-        "value": 54458318,
+        "value": 69744279,
         "pctChange": 1
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.02172,
-    "institutionsPercentHeld": 0.49473,
-    "institutionsFloatPercentHeld": 0.50571,
-    "institutionsCount": 671
+    "insidersPercentHeld": 0.02157,
+    "institutionsPercentHeld": 0.50409,
+    "institutionsFloatPercentHeld": 0.51521,
+    "institutionsCount": 680
   },
   "earnings": {
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
-        {
-          "date": "2Q2025",
-          "actual": -0.08,
-          "estimate": -0.05429,
-          "fiscalQuarter": "2Q2025",
-          "calendarQuarter": "2Q2025",
-          "difference": "-0.03",
-          "surprisePct": "-47.36",
-          "periodEndDate": 1751241600,
-          "reportedDate": 1754564400
-        },
         {
           "date": "3Q2025",
           "actual": -0.05,
@@ -185,18 +174,29 @@
           "surprisePct": "46.05",
           "periodEndDate": 1774915200,
           "reportedDate": 1778583600
+        },
+        {
+          "date": "2Q2026",
+          "actual": -0.13,
+          "estimate": -0.09143,
+          "fiscalQuarter": "2Q2026",
+          "calendarQuarter": "2Q2026",
+          "difference": "-0.04",
+          "surprisePct": "-42.19",
+          "periodEndDate": 1782777600,
+          "reportedDate": 1786014000
         }
       ],
-      "currentQuarterEstimate": -0.09143,
-      "currentQuarterEstimateDate": "2Q",
-      "currentCalendarQuarter": "2Q2026",
+      "currentQuarterEstimate": -0.07077,
+      "currentQuarterEstimateDate": "3Q",
+      "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "2Q2026",
-      "currentPeriodEndDate": 1782777600,
+      "currentFiscalQuarter": "3Q2026",
+      "currentPeriodEndDate": 1790726400,
       "earningsDate": [
-        "2026-08-06T12:30:00.000Z"
+        "2026-11-05T12:30:00.000Z"
       ],
-      "isEarningsDateEstimate": false
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -227,13 +227,6 @@
       ],
       "quarterly": [
         {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 3095000,
-          "earnings": -167329000,
-          "profitMargin": -54.064293
-        },
-        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 3739000,
@@ -253,6 +246,13 @@
           "revenue": 2858000,
           "earnings": -18357000,
           "profitMargin": -6.423023
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 3076000,
+          "earnings": -48028000,
+          "profitMargin": -15.613784
         }
       ]
     },
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-07T12:01:27.000Z",
+        "firm": "Rosenblatt",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 43,
+        "priorPriceTarget": 43
+      },
       {
         "epochGradeDate": "2026-07-28T12:32:41.000Z",
         "firm": "Rosenblatt",
@@ -1147,28 +1157,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0070126946,
-    "postMarketChange": 0.15000153,
-    "postMarketTime": "2026-08-05T23:59:40.000Z",
-    "postMarketPrice": 21.54,
+    "postMarketChangePercent": 0.0009634132,
+    "postMarketChange": 0.020000458,
+    "postMarketTime": "2026-08-07T23:59:59.000Z",
+    "postMarketPrice": 20.78,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0520469,
-    "regularMarketChange": -0.890001,
-    "regularMarketTime": "2026-08-05T20:00:00.000Z",
+    "regularMarketChangePercent": 0.06982734,
+    "regularMarketChange": 1.3549995,
+    "regularMarketTime": "2026-08-07T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 16.21,
-    "regularMarketDayHigh": 22,
-    "regularMarketDayLow": 21.15,
-    "regularMarketVolume": 16875092,
-    "averageDailyVolume10Day": 21245050,
-    "averageDailyVolume3Month": 30940922,
+    "regularMarketPrice": 20.76,
+    "regularMarketDayHigh": 20.915,
+    "regularMarketDayLow": 19.53,
+    "regularMarketVolume": 16291642,
+    "averageDailyVolume10Day": 23510720,
+    "averageDailyVolume3Month": 30365382,
     "regularMarketPreviousClose": 17.1,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 21.6357,
+    "regularMarketOpen": 19.72,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "QBTS",
     "underlyingSymbol": null,
@@ -1180,43 +1190,43 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 6004916224
+    "marketCap": 7731853312
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 7370878976,
-    "forwardPE": -41.635628,
+    "enterpriseValue": 7233745920,
+    "forwardPE": -65.12942,
     "profitMargins": 0,
-    "floatShares": 358616533,
-    "sharesOutstanding": 367269074,
+    "floatShares": 359978093,
+    "sharesOutstanding": 369263837,
     "sharesShort": 65067516,
     "sharesShortPriorMonth": "1971-10-08T05:55:18.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.17559999,
-    "heldPercentInsiders": 0.02172,
-    "heldPercentInstitutions": 0.49473,
+    "heldPercentInsiders": 0.02157,
+    "heldPercentInstitutions": 0.50409,
     "shortRatio": 2.65,
     "shortPercentOfFloat": 0.2002,
     "beta": 2.164,
-    "impliedSharesOutstanding": 370445170,
+    "impliedSharesOutstanding": 372439933,
     "category": null,
     "bookValue": 3.038,
-    "priceToBook": 5.335747,
+    "priceToBook": 6.8334427,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
-    "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
-    "netIncomeToCommon": -367998016,
-    "trailingEps": -1.12,
-    "forwardEps": -0.38933,
+    "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
+    "netIncomeToCommon": -248696992,
+    "trailingEps": -0.7,
+    "forwardEps": -0.3175,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 592.324,
-    "enterpriseToEbitda": -53.099,
-    "52WeekChange": 0.13651872,
-    "SandP52WeekChange": 0.19786096,
+    "enterpriseToRevenue": 582.193,
+    "enterpriseToEbitda": -44.876,
+    "52WeekChange": 0.19516408,
+    "SandP52WeekChange": 0.21718061,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1256,24 +1266,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 246043,
-        "value": 6248492,
-        "filerUrl": "",
-        "transactionText": "Sale at price 24.01 - 25.75 per share.",
-        "filerName": "MARKOVICH JOHN M",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-06-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 13518,
         "value": 357055,
         "filerUrl": "",
         "transactionText": "Sale at price 26.41 per share.",
         "filerName": "GHAI ROHIT",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 246043,
+        "value": 6248492,
+        "filerUrl": "",
+        "transactionText": "Sale at price 24.01 - 25.75 per share.",
+        "filerName": "MARKOVICH JOHN M",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-06-15T00:00:00.000Z",
         "ownership": "D"
@@ -1640,18 +1650,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 11562,
-        "value": 276267,
-        "filerUrl": "",
-        "transactionText": "Sale at price 23.89 per share.",
-        "filerName": "MARKOVICH JOHN M",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-12-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 10000,
         "value": 242841,
         "filerUrl": "",
@@ -1670,6 +1668,18 @@
         "transactionText": "Sale at price 23.89 per share.",
         "filerName": "NGUYEN DIANE",
         "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-12-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11562,
+        "value": 276267,
+        "filerUrl": "",
+        "transactionText": "Sale at price 23.89 per share.",
+        "filerName": "MARKOVICH JOHN M",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-12-15T00:00:00.000Z",
         "ownership": "D"
@@ -1772,6 +1782,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 22803,
+        "value": 538240,
+        "filerUrl": "",
+        "transactionText": "Sale at price 23.17 - 23.66 per share.",
+        "filerName": "NGUYEN DIANE",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-11-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 168102,
         "value": 3895663,
         "filerUrl": "",
@@ -1790,18 +1812,6 @@
         "transactionText": "Sale at price 23.17 per share.",
         "filerName": "MARKOVICH JOHN M",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-11-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 22803,
-        "value": 538240,
-        "filerUrl": "",
-        "transactionText": "Sale at price 23.17 - 23.66 per share.",
-        "filerName": "NGUYEN DIANE",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-11-13T00:00:00.000Z",
         "ownership": "D"
@@ -1832,6 +1842,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 20827,
+        "value": 911044,
+        "filerUrl": "",
+        "transactionText": "Sale at price 43.74 per share.",
+        "filerName": "NGUYEN DIANE",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-10-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 31369,
         "value": 1372187,
         "filerUrl": "",
@@ -1856,14 +1878,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20827,
-        "value": 911044,
+        "shares": 10000,
+        "value": 179320,
         "filerUrl": "",
-        "transactionText": "Sale at price 43.74 per share.",
-        "filerName": "NGUYEN DIANE",
-        "filerRelation": "General Counsel",
+        "transactionText": "Sale at price 17.93 per share.",
+        "filerName": "GHAI ROHIT",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2025-10-14T00:00:00.000Z",
+        "startDate": "2025-09-15T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1873,18 +1895,6 @@
         "filerUrl": "",
         "transactionText": "Sale at price 17.93 per share.",
         "filerName": "DILULLO JOHN DAVID",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-09-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
-        "value": 179320,
-        "filerUrl": "",
-        "transactionText": "Sale at price 17.93 per share.",
-        "filerName": "GHAI ROHIT",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-09-15T00:00:00.000Z",
@@ -1940,6 +1950,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 69270,
+        "value": 1259315,
+        "filerUrl": "",
+        "transactionText": "Sale at price 18.11 - 18.54 per share.",
+        "filerName": "NGUYEN DIANE",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-08-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 144000,
         "value": 2603540,
         "filerUrl": "",
@@ -1961,18 +1983,6 @@
         "moneyText": "",
         "startDate": "2025-08-13T00:00:00.000Z",
         "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 69270,
-        "value": 1259315,
-        "filerUrl": "",
-        "transactionText": "Sale at price 18.11 - 18.54 per share.",
-        "filerName": "NGUYEN DIANE",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-08-13T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2048,6 +2058,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 43517,
+        "value": 731303,
+        "filerUrl": "",
+        "transactionText": "Sale at price 16.80 per share.",
+        "filerName": "GHAI ROHIT",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 106626,
         "value": 1796328,
         "filerUrl": "",
@@ -2060,14 +2082,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 43517,
-        "value": 731303,
+        "shares": 14260,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 16.80 per share.",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "GHAI ROHIT",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2025-06-12T00:00:00.000Z",
+        "startDate": "2025-06-05T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2125,18 +2147,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BISCAY ROGER",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 14260,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "GHAI ROHIT",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-05T00:00:00.000Z",
@@ -2288,6 +2298,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 2383,
+        "value": 12558,
+        "filerUrl": "",
+        "transactionText": "Sale at price 5.27 per share.",
+        "filerName": "NGUYEN DIANE",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-01-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 8372,
         "value": 44120,
         "filerUrl": "",
@@ -2306,18 +2328,6 @@
         "transactionText": "Sale at price 5.27 per share.",
         "filerName": "MARKOVICH JOHN M",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-01-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2383,
-        "value": 12558,
-        "filerUrl": "",
-        "transactionText": "Sale at price 5.27 per share.",
-        "filerName": "NGUYEN DIANE",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-01-23T00:00:00.000Z",
         "ownership": "D"
@@ -2399,7 +2409,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "DILULLO JOHN DAVID",
+        "filerName": "GHAI ROHIT",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2024-11-01T00:00:00.000Z",
@@ -2411,7 +2421,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "GHAI ROHIT",
+        "filerName": "DILULLO JOHN DAVID",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2024-11-01T00:00:00.000Z",
@@ -2422,35 +2432,35 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 16.21,
-    "targetHighPrice": 45,
+    "currentPrice": 20.76,
+    "targetHighPrice": 43,
     "targetLowPrice": 22,
-    "targetMeanPrice": 37.052,
-    "targetMedianPrice": 40,
-    "recommendationMean": 1.2,
+    "targetMeanPrice": 35.252,
+    "targetMedianPrice": 37,
+    "recommendationMean": 1.1875,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 15,
-    "totalCash": 588395008,
-    "totalCashPerShare": 1.591,
-    "ebitda": -138814000,
-    "totalDebt": 46820000,
-    "quickRatio": 21.126,
-    "currentRatio": 21.41,
-    "totalRevenue": 12444000,
-    "debtToEquity": 4.165,
-    "revenuePerShare": 0.036,
-    "returnOnAssets": -0.11784001,
-    "returnOnEquity": -0.5527,
-    "grossProfits": 8247000,
-    "freeCashflow": -63507248,
-    "operatingCashflow": -97663000,
-    "revenueGrowth": -0.809,
-    "grossMargins": 0.66273004,
+    "totalCash": 546214976,
+    "totalCashPerShare": 1.467,
+    "ebitda": -161195008,
+    "totalDebt": 48108000,
+    "quickRatio": 20.197,
+    "currentRatio": 20.545,
+    "totalRevenue": 12425000,
+    "debtToEquity": 4.442,
+    "revenuePerShare": 0.035,
+    "returnOnAssets": -0.1065,
+    "returnOnEquity": -0.27985,
+    "grossProfits": 7975000,
+    "freeCashflow": -73379872,
+    "operatingCashflow": -110880000,
+    "revenueGrowth": -0.006,
+    "grossMargins": 0.64185,
     "ebitdaMargins": 0,
-    "operatingMargins": -19.14871,
+    "operatingMargins": -17.32055,
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-06T05:17:51.129Z",
+  "lastUpdated": "2026-08-10T03:54:32.488Z",
   "source": "Static Build (yahoo-finance2)"
 }

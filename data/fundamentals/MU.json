@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0913,
         "position": 103147586,
-        "value": 92130392591,
+        "value": 90519227801,
         "pctChange": 0.024300002
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0648,
         "position": 73137283,
-        "value": 65325489981,
+        "value": 64183085977,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0463,
         "position": 52239483,
-        "value": 46659783948,
+        "value": 45843803478,
         "pctChange": -0.0097
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0372,
         "position": 42054392,
-        "value": 37562562493,
+        "value": 36905673095,
         "pctChange": -0.278
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.031600002,
         "position": 35682439,
-        "value": 31871197777,
+        "value": 31313838254,
         "pctChange": 0.0178
       },
       {
@@ -90,7 +90,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.028399998,
         "position": 32054565,
-        "value": 28630816990,
+        "value": 28130124841,
         "pctChange": -0.19049999
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024300002,
         "position": 27432757,
-        "value": 24502664291,
+        "value": 24074164761,
         "pctChange": 0.0552
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.020399999,
         "position": 23024614,
-        "value": 20565355034,
+        "value": 20205710676,
         "pctChange": 1
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Primecap Management Company",
         "pctHeld": 0.0194,
         "position": 21874204,
-        "value": 19537820324,
+        "value": 19196145364,
         "pctChange": -0.1178
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0149,
         "position": 16842006,
-        "value": 15043111380,
+        "value": 14780039328,
         "pctChange": 0.0272
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00262,
-    "institutionsPercentHeld": 0.80833,
-    "institutionsFloatPercentHeld": 0.81044996,
-    "institutionsCount": 4473
+    "institutionsPercentHeld": 0.80555,
+    "institutionsFloatPercentHeld": 0.80767,
+    "institutionsCount": 4593
   },
   "earnings": {
     "maxAge": 86400,
@@ -178,16 +178,16 @@
         {
           "date": "2Q2026",
           "actual": 25.11,
-          "estimate": 20.70941,
+          "estimate": 20.68603,
           "fiscalQuarter": "3Q2026",
           "calendarQuarter": "2Q2026",
-          "difference": "4.4",
-          "surprisePct": "21.25",
+          "difference": "4.42",
+          "surprisePct": "21.39",
           "periodEndDate": 1780185600,
           "reportedDate": 1782331260
         }
       ],
-      "currentQuarterEstimate": 31.32898,
+      "currentQuarterEstimate": 31.31417,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -199,14 +199,78 @@
       "isEarningsDateEstimate": true
     },
     "financialsChart": {
-      "yearly": [],
-      "quarterly": []
+      "yearly": [
+        {
+          "date": 2022,
+          "revenue": 30758000000,
+          "earnings": 8687000000,
+          "profitMargin": 0.28243056
+        },
+        {
+          "date": 2023,
+          "revenue": 15540000000,
+          "earnings": -5833000000,
+          "profitMargin": -0.37535393
+        },
+        {
+          "date": 2024,
+          "revenue": 25111000000,
+          "earnings": 778000000,
+          "profitMargin": 0.030982438
+        },
+        {
+          "date": 2025,
+          "revenue": 37378000000,
+          "earnings": 8539000000,
+          "profitMargin": 0.2284499
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2025",
+          "fiscalQuarter": "4Q2025",
+          "revenue": 11315000000,
+          "earnings": 3201000000,
+          "profitMargin": 0.28289878
+        },
+        {
+          "date": "4Q2025",
+          "fiscalQuarter": "1Q2026",
+          "revenue": 13643000000,
+          "earnings": 5240000000,
+          "profitMargin": 0.38407975
+        },
+        {
+          "date": "1Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 23860000000,
+          "earnings": 13785000000,
+          "profitMargin": 0.57774514
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "3Q2026",
+          "revenue": 41456000000,
+          "earnings": 28243000000,
+          "profitMargin": 0.6812765
+        }
+      ]
     },
     "financialCurrency": "USD",
     "defaultMethodology": "nongaap"
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-07T19:44:44.000Z",
+        "firm": "Citigroup",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 1150,
+        "priorPriceTarget": 1400
+      },
       {
         "epochGradeDate": "2026-07-14T11:13:19.000Z",
         "firm": "Keybanc",
@@ -8983,60 +9047,63 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.019021697,
-    "postMarketChange": -16.98999,
-    "postMarketTime": "2026-08-05T23:59:59.000Z",
-    "postMarketPrice": 876.2,
+    "postMarketChangePercent": 0.0027690015,
+    "postMarketChange": 2.4299927,
+    "postMarketTime": "2026-08-07T23:59:59.000Z",
+    "postMarketPrice": 880,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.00058254396,
-    "regularMarketChange": 0.52002,
-    "regularMarketTime": "2026-08-05T20:00:00.000Z",
+    "regularMarketChangePercent": -0.004424455,
+    "regularMarketChange": -3.9000244,
+    "regularMarketTime": "2026-08-07T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 893.19,
-    "regularMarketDayHigh": 928.95,
-    "regularMarketDayLow": 881.93,
-    "regularMarketVolume": 33738006,
-    "averageDailyVolume10Day": 50034370,
-    "averageDailyVolume3Month": 53428309,
-    "regularMarketPreviousClose": 892.67,
+    "regularMarketPrice": 877.57,
+    "regularMarketDayHigh": 904.65,
+    "regularMarketDayLow": 847.02,
+    "regularMarketVolume": 34568477,
+    "averageDailyVolume10Day": 48112270,
+    "averageDailyVolume3Month": 52152882,
+    "regularMarketPreviousClose": 881.47003,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 885.3,
+    "regularMarketOpen": 904.65,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "MU",
     "underlyingSymbol": null,
     "shortName": "Micron Technology, Inc.",
-    "longName": null,
+    "longName": "Micron Technology, Inc.",
     "currency": "USD",
     "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
-    "lastMarket": null
+    "lastMarket": null,
+    "marketCap": 991121571840
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 989116694528,
-    "forwardPE": 5.7416587,
+    "enterpriseValue": 971475517440,
+    "forwardPE": 5.659457,
     "profitMargins": 0.55906,
-    "floatShares": 1125474157,
+    "floatShares": 1107257045,
+    "sharesOutstanding": 1129393151,
     "sharesShort": 36211849,
     "sharesShortPriorMonth": "1971-04-27T09:26:22.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
     "dateShortInterest": "2026-07-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0321,
     "heldPercentInsiders": 0.00262,
-    "heldPercentInstitutions": 0.80833,
+    "heldPercentInstitutions": 0.80555,
     "shortRatio": 0.69,
     "shortPercentOfFloat": 0.0321,
     "beta": 2.213,
+    "impliedSharesOutstanding": 1129393151,
     "category": null,
     "bookValue": 89.215,
-    "priceToBook": 10.011658,
+    "priceToBook": 9.8365755,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-08-28T00:00:00.000Z",
@@ -9044,15 +9111,15 @@
     "mostRecentQuarter": "2026-05-28T00:00:00.000Z",
     "earningsQuarterlyGrowth": 13.983,
     "netIncomeToCommon": 50468999168,
-    "trailingEps": 44.21,
-    "forwardEps": 155.56306,
-    "pegRatio": 0.12,
+    "trailingEps": 44.23,
+    "forwardEps": 155.06258,
+    "pegRatio": 0.13,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 957225600,
-    "enterpriseToRevenue": 10.957,
-    "enterpriseToEbitda": 14.499,
-    "52WeekChange": 6.6254826,
-    "SandP52WeekChange": 0.19786096,
+    "enterpriseToRevenue": 10.761,
+    "enterpriseToEbitda": 14.24,
+    "52WeekChange": 6.0931945,
+    "SandP52WeekChange": 0.21718061,
     "lastDividendValue": 0.15,
     "lastDividendDate": "2026-07-06T00:00:00.000Z",
     "latestShareClass": null,
@@ -9657,6 +9724,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 16520,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "ARNZEN APRIL S",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-10-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 4130,
         "value": 0,
         "filerUrl": "",
@@ -9674,18 +9753,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BHATIA MANISH H",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-10-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16520,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "ARNZEN APRIL S",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-10-13T00:00:00.000Z",
@@ -10450,6 +10517,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 74829,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BOKAN MICHAEL W",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-10-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 67922,
         "filerUrl": "",
         "transactionText": "",
@@ -10465,17 +10543,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "BHATIA MANISH H",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-10-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 74829,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BOKAN MICHAEL W",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-10-11T00:00:00.000Z",
@@ -10548,28 +10615,16 @@
         "moneyText": "",
         "startDate": "2024-09-26T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 14531,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "MEHROTRA SANJAY",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2024-08-08T00:00:00.000Z",
-        "ownership": "I"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 893.19,
+    "currentPrice": 877.57,
     "targetHighPrice": 2200,
     "targetLowPrice": 361,
-    "targetMeanPrice": 1507.7906,
+    "targetMeanPrice": 1501.9767,
     "targetMedianPrice": 1550,
     "recommendationMean": 1.41304,
     "recommendationKey": "strong_buy",
@@ -10596,6 +10651,6 @@
     "profitMargins": 0.55906,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-06T05:17:40.578Z",
+  "lastUpdated": "2026-08-10T03:54:22.016Z",
   "source": "Static Build (yahoo-finance2)"
 }
