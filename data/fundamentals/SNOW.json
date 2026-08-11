@@ -41,12 +41,12 @@
     "ownershipList": [
       {
         "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
+        "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "Blackrock Inc.",
-        "pctHeld": 0.080699995,
-        "position": 27962714,
-        "value": 9241397076,
-        "pctChange": -0.0088
+        "pctHeld": 0.09060001,
+        "position": 31405420,
+        "value": 10511394457,
+        "pctChange": 0.123100005
       },
       {
         "maxAge": 1,
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.042600002,
         "position": 14777513,
-        "value": 4883820127,
+        "value": 4946033781,
         "pctChange": 1
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.037100002,
         "position": 12842543,
-        "value": 4244331910,
+        "value": 4298399298,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0323,
         "position": 11187132,
-        "value": 3697235145,
+        "value": 3744333216,
         "pctChange": 0.0911
       },
       {
@@ -81,17 +81,17 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.031,
         "position": 10746987,
-        "value": 3551771628,
+        "value": 3597016680,
         "pctChange": -0.2216
       },
       {
         "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
+        "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "State Street Corporation",
-        "pctHeld": 0.0221,
-        "position": 7662565,
-        "value": 2532401032,
-        "pctChange": 0.0326
+        "pctHeld": 0.023,
+        "position": 7957874,
+        "value": 2663500524,
+        "pctChange": 0.0385
       },
       {
         "maxAge": 1,
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0208,
         "position": 7213093,
-        "value": 2383855035,
+        "value": 2414222315,
         "pctChange": -0.1933
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Jennison Associates LLC",
         "pctHeld": 0.0183,
         "position": 6340455,
-        "value": 2095456911,
+        "value": 2122150365,
         "pctChange": -0.115
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Wellington Management Group, LLP",
         "pctHeld": 0.0154,
         "position": 5347668,
-        "value": 1767350745,
+        "value": 1789864544,
         "pctChange": 0.78080004
       },
       {
@@ -126,7 +126,7 @@
         "organization": "AQR Capital Management, LLC",
         "pctHeld": 0.014199999,
         "position": 4912588,
-        "value": 1623561160,
+        "value": 1644243263,
         "pctChange": 0.4992
       }
     ]
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-10T16:34:00.000Z",
+        "firm": "Evercore ISI Group",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 360,
+        "priorPriceTarget": 280
+      },
       {
         "epochGradeDate": "2026-08-03T11:19:27.000Z",
         "firm": "BTIG",
@@ -6437,48 +6447,48 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0008774185,
-    "postMarketChange": -0.28997803,
-    "postMarketTime": "2026-08-07T23:59:35.000Z",
-    "postMarketPrice": 330.2,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0392767,
-    "regularMarketChange": 12.49,
-    "regularMarketTime": "2026-08-07T20:00:03.000Z",
+    "postMarketChangePercent": 0.00029870207,
+    "postMarketChange": 0.099975586,
+    "postMarketTime": "2026-08-10T23:57:55.000Z",
+    "postMarketPrice": 334.8,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.0127387,
+    "regularMarketChange": 4.21002,
+    "regularMarketTime": "2026-08-10T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 330.49,
-    "regularMarketDayHigh": 331.4,
-    "regularMarketDayLow": 322.13,
-    "regularMarketVolume": 5438948,
-    "averageDailyVolume10Day": 6338040,
-    "averageDailyVolume3Month": 7665095,
-    "regularMarketPreviousClose": 318,
+    "regularMarketPrice": 334.7,
+    "regularMarketDayHigh": 340.5,
+    "regularMarketDayLow": 328,
+    "regularMarketVolume": 3912379,
+    "averageDailyVolume10Day": 6282540,
+    "averageDailyVolume3Month": 7662990,
+    "regularMarketPreviousClose": 330.49,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 325,
+    "regularMarketOpen": 328.45,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "POSTPOST",
     "quoteType": "EQUITY",
     "symbol": "SNOW",
     "underlyingSymbol": null,
     "shortName": "Snowflake Inc.",
     "longName": "Snowflake Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 114547826688
+    "marketCap": 116007026688
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 114364932096,
-    "forwardPE": 122.455864,
+    "enterpriseValue": 115824115712,
+    "forwardPE": 124.01579,
     "profitMargins": -0.23786,
-    "floatShares": 329460630,
+    "floatShares": 328930332,
     "sharesOutstanding": 346600000,
     "sharesShort": 21703645,
     "sharesShortPriorMonth": "1970-09-09T19:35:39.000Z",
@@ -6493,21 +6503,21 @@
     "impliedSharesOutstanding": 346600000,
     "category": null,
     "bookValue": 5.596,
-    "priceToBook": 59.05825,
+    "priceToBook": 59.810577,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-01-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2027-01-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
     "netIncomeToCommon": -1197095040,
-    "trailingEps": -3.54,
+    "trailingEps": -3.58,
     "forwardEps": 2.69885,
     "pegRatio": 8.35,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 22.724,
-    "enterpriseToEbitda": -101.507,
-    "52WeekChange": 0.72309697,
-    "SandP52WeekChange": 0.21718061,
+    "enterpriseToRevenue": 23.014,
+    "enterpriseToEbitda": -102.802,
+    "52WeekChange": 0.73365796,
+    "SandP52WeekChange": 0.20282328,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -6739,6 +6749,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 99900,
+        "value": 25147562,
+        "filerUrl": "",
+        "transactionText": "Sale at price 250.46 - 254.20 per share.",
+        "filerName": "SLOOTMAN FRANK",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1273,
         "value": 0,
         "filerUrl": "",
@@ -6816,18 +6838,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BRIGGS TERESA",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 99900,
-        "value": 25147562,
-        "filerUrl": "",
-        "transactionText": "Sale at price 250.46 - 254.20 per share.",
-        "filerName": "SLOOTMAN FRANK",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-29T00:00:00.000Z",
@@ -7015,11 +7025,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 437076,
-        "value": 3881235,
+        "shares": 100000,
+        "value": 374000,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 8.88 per share.",
-        "filerName": "SLOOTMAN FRANK",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.74 per share.",
+        "filerName": "GARRETT MARK S",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-29T00:00:00.000Z",
@@ -7027,11 +7037,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 100000,
-        "value": 374000,
+        "shares": 437076,
+        "value": 3881235,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.74 per share.",
-        "filerName": "GARRETT MARK S",
+        "transactionText": "Conversion of Exercise of derivative security at price 8.88 per share.",
+        "filerName": "SLOOTMAN FRANK",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-29T00:00:00.000Z",
@@ -7183,6 +7193,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 2141,
+        "value": 372465,
+        "filerUrl": "",
+        "transactionText": "Sale at price 173.97 per share.",
+        "filerName": "HO EMILY",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 874,
         "value": 148589,
         "filerUrl": "",
@@ -7200,18 +7222,6 @@
         "filerUrl": "",
         "transactionText": "Sale at price 170.01 per share.",
         "filerName": "KLEINERMAN CHRISTIAN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2141,
-        "value": 372465,
-        "filerUrl": "",
-        "transactionText": "Sale at price 173.97 per share.",
-        "filerName": "HO EMILY",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-23T00:00:00.000Z",
@@ -7519,18 +7529,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 872467,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SPEISER MICHAEL L",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-02-02T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 10000,
         "value": 1970900,
         "filerUrl": "",
@@ -7540,6 +7538,18 @@
         "moneyText": "",
         "startDate": "2026-02-02T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 872467,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SPEISER MICHAEL L",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-02-02T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -7627,24 +7637,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 2611,
-        "value": 585647,
-        "filerUrl": "",
-        "transactionText": "Sale at price 224.30 per share.",
-        "filerName": "KLEINERMAN CHRISTIAN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-12-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 870,
         "value": 195141,
         "filerUrl": "",
         "transactionText": "Sale at price 224.30 per share.",
         "filerName": "DAGEVILLE BENOIT",
         "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-12-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2611,
+        "value": 585647,
+        "filerUrl": "",
+        "transactionText": "Sale at price 224.30 per share.",
+        "filerName": "KLEINERMAN CHRISTIAN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-23T00:00:00.000Z",
         "ownership": "D"
@@ -7687,6 +7697,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 1912,
+        "value": 406204,
+        "filerUrl": "",
+        "transactionText": "Sale at price 212.45 per share.",
+        "filerName": "DAGEVILLE BENOIT",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-12-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2975,
         "value": 632039,
         "filerUrl": "",
@@ -7705,18 +7727,6 @@
         "transactionText": "Sale at price 212.45 per share.",
         "filerName": "SLOOTMAN FRANK",
         "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-12-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1912,
-        "value": 406204,
-        "filerUrl": "",
-        "transactionText": "Sale at price 212.45 per share.",
-        "filerName": "DAGEVILLE BENOIT",
-        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2025-12-16T00:00:00.000Z",
         "ownership": "D"
@@ -7747,6 +7757,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 814,
+        "value": 181774,
+        "filerUrl": "",
+        "transactionText": "Sale at price 223.31 per share.",
+        "filerName": "DAGEVILLE BENOIT",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-12-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 548,
         "value": 122374,
         "filerUrl": "",
@@ -7765,18 +7787,6 @@
         "transactionText": "Sale at price 223.31 per share.",
         "filerName": "SLOOTMAN FRANK",
         "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-12-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 814,
-        "value": 181774,
-        "filerUrl": "",
-        "transactionText": "Sale at price 223.31 per share.",
-        "filerName": "DAGEVILLE BENOIT",
-        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2025-12-09T00:00:00.000Z",
         "ownership": "D"
@@ -7987,18 +7997,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 149058,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "ROBINS BRIAN G",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-10-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 5000,
         "value": 1250000,
         "filerUrl": "",
@@ -8008,6 +8006,18 @@
         "moneyText": "",
         "startDate": "2025-10-08T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 149058,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "ROBINS BRIAN G",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-10-08T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -8338,7 +8348,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 330.49,
+    "currentPrice": 334.7,
     "targetHighPrice": 500,
     "targetLowPrice": 110,
     "targetMeanPrice": 302.2875,
@@ -8367,6 +8377,6 @@
     "profitMargins": -0.23786,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-10T03:55:21.559Z",
+  "lastUpdated": "2026-08-11T03:44:45.130Z",
   "source": "Static Build (yahoo-finance2)"
 }

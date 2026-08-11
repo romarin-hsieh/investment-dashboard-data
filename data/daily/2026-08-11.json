@@ -1,6 +1,6 @@
 {
-  "as_of_date_taipei": "2026-07-12",
-  "generated_at_utc": "2026-07-12T05:29:36.653Z",
+  "as_of_date_taipei": "2026-08-11",
+  "generated_at_utc": "2026-08-11T03:44:49.074Z",
   "universe": [
     "ASTS",
     "RIVN",
@@ -139,7 +139,9 @@
     "WULF",
     "XOM",
     "ZS",
-    "ABNB"
+    "ABNB",
+    "SNOW",
+    "AMAT"
   ],
   "per_symbol": [
     {
@@ -1935,77 +1937,103 @@
         "bloomberg_markets",
         "cnbc_finance"
       ]
+    },
+    {
+      "symbol": "SNOW",
+      "short_brief_zh": "SNOW公司在其專業領域持續發展，關注市場動態和技術創新。",
+      "brief_truncated": false,
+      "brief_source": "generated",
+      "news_top10": [],
+      "news_insufficient": true,
+      "gaps": [
+        "reuters_business",
+        "bloomberg_markets",
+        "cnbc_finance"
+      ]
+    },
+    {
+      "symbol": "AMAT",
+      "short_brief_zh": "AMAT公司在其專業領域持續發展，關注市場動態和技術創新。",
+      "brief_truncated": false,
+      "brief_source": "generated",
+      "news_top10": [],
+      "news_insufficient": true,
+      "gaps": [
+        "reuters_business",
+        "bloomberg_markets",
+        "cnbc_finance"
+      ]
     }
   ],
   "macro": {
     "items": [
       {
         "id": "sp500_index",
-        "value": 6097.018034371528,
-        "as_of": "2026-07-12T05:29:36.655Z",
+        "value": 6071.718643752006,
+        "as_of": "2026-08-11T03:44:49.074Z",
         "source_name": "financial_api",
         "quality_flag": "good"
       },
       {
         "id": "nasdaq_composite",
-        "value": 19696.627459582727,
-        "as_of": "2026-07-12T05:29:36.655Z",
+        "value": 19762.942211572747,
+        "as_of": "2026-08-11T03:44:49.074Z",
         "source_name": "financial_api",
         "quality_flag": "good"
       },
       {
         "id": "vix_volatility",
-        "value": 21.150354770661544,
-        "as_of": "2026-07-12T05:29:36.655Z",
+        "value": 22.1419101009412,
+        "as_of": "2026-08-11T03:44:49.074Z",
         "source_name": "financial_api",
         "quality_flag": "good"
       },
       {
         "id": "us_10y_treasury",
-        "value": 4.725501450399166,
-        "as_of": "2026-07-12T05:29:36.655Z",
+        "value": 4.66242691207743,
+        "as_of": "2026-08-11T03:44:49.074Z",
         "source_name": "treasury_gov",
         "quality_flag": "good"
       },
       {
         "id": "dxy_dollar_index",
-        "value": 105.57145711795211,
-        "as_of": "2026-07-12T05:29:36.655Z",
+        "value": 108.98017476825909,
+        "as_of": "2026-08-11T03:44:49.074Z",
         "source_name": "forex_scraper",
         "quality_flag": "good"
       },
       {
         "id": "gold_spot_price",
-        "value": 2711.122458535805,
-        "as_of": "2026-07-12T05:29:36.655Z",
+        "value": 2781.478193796042,
+        "as_of": "2026-08-11T03:44:49.074Z",
         "source_name": "commodities_scraper",
         "quality_flag": "good"
       },
       {
         "id": "crude_oil_wti",
-        "value": 77.66098293075636,
-        "as_of": "2026-07-12T05:29:36.655Z",
+        "value": 83.01923613107071,
+        "as_of": "2026-08-11T03:44:49.074Z",
         "source_name": "commodities_scraper",
         "quality_flag": "good"
       },
       {
         "id": "bitcoin_price",
-        "value": 106311.67647403669,
-        "as_of": "2026-07-12T05:29:36.655Z",
+        "value": 104115.67623034223,
+        "as_of": "2026-08-11T03:44:49.074Z",
         "source_name": "crypto_api",
         "quality_flag": "good"
       },
       {
         "id": "fed_funds_rate",
         "value": 4.5,
-        "as_of": "2026-07-12T05:29:36.655Z",
+        "as_of": "2026-08-11T03:44:49.074Z",
         "source_name": "fed_scraper",
         "quality_flag": "good"
       }
     ]
   },
   "generation_metadata": {
-    "total_processing_time_ms": 2586.4041284805776,
+    "total_processing_time_ms": 2201.8857577407566,
     "news_sources_attempted": 3,
     "news_sources_successful": 0,
     "total_articles_collected": 0,

@@ -45,7 +45,7 @@
         "organization": "Dimensional Fund Advisors LP",
         "pctHeld": 0,
         "position": 14102777,
-        "value": 173464159,
+        "value": 163451187,
         "pctChange": 0.8129
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0,
         "position": 11092140,
-        "value": 136433324,
+        "value": 128557904,
         "pctChange": 1
       },
       {
@@ -63,26 +63,8 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0,
         "position": 11071533,
-        "value": 136179858,
+        "value": 128319069,
         "pctChange": 1
-      },
-      {
-        "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
-        "organization": "Blackrock Inc.",
-        "pctHeld": 0,
-        "position": 41742612,
-        "value": 513434135,
-        "pctChange": -0.0644
-      },
-      {
-        "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
-        "organization": "State Street Corporation",
-        "pctHeld": 0,
-        "position": 10996032,
-        "value": 135251195,
-        "pctChange": -0.0401
       },
       {
         "maxAge": 1,
@@ -90,7 +72,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0,
         "position": 7140974,
-        "value": 87833981,
+        "value": 82763889,
         "pctChange": -0.0364
       },
       {
@@ -99,7 +81,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0,
         "position": 6433424,
-        "value": 79131116,
+        "value": 74563385,
         "pctChange": 1.3215
       },
       {
@@ -108,7 +90,7 @@
         "organization": "Situational Awareness Partners LP",
         "pctHeld": 0,
         "position": 12276139,
-        "value": 150996512,
+        "value": 142280452,
         "pctChange": 1
       },
       {
@@ -117,7 +99,7 @@
         "organization": "Situational Awareness LP                          ",
         "pctHeld": 0,
         "position": 12276139,
-        "value": 150996512,
+        "value": 142280452,
         "pctChange": 6.4835997
       },
       {
@@ -126,8 +108,26 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0,
         "position": 6759504,
-        "value": 83141900,
+        "value": 78342652,
         "pctChange": 0.0925
+      },
+      {
+        "maxAge": 1,
+        "reportDate": "2026-06-30T00:00:00.000Z",
+        "organization": "Blackrock Inc.",
+        "pctHeld": 0,
+        "position": 42332754,
+        "value": 490636625,
+        "pctChange": 0.014099999
+      },
+      {
+        "maxAge": 1,
+        "reportDate": "2026-06-30T00:00:00.000Z",
+        "organization": "State Street Corporation",
+        "pctHeld": 0,
+        "position": 11002124,
+        "value": 127514618,
+        "pctChange": 0.00059999997
       }
     ]
   },
@@ -259,6 +259,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-10T11:40:05.000Z",
+        "firm": "Chardan Capital",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 21,
+        "priorPriceTarget": 21
+      },
       {
         "epochGradeDate": "2026-08-07T12:02:38.000Z",
         "firm": "Cantor Fitzgerald",
@@ -1375,28 +1385,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.006504059,
-    "postMarketChange": 0.07999992,
-    "postMarketTime": "2026-08-07T23:59:40.000Z",
-    "postMarketPrice": 12.38,
+    "postMarketChangePercent": 0.008628078,
+    "postMarketChange": 0.09999943,
+    "postMarketTime": "2026-08-10T23:59:39.000Z",
+    "postMarketPrice": 11.69,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.035294104,
-    "regularMarketChange": -0.4499998,
-    "regularMarketTime": "2026-08-07T20:00:01.000Z",
+    "regularMarketChangePercent": -0.057723597,
+    "regularMarketChange": -0.71,
+    "regularMarketTime": "2026-08-10T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 12.3,
-    "regularMarketDayHigh": 14.01,
-    "regularMarketDayLow": 12.0838,
-    "regularMarketVolume": 23422208,
-    "averageDailyVolume10Day": 22160840,
-    "averageDailyVolume3Month": 23261830,
-    "regularMarketPreviousClose": 12.75,
+    "regularMarketPrice": 11.59,
+    "regularMarketDayHigh": 12.33,
+    "regularMarketDayLow": 11.59,
+    "regularMarketVolume": 17368132,
+    "averageDailyVolume10Day": 22307360,
+    "averageDailyVolume3Month": 23055819,
+    "regularMarketPreviousClose": 12.3,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 13.985,
+    "regularMarketOpen": 12.2215,
     "exchange": "NCM",
     "exchangeName": "NasdaqCM",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "POSTPOST",
     "quoteType": "EQUITY",
     "symbol": "CLSK",
     "underlyingSymbol": null,
@@ -1408,16 +1418,16 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 3156285952
+    "marketCap": 2976509952
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 4743144960,
-    "forwardPE": -9.413241,
+    "enterpriseValue": 4560804864,
+    "forwardPE": -8.869876,
     "profitMargins": -1.46901,
-    "floatShares": 246986115,
-    "sharesOutstanding": 256608606,
+    "floatShares": 246988684,
+    "sharesOutstanding": 256817073,
     "sharesShort": 77993876,
     "sharesShortPriorMonth": "1972-09-08T03:25:14.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
@@ -1428,24 +1438,24 @@
     "shortRatio": 3.53,
     "shortPercentOfFloat": 0.42540002,
     "beta": 3.886,
-    "impliedSharesOutstanding": 256608606,
+    "impliedSharesOutstanding": 256817073,
     "category": null,
-    "bookValue": 7.65,
-    "priceToBook": 1.6078432,
+    "bookValue": 2.965,
+    "priceToBook": 3.9089377,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-09-30T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-09-30T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -1028217024,
-    "trailingEps": -3.78,
-    "forwardEps": -1.30667,
+    "trailingEps": -3.56,
+    "forwardEps": -1.41667,
     "lastSplitFactor": "1:10",
     "lastSplitDate": 1576022400,
-    "enterpriseToRevenue": 6.983,
-    "enterpriseToEbitda": -5.608,
-    "52WeekChange": 0.24620056,
-    "SandP52WeekChange": 0.21718061,
+    "enterpriseToRevenue": 6.715,
+    "enterpriseToEbitda": -5.393,
+    "52WeekChange": 0.16834676,
+    "SandP52WeekChange": 0.20282328,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1817,18 +1827,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 63713,
-        "value": 581063,
-        "filerUrl": "",
-        "transactionText": "Sale at price 9.12 per share.",
-        "filerName": "MONNIG TAYLOR",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2025-09-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 432250,
         "filerUrl": "",
         "transactionText": "",
@@ -1878,6 +1876,18 @@
         "transactionText": "",
         "filerName": "CARSON BRIAN JAY",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 63713,
+        "value": 581063,
+        "filerUrl": "",
+        "transactionText": "Sale at price 9.12 per share.",
+        "filerName": "MONNIG TAYLOR",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2025-09-09T00:00:00.000Z",
         "ownership": "D"
@@ -2332,18 +2342,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 22222,
-        "value": 205331,
-        "filerUrl": "",
-        "transactionText": "Sale at price 9.24 per share.",
-        "filerName": "WOOD THOMAS LEIGH",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-09-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 405000,
         "filerUrl": "",
         "transactionText": "",
@@ -2400,6 +2398,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 22222,
+        "value": 205331,
+        "filerUrl": "",
+        "transactionText": "Sale at price 9.24 per share.",
+        "filerName": "WOOD THOMAS LEIGH",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-09-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1350,
         "value": 14540,
         "filerUrl": "",
@@ -2415,7 +2425,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 12.3,
+    "currentPrice": 11.59,
     "targetHighPrice": 27,
     "targetLowPrice": 21,
     "targetMeanPrice": 23.73077,
@@ -2444,6 +2454,6 @@
     "profitMargins": -1.46901,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-10T03:53:28.228Z",
+  "lastUpdated": "2026-08-11T03:42:51.893Z",
   "source": "Static Build (yahoo-finance2)"
 }

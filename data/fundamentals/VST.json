@@ -41,12 +41,12 @@
     "ownershipList": [
       {
         "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
+        "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "Blackrock Inc.",
-        "pctHeld": 0.0845,
-        "position": 28480341,
-        "value": 4004051036,
-        "pctChange": -0.0608
+        "pctHeld": 0.0862,
+        "position": 29064465,
+        "value": 4152439972,
+        "pctChange": 0.020499999
       },
       {
         "maxAge": 1,
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0634,
         "position": 21393960,
-        "value": 3007776758,
+        "value": 3056554960,
         "pctChange": 1
       },
       {
@@ -63,17 +63,17 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.050100002,
         "position": 16902218,
-        "value": 2376282766,
+        "value": 2414819803,
         "pctChange": 1
       },
       {
         "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
+        "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "State Street Corporation",
-        "pctHeld": 0.0497,
-        "position": 16770480,
-        "value": 2357761721,
-        "pctChange": 0.0179
+        "pctHeld": 0.05,
+        "position": 16850452,
+        "value": 2407423994,
+        "pctChange": 0.0047999998
       },
       {
         "maxAge": 1,
@@ -81,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0469,
         "position": 15808007,
-        "value": 2222447646,
+        "value": 2258489882,
         "pctChange": -0.0699
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.026800001,
         "position": 9033671,
-        "value": 1270043772,
+        "value": 1290640531,
         "pctChange": 0.0076
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.024500001,
         "position": 8256938,
-        "value": 1160842883,
+        "value": 1179668691,
         "pctChange": 0.0432
       },
       {
@@ -108,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0222,
         "position": 7489657,
-        "value": 1052970850,
+        "value": 1070047259,
         "pctChange": -0.303
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Lone Pine Capital Llc",
         "pctHeld": 0.0184,
         "position": 6187585,
-        "value": 869912552,
+        "value": 884020238,
         "pctChange": 0.1872
       },
       {
@@ -126,7 +126,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.0136,
         "position": 4597984,
-        "value": 646430553,
+        "value": 656913951,
         "pctChange": 0.6966
       }
     ]
@@ -177,10 +177,14 @@
         },
         {
           "date": "2Q2026",
+          "actual": 0.76,
           "estimate": 1.6308,
           "fiscalQuarter": "2Q2026",
           "calendarQuarter": "2Q2026",
-          "periodEndDate": 1782777600
+          "difference": "-0.87",
+          "surprisePct": "-53.4",
+          "periodEndDate": 1782777600,
+          "reportedDate": 1786356149
         }
       ],
       "currentQuarterEstimate": 2.56213,
@@ -242,6 +246,13 @@
           "revenue": 5640000000,
           "earnings": 1029000000,
           "profitMargin": 0.18244681
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 4017000000,
+          "earnings": 305000000,
+          "profitMargin": 0.07592731
         }
       ]
     },
@@ -1606,49 +1617,49 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.002204976,
-    "postMarketChange": 0.30999756,
-    "postMarketTime": "2026-08-07T23:59:58.000Z",
-    "postMarketPrice": 140.9,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.00558784,
-    "regularMarketChange": -0.790009,
-    "regularMarketTime": "2026-08-07T20:00:02.000Z",
+    "postMarketChangePercent": 0.0032897126,
+    "postMarketChange": 0.47000122,
+    "postMarketTime": "2026-08-10T23:59:40.000Z",
+    "postMarketPrice": 143.34,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.0162174,
+    "regularMarketChange": 2.28,
+    "regularMarketTime": "2026-08-10T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 140.59,
-    "regularMarketDayHigh": 142.69,
-    "regularMarketDayLow": 134.75,
-    "regularMarketVolume": 7364955,
-    "averageDailyVolume10Day": 5914100,
-    "averageDailyVolume3Month": 4842141,
-    "regularMarketPreviousClose": 141.38,
+    "regularMarketPrice": 142.87,
+    "regularMarketDayHigh": 144.86,
+    "regularMarketDayLow": 141.0505,
+    "regularMarketVolume": 3814327,
+    "averageDailyVolume10Day": 5927920,
+    "averageDailyVolume3Month": 4821348,
+    "regularMarketPreviousClose": 140.59,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 138.615,
+    "regularMarketOpen": 141.91,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "POSTPOST",
     "quoteType": "EQUITY",
     "symbol": "VST",
     "underlyingSymbol": null,
     "shortName": "Vistra Corp.",
     "longName": "Vistra Corp.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 47404482560
+    "marketCap": 47952199680
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 69636243456,
-    "forwardPE": 13.597224,
+    "enterpriseValue": 70402318336,
+    "forwardPE": 13.83647,
     "profitMargins": 0.1155,
-    "floatShares": 306408480,
-    "sharesOutstanding": 337182468,
+    "floatShares": 306153120,
+    "sharesOutstanding": 335635195,
     "sharesShort": 12604861,
     "sharesShortPriorMonth": "1970-06-27T19:23:52.000Z",
     "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
@@ -1659,10 +1670,10 @@
     "shortRatio": 2.93,
     "shortPercentOfFloat": 0.0432,
     "beta": 1.433,
-    "impliedSharesOutstanding": 337182468,
+    "impliedSharesOutstanding": 335635195,
     "category": null,
     "bookValue": 9.232,
-    "priceToBook": 15.228552,
+    "priceToBook": 15.475519,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1670,14 +1681,14 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": -0.067,
     "netIncomeToCommon": 2027000064,
-    "trailingEps": 5.96,
-    "forwardEps": 10.33961,
+    "trailingEps": 6.06,
+    "forwardEps": 10.32561,
     "pegRatio": 0.4,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 3.625,
-    "enterpriseToEbitda": 10.483,
-    "52WeekChange": -0.2973311,
-    "SandP52WeekChange": 0.21718061,
+    "enterpriseToRevenue": 3.664,
+    "enterpriseToEbitda": 10.598,
+    "52WeekChange": -0.3182382,
+    "SandP52WeekChange": 0.20282328,
     "lastDividendValue": 0.229,
     "lastDividendDate": "2026-06-22T00:00:00.000Z",
     "latestShareClass": null,
@@ -2079,30 +2090,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 22251,
-        "value": 3605775,
-        "filerUrl": "",
-        "transactionText": "Sale at price 162.05 per share.",
-        "filerName": "BURKE JAMES A.",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-12-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 22251,
-        "value": 3605775,
-        "filerUrl": "",
-        "transactionText": "Sale at price 162.05 per share.",
-        "filerName": "BURKE JAMES A.",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-12-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 27745,
         "value": 0,
         "filerUrl": "",
@@ -2119,6 +2106,30 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "BURKE JAMES A.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-12-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 22251,
+        "value": 3605775,
+        "filerUrl": "",
+        "transactionText": "Sale at price 162.05 per share.",
+        "filerName": "BURKE JAMES A.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-12-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 22251,
+        "value": 3605775,
+        "filerUrl": "",
+        "transactionText": "Sale at price 162.05 per share.",
         "filerName": "BURKE JAMES A.",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -2151,18 +2162,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 58275,
-        "value": 1339160,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 22.98 per share.",
-        "filerName": "KIRBY CARRIE LEE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-11-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 56000,
         "value": 1102080,
         "filerUrl": "",
@@ -2175,11 +2174,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 56000,
-        "value": 9456160,
+        "shares": 58275,
+        "value": 1339160,
         "filerUrl": "",
-        "transactionText": "Sale at price 168.86 per share.",
-        "filerName": "HUDSON SCOTT A",
+        "transactionText": "Conversion of Exercise of derivative security at price 22.98 per share.",
+        "filerName": "KIRBY CARRIE LEE",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-14T00:00:00.000Z",
@@ -2199,6 +2198,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 56000,
+        "value": 9456160,
+        "filerUrl": "",
+        "transactionText": "Sale at price 168.86 per share.",
+        "filerName": "HUDSON SCOTT A",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-11-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 50000,
         "value": 701500,
         "filerUrl": "",
@@ -2211,10 +2222,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 21935,
-        "value": 4091536,
+        "shares": 27893,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 186.53 per share.",
+        "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "BURKE JAMES A.",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -2223,10 +2234,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 27893,
-        "value": 0,
+        "shares": 21935,
+        "value": 4091536,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "Sale at price 186.53 per share.",
         "filerName": "BURKE JAMES A.",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -2667,10 +2678,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 62666,
-        "value": 12925332,
+        "shares": 27893,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 200.50 - 208.75 per share.",
+        "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "BURKE JAMES A.",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -2679,10 +2690,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 27893,
-        "value": 0,
+        "shares": 62666,
+        "value": 12925332,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "Sale at price 200.50 - 208.75 per share.",
         "filerName": "BURKE JAMES A.",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -2812,9 +2823,9 @@
       {
         "maxAge": 1,
         "shares": 20000,
-        "value": 3135960,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 156.80 per share.",
+        "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "HELM SCOTT BRADFORD",
         "filerRelation": "Director",
         "moneyText": "",
@@ -2836,9 +2847,9 @@
       {
         "maxAge": 1,
         "shares": 20000,
-        "value": 0,
+        "value": 3135960,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "Sale at price 156.80 per share.",
         "filerName": "HELM SCOTT BRADFORD",
         "filerRelation": "Director",
         "moneyText": "",
@@ -3267,18 +3278,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 207100,
-        "value": 33413260,
-        "filerUrl": "",
-        "transactionText": "Sale at price 158.76 - 162.66 per share.",
-        "filerName": "MUSCATO STEPHEN J",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-11-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 85000,
         "value": 13793828,
         "filerUrl": "",
@@ -3303,6 +3302,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 207100,
+        "value": 33413260,
+        "filerUrl": "",
+        "transactionText": "Sale at price 158.76 - 162.66 per share.",
+        "filerName": "MUSCATO STEPHEN J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-11-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 34714,
         "value": 2789964,
         "filerUrl": "",
@@ -3318,7 +3329,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 140.59,
+    "currentPrice": 142.87,
     "targetHighPrice": 313,
     "targetLowPrice": 106,
     "targetMeanPrice": 222.10526,
@@ -3343,6 +3354,6 @@
     "profitMargins": 0.1155,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-10T03:51:50.024Z",
+  "lastUpdated": "2026-08-11T03:41:14.860Z",
   "source": "Static Build (yahoo-finance2)"
 }

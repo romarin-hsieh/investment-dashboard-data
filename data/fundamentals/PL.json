@@ -33,21 +33,21 @@
     "ownershipList": [
       {
         "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
+        "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "Alphabet Inc.",
         "pctHeld": 0.105900005,
         "position": 35248893,
-        "value": 843506020,
-        "pctChange": 0.1035
+        "value": 814249441,
+        "pctChange": 0
       },
       {
         "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
+        "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "Blackrock Inc.",
-        "pctHeld": 0.0765,
-        "position": 25466806,
-        "value": 609420675,
-        "pctChange": 0.2588
+        "pctHeld": 0.0555,
+        "position": 18482539,
+        "value": 426946657,
+        "pctChange": -0.2742
       },
       {
         "maxAge": 1,
@@ -55,7 +55,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0367,
         "position": 12204165,
-        "value": 292045672,
+        "value": 281916216,
         "pctChange": 1
       },
       {
@@ -64,7 +64,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0366,
         "position": 12186969,
-        "value": 291634171,
+        "value": 281518988,
         "pctChange": 1
       },
       {
@@ -73,7 +73,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.0249,
         "position": 8282076,
-        "value": 198190081,
+        "value": 191315958,
         "pctChange": 0.0785
       },
       {
@@ -82,7 +82,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0.0239,
         "position": 7971548,
-        "value": 190759146,
+        "value": 184142761,
         "pctChange": -0.19370002
       },
       {
@@ -91,7 +91,7 @@
         "organization": "Driehaus Capital Management, LLC",
         "pctHeld": 0.0238,
         "position": 7918693,
-        "value": 189494325,
+        "value": 182921811,
         "pctChange": -0.069699995
       },
       {
@@ -100,17 +100,8 @@
         "organization": "Canada Pension Plan Investment Board",
         "pctHeld": 0.023599999,
         "position": 7844300,
-        "value": 187714101,
+        "value": 181203332,
         "pctChange": -0.0077
-      },
-      {
-        "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
-        "organization": "State Street Corporation",
-        "pctHeld": 0.0207,
-        "position": 6881809,
-        "value": 164681691,
-        "pctChange": 0.1487
       },
       {
         "maxAge": 1,
@@ -118,8 +109,17 @@
         "organization": "Two Sigma Investments, LP",
         "pctHeld": 0.020299999,
         "position": 6759845,
-        "value": 161763092,
+        "value": 156152422,
         "pctChange": 0.5033
+      },
+      {
+        "maxAge": 1,
+        "reportDate": "2026-03-31T00:00:00.000Z",
+        "organization": "Geode Capital Management, LLC",
+        "pctHeld": 0.0197,
+        "position": 6558199,
+        "value": 151494399,
+        "pctChange": 0.15
       }
     ]
   },
@@ -1329,48 +1329,48 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.013790217,
-    "postMarketChange": 0.32999992,
-    "postMarketTime": "2026-08-08T00:00:00.000Z",
-    "postMarketPrice": 24.26,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.053257097,
-    "regularMarketChange": 1.21,
-    "regularMarketTime": "2026-08-07T20:00:02.000Z",
+    "postMarketChangePercent": -0.006060662,
+    "postMarketChange": -0.1400013,
+    "postMarketTime": "2026-08-10T23:59:59.000Z",
+    "postMarketPrice": 22.96,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.0346845,
+    "regularMarketChange": -0.83,
+    "regularMarketTime": "2026-08-10T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 23.93,
-    "regularMarketDayHigh": 24.23,
-    "regularMarketDayLow": 22.96,
-    "regularMarketVolume": 5283399,
-    "averageDailyVolume10Day": 6359630,
-    "averageDailyVolume3Month": 12060367,
-    "regularMarketPreviousClose": 22.72,
+    "regularMarketPrice": 23.1,
+    "regularMarketDayHigh": 24.58,
+    "regularMarketDayLow": 23.07,
+    "regularMarketVolume": 4342386,
+    "averageDailyVolume10Day": 6230670,
+    "averageDailyVolume3Month": 11952177,
+    "regularMarketPreviousClose": 23.93,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 23.34,
+    "regularMarketOpen": 24.03,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "POSTPOST",
     "quoteType": "EQUITY",
     "symbol": "PL",
     "underlyingSymbol": null,
     "shortName": "Planet Labs PBC",
     "longName": "Planet Labs PBC",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 8528712704
+    "marketCap": 8232898560
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 8285912576,
-    "forwardPE": 7186.1865,
+    "enterpriseValue": 7990098432,
+    "forwardPE": 6936.937,
     "profitMargins": -1.11171,
-    "floatShares": 286487042,
+    "floatShares": 286540503,
     "sharesOutstanding": 332908730,
     "sharesShort": 32423850,
     "sharesShortPriorMonth": "1971-04-25T10:58:30.000Z",
@@ -1385,20 +1385,20 @@
     "impliedSharesOutstanding": 356402526,
     "category": null,
     "bookValue": 1.245,
-    "priceToBook": 19.220884,
+    "priceToBook": 18.554216,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-01-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2027-01-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
     "netIncomeToCommon": -373104000,
-    "trailingEps": -1.16,
+    "trailingEps": -1.12,
     "forwardEps": 0.00333,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 24.689,
-    "enterpriseToEbitda": -160.21,
-    "52WeekChange": 2.7274144,
-    "SandP52WeekChange": 0.21718061,
+    "enterpriseToRevenue": 23.808,
+    "enterpriseToEbitda": -154.491,
+    "52WeekChange": 2.4736843,
+    "SandP52WeekChange": 0.20282328,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1425,6 +1425,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 55000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "SCHINGLER ROBERT H",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-08-05T00:00:00.000Z",
+        "ownership": "I"
+      },
       {
         "maxAge": 1,
         "shares": 110028,
@@ -2255,7 +2267,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 23.93,
+    "currentPrice": 23.1,
     "targetHighPrice": 53,
     "targetLowPrice": 25,
     "targetMeanPrice": 40.1,
@@ -2284,6 +2296,6 @@
     "profitMargins": -1.11171,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-10T03:51:08.653Z",
+  "lastUpdated": "2026-08-11T03:40:33.409Z",
   "source": "Static Build (yahoo-finance2)"
 }

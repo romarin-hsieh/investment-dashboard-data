@@ -41,12 +41,12 @@
     "ownershipList": [
       {
         "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
+        "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "Blackrock Inc.",
-        "pctHeld": 0.093100004,
-        "position": 25475596,
-        "value": 8285937599,
-        "pctChange": -0.0361
+        "pctHeld": 0.096,
+        "position": 26252335,
+        "value": 8779568201,
+        "pctChange": 0.0305
       },
       {
         "maxAge": 1,
@@ -54,8 +54,17 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0661,
         "position": 18079151,
-        "value": 5880243862,
+        "value": 6046210336,
         "pctChange": 1
+      },
+      {
+        "maxAge": 1,
+        "reportDate": "2026-06-30T00:00:00.000Z",
+        "organization": "State Street Corporation",
+        "pctHeld": 0.048600003,
+        "position": 13289484,
+        "value": 4444402036,
+        "pctChange": 0.0253
       },
       {
         "maxAge": 1,
@@ -63,17 +72,8 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0479,
         "position": 13098859,
-        "value": 4260403889,
+        "value": 4380651319,
         "pctChange": 0.118599996
-      },
-      {
-        "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
-        "organization": "State Street Corporation",
-        "pctHeld": 0.047399998,
-        "position": 12962149,
-        "value": 4215938962,
-        "pctChange": -0.0077
       },
       {
         "maxAge": 1,
@@ -81,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0378,
         "position": 10339030,
-        "value": 3362769507,
+        "value": 3457681727,
         "pctChange": 0.0654
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.030299999,
         "position": 8281599,
-        "value": 2693590074,
+        "value": 2769615092,
         "pctChange": 1
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0248,
         "position": 6792421,
-        "value": 2209234930,
+        "value": 2271589305,
         "pctChange": 0.0269
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0208,
         "position": 5688825,
-        "value": 1850290331,
+        "value": 1902513703,
         "pctChange": 0.1153
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0197,
         "position": 5395374,
-        "value": 1754845393,
+        "value": 1804374887,
         "pctChange": -0.0784
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Arrowstreet Capital, Limited Partnership",
         "pctHeld": 0.014199999,
         "position": 3896561,
-        "value": 1267356465,
+        "value": 1303126866,
         "pctChange": 1.0254
       }
     ]
@@ -5337,28 +5337,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0035050414,
-    "postMarketChange": 1.1400146,
-    "postMarketTime": "2026-08-07T23:57:13.000Z",
-    "postMarketPrice": 326.39,
+    "postMarketChangePercent": -0.0022724613,
+    "postMarketChange": -0.75997925,
+    "postMarketTime": "2026-08-10T23:57:38.000Z",
+    "postMarketPrice": 333.67,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.010375559,
-    "regularMarketChange": 3.3399963,
-    "regularMarketTime": "2026-08-07T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0282244,
+    "regularMarketChange": 9.17999,
+    "regularMarketTime": "2026-08-10T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 325.25,
-    "regularMarketDayHigh": 336.215,
-    "regularMarketDayLow": 324.64,
-    "regularMarketVolume": 2977656,
-    "averageDailyVolume10Day": 4047980,
-    "averageDailyVolume3Month": 5426420,
-    "regularMarketPreviousClose": 321.91,
+    "regularMarketPrice": 334.43,
+    "regularMarketDayHigh": 334.49,
+    "regularMarketDayLow": 321.6559,
+    "regularMarketVolume": 2622536,
+    "averageDailyVolume10Day": 3935390,
+    "averageDailyVolume3Month": 5443833,
+    "regularMarketPreviousClose": 325.25,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 326.01,
+    "regularMarketOpen": 322.815,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "POSTPOST",
     "quoteType": "EQUITY",
     "symbol": "INTU",
     "underlyingSymbol": null,
@@ -5370,15 +5370,15 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 88967905280
+    "marketCap": 91478974464
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 89087909888,
-    "forwardPE": 11.88764,
+    "enterpriseValue": 91598979072,
+    "forwardPE": 12.223163,
     "profitMargins": 0.21907,
-    "floatShares": 262414986,
+    "floatShares": 262527136,
     "sharesOutstanding": 273537000,
     "sharesShort": 15822306,
     "sharesShortPriorMonth": "1970-05-23T10:55:06.000Z",
@@ -5393,7 +5393,7 @@
     "impliedSharesOutstanding": 273537000,
     "category": null,
     "bookValue": 75.215,
-    "priceToBook": 4.3242707,
+    "priceToBook": 4.4463205,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-07-31T00:00:00.000Z",
@@ -5401,15 +5401,15 @@
     "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.087,
     "netIncomeToCommon": 4584000000,
-    "trailingEps": 16.39,
+    "trailingEps": 16.86,
     "forwardEps": 27.36035,
     "pegRatio": 0.84,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1152230400,
-    "enterpriseToRevenue": 4.257,
-    "enterpriseToEbitda": 13.898,
-    "52WeekChange": -0.5393647,
-    "SandP52WeekChange": 0.21718061,
+    "enterpriseToRevenue": 4.377,
+    "enterpriseToEbitda": 14.29,
+    "52WeekChange": -0.5312693,
+    "SandP52WeekChange": 0.20282328,
     "lastDividendValue": 1.2,
     "lastDividendDate": "2026-07-09T00:00:00.000Z",
     "latestShareClass": null,
@@ -5476,28 +5476,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 3239,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GOODARZI SASAN K",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-07-01T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1587,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HANEBRINK ANTON",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-07-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 470,
         "filerUrl": "",
         "transactionText": "",
@@ -5514,6 +5492,17 @@
         "transactionText": "",
         "filerName": "AUJLA SANDEEP S",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-07-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1587,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HANEBRINK ANTON",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -5539,6 +5528,17 @@
         "moneyText": "",
         "startDate": "2026-07-01T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3239,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GOODARZI SASAN K",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-07-01T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5626,17 +5626,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 3242,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GOODARZI SASAN K",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-04-01T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 824,
         "filerUrl": "",
         "transactionText": "",
@@ -5692,6 +5681,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 3242,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GOODARZI SASAN K",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 999,
         "value": 457046,
         "filerUrl": "",
@@ -5704,21 +5704,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 3419,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "NORA JOHNSON SUZANNE M",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-22T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 1294,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "ROSLANSKY RYAN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-22T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 694,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MAWAKANA TEKEDRA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-01-22T00:00:00.000Z",
@@ -5737,14 +5737,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 694,
+        "shares": 3419,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MAWAKANA TEKEDRA",
+        "filerName": "NORA JOHNSON SUZANNE M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-01-22T00:00:00.000Z",
-        "ownership": "D"
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5820,25 +5820,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 4094,
+        "shares": 1402,
+        "value": 936564,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GOODARZI SASAN K",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Sale at price 668.02 per share.",
+        "filerName": "COOK SCOTT D",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 825,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HANEBRINK ANTON",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-12-31T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5858,6 +5848,17 @@
         "transactionText": "",
         "filerName": "AUJLA SANDEEP S",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-12-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 825,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HANEBRINK ANTON",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
         "ownership": "D"
@@ -5886,12 +5887,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1402,
-        "value": 936564,
+        "shares": 4094,
         "filerUrl": "",
-        "transactionText": "Sale at price 668.02 per share.",
-        "filerName": "COOK SCOTT D",
-        "filerRelation": "Director",
+        "transactionText": "",
+        "filerName": "GOODARZI SASAN K",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
         "ownership": "I"
@@ -5934,14 +5934,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 907,
+        "shares": 333,
+        "value": 219763,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GOODARZI SASAN K",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Sale at price 659.95 per share.",
+        "filerName": "DALZELL RICHARD L",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-11T00:00:00.000Z",
-        "ownership": "I"
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5967,15 +5968,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 333,
-        "value": 219763,
+        "shares": 907,
         "filerUrl": "",
-        "transactionText": "Sale at price 659.95 per share.",
-        "filerName": "DALZELL RICHARD L",
-        "filerRelation": "Director",
+        "transactionText": "",
+        "filerName": "GOODARZI SASAN K",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-12-11T00:00:00.000Z",
-        "ownership": "D"
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -6083,28 +6083,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2382,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GOODARZI SASAN K",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-10-01T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 824,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HANEBRINK ANTON",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-10-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 321,
         "filerUrl": "",
         "transactionText": "",
@@ -6121,6 +6099,17 @@
         "transactionText": "",
         "filerName": "AUJLA SANDEEP S",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-10-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 824,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HANEBRINK ANTON",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-10-01T00:00:00.000Z",
         "ownership": "D"
@@ -6149,6 +6138,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 2382,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GOODARZI SASAN K",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-10-01T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 999,
         "value": 665951,
         "filerUrl": "",
@@ -6161,21 +6161,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 19460,
+        "shares": 3633,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GOODARZI SASAN K",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-08-29T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10749,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HANEBRINK ANTON",
+        "filerName": "HILLIARD CARYL LYN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-29T00:00:00.000Z",
@@ -6183,10 +6172,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 3633,
+        "shares": 10749,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HILLIARD CARYL LYN",
+        "filerName": "HANEBRINK ANTON",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-29T00:00:00.000Z",
@@ -6216,14 +6205,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 529,
-        "value": 351780,
+        "shares": 19460,
         "filerUrl": "",
-        "transactionText": "Sale at price 664.99 per share.",
-        "filerName": "COOK SCOTT D",
-        "filerRelation": "Director",
+        "transactionText": "",
+        "filerName": "GOODARZI SASAN K",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-08-25T00:00:00.000Z",
+        "startDate": "2025-08-29T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -6240,14 +6228,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 402,
+        "shares": 529,
+        "value": 351780,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HANEBRINK ANTON",
-        "filerRelation": "Officer",
+        "transactionText": "Sale at price 664.99 per share.",
+        "filerName": "COOK SCOTT D",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2025-08-12T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2025-08-25T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -6267,6 +6256,17 @@
         "transactionText": "",
         "filerName": "AUJLA SANDEEP S",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-08-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 402,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HANEBRINK ANTON",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-12T00:00:00.000Z",
         "ownership": "D"
@@ -6354,9 +6354,9 @@
       {
         "maxAge": 1,
         "shares": 2591,
-        "value": 1305056,
+        "value": 2026744,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 496.53 - 525.51 per share.",
+        "transactionText": "Sale at price 782.22 per share.",
         "filerName": "AUJLA SANDEEP S",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -6366,9 +6366,9 @@
       {
         "maxAge": 1,
         "shares": 2591,
-        "value": 2026744,
+        "value": 1305056,
         "filerUrl": "",
-        "transactionText": "Sale at price 782.22 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 496.53 - 525.51 per share.",
         "filerName": "AUJLA SANDEEP S",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -6401,33 +6401,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1400,
+        "shares": 4499,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "FENNELL LAURA A",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-07-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3346,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GOODARZI SASAN K",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-07-01T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1818,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BALAZS ALEX G",
-        "filerRelation": "Chief Technology Officer",
+        "filerName": "AUJLA SANDEEP S",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -6445,11 +6423,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 4499,
+        "shares": 1818,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AUJLA SANDEEP S",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "BALAZS ALEX G",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -6472,6 +6450,28 @@
         "transactionText": "",
         "filerName": "MCLEAN KERRY JEAN",
         "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-07-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3346,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GOODARZI SASAN K",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-07-01T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1400,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FENNELL LAURA A",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-07-01T00:00:00.000Z",
         "ownership": "D"
@@ -6526,9 +6526,9 @@
       {
         "maxAge": 1,
         "shares": 34329,
-        "value": 9667046,
+        "value": 26118931,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 281.60 per share.",
+        "transactionText": "Sale at price 760.24 - 762.51 per share.",
         "filerName": "TESSEL MARIANNA",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -6538,9 +6538,9 @@
       {
         "maxAge": 1,
         "shares": 34329,
-        "value": 26118931,
+        "value": 9667046,
         "filerUrl": "",
-        "transactionText": "Sale at price 760.24 - 762.51 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 281.60 per share.",
         "filerName": "TESSEL MARIANNA",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -6572,6 +6572,18 @@
       {
         "maxAge": 1,
         "shares": 25648,
+        "value": 19293653,
+        "filerUrl": "",
+        "transactionText": "Sale at price 748.44 - 759.50 per share.",
+        "filerName": "FENNELL LAURA A",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-05-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 25648,
         "value": 13218127,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 496.53 - 525.51 per share.",
@@ -6583,14 +6595,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 25648,
-        "value": 19293653,
+        "shares": 41234,
+        "value": 30455798,
         "filerUrl": "",
-        "transactionText": "Sale at price 748.44 - 759.50 per share.",
+        "transactionText": "Sale at price 725.00 - 754.94 per share.",
         "filerName": "FENNELL LAURA A",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-05-29T00:00:00.000Z",
+        "startDate": "2025-05-28T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6607,15 +6619,51 @@
       },
       {
         "maxAge": 1,
-        "shares": 41234,
-        "value": 30455798,
+        "shares": 469,
+        "value": 340143,
         "filerUrl": "",
-        "transactionText": "Sale at price 725.00 - 754.94 per share.",
-        "filerName": "FENNELL LAURA A",
+        "transactionText": "Sale at price 725.00 - 726.18 per share.",
+        "filerName": "NOTARAINNI MARK PHILLIP",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-05-28T00:00:00.000Z",
+        "startDate": "2025-05-27T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 16700,
+        "value": 12177029,
+        "filerUrl": "",
+        "transactionText": "Sale at price 725.00 - 734.33 per share.",
+        "filerName": "MCLEAN KERRY JEAN",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-05-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 16061,
+        "value": 11662708,
+        "filerUrl": "",
+        "transactionText": "Sale at price 725.00 - 748.11 per share.",
+        "filerName": "AUJLA SANDEEP S",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-05-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 72442,
+        "value": 53700409,
+        "filerUrl": "",
+        "transactionText": "Sale at price 726.46 - 751.48 per share.",
+        "filerName": "COOK SCOTT D",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-05-27T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -6635,54 +6683,6 @@
         "value": 5075798,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 303.94 per share.",
-        "filerName": "MCLEAN KERRY JEAN",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-05-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 72442,
-        "value": 53700409,
-        "filerUrl": "",
-        "transactionText": "Sale at price 726.46 - 751.48 per share.",
-        "filerName": "COOK SCOTT D",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-05-27T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 469,
-        "value": 340143,
-        "filerUrl": "",
-        "transactionText": "Sale at price 725.00 - 726.18 per share.",
-        "filerName": "NOTARAINNI MARK PHILLIP",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-05-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16061,
-        "value": 11662708,
-        "filerUrl": "",
-        "transactionText": "Sale at price 725.00 - 748.11 per share.",
-        "filerName": "AUJLA SANDEEP S",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-05-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16700,
-        "value": 12177029,
-        "filerUrl": "",
-        "transactionText": "Sale at price 725.00 - 734.33 per share.",
         "filerName": "MCLEAN KERRY JEAN",
         "filerRelation": "General Counsel",
         "moneyText": "",
@@ -6714,39 +6714,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1399,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FENNELL LAURA A",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3343,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GOODARZI SASAN K",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-04-01T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 518,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BALAZS ALEX G",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 3100,
         "filerUrl": "",
         "transactionText": "",
@@ -6769,6 +6736,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 518,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BALAZS ALEX G",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-04-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 312,
         "filerUrl": "",
         "transactionText": "",
@@ -6785,6 +6763,28 @@
         "transactionText": "",
         "filerName": "MCLEAN KERRY JEAN",
         "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-04-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3343,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GOODARZI SASAN K",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-04-01T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1399,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FENNELL LAURA A",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-04-01T00:00:00.000Z",
         "ownership": "D"
@@ -6815,9 +6815,9 @@
       {
         "maxAge": 1,
         "shares": 7385,
-        "value": 1599886,
+        "value": 4431935,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 216.64 per share.",
+        "transactionText": "Sale at price 600.13 per share.",
         "filerName": "TESSEL MARIANNA",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -6827,9 +6827,9 @@
       {
         "maxAge": 1,
         "shares": 7385,
-        "value": 4431935,
+        "value": 1599886,
         "filerUrl": "",
-        "transactionText": "Sale at price 600.13 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 216.64 per share.",
         "filerName": "TESSEL MARIANNA",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -6874,6 +6874,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 6446,
+        "value": 3895086,
+        "filerUrl": "",
+        "transactionText": "Sale at price 600.14 - 613.95 per share.",
+        "filerName": "COOK SCOTT D",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-02-28T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 465,
         "filerUrl": "",
         "transactionText": "",
@@ -6896,18 +6908,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 6446,
-        "value": 3895086,
-        "filerUrl": "",
-        "transactionText": "Sale at price 600.14 - 613.95 per share.",
-        "filerName": "COOK SCOTT D",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 75000,
         "value": 45865314,
         "filerUrl": "",
@@ -6923,22 +6923,22 @@
         "shares": 903,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "NORA JOHNSON SUZANNE M",
+        "filerName": "VAZQUEZ RAUL",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-01-24T00:00:00.000Z",
-        "ownership": "I"
+        "ownership": "D"
       },
       {
         "maxAge": 1,
         "shares": 903,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "VAZQUEZ RAUL",
+        "filerName": "NORA JOHNSON SUZANNE M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-01-24T00:00:00.000Z",
-        "ownership": "D"
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -7013,18 +7013,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 362,
-        "value": 228121,
-        "filerUrl": "",
-        "transactionText": "Sale at price 628.08 - 628.50 per share.",
-        "filerName": "NOTARAINNI MARK PHILLIP",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 109,
         "value": 68506,
         "filerUrl": "",
@@ -7037,15 +7025,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 26562,
-        "value": 7479859,
+        "shares": 362,
+        "value": 228121,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 281.60 per share.",
-        "filerName": "GOODARZI SASAN K",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Sale at price 628.08 - 628.50 per share.",
+        "filerName": "NOTARAINNI MARK PHILLIP",
+        "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-01-02T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2025-01-03T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -7061,37 +7049,27 @@
       },
       {
         "maxAge": 1,
-        "shares": 1749,
+        "shares": 26562,
+        "value": 7479859,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FENNELL LAURA A",
-        "filerRelation": "Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 281.60 per share.",
+        "filerName": "GOODARZI SASAN K",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2024-12-31T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2025-01-02T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
-        "shares": 79149,
-        "value": 18486911,
+        "shares": 75300,
+        "value": 47447390,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 216.64 - 281.60 per share.",
+        "transactionText": "Sale at price 627.29 - 633.96 per share.",
         "filerName": "GOODARZI SASAN K",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2024-12-31T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 518,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BALAZS ALEX G",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2024-12-31T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -7111,6 +7089,17 @@
         "transactionText": "",
         "filerName": "NOTARAINNI MARK PHILLIP",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-12-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 518,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BALAZS ALEX G",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2024-12-31T00:00:00.000Z",
         "ownership": "D"
@@ -7139,6 +7128,29 @@
       },
       {
         "maxAge": 1,
+        "shares": 79149,
+        "value": 18486911,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 216.64 - 281.60 per share.",
+        "filerName": "GOODARZI SASAN K",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2024-12-31T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1749,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FENNELL LAURA A",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-12-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1218,
         "filerUrl": "",
         "transactionText": "",
@@ -7147,25 +7159,13 @@
         "moneyText": "",
         "startDate": "2024-12-31T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 75300,
-        "value": 47447390,
-        "filerUrl": "",
-        "transactionText": "Sale at price 627.29 - 633.96 per share.",
-        "filerName": "GOODARZI SASAN K",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2024-12-31T00:00:00.000Z",
-        "ownership": "I"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 325.25,
+    "currentPrice": 334.43,
     "targetHighPrice": 921,
     "targetLowPrice": 250,
     "targetMeanPrice": 454.65454,
@@ -7195,6 +7195,6 @@
     "profitMargins": 0.21907,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-10T03:53:58.841Z",
+  "lastUpdated": "2026-08-11T03:43:22.239Z",
   "source": "Static Build (yahoo-finance2)"
 }
