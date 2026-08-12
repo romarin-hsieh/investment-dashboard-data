@@ -43,18 +43,18 @@
         "maxAge": 1,
         "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "Blackrock Inc.",
-        "pctHeld": 0.0919,
+        "pctHeld": 0.092,
         "position": 226999837,
-        "value": 29718818244,
+        "value": 29605318325,
         "pctChange": 0.0052
       },
       {
         "maxAge": 1,
         "reportDate": "2026-03-31T00:00:00.000Z",
         "organization": "Vanguard Capital Management LLC",
-        "pctHeld": 0.0652,
+        "pctHeld": 0.0653,
         "position": 160987624,
-        "value": 21076499439,
+        "value": 20996005627,
         "pctChange": 1
       },
       {
@@ -63,16 +63,16 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.048800003,
         "position": 120413256,
-        "value": 15764503255,
+        "value": 15704296627,
         "pctChange": 0.0091
       },
       {
         "maxAge": 1,
         "reportDate": "2026-03-31T00:00:00.000Z",
         "organization": "Wellington Management Group, LLP",
-        "pctHeld": 0.0341,
+        "pctHeld": 0.0342,
         "position": 84314971,
-        "value": 11038515848,
+        "value": 10996358363,
         "pctChange": -0.024500001
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0273,
         "position": 67304305,
-        "value": 8811479487,
+        "value": 8777827334,
         "pctChange": 1
       },
       {
@@ -90,25 +90,25 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0241,
         "position": 59558154,
-        "value": 7797353412,
+        "value": 7767574335,
         "pctChange": -0.0082
       },
       {
         "maxAge": 1,
         "reportDate": "2026-03-31T00:00:00.000Z",
         "organization": "JPMORGAN CHASE & CO",
-        "pctHeld": 0.0214,
+        "pctHeld": 0.0215,
         "position": 52972983,
-        "value": 6935222837,
+        "value": 6908736345,
         "pctChange": 0.8141
       },
       {
         "maxAge": 1,
         "reportDate": "2026-03-31T00:00:00.000Z",
         "organization": "Charles Schwab Investment Management, Inc.",
-        "pctHeld": 0.0201,
+        "pctHeld": 0.0202,
         "position": 49765225,
-        "value": 6515263165,
+        "value": 6490380553,
         "pctChange": 0.0247
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.019299999,
         "position": 47632487,
-        "value": 6236045110,
+        "value": 6212228867,
         "pctChange": 0.0598
       },
       {
@@ -126,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.018,
         "position": 44516010,
-        "value": 5828035947,
+        "value": 5805777942,
         "pctChange": 0.090100005
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00058,
-    "institutionsPercentHeld": 0.82509005,
-    "institutionsFloatPercentHeld": 0.82557,
-    "institutionsCount": 4799
+    "institutionsPercentHeld": 0.82627,
+    "institutionsFloatPercentHeld": 0.82675004,
+    "institutionsCount": 4801
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-11T13:00:26.000Z",
+        "firm": "Argus Research",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 145,
+        "priorPriceTarget": 130
+      },
       {
         "epochGradeDate": "2026-08-05T12:20:06.000Z",
         "firm": "Guggenheim",
@@ -3827,28 +3837,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.00015279769,
-    "postMarketChange": -0.020004272,
-    "postMarketTime": "2026-08-10T23:59:30.000Z",
-    "postMarketPrice": 130.9,
+    "postMarketChangePercent": 0.00069005013,
+    "postMarketChange": 0.08999634,
+    "postMarketTime": "2026-08-11T23:57:17.000Z",
+    "postMarketPrice": 130.51,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0181988,
-    "regularMarketChange": 2.34,
-    "regularMarketTime": "2026-08-10T20:03:15.000Z",
+    "regularMarketChangePercent": -0.0038191301,
+    "regularMarketChange": -0.5,
+    "regularMarketTime": "2026-08-11T20:03:57.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 130.92,
-    "regularMarketDayHigh": 130.98,
-    "regularMarketDayLow": 128.235,
-    "regularMarketVolume": 3820160,
-    "averageDailyVolume10Day": 8724720,
-    "averageDailyVolume3Month": 10202090,
-    "regularMarketPreviousClose": 128.58,
+    "regularMarketPrice": 130.42,
+    "regularMarketDayHigh": 132.8399,
+    "regularMarketDayLow": 129.7,
+    "regularMarketVolume": 4475133,
+    "averageDailyVolume10Day": 8333040,
+    "averageDailyVolume3Month": 10157348,
+    "regularMarketPreviousClose": 130.92,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 128.29,
+    "regularMarketOpen": 129.93,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "POSTPOST",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "MRK",
     "underlyingSymbol": null,
@@ -3860,45 +3870,45 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 323002105856
+    "marketCap": 321768521728
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 369823121408,
-    "forwardPE": 13.716929,
+    "enterpriseValue": 368589537280,
+    "forwardPE": 13.663512,
     "profitMargins": 0.047659997,
-    "floatShares": 2429152523,
+    "floatShares": 2398386893,
     "sharesOutstanding": 2467171638,
-    "sharesShort": 29359028,
-    "sharesShortPriorMonth": "1970-12-17T07:34:52.000Z",
-    "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
-    "dateShortInterest": "2026-07-15T00:00:00.000Z",
-    "sharesPercentSharesOut": 0.0119,
+    "sharesShort": 28281375,
+    "sharesShortPriorMonth": "1970-12-30T05:01:07.000Z",
+    "sharesShortPreviousMonthDate": "2026-06-30T00:00:00.000Z",
+    "dateShortInterest": "2026-07-31T00:00:00.000Z",
+    "sharesPercentSharesOut": 0.0115,
     "heldPercentInsiders": 0.00058,
-    "heldPercentInstitutions": 0.82509005,
-    "shortRatio": 2.59,
-    "shortPercentOfFloat": 0.0119,
+    "heldPercentInstitutions": 0.82627,
+    "shortRatio": 3.22,
+    "shortPercentOfFloat": 0.0115,
     "beta": 0.211,
     "impliedSharesOutstanding": 2467171638,
     "category": null,
     "bookValue": 18.576,
-    "priceToBook": 7.0478034,
+    "priceToBook": 7.020887,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": 3172999936,
-    "trailingEps": 1.25,
+    "trailingEps": 1.24,
     "forwardEps": 9.54513,
-    "pegRatio": 12.3,
+    "pegRatio": 12.53,
     "lastSplitFactor": "1048:1000",
     "lastSplitDate": 1622678400,
-    "enterpriseToRevenue": 5.555,
-    "enterpriseToEbitda": 12.81,
-    "52WeekChange": 0.630386,
-    "SandP52WeekChange": 0.20282328,
+    "enterpriseToRevenue": 5.537,
+    "enterpriseToEbitda": 12.767,
+    "52WeekChange": 0.5768347,
+    "SandP52WeekChange": 0.19895875,
     "lastDividendValue": 0.85,
     "lastDividendDate": "2026-06-15T00:00:00.000Z",
     "latestShareClass": null,
@@ -3927,6 +3937,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 6050,
+        "value": 788773,
+        "filerUrl": "",
+        "transactionText": "Sale at price 130.23 - 131.02 per share.",
+        "filerName": "DELUCA RICHARD ROBERT JR.",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-08-06T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 15000,
@@ -3965,24 +3987,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 52847,
-        "value": 3936377,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 73.73 - 77.62 per share.",
-        "filerName": "WILLIAMS DAVID MICHAEL",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2026-08-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 18706,
         "value": 1538495,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 73.73 - 87.10 per share.",
         "filerName": "MARALDO DAVID R.",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-08-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 52847,
+        "value": 3936377,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 73.73 - 77.62 per share.",
+        "filerName": "WILLIAMS DAVID MICHAEL",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2026-08-05T00:00:00.000Z",
         "ownership": "D"
@@ -4047,6 +4069,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 1967,
+        "value": 216429,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 110.03 per share.",
+        "filerName": "GUINDO CHIRFI",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2951,
         "filerUrl": "",
         "transactionText": "",
@@ -4069,23 +4103,33 @@
       },
       {
         "maxAge": 1,
-        "shares": 1967,
-        "value": 216429,
+        "shares": 13300,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 110.03 per share.",
-        "filerName": "GUINDO CHIRFI",
-        "filerRelation": "Officer",
+        "transactionText": "",
+        "filerName": "DAVIS ROBERT M",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-04-29T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 13300,
+        "shares": 3935,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DAVIS ROBERT M",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "LITCHFIELD CAROLINE",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-04-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1377,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "OOSTHUIZEN JOHANNES JACOBUS",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-29T00:00:00.000Z",
         "ownership": "D"
@@ -4108,28 +4152,6 @@
         "transactionText": "",
         "filerName": "LI DEAN Y",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1377,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "OOSTHUIZEN JOHANNES JACOBUS",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3935,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LITCHFIELD CAROLINE",
-        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-04-29T00:00:00.000Z",
         "ownership": "D"
@@ -4304,18 +4326,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 15087,
-        "value": 845475,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 56.04 per share.",
-        "filerName": "LI DEAN Y",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 4000,
         "value": 248280,
         "filerUrl": "",
@@ -4334,6 +4344,18 @@
         "transactionText": "Conversion of Exercise of derivative security at price 53.06 per share.",
         "filerName": "LITCHFIELD CAROLINE",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-02-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 15087,
+        "value": 845475,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 56.04 per share.",
+        "filerName": "LI DEAN Y",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-04T00:00:00.000Z",
         "ownership": "D"
@@ -4496,6 +4518,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 36903,
+        "value": 2926039,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 79.29 per share.",
+        "filerName": "GUINDO CHIRFI",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 17119,
         "value": 1357366,
         "filerUrl": "",
@@ -4508,14 +4542,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 36903,
-        "value": 2926039,
+        "shares": 2050,
+        "value": 170519,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 79.29 per share.",
-        "filerName": "GUINDO CHIRFI",
-        "filerRelation": "Officer",
+        "transactionText": "Conversion of Exercise of derivative security at price 83.18 per share.",
+        "filerName": "SMART DALTON E. III",
+        "filerRelation": "General Counsel",
         "moneyText": "",
-        "startDate": "2025-08-04T00:00:00.000Z",
+        "startDate": "2025-05-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4537,18 +4571,6 @@
         "transactionText": "",
         "filerName": "SMART DALTON E. III",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-05-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2050,
-        "value": 170519,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 83.18 per share.",
-        "filerName": "SMART DALTON E. III",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-05-02T00:00:00.000Z",
         "ownership": "D"
@@ -4661,6 +4683,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 23432,
+        "value": 2294930,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 97.94 per share.",
+        "filerName": "LITCHFIELD CAROLINE",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-01-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 9446,
         "value": 925141,
         "filerUrl": "",
@@ -4715,18 +4749,6 @@
         "transactionText": "Stock Award(Grant) at price 97.94 per share.",
         "filerName": "LI DEAN Y",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 23432,
-        "value": 2294930,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 97.94 per share.",
-        "filerName": "LITCHFIELD CAROLINE",
-        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-01-27T00:00:00.000Z",
         "ownership": "D"
@@ -4796,7 +4818,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 130.92,
+    "currentPrice": 130.42,
     "targetHighPrice": 155,
     "targetLowPrice": 105,
     "targetMeanPrice": 136.84615,
@@ -4825,6 +4847,6 @@
     "profitMargins": 0.047659997,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-11T03:43:43.926Z",
+  "lastUpdated": "2026-08-12T04:07:19.326Z",
   "source": "Static Build (yahoo-finance2)"
 }

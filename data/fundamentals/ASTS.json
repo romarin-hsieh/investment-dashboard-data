@@ -45,7 +45,7 @@
         "organization": "Rakuten Group, Inc.",
         "pctHeld": 0.1038,
         "position": 31020155,
-        "value": 2132945924,
+        "value": 2221973617,
         "pctChange": 0
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0511,
         "position": 15273481,
-        "value": 1050204586,
+        "value": 1094039402,
         "pctChange": 0.0521
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0385,
         "position": 11489121,
-        "value": 789991984,
+        "value": 822965705,
         "pctChange": 1
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.037,
         "position": 11043563,
-        "value": 759355415,
+        "value": 791050387,
         "pctChange": 1
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Alphabet Inc.",
         "pctHeld": 0.0299,
         "position": 8943486,
-        "value": 614954116,
+        "value": 640621877,
         "pctChange": 0
       },
       {
@@ -90,7 +90,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0219,
         "position": 6533847,
-        "value": 449267333,
+        "value": 468019442,
         "pctChange": 0.1698
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Vodafone Ventures Ltd",
         "pctHeld": 0.0183,
         "position": 5471743,
-        "value": 376237060,
+        "value": 391940936,
         "pctChange": 0
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.016,
         "position": 4765087,
-        "value": 327647392,
+        "value": 341323168,
         "pctChange": 0.053600002
       },
       {
@@ -117,7 +117,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.0152,
         "position": 4543334,
-        "value": 312399655,
+        "value": 325439001,
         "pctChange": 0.317
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0.0115,
         "position": 3437298,
-        "value": 236348617,
+        "value": 246213646,
         "pctChange": 1.4465
       }
     ]
@@ -134,25 +134,14 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.07814,
-    "institutionsPercentHeld": 0.49740002,
-    "institutionsFloatPercentHeld": 0.53957003,
-    "institutionsCount": 971
+    "institutionsPercentHeld": 0.49556,
+    "institutionsFloatPercentHeld": 0.53756,
+    "institutionsCount": 981
   },
   "earnings": {
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
-        {
-          "date": "2Q2025",
-          "actual": -0.41,
-          "estimate": -0.21667,
-          "fiscalQuarter": "2Q2025",
-          "calendarQuarter": "2Q2025",
-          "difference": "-0.19",
-          "surprisePct": "-89.23",
-          "periodEndDate": 1751241600,
-          "reportedDate": 1754943300
-        },
         {
           "date": "3Q2025",
           "actual": -0.45,
@@ -185,17 +174,29 @@
           "surprisePct": "-233.7",
           "periodEndDate": 1774915200,
           "reportedDate": 1778531400
+        },
+        {
+          "date": "2Q2026",
+          "actual": -0.77,
+          "estimate": -0.33195,
+          "fiscalQuarter": "2Q2026",
+          "calendarQuarter": "2Q2026",
+          "difference": "-0.44",
+          "surprisePct": "-131.96",
+          "periodEndDate": 1782777600,
+          "reportedDate": 1786393800
         }
       ],
-      "currentQuarterEstimate": -0.33195,
-      "currentQuarterActual": -0.77,
-      "currentQuarterEstimateDate": "2Q",
-      "currentCalendarQuarter": "2Q2026",
+      "currentQuarterEstimate": -0.44625,
+      "currentQuarterEstimateDate": "3Q",
+      "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "2Q2026",
-      "currentPeriodEndDate": 1782777600,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "currentFiscalQuarter": "3Q2026",
+      "currentPeriodEndDate": 1790726400,
+      "earningsDate": [
+        "2026-11-09T20:00:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -226,13 +227,6 @@
       ],
       "quarterly": [
         {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 1156000,
-          "earnings": -99394000,
-          "profitMargin": -85.98097
-        },
-        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 14739000,
@@ -260,6 +254,36 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-11T20:54:44.000Z",
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 78,
+        "priorPriceTarget": 80
+      },
+      {
+        "epochGradeDate": "2026-08-11T13:16:29.000Z",
+        "firm": "Piper Sandler",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 98,
+        "priorPriceTarget": 100
+      },
+      {
+        "epochGradeDate": "2026-08-11T11:52:52.000Z",
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 90,
+        "priorPriceTarget": 80
+      },
       {
         "epochGradeDate": "2026-07-29T14:56:07.000Z",
         "firm": "Scotiabank",
@@ -786,28 +810,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.010485756,
-    "postMarketChange": -0.7210007,
-    "postMarketTime": "2026-08-10T23:59:57.000Z",
-    "postMarketPrice": 68.039,
+    "postMarketChangePercent": 0.00097031676,
+    "postMarketChange": 0.069503784,
+    "postMarketTime": "2026-08-11T23:59:54.000Z",
+    "postMarketPrice": 71.6995,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0442035,
-    "regularMarketChange": -3.18,
-    "regularMarketTime": "2026-08-10T20:00:02.000Z",
+    "regularMarketChangePercent": 0.0417393,
+    "regularMarketChange": 2.87,
+    "regularMarketTime": "2026-08-11T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 68.76,
-    "regularMarketDayHigh": 73.215,
-    "regularMarketDayLow": 68.27,
-    "regularMarketVolume": 12735438,
-    "averageDailyVolume10Day": 13604090,
-    "averageDailyVolume3Month": 21423141,
-    "regularMarketPreviousClose": 71.94,
+    "regularMarketPrice": 71.63,
+    "regularMarketDayHigh": 71.9,
+    "regularMarketDayLow": 67.08,
+    "regularMarketVolume": 13386510,
+    "averageDailyVolume10Day": 13659730,
+    "averageDailyVolume3Month": 21300030,
+    "regularMarketPreviousClose": 68.76,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 71.57,
+    "regularMarketOpen": 69.53,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "POSTPOST",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "ASTS",
     "underlyingSymbol": null,
@@ -819,43 +843,42 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 26687447040
+    "marketCap": 27801362432
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 21085071360,
-    "forwardPE": -264.25827,
+    "enterpriseValue": 22678775808,
+    "forwardPE": -55.136475,
     "profitMargins": 0,
-    "floatShares": 259589695,
+    "floatShares": 258997620,
     "sharesOutstanding": 298746383,
-    "sharesShort": 59349055,
-    "sharesShortPriorMonth": "1971-12-25T05:32:32.000Z",
-    "sharesShortPreviousMonthDate": "2026-06-15T00:00:00.000Z",
-    "dateShortInterest": "2026-07-15T00:00:00.000Z",
-    "sharesPercentSharesOut": 0.19870001,
+    "sharesShort": 56847259,
+    "sharesShortPriorMonth": "1972-01-20T00:24:02.000Z",
+    "sharesShortPreviousMonthDate": "2026-06-30T00:00:00.000Z",
+    "dateShortInterest": "2026-07-31T00:00:00.000Z",
+    "sharesPercentSharesOut": 0.1903,
     "heldPercentInsiders": 0.07814,
-    "heldPercentInstitutions": 0.49740002,
-    "shortRatio": 3.08,
-    "shortPercentOfFloat": 0.1993,
-    "beta": 2.745,
+    "heldPercentInstitutions": 0.49556,
+    "shortRatio": 3.62,
+    "shortPercentOfFloat": 0.1909,
     "impliedSharesOutstanding": 388124572,
     "category": null,
-    "bookValue": 6.967,
-    "priceToBook": 9.869385,
+    "bookValue": 6.319,
+    "priceToBook": 11.335654,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
-    "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
-    "netIncomeToCommon": -487246016,
-    "trailingEps": -1.72,
-    "forwardEps": -0.2602,
+    "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
+    "netIncomeToCommon": -618761024,
+    "trailingEps": -2.15,
+    "forwardEps": -1.29914,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 248.25,
-    "enterpriseToEbitda": -66.642,
-    "52WeekChange": 0.38183284,
-    "SandP52WeekChange": 0.20282328,
+    "enterpriseToRevenue": 196.695,
+    "enterpriseToEbitda": -55.815,
+    "52WeekChange": 0.43950963,
+    "SandP52WeekChange": 0.19895875,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -888,6 +911,18 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CISNEROS ADRIANA",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2124,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "RUBIN RONALD L",
         "filerRelation": "Director",
         "moneyText": "",
@@ -913,18 +948,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "TORRES JULIO A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2124,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CISNEROS ADRIANA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-12T00:00:00.000Z",
@@ -1124,18 +1147,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 675,
-        "value": 49079,
-        "filerUrl": "",
-        "transactionText": "Purchase at price 72.71 per share.",
-        "filerName": "LARSON KEITH R",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-12-10T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 10000,
         "value": 773400,
         "filerUrl": "",
@@ -1145,6 +1156,18 @@
         "moneyText": "",
         "startDate": "2025-12-10T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 675,
+        "value": 49079,
+        "filerUrl": "",
+        "transactionText": "Purchase at price 72.71 per share.",
+        "filerName": "LARSON KEITH R",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-12-10T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1344,6 +1367,30 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "WIBERGH JOHAN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 801,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CISNEROS ADRIANA",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 801,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "RUBIN RONALD L",
         "filerRelation": "Director",
         "moneyText": "",
@@ -1369,30 +1416,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "TORRES JULIO A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-24T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 801,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "WIBERGH JOHAN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-24T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 801,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CISNEROS ADRIANA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-24T00:00:00.000Z",
@@ -1452,66 +1475,6 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "RUBIN RONALD L",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4810,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SARNOFF RICHARD",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4810,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SARNOFF RICHARD",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4810,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "TORRES JULIO A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4810,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "TORRES JULIO A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4810,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "WIBERGH JOHAN",
         "filerRelation": "Director",
         "moneyText": "",
@@ -1568,14 +1531,62 @@
       },
       {
         "maxAge": 1,
-        "shares": 25000,
+        "shares": 4810,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "YAO HUIWEN",
-        "filerRelation": "Chief Technology Officer",
+        "filerName": "RUBIN RONALD L",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2025-06-02T00:00:00.000Z",
+        "startDate": "2025-06-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4810,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SARNOFF RICHARD",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4810,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SARNOFF RICHARD",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4810,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "TORRES JULIO A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4810,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "TORRES JULIO A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-06T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1589,6 +1600,18 @@
         "moneyText": "",
         "startDate": "2025-06-02T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 25000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "YAO HUIWEN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-06-02T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1737,18 +1760,6 @@
       {
         "maxAge": 1,
         "shares": 100000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "YAO HUIWEN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2024-10-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 100000,
         "value": 2322000,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 23.22 per share.",
@@ -1757,6 +1768,18 @@
         "moneyText": "",
         "startDate": "2024-10-03T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 100000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "YAO HUIWEN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2024-10-03T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1800,18 +1823,6 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "JOHNSON ANDREW MARTIN",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2024-09-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 75000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "GUPTA SHANTI B.",
         "filerRelation": "Chief Operating Officer",
         "moneyText": "",
@@ -1838,6 +1849,18 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "WISNIEWSKI SCOTT",
         "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2024-09-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 75000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "JOHNSON ANDREW MARTIN",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2024-09-26T00:00:00.000Z",
         "ownership": "D"
@@ -1852,30 +1875,6 @@
         "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2024-09-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5744,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SARNOFF RICHARD",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-09-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5744,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "TORRES JULIO A",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-09-10T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1916,6 +1915,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 5744,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SARNOFF RICHARD",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-09-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5744,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "TORRES JULIO A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-09-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 4934,
         "value": 129884,
         "filerUrl": "",
@@ -1943,35 +1966,35 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 68.76,
+    "currentPrice": 71.63,
     "targetHighPrice": 108,
     "targetLowPrice": 42.5,
-    "targetMeanPrice": 80.48182,
+    "targetMeanPrice": 79.66364,
     "targetMedianPrice": 80,
     "recommendationMean": 2.69231,
     "recommendationKey": "hold",
     "numberOfAnalystOpinions": 11,
-    "totalCash": 3029591040,
-    "totalCashPerShare": 10.141,
-    "ebitda": -316393984,
-    "totalDebt": 2991408128,
-    "quickRatio": 17.909,
-    "currentRatio": 18.469,
-    "totalRevenue": 84935000,
-    "debtToEquity": 112.424,
-    "revenuePerShare": 0.312,
-    "returnOnAssets": -0.06303,
-    "returnOnEquity": -0.37750998,
-    "grossProfits": 38070000,
-    "freeCashflow": -1412748416,
-    "operatingCashflow": -91029000,
-    "revenueGrowth": 19.522,
-    "grossMargins": 0.44823003,
+    "totalCash": 2288252928,
+    "totalCashPerShare": 7.634,
+    "ebitda": -406319008,
+    "totalDebt": 2993731072,
+    "quickRatio": 12.393,
+    "currentRatio": 13.053,
+    "totalRevenue": 115299000,
+    "debtToEquity": 124.865,
+    "revenuePerShare": 0.402,
+    "returnOnAssets": -0.07643,
+    "returnOnEquity": -0.45621,
+    "grossProfits": 44867000,
+    "freeCashflow": -1900041984,
+    "operatingCashflow": -144704992,
+    "revenueGrowth": 26.266,
+    "grossMargins": 0.38914,
     "ebitdaMargins": 0,
-    "operatingMargins": -10.13994,
+    "operatingMargins": -5.44626,
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-11T03:40:29.901Z",
+  "lastUpdated": "2026-08-12T04:04:10.708Z",
   "source": "Static Build (yahoo-finance2)"
 }

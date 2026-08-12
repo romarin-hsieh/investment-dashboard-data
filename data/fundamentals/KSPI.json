@@ -24,6 +24,14 @@
         "hold": 3,
         "sell": 0,
         "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 0,
+        "buy": 4,
+        "hold": 3,
+        "sell": 0,
+        "strongSell": 0
       }
     ],
     "maxAge": 86400
@@ -37,7 +45,7 @@
         "organization": "Baring Fintech Manager Holding Ltd",
         "pctHeld": 0.095,
         "position": 18051851,
-        "value": 1696873994,
+        "value": 1721424522,
         "pctChange": 0
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Brehaut David Pascal",
         "pctHeld": 0.0645,
         "position": 12257305,
-        "value": 1152186670,
+        "value": 1168856612,
         "pctChange": 0
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Baring Fintech Fund III Managers Ltd",
         "pctHeld": 0.0635,
         "position": 12061997,
-        "value": 1133827718,
+        "value": 1150232041,
         "pctChange": -0.1304
       },
       {
@@ -64,7 +72,7 @@
         "organization": "BAILLIE GIFFORD & CO",
         "pctHeld": 0.0304,
         "position": 5779168,
-        "value": 543241792,
+        "value": 551101464,
         "pctChange": 0.128
       },
       {
@@ -73,7 +81,7 @@
         "organization": "FIL LTD",
         "pctHeld": 0.0175,
         "position": 3326242,
-        "value": 312666748,
+        "value": 317190439,
         "pctChange": 0.098900005
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Pzena Investment Management LLC",
         "pctHeld": 0.0162,
         "position": 3071888,
-        "value": 288757472,
+        "value": 292935241,
         "pctChange": 0.1495
       },
       {
@@ -91,7 +99,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0085,
         "position": 1611922,
-        "value": 151520668,
+        "value": 153712882,
         "pctChange": -0.0222
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Sands Capital Management, LLC",
         "pctHeld": 0.0083,
         "position": 1586334,
-        "value": 149115396,
+        "value": 151272811,
         "pctChange": -0.186
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Schroder Investment Management Group",
         "pctHeld": 0.0082,
         "position": 1566285,
-        "value": 147230790,
+        "value": 149360938,
         "pctChange": 0.041500002
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Ameriprise Financial, Inc.",
         "pctHeld": 0.0058999998,
         "position": 1115936,
-        "value": 104897984,
+        "value": 106415657,
         "pctChange": -0.041300002
       }
     ]
@@ -134,17 +142,6 @@
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
-        {
-          "date": "2Q2025",
-          "actual": 1343,
-          "estimate": 1418.5061,
-          "fiscalQuarter": "2Q2025",
-          "calendarQuarter": "2Q2025",
-          "difference": "-75.51",
-          "surprisePct": "-5.32",
-          "periodEndDate": 1751241600,
-          "reportedDate": 1754481703
-        },
         {
           "date": "3Q2025",
           "actual": 1458,
@@ -177,16 +174,25 @@
           "surprisePct": "8.88",
           "periodEndDate": 1774915200,
           "reportedDate": 1778760605
+        },
+        {
+          "date": "2Q2026",
+          "estimate": 1295.2496,
+          "fiscalQuarter": "2Q2026",
+          "calendarQuarter": "2Q2026",
+          "periodEndDate": 1782777600
         }
       ],
-      "currentQuarterEstimate": 1295.2496,
-      "currentQuarterEstimateDate": "2Q",
-      "currentCalendarQuarter": "2Q2026",
+      "currentQuarterEstimate": 1420.4,
+      "currentQuarterEstimateDate": "3Q",
+      "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "2Q2026",
-      "currentPeriodEndDate": 1782777600,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "currentFiscalQuarter": "3Q2026",
+      "currentPeriodEndDate": 1790726400,
+      "earningsDate": [
+        "2026-10-21T12:30:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -360,28 +366,28 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.010319161,
-    "postMarketChange": 0.9700012,
-    "postMarketTime": "2026-08-10T23:49:26.000Z",
-    "postMarketPrice": 94.97,
+    "postMarketChangePercent": 0.0040897587,
+    "postMarketChange": 0.3899994,
+    "postMarketTime": "2026-08-11T23:34:04.000Z",
+    "postMarketPrice": 95.75,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.040974498,
-    "regularMarketChange": 3.7,
-    "regularMarketTime": "2026-08-10T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0144681,
+    "regularMarketChange": 1.36,
+    "regularMarketTime": "2026-08-11T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 94,
-    "regularMarketDayHigh": 97.5,
-    "regularMarketDayLow": 90.7697,
-    "regularMarketVolume": 1377424,
-    "averageDailyVolume10Day": 594860,
-    "averageDailyVolume3Month": 444845,
-    "regularMarketPreviousClose": 90.3,
+    "regularMarketPrice": 95.36,
+    "regularMarketDayHigh": 98.46,
+    "regularMarketDayLow": 94.12,
+    "regularMarketVolume": 799784,
+    "averageDailyVolume10Day": 638210,
+    "averageDailyVolume3Month": 450512,
+    "regularMarketPreviousClose": 94,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 91.71,
+    "regularMarketOpen": 95.41,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "POSTPOST",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "KSPI",
     "underlyingSymbol": null,
@@ -393,12 +399,12 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 17862561792
+    "marketCap": 18121000960
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "forwardPE": 0.014060596,
+    "forwardPE": 0.014264026,
     "profitMargins": 0.24914,
     "floatShares": 86813956,
     "sharesOutstanding": 190027266,
@@ -415,18 +421,18 @@
     "impliedSharesOutstanding": 190027266,
     "category": null,
     "bookValue": 11908.487,
-    "priceToBook": 0.00789353,
+    "priceToBook": 0.008007734,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-03-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": -0.011,
-    "trailingEps": 12.03,
+    "trailingEps": 11.59,
     "forwardEps": 6803.44,
     "lastSplitFactor": null,
-    "52WeekChange": -0.03262323,
-    "SandP52WeekChange": 0.20282328,
+    "52WeekChange": -0.018627167,
+    "SandP52WeekChange": 0.19895875,
     "lastDividendValue": 1.798,
     "lastDividendDate": "2026-06-12T00:00:00.000Z",
     "latestShareClass": null,
@@ -457,11 +463,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 94,
-    "targetHighPrice": 123.713745,
-    "targetLowPrice": 87.3688,
-    "targetMeanPrice": 98.618324,
-    "targetMedianPrice": 94.324135,
+    "currentPrice": 95.36,
+    "targetHighPrice": 123.74556,
+    "targetLowPrice": 87.391266,
+    "targetMeanPrice": 100.03719,
+    "targetMedianPrice": 98.58326,
     "recommendationMean": 1.85714,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 7,
@@ -480,6 +486,6 @@
     "profitMargins": 0.24914,
     "financialCurrency": "KZT"
   },
-  "lastUpdated": "2026-08-11T03:41:41.957Z",
+  "lastUpdated": "2026-08-12T04:05:19.587Z",
   "source": "Static Build (yahoo-finance2)"
 }
