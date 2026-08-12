@@ -1,11 +1,11 @@
 {
   "ticker": "WFC",
-  "updated_at": "2026-08-11T03:34:44.711278",
+  "updated_at": "2026-08-12T03:48:44.764633",
   "stats": {
     "sector": "Financials",
     "ownership_count": 14,
     "ownership_rank": 20,
-    "percent_of_portfolios": "0.235%"
+    "percent_of_portfolios": "0.234%"
   },
   "superinvestors": [
     {
@@ -99,11 +99,19 @@
     },
     {
       "manager": "Christopher Davis - Davis Advisors",
-      "percent_portfolio": 2.99,
-      "recent_activity": "Reduce 0.81%",
-      "shares": 8190871,
-      "value": 652076000,
+      "percent_portfolio": 2.84,
+      "recent_activity": "Reduce 2.22%",
+      "shares": 8008728,
+      "value": 661901000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 8008728,
+          "percent_portfolio": "2.84",
+          "activity": "Reduce 2.22%",
+          "percent_change_portfolio": "0.06",
+          "reported_price": "$82.65"
+        },
         {
           "period": "2026   Q1",
           "shares": 8190871,
@@ -1982,10 +1990,18 @@
     {
       "manager": "Yacktman Asset Management",
       "percent_portfolio": 0.11,
-      "recent_activity": "Reduce 1.84%",
-      "shares": 100437,
-      "value": 7996000,
+      "recent_activity": "Add 4.35%",
+      "shares": 104803,
+      "value": 8661000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 104803,
+          "percent_portfolio": "0.11",
+          "activity": "Add 4.35%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$82.64"
+        },
         {
           "period": "2026   Q1",
           "shares": 100437,
@@ -2930,6 +2946,13 @@
   "activity": {
     "Q2  2026": [
       {
+        "manager": "Yacktman Asset Management",
+        "action": "Add 4.35%",
+        "type": "Buy",
+        "shares_changed": 4366,
+        "portfolio_change": "0.00"
+      },
+      {
         "manager": "David Katz - Matrix Asset Advisors",
         "action": "Add 0.70%",
         "type": "Buy",
@@ -2942,6 +2965,13 @@
         "type": "Buy",
         "shares_changed": 54340,
         "portfolio_change": "0.01"
+      },
+      {
+        "manager": "Christopher Davis - Davis Advisors",
+        "action": "Reduce 2.22%",
+        "type": "Sell",
+        "shares_changed": -182143,
+        "portfolio_change": "0.06"
       },
       {
         "manager": "Tweedy Browne",
@@ -3630,20 +3660,6 @@
         "type": "Sell",
         "shares_changed": -261576,
         "portfolio_change": "0.15"
-      },
-      {
-        "manager": "Hillman Capital Management",
-        "action": "Reduce 13.28%",
-        "type": "Sell",
-        "shares_changed": -24681,
-        "portfolio_change": "0.52"
-      },
-      {
-        "manager": "Dodge & Cox Funds",
-        "action": "Reduce 19.88%",
-        "type": "Sell",
-        "shares_changed": -22898565,
-        "portfolio_change": "0.82"
       }
     ]
   },
