@@ -1,10 +1,10 @@
 {
   "ticker": "BA",
-  "updated_at": "2026-08-13T02:22:47.198958",
+  "updated_at": "2026-08-14T02:21:21.720739",
   "stats": {
     "sector": "Industrials",
     "ownership_count": 5,
-    "ownership_rank": 155,
+    "ownership_rank": 160,
     "percent_of_portfolios": "0.102%"
   },
   "superinvestors": [
@@ -269,11 +269,19 @@
     },
     {
       "manager": "Sarah Ketterer - Causeway Capital Management",
-      "percent_portfolio": 0.77,
-      "recent_activity": "Add 106.63%",
-      "shares": 313926,
-      "value": 62481000,
+      "percent_portfolio": 0.74,
+      "recent_activity": "Reduce 0.28%",
+      "shares": 313048,
+      "value": 67765000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 313048,
+          "percent_portfolio": "0.74",
+          "activity": "Reduce 0.28%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$216.47"
+        },
         {
           "period": "2026   Q1",
           "shares": 313926,
@@ -406,6 +414,13 @@
         "type": "Buy",
         "shares_changed": 52049,
         "portfolio_change": "0.35"
+      },
+      {
+        "manager": "Sarah Ketterer - Causeway Capital Management",
+        "action": "Reduce 0.28%",
+        "type": "Sell",
+        "shares_changed": -878,
+        "portfolio_change": "0.00"
       },
       {
         "manager": "Steven Check - Check Capital Management",
@@ -1166,15 +1181,6 @@
         "type": "Buy",
         "shares_changed": 1250,
         "portfolio_change": "0.01"
-      }
-    ],
-    "Q4  2016": [
-      {
-        "manager": "Thomas Gayner - Markel Group",
-        "action": "Add 29.70%",
-        "type": "Buy",
-        "shares_changed": 12000,
-        "portfolio_change": "0.05"
       }
     ]
   },

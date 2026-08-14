@@ -1,20 +1,28 @@
 {
   "ticker": "PM",
-  "updated_at": "2026-08-13T03:23:07.491353",
+  "updated_at": "2026-08-14T03:24:36.904661",
   "stats": {
     "sector": "Consumer Staples",
     "ownership_count": 10,
     "ownership_rank": 39,
-    "percent_of_portfolios": "0.227%"
+    "percent_of_portfolios": "0.23%"
   },
   "superinvestors": [
     {
       "manager": "Thomas Russo - Gardner Russo & Quinn",
-      "percent_portfolio": 8.96,
-      "recent_activity": "Reduce 1.97%",
-      "shares": 4605069,
-      "value": 761402000,
+      "percent_portfolio": 9.18,
+      "recent_activity": "Reduce 1.61%",
+      "shares": 4530846,
+      "value": 819675000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 4530846,
+          "percent_portfolio": "9.18",
+          "activity": "Reduce 1.61%",
+          "percent_change_portfolio": "0.15",
+          "reported_price": "$180.91"
+        },
         {
           "period": "2026   Q1",
           "shares": 4605069,
@@ -2291,10 +2299,18 @@
     {
       "manager": "Dodge & Cox Funds",
       "percent_portfolio": 0.0,
-      "recent_activity": "Reduce 2.94%",
+      "recent_activity": "",
       "shares": 16500,
-      "value": 2728000,
+      "value": 2985000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 16500,
+          "percent_portfolio": "0.00",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$180.91"
+        },
         {
           "period": "2026   Q1",
           "shares": 16500,
@@ -2459,6 +2475,13 @@
         "type": "Buy",
         "shares_changed": 33010,
         "portfolio_change": "0.01"
+      },
+      {
+        "manager": "Thomas Russo - Gardner Russo & Quinn",
+        "action": "Reduce 1.61%",
+        "type": "Sell",
+        "shares_changed": -74223,
+        "portfolio_change": "0.15"
       },
       {
         "manager": "Yacktman Asset Management",
@@ -3171,13 +3194,6 @@
         "type": "Sell",
         "shares_changed": -27865,
         "portfolio_change": "0.03"
-      },
-      {
-        "manager": "Yacktman Asset Management",
-        "action": "Reduce 8.16%",
-        "type": "Sell",
-        "shares_changed": -800,
-        "portfolio_change": "0.00"
       }
     ]
   },

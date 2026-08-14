@@ -1,11 +1,11 @@
 {
   "ticker": "NVDA",
-  "updated_at": "2026-08-13T03:16:22.481798",
+  "updated_at": "2026-08-14T03:17:47.362646",
   "stats": {
     "sector": "Information Technology",
     "ownership_count": 19,
     "ownership_rank": 12,
-    "percent_of_portfolios": "0.815%"
+    "percent_of_portfolios": "0.817%"
   },
   "superinvestors": [
     {
@@ -673,11 +673,19 @@
     },
     {
       "manager": "Samantha McLemore - Patient Capital Management",
-      "percent_portfolio": 4.62,
-      "recent_activity": "Add 11.32%",
-      "shares": 711115,
-      "value": 124019000,
+      "percent_portfolio": 4.72,
+      "recent_activity": "Reduce 0.21%",
+      "shares": 709587,
+      "value": 141981000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 709587,
+          "percent_portfolio": "4.72",
+          "activity": "Reduce 0.21%",
+          "percent_change_portfolio": "0.01",
+          "reported_price": "$200.09"
+        },
         {
           "period": "2026   Q1",
           "shares": 711115,
@@ -1234,10 +1242,18 @@
     {
       "manager": "Sarah Ketterer - Causeway Capital Management",
       "percent_portfolio": 0.01,
-      "recent_activity": "Reduce 4.50%",
-      "shares": 3589,
-      "value": 626000,
+      "recent_activity": "Reduce 0.61%",
+      "shares": 3567,
+      "value": 714000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 3567,
+          "percent_portfolio": "0.01",
+          "activity": "Reduce 0.61%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$200.17"
+        },
         {
           "period": "2026   Q1",
           "shares": 3589,
@@ -1313,6 +1329,47 @@
       ]
     },
     {
+      "manager": "Dodge & Cox Funds",
+      "percent_portfolio": 0.0,
+      "recent_activity": "",
+      "shares": 3400,
+      "value": 680000,
+      "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 3400,
+          "percent_portfolio": "0.00",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$200.00"
+        },
+        {
+          "period": "2026   Q1",
+          "shares": 3400,
+          "percent_portfolio": "0.00",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$174.41"
+        },
+        {
+          "period": "2025   Q4",
+          "shares": 3400,
+          "percent_portfolio": "0.00",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$186.47"
+        },
+        {
+          "period": "2025   Q3",
+          "shares": 3400,
+          "percent_portfolio": "0.00",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$186.47"
+        }
+      ]
+    },
+    {
       "manager": "Bill Nygren - Oakmark Funds",
       "percent_portfolio": 0.0,
       "recent_activity": "Reduce 5.22%",
@@ -1378,39 +1435,6 @@
       ]
     },
     {
-      "manager": "Dodge & Cox Funds",
-      "percent_portfolio": 0.0,
-      "recent_activity": "",
-      "shares": 3400,
-      "value": 593000,
-      "history": [
-        {
-          "period": "2026   Q1",
-          "shares": 3400,
-          "percent_portfolio": "0.00",
-          "activity": "",
-          "percent_change_portfolio": "",
-          "reported_price": "$174.41"
-        },
-        {
-          "period": "2025   Q4",
-          "shares": 3400,
-          "percent_portfolio": "0.00",
-          "activity": "",
-          "percent_change_portfolio": "",
-          "reported_price": "$186.47"
-        },
-        {
-          "period": "2025   Q3",
-          "shares": 3400,
-          "percent_portfolio": "0.00",
-          "activity": "Buy",
-          "percent_change_portfolio": "0.00",
-          "reported_price": "$186.47"
-        }
-      ]
-    },
-    {
       "manager": "Richard Pzena - Pzena Investment Management",
       "percent_portfolio": 0.0,
       "recent_activity": "Buy",
@@ -1449,6 +1473,20 @@
         "action": "Buy",
         "type": "Buy",
         "shares_changed": 1445,
+        "portfolio_change": "0.00"
+      },
+      {
+        "manager": "Samantha McLemore - Patient Capital Management",
+        "action": "Reduce 0.21%",
+        "type": "Sell",
+        "shares_changed": -1528,
+        "portfolio_change": "0.01"
+      },
+      {
+        "manager": "Sarah Ketterer - Causeway Capital Management",
+        "action": "Reduce 0.61%",
+        "type": "Sell",
+        "shares_changed": -22,
         "portfolio_change": "0.00"
       },
       {
@@ -2129,20 +2167,6 @@
         "type": "Buy",
         "shares_changed": 2889,
         "portfolio_change": "0.02"
-      },
-      {
-        "manager": "Bill Nygren - Oakmark Funds",
-        "action": "Buy",
-        "type": "Buy",
-        "shares_changed": 4005,
-        "portfolio_change": "0.00"
-      },
-      {
-        "manager": "Mairs & Power Funds",
-        "action": "Reduce 2.41%",
-        "type": "Sell",
-        "shares_changed": -148848,
-        "portfolio_change": "0.17"
       }
     ]
   },
@@ -2153,8 +2177,8 @@
         "amount": 0
       },
       "sells": {
-        "count": 426,
-        "amount": 1772525944
+        "count": 413,
+        "amount": 1731566410
       }
     },
     "transactions": [

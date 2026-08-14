@@ -1,11 +1,11 @@
 {
   "ticker": "XOM",
-  "updated_at": "2026-08-13T03:50:12.397508",
+  "updated_at": "2026-08-14T03:52:09.216772",
   "stats": {
     "sector": "Energy",
     "ownership_count": 11,
     "ownership_rank": 30,
-    "percent_of_portfolios": "0.097%"
+    "percent_of_portfolios": "0.095%"
   },
   "superinvestors": [
     {
@@ -805,11 +805,19 @@
     },
     {
       "manager": "Thomas Russo - Gardner Russo & Quinn",
-      "percent_portfolio": 0.39,
-      "recent_activity": "Add 0.48%",
-      "shares": 193950,
-      "value": 32906000,
+      "percent_portfolio": 0.28,
+      "recent_activity": "Reduce 6.57%",
+      "shares": 181200,
+      "value": 24774000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 181200,
+          "percent_portfolio": "0.28",
+          "activity": "Reduce 6.57%",
+          "percent_change_portfolio": "0.02",
+          "reported_price": "$136.72"
+        },
         {
           "period": "2026   Q1",
           "shares": 193950,
@@ -2180,10 +2188,18 @@
     {
       "manager": "Dodge & Cox Funds",
       "percent_portfolio": 0.01,
-      "recent_activity": "Reduce 0.85%",
+      "recent_activity": "",
       "shares": 73858,
-      "value": 12531000,
+      "value": 10098000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 73858,
+          "percent_portfolio": "0.01",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$136.72"
+        },
         {
           "period": "2026   Q1",
           "shares": 73858,
@@ -2330,6 +2346,13 @@
         "type": "Sell",
         "shares_changed": -27695,
         "portfolio_change": "0.01"
+      },
+      {
+        "manager": "Thomas Russo - Gardner Russo & Quinn",
+        "action": "Reduce 6.57%",
+        "type": "Sell",
+        "shares_changed": -12750,
+        "portfolio_change": "0.02"
       },
       {
         "manager": "First Eagle Investment Management",
@@ -3020,13 +3043,6 @@
         "type": "Sell",
         "shares_changed": -1056,
         "portfolio_change": "0.02"
-      },
-      {
-        "manager": "Yacktman Asset Management",
-        "action": "Reduce 17.19%",
-        "type": "Sell",
-        "shares_changed": -25000,
-        "portfolio_change": "0.03"
       }
     ]
   },

@@ -1,11 +1,11 @@
 {
   "ticker": "MRK",
-  "updated_at": "2026-08-13T03:08:02.718580",
+  "updated_at": "2026-08-14T03:08:41.899907",
   "stats": {
     "sector": "Health Care",
     "ownership_count": 10,
     "ownership_rank": 39,
-    "percent_of_portfolios": "0.121%"
+    "percent_of_portfolios": "0.122%"
   },
   "superinvestors": [
     {
@@ -540,11 +540,19 @@
     },
     {
       "manager": "Sarah Ketterer - Causeway Capital Management",
-      "percent_portfolio": 1.27,
-      "recent_activity": "Reduce 18.23%",
-      "shares": 854212,
-      "value": 102753000,
+      "percent_portfolio": 1.33,
+      "recent_activity": "Add 11.79%",
+      "shares": 954932,
+      "value": 122709000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 954932,
+          "percent_portfolio": "1.33",
+          "activity": "Add 11.79%",
+          "percent_change_portfolio": "0.14",
+          "reported_price": "$128.50"
+        },
         {
           "period": "2026   Q1",
           "shares": 854212,
@@ -1554,10 +1562,18 @@
     {
       "manager": "Dodge & Cox Funds",
       "percent_portfolio": 0.01,
-      "recent_activity": "Reduce 1.56%",
-      "shares": 136050,
-      "value": 16365000,
+      "recent_activity": "Reduce 0.22%",
+      "shares": 135750,
+      "value": 17444000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 135750,
+          "percent_portfolio": "0.01",
+          "activity": "Reduce 0.22%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$128.50"
+        },
         {
           "period": "2026   Q1",
           "shares": 136050,
@@ -1635,10 +1651,18 @@
     {
       "manager": "Thomas Russo - Gardner Russo & Quinn",
       "percent_portfolio": 0.0,
-      "recent_activity": "Buy",
-      "shares": 2141,
-      "value": 258000,
+      "recent_activity": "Reduce 23.31%",
+      "shares": 1642,
+      "value": 211000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 1642,
+          "percent_portfolio": "0.00",
+          "activity": "Reduce 23.31%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$128.50"
+        },
         {
           "period": "2026   Q1",
           "shares": 2141,
@@ -2196,6 +2220,29 @@
     }
   ],
   "activity": {
+    "Q2  2026": [
+      {
+        "manager": "Sarah Ketterer - Causeway Capital Management",
+        "action": "Add 11.79%",
+        "type": "Buy",
+        "shares_changed": 100720,
+        "portfolio_change": "0.14"
+      },
+      {
+        "manager": "Dodge & Cox Funds",
+        "action": "Reduce 0.22%",
+        "type": "Sell",
+        "shares_changed": -300,
+        "portfolio_change": "0.00"
+      },
+      {
+        "manager": "Thomas Russo - Gardner Russo & Quinn",
+        "action": "Reduce 23.31%",
+        "type": "Sell",
+        "shares_changed": -499,
+        "portfolio_change": "0.00"
+      }
+    ],
     "Q1  2026": [
       {
         "manager": "Christopher Bloomstran - Semper Augustus",
@@ -2904,29 +2951,6 @@
         "shares_changed": -14769,
         "portfolio_change": "0.20"
       }
-    ],
-    "Q2  2022": [
-      {
-        "manager": "Christopher Bloomstran - Semper Augustus",
-        "action": "Add 0.91%",
-        "type": "Buy",
-        "shares_changed": 400,
-        "portfolio_change": "0.01"
-      },
-      {
-        "manager": "Kahn Brothers Group",
-        "action": "Add 0.65%",
-        "type": "Buy",
-        "shares_changed": 4489,
-        "portfolio_change": "0.06"
-      },
-      {
-        "manager": "Thomas Russo - Gardner Russo & Quinn",
-        "action": "Add 0.26%",
-        "type": "Buy",
-        "shares_changed": 10,
-        "portfolio_change": "0.00"
-      }
     ]
   },
   "insiders": {
@@ -2936,11 +2960,31 @@
         "amount": 0
       },
       "sells": {
-        "count": 33,
-        "amount": 59945317
+        "count": 35,
+        "amount": 72013812
       }
     },
     "transactions": [
+      {
+        "filing_date": "13 Aug 2026 17:02",
+        "reporter": "GUINDO CHIRFI",
+        "relationship": "EVP, Access, Policy & Comms",
+        "transaction_date": "13 Aug 2026",
+        "transaction_type": "Sale",
+        "shares": 10000,
+        "price": 135.0,
+        "value": 1350000
+      },
+      {
+        "filing_date": "13 Aug 2026 16:11",
+        "reporter": "ZACHARY JENNIFER",
+        "relationship": "EVP, General Counsel",
+        "transaction_date": "12 Aug 2026",
+        "transaction_type": "Sale",
+        "shares": 80315,
+        "price": 133.4557,
+        "value": 10718495
+      },
       {
         "filing_date": "12 Aug 2026 16:10",
         "reporter": "DELUCA RICHARD R.",

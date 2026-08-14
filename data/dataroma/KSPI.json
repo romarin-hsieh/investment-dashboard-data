@@ -1,10 +1,10 @@
 {
   "ticker": "KSPI",
-  "updated_at": "2026-08-13T02:56:22.071377",
+  "updated_at": "2026-08-14T02:56:20.043926",
   "stats": {
     "sector": "Technology",
-    "ownership_count": 5,
-    "ownership_rank": 155,
+    "ownership_count": 6,
+    "ownership_rank": 111,
     "percent_of_portfolios": "0.021%"
   },
   "superinvestors": [
@@ -131,6 +131,23 @@
       ]
     },
     {
+      "manager": "Mohnish Pabrai - Pabrai Investments",
+      "percent_portfolio": 0.04,
+      "recent_activity": "Buy",
+      "shares": 1702,
+      "value": 147000,
+      "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 1702,
+          "percent_portfolio": "0.04",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.04",
+          "reported_price": "$86.37"
+        }
+      ]
+    },
+    {
       "manager": "John Rogers - Ariel Investments",
       "percent_portfolio": 0.02,
       "recent_activity": "Add 72.52%",
@@ -239,10 +256,18 @@
     {
       "manager": "Dodge & Cox Funds",
       "percent_portfolio": 0.01,
-      "recent_activity": "Add 14.42%",
-      "shares": 210226,
-      "value": 15571000,
+      "recent_activity": "Add 20.26%",
+      "shares": 252826,
+      "value": 21905000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 252826,
+          "percent_portfolio": "0.01",
+          "activity": "Add 20.26%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$86.64"
+        },
         {
           "period": "2026   Q1",
           "shares": 210226,
@@ -321,11 +346,25 @@
   "activity": {
     "Q2  2026": [
       {
+        "manager": "Dodge & Cox Funds",
+        "action": "Add 20.26%",
+        "type": "Buy",
+        "shares_changed": 42600,
+        "portfolio_change": "0.00"
+      },
+      {
         "manager": "Richard Pzena - Pzena Investment Management",
         "action": "Add 14.95%",
         "type": "Buy",
         "shares_changed": 399501,
         "portfolio_change": "0.10"
+      },
+      {
+        "manager": "Mohnish Pabrai - Pabrai Investments",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 1702,
+        "portfolio_change": "0.04"
       }
     ],
     "Q1  2026": [
@@ -540,17 +579,17 @@
         "portfolio_change": "0.39"
       },
       {
-        "manager": "John Rogers - Ariel Investments",
-        "action": "Buy",
-        "type": "Buy",
-        "shares_changed": 2210,
-        "portfolio_change": "0.00"
-      },
-      {
         "manager": "Polen Capital Management",
         "action": "Buy",
         "type": "Buy",
         "shares_changed": 9686,
+        "portfolio_change": "0.00"
+      },
+      {
+        "manager": "John Rogers - Ariel Investments",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 2210,
         "portfolio_change": "0.00"
       }
     ]
