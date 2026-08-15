@@ -1,32 +1,48 @@
 {
   "ticker": "CRWV",
-  "updated_at": "2026-08-14T02:30:57.807820",
+  "updated_at": "2026-08-15T01:48:06.599929",
   "stats": {
     "sector": "Technology",
     "ownership_count": 1,
-    "ownership_rank": 883,
-    "percent_of_portfolios": "0.004%"
+    "ownership_rank": 865,
+    "percent_of_portfolios": "0.018%"
   },
   "superinvestors": [
     {
-      "manager": "Viking Global Investors",
-      "percent_portfolio": 0.3,
+      "manager": "David Tepper - Appaloosa Management",
+      "percent_portfolio": 1.44,
       "recent_activity": "Buy",
-      "shares": 1397438,
-      "value": 108260000,
+      "shares": 1078248,
+      "value": 107329000,
       "history": [
         {
-          "period": "2026   Q1",
-          "shares": 1397438,
-          "percent_portfolio": "0.30",
+          "period": "2026   Q2",
+          "shares": 1078248,
+          "percent_portfolio": "1.44",
           "activity": "Buy",
-          "percent_change_portfolio": "0.30",
-          "reported_price": "$77.47"
+          "percent_change_portfolio": "1.44",
+          "reported_price": "$99.54"
         }
       ]
     }
   ],
   "activity": {
+    "Q2  2026": [
+      {
+        "manager": "David Tepper - Appaloosa Management",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 1078248,
+        "portfolio_change": "1.44"
+      },
+      {
+        "manager": "Viking Global Investors",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -1397438,
+        "portfolio_change": "0.30"
+      }
+    ],
     "Q1  2026": [
       {
         "manager": "Viking Global Investors",
@@ -87,11 +103,21 @@
         "amount": 0
       },
       "sells": {
-        "count": 4504,
-        "amount": 9372716208
+        "count": 4505,
+        "amount": 9372716318
       }
     },
     "transactions": [
+      {
+        "filing_date": "14 Aug 2026 17:41",
+        "reporter": "JAIN SACHIN",
+        "relationship": "Chief Operating Officer",
+        "transaction_date": "12 Aug 2026",
+        "transaction_type": "Sale",
+        "shares": 1,
+        "price": 110.0,
+        "value": 110
+      },
       {
         "filing_date": "13 Aug 2026 18:28",
         "reporter": "INTRATOR MICHAEL N",
@@ -1081,16 +1107,6 @@
         "shares": 368,
         "price": 74.1317,
         "value": 27280
-      },
-      {
-        "filing_date": "05 Aug 2026 16:49",
-        "reporter": "MCBEE BRANNIN",
-        "relationship": "Chief Development Officer",
-        "transaction_date": "03 Aug 2026",
-        "transaction_type": "Sale",
-        "shares": 647,
-        "price": 75.3681,
-        "value": 48763
       }
     ]
   }

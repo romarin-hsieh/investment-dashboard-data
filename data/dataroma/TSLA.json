@@ -1,20 +1,28 @@
 {
   "ticker": "TSLA",
-  "updated_at": "2026-08-14T03:35:43.995172",
+  "updated_at": "2026-08-15T02:51:53.372232",
   "stats": {
     "sector": "Consumer Goods",
-    "ownership_count": 7,
-    "ownership_rank": 76,
-    "percent_of_portfolios": "0.183%"
+    "ownership_count": 6,
+    "ownership_rank": 113,
+    "percent_of_portfolios": "0.167%"
   },
   "superinvestors": [
     {
       "manager": "Duan Yongping - H&H International Investment",
-      "percent_portfolio": 6.34,
-      "recent_activity": "Buy",
-      "shares": 3408900,
-      "value": 1267259000,
+      "percent_portfolio": 7.44,
+      "recent_activity": "Reduce 0.84%",
+      "shares": 3380400,
+      "value": 1421796000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 3380400,
+          "percent_portfolio": "7.44",
+          "activity": "Reduce 0.84%",
+          "percent_change_portfolio": "0.06",
+          "reported_price": "$420.60"
+        },
         {
           "period": "2026   Q1",
           "shares": 3408900,
@@ -27,11 +35,19 @@
     },
     {
       "manager": "Josh Tarasoff - Greenlea Lane Capital",
-      "percent_portfolio": 5.91,
-      "recent_activity": "Reduce 11.86%",
-      "shares": 54735,
-      "value": 20348000,
+      "percent_portfolio": 5.47,
+      "recent_activity": "Reduce 13.42%",
+      "shares": 47390,
+      "value": 19932000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 47390,
+          "percent_portfolio": "5.47",
+          "activity": "Reduce 13.42%",
+          "percent_change_portfolio": "0.85",
+          "reported_price": "$420.60"
+        },
         {
           "period": "2026   Q1",
           "shares": 54735,
@@ -100,11 +116,19 @@
     },
     {
       "manager": "Viking Global Investors",
-      "percent_portfolio": 2.59,
-      "recent_activity": "Add 46.70%",
-      "shares": 2493561,
-      "value": 926981000,
+      "percent_portfolio": 0.66,
+      "recent_activity": "Reduce 78.03%",
+      "shares": 547816,
+      "value": 230411000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 547816,
+          "percent_portfolio": "0.66",
+          "activity": "Reduce 78.03%",
+          "percent_change_portfolio": "2.34",
+          "reported_price": "$420.60"
+        },
         {
           "period": "2026   Q1",
           "shares": 2493561,
@@ -461,23 +485,6 @@
           "reported_price": "$222.75"
         }
       ]
-    },
-    {
-      "manager": "First Pacific Advisors",
-      "percent_portfolio": 0.02,
-      "recent_activity": "Buy",
-      "shares": 3000,
-      "value": 1115000,
-      "history": [
-        {
-          "period": "2026   Q1",
-          "shares": 3000,
-          "percent_portfolio": "0.02",
-          "activity": "Buy",
-          "percent_change_portfolio": "0.02",
-          "reported_price": "$371.67"
-        }
-      ]
     }
   ],
   "activity": {
@@ -497,11 +504,39 @@
         "portfolio_change": "0.02"
       },
       {
+        "manager": "Duan Yongping - H&H International Investment",
+        "action": "Reduce 0.84%",
+        "type": "Sell",
+        "shares_changed": -28500,
+        "portfolio_change": "0.06"
+      },
+      {
+        "manager": "Josh Tarasoff - Greenlea Lane Capital",
+        "action": "Reduce 13.42%",
+        "type": "Sell",
+        "shares_changed": -7345,
+        "portfolio_change": "0.85"
+      },
+      {
+        "manager": "Viking Global Investors",
+        "action": "Reduce 78.03%",
+        "type": "Sell",
+        "shares_changed": -1945745,
+        "portfolio_change": "2.34"
+      },
+      {
         "manager": "Steven Check - Check Capital Management",
         "action": "Sell 100.00%",
         "type": "Sell",
         "shares_changed": -2500,
         "portfolio_change": "0.06"
+      },
+      {
+        "manager": "First Pacific Advisors",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -3000,
+        "portfolio_change": "0.02"
       }
     ],
     "Q1  2026": [

@@ -1,11 +1,11 @@
 {
   "ticker": "IBKR",
-  "updated_at": "2026-08-14T02:47:09.061653",
+  "updated_at": "2026-08-15T02:03:58.185225",
   "stats": {
     "sector": "Financials",
-    "ownership_count": 5,
-    "ownership_rank": 160,
-    "percent_of_portfolios": "0.699%"
+    "ownership_count": 6,
+    "ownership_rank": 113,
+    "percent_of_portfolios": "0.706%"
   },
   "superinvestors": [
     {
@@ -259,11 +259,19 @@
     },
     {
       "manager": "Robert Vinall - RV Capital GmbH",
-      "percent_portfolio": 13.36,
-      "recent_activity": "Add 0.72%",
-      "shares": 757919,
-      "value": 51111000,
+      "percent_portfolio": 12.75,
+      "recent_activity": "Reduce 25.97%",
+      "shares": 561086,
+      "value": 48837000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 561086,
+          "percent_portfolio": "12.75",
+          "activity": "Reduce 25.97%",
+          "percent_change_portfolio": "4.47",
+          "reported_price": "$87.04"
+        },
         {
           "period": "2026   Q1",
           "shares": 757919,
@@ -766,11 +774,19 @@
     },
     {
       "manager": "Viking Global Investors",
-      "percent_portfolio": 0.26,
-      "recent_activity": "Buy",
-      "shares": 1394329,
-      "value": 93518000,
+      "percent_portfolio": 1.2,
+      "recent_activity": "Add 246.46%",
+      "shares": 4830748,
+      "value": 420468000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 4830748,
+          "percent_portfolio": "1.20",
+          "activity": "Add 246.46%",
+          "percent_change_portfolio": "0.85",
+          "reported_price": "$87.04"
+        },
         {
           "period": "2026   Q1",
           "shares": 1394329,
@@ -780,10 +796,48 @@
           "reported_price": "$67.07"
         }
       ]
+    },
+    {
+      "manager": "Stephen Mandel - Lone Pine Capital",
+      "percent_portfolio": 0.31,
+      "recent_activity": "Buy",
+      "shares": 577666,
+      "value": 50280000,
+      "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 577666,
+          "percent_portfolio": "0.31",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.31",
+          "reported_price": "$87.04"
+        }
+      ]
     }
   ],
   "activity": {
     "Q2  2026": [
+      {
+        "manager": "Viking Global Investors",
+        "action": "Add 246.46%",
+        "type": "Buy",
+        "shares_changed": 3436419,
+        "portfolio_change": "0.85"
+      },
+      {
+        "manager": "Stephen Mandel - Lone Pine Capital",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 577666,
+        "portfolio_change": "0.31"
+      },
+      {
+        "manager": "Robert Vinall - RV Capital GmbH",
+        "action": "Reduce 25.97%",
+        "type": "Sell",
+        "shares_changed": -196833,
+        "portfolio_change": "4.47"
+      },
       {
         "manager": "John Armitage - Egerton Capital",
         "action": "Reduce 34.19%",
@@ -1410,8 +1464,8 @@
         "amount": 42000
       },
       "sells": {
-        "count": 59,
-        "amount": 116909206
+        "count": 52,
+        "amount": 103316624
       }
     },
     "transactions": [
@@ -2014,76 +2068,6 @@
         "shares": 20521,
         "price": 64.22,
         "value": 1317859
-      },
-      {
-        "filing_date": "14 Aug 2025 16:02",
-        "reporter": "NEMSER EARL H",
-        "relationship": "Vice Chairman",
-        "transaction_date": "12 Aug 2025",
-        "transaction_type": "Sale",
-        "shares": 153000,
-        "price": 67.39,
-        "value": 10310670
-      },
-      {
-        "filing_date": "14 Aug 2025 16:02",
-        "reporter": "NEMSER EARL H",
-        "relationship": "Vice Chairman",
-        "transaction_date": "12 Aug 2025",
-        "transaction_type": "Sale",
-        "shares": 41086,
-        "price": 67.88,
-        "value": 2788918
-      },
-      {
-        "filing_date": "14 Aug 2025 16:02",
-        "reporter": "NEMSER EARL H",
-        "relationship": "Vice Chairman",
-        "transaction_date": "13 Aug 2025",
-        "transaction_type": "Sale",
-        "shares": 4600,
-        "price": 63.75,
-        "value": 293250
-      },
-      {
-        "filing_date": "14 Aug 2025 16:02",
-        "reporter": "NEMSER EARL H",
-        "relationship": "Vice Chairman",
-        "transaction_date": "13 Aug 2025",
-        "transaction_type": "Sale",
-        "shares": 200,
-        "price": 64.19,
-        "value": 12838
-      },
-      {
-        "filing_date": "14 Aug 2025 16:02",
-        "reporter": "NEMSER EARL H",
-        "relationship": "Vice Chairman",
-        "transaction_date": "13 Aug 2025",
-        "transaction_type": "Sale",
-        "shares": 200,
-        "price": 66.09,
-        "value": 13218
-      },
-      {
-        "filing_date": "14 Aug 2025 16:02",
-        "reporter": "NEMSER EARL H",
-        "relationship": "Vice Chairman",
-        "transaction_date": "13 Aug 2025",
-        "transaction_type": "Sale",
-        "shares": 2400,
-        "price": 66.77,
-        "value": 160248
-      },
-      {
-        "filing_date": "14 Aug 2025 16:02",
-        "reporter": "NEMSER EARL H",
-        "relationship": "Vice Chairman",
-        "transaction_date": "13 Aug 2025",
-        "transaction_type": "Sale",
-        "shares": 200,
-        "price": 67.2,
-        "value": 13440
       }
     ]
   }

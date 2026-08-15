@@ -1,20 +1,28 @@
 {
   "ticker": "KSPI",
-  "updated_at": "2026-08-14T02:56:20.043926",
+  "updated_at": "2026-08-15T02:13:07.954655",
   "stats": {
     "sector": "Technology",
-    "ownership_count": 6,
-    "ownership_rank": 111,
-    "percent_of_portfolios": "0.021%"
+    "ownership_count": 7,
+    "ownership_rank": 75,
+    "percent_of_portfolios": "0.026%"
   },
   "superinvestors": [
     {
       "manager": "Mason Hawkins - Southeastern Asset Management",
-      "percent_portfolio": 0.88,
-      "recent_activity": "",
-      "shares": 240628,
-      "value": 17823000,
+      "percent_portfolio": 0.96,
+      "recent_activity": "Reduce 11.48%",
+      "shares": 212999,
+      "value": 18454000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 212999,
+          "percent_portfolio": "0.96",
+          "activity": "Reduce 11.48%",
+          "percent_change_portfolio": "0.12",
+          "reported_price": "$86.64"
+        },
         {
           "period": "2026   Q1",
           "shares": 240628,
@@ -131,6 +139,23 @@
       ]
     },
     {
+      "manager": "Prem Watsa - Fairfax Financial Holdings",
+      "percent_portfolio": 0.35,
+      "recent_activity": "Buy",
+      "shares": 106000,
+      "value": 9175000,
+      "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 106000,
+          "percent_portfolio": "0.35",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.35",
+          "reported_price": "$86.56"
+        }
+      ]
+    },
+    {
       "manager": "Mohnish Pabrai - Pabrai Investments",
       "percent_portfolio": 0.04,
       "recent_activity": "Buy",
@@ -150,10 +175,18 @@
     {
       "manager": "John Rogers - Ariel Investments",
       "percent_portfolio": 0.02,
-      "recent_activity": "Add 72.52%",
-      "shares": 22724,
-      "value": 1683000,
+      "recent_activity": "Add 3.92%",
+      "shares": 23614,
+      "value": 2046000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 23614,
+          "percent_portfolio": "0.02",
+          "activity": "Add 3.92%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$86.64"
+        },
         {
           "period": "2026   Q1",
           "shares": 22724,
@@ -223,10 +256,18 @@
     {
       "manager": "Ruane Cunniff LP",
       "percent_portfolio": 0.01,
-      "recent_activity": "Reduce 0.71%",
-      "shares": 4083,
-      "value": 302000,
+      "recent_activity": "Reduce 3.65%",
+      "shares": 3934,
+      "value": 341000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 3934,
+          "percent_portfolio": "0.01",
+          "activity": "Reduce 3.65%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$86.68"
+        },
         {
           "period": "2026   Q1",
           "shares": 4083,
@@ -360,11 +401,39 @@
         "portfolio_change": "0.10"
       },
       {
+        "manager": "John Rogers - Ariel Investments",
+        "action": "Add 3.92%",
+        "type": "Buy",
+        "shares_changed": 890,
+        "portfolio_change": "0.00"
+      },
+      {
+        "manager": "Prem Watsa - Fairfax Financial Holdings",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 106000,
+        "portfolio_change": "0.35"
+      },
+      {
         "manager": "Mohnish Pabrai - Pabrai Investments",
         "action": "Buy",
         "type": "Buy",
         "shares_changed": 1702,
         "portfolio_change": "0.04"
+      },
+      {
+        "manager": "Ruane Cunniff LP",
+        "action": "Reduce 3.65%",
+        "type": "Sell",
+        "shares_changed": -149,
+        "portfolio_change": "0.00"
+      },
+      {
+        "manager": "Mason Hawkins - Southeastern Asset Management",
+        "action": "Reduce 11.48%",
+        "type": "Sell",
+        "shares_changed": -27629,
+        "portfolio_change": "0.12"
       }
     ],
     "Q1  2026": [

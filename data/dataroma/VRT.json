@@ -1,20 +1,28 @@
 {
   "ticker": "VRT",
-  "updated_at": "2026-08-14T03:45:20.220670",
+  "updated_at": "2026-08-15T03:02:30.991302",
   "stats": {
     "sector": "Industrials",
-    "ownership_count": 2,
-    "ownership_rank": 495,
-    "percent_of_portfolios": "0.219%"
+    "ownership_count": 3,
+    "ownership_rank": 299,
+    "percent_of_portfolios": "0.25%"
   },
   "superinvestors": [
     {
       "manager": "Leon Cooperman",
-      "percent_portfolio": 17.74,
+      "percent_portfolio": 20.37,
       "recent_activity": "",
       "shares": 2157789,
-      "value": 540699000,
+      "value": 722471000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 2157789,
+          "percent_portfolio": "20.37",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$334.82"
+        },
         {
           "period": "2026   Q1",
           "shares": 2157789,
@@ -203,11 +211,19 @@
     },
     {
       "manager": "Terry Smith - Fundsmith",
-      "percent_portfolio": 0.18,
-      "recent_activity": "Reduce 77.79%",
-      "shares": 91254,
-      "value": 22866000,
+      "percent_portfolio": 0.1,
+      "recent_activity": "Reduce 54.09%",
+      "shares": 41893,
+      "value": 14027000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 41893,
+          "percent_portfolio": "0.10",
+          "activity": "Reduce 54.09%",
+          "percent_change_portfolio": "0.12",
+          "reported_price": "$334.83"
+        },
         {
           "period": "2026   Q1",
           "shares": 91254,
@@ -241,9 +257,42 @@
           "reported_price": "$128.41"
         }
       ]
+    },
+    {
+      "manager": "Mairs & Power Funds",
+      "percent_portfolio": 0.0,
+      "recent_activity": "Buy",
+      "shares": 780,
+      "value": 261000,
+      "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 780,
+          "percent_portfolio": "0.00",
+          "activity": "Buy",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$334.62"
+        }
+      ]
     }
   ],
   "activity": {
+    "Q2  2026": [
+      {
+        "manager": "Mairs & Power Funds",
+        "action": "Buy",
+        "type": "Buy",
+        "shares_changed": 780,
+        "portfolio_change": "0.00"
+      },
+      {
+        "manager": "Terry Smith - Fundsmith",
+        "action": "Reduce 54.09%",
+        "type": "Sell",
+        "shares_changed": -49361,
+        "portfolio_change": "0.12"
+      }
+    ],
     "Q1  2026": [
       {
         "manager": "Terry Smith - Fundsmith",
@@ -515,8 +564,8 @@
         "amount": 0
       },
       "sells": {
-        "count": 71,
-        "amount": 147654784
+        "count": 70,
+        "amount": 142064401
       }
     },
     "transactions": [
@@ -1039,16 +1088,6 @@
         "shares": 1400,
         "price": 125.63,
         "value": 175882
-      },
-      {
-        "filing_date": "14 Aug 2025 18:30",
-        "reporter": "WINTHER KARSTEN",
-        "relationship": "President, EMEA",
-        "transaction_date": "14 Aug 2025",
-        "transaction_type": "Sale",
-        "shares": 41654,
-        "price": 134.21,
-        "value": 5590383
       }
     ]
   }

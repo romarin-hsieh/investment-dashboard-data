@@ -1,20 +1,28 @@
 {
   "ticker": "XOM",
-  "updated_at": "2026-08-14T03:52:09.216772",
+  "updated_at": "2026-08-15T03:09:39.335128",
   "stats": {
     "sector": "Energy",
-    "ownership_count": 11,
-    "ownership_rank": 30,
-    "percent_of_portfolios": "0.095%"
+    "ownership_count": 10,
+    "ownership_rank": 41,
+    "percent_of_portfolios": "0.072%"
   },
   "superinvestors": [
     {
       "manager": "Arnold Van Den Berg - Century Management",
-      "percent_portfolio": 5.25,
-      "recent_activity": "Reduce 4.33%",
-      "shares": 134915,
-      "value": 22890000,
+      "percent_portfolio": 3.65,
+      "recent_activity": "Reduce 6.34%",
+      "shares": 126367,
+      "value": 17277000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 126367,
+          "percent_portfolio": "3.65",
+          "activity": "Reduce 6.34%",
+          "percent_change_portfolio": "0.25",
+          "reported_price": "$136.72"
+        },
         {
           "period": "2026   Q1",
           "shares": 134915,
@@ -83,11 +91,19 @@
     },
     {
       "manager": "Christopher Bloomstran - Semper Augustus",
-      "percent_portfolio": 1.17,
-      "recent_activity": "Reduce 0.07%",
-      "shares": 57517,
-      "value": 9758000,
+      "percent_portfolio": 0.88,
+      "recent_activity": "Reduce 0.59%",
+      "shares": 57176,
+      "value": 7817000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 57176,
+          "percent_portfolio": "0.88",
+          "activity": "Reduce 0.59%",
+          "percent_change_portfolio": "0.01",
+          "reported_price": "$136.72"
+        },
         {
           "period": "2026   Q1",
           "shares": 57517,
@@ -341,10 +357,18 @@
     {
       "manager": "Kahn Brothers Group",
       "percent_portfolio": 0.55,
-      "recent_activity": "Reduce 9.70%",
+      "recent_activity": "",
       "shares": 18255,
       "value": 3097000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 18255,
+          "percent_portfolio": "0.55",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$169.65"
+        },
         {
           "period": "2026   Q1",
           "shares": 18255,
@@ -1471,11 +1495,19 @@
     },
     {
       "manager": "Mairs & Power Funds",
-      "percent_portfolio": 0.14,
-      "recent_activity": "Reduce 3.56%",
-      "shares": 83523,
-      "value": 14171000,
+      "percent_portfolio": 0.1,
+      "recent_activity": "Reduce 2.06%",
+      "shares": 81802,
+      "value": 11184000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 81802,
+          "percent_portfolio": "0.10",
+          "activity": "Reduce 2.06%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$136.72"
+        },
         {
           "period": "2026   Q1",
           "shares": 83523,
@@ -2273,55 +2305,6 @@
           "reported_price": "$116.24"
         }
       ]
-    },
-    {
-      "manager": "Bill Nygren - Oakmark Funds",
-      "percent_portfolio": 0.0,
-      "recent_activity": "Reduce 25.43%",
-      "shares": 1466,
-      "value": 249000,
-      "history": [
-        {
-          "period": "2026   Q1",
-          "shares": 1466,
-          "percent_portfolio": "0.00",
-          "activity": "Reduce 25.43%",
-          "percent_change_portfolio": "0.00",
-          "reported_price": "$169.85"
-        },
-        {
-          "period": "2025   Q4",
-          "shares": 1966,
-          "percent_portfolio": "0.00",
-          "activity": "",
-          "percent_change_portfolio": "",
-          "reported_price": "$120.55"
-        },
-        {
-          "period": "2025   Q3",
-          "shares": 1966,
-          "percent_portfolio": "0.00",
-          "activity": "Reduce 72.56%",
-          "percent_change_portfolio": "0.00",
-          "reported_price": "$112.92"
-        },
-        {
-          "period": "2025   Q2",
-          "shares": 7166,
-          "percent_portfolio": "0.00",
-          "activity": "Add 21.11%",
-          "percent_change_portfolio": "0.00",
-          "reported_price": "$107.73"
-        },
-        {
-          "period": "2025   Q1",
-          "shares": 5917,
-          "percent_portfolio": "0.00",
-          "activity": "Buy",
-          "percent_change_portfolio": "0.00",
-          "reported_price": "$118.98"
-        }
-      ]
     }
   ],
   "activity": {
@@ -2332,6 +2315,20 @@
         "type": "Buy",
         "shares_changed": 9100,
         "portfolio_change": "0.01"
+      },
+      {
+        "manager": "Christopher Bloomstran - Semper Augustus",
+        "action": "Reduce 0.59%",
+        "type": "Sell",
+        "shares_changed": -341,
+        "portfolio_change": "0.01"
+      },
+      {
+        "manager": "Mairs & Power Funds",
+        "action": "Reduce 2.06%",
+        "type": "Sell",
+        "shares_changed": -1721,
+        "portfolio_change": "0.00"
       },
       {
         "manager": "David Katz - Matrix Asset Advisors",
@@ -2348,6 +2345,13 @@
         "portfolio_change": "0.01"
       },
       {
+        "manager": "Arnold Van Den Berg - Century Management",
+        "action": "Reduce 6.34%",
+        "type": "Sell",
+        "shares_changed": -8548,
+        "portfolio_change": "0.25"
+      },
+      {
         "manager": "Thomas Russo - Gardner Russo & Quinn",
         "action": "Reduce 6.57%",
         "type": "Sell",
@@ -2360,6 +2364,13 @@
         "type": "Sell",
         "shares_changed": -6237614,
         "portfolio_change": "1.80"
+      },
+      {
+        "manager": "Bill Nygren - Oakmark Funds",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -1466,
+        "portfolio_change": "0.00"
       }
     ],
     "Q1  2026": [
@@ -3015,34 +3026,6 @@
         "type": "Buy",
         "shares_changed": 935,
         "portfolio_change": "0.00"
-      },
-      {
-        "manager": "First Eagle Investment Management",
-        "action": "Add 0.11%",
-        "type": "Buy",
-        "shares_changed": 14630,
-        "portfolio_change": "0.00"
-      },
-      {
-        "manager": "Lee Ainslie - Maverick Capital",
-        "action": "Buy",
-        "type": "Buy",
-        "shares_changed": 4831,
-        "portfolio_change": "0.01"
-      },
-      {
-        "manager": "David Katz - Matrix Asset Advisors",
-        "action": "Reduce 4.21%",
-        "type": "Sell",
-        "shares_changed": -191,
-        "portfolio_change": "0.00"
-      },
-      {
-        "manager": "Kahn Brothers Group",
-        "action": "Reduce 6.94%",
-        "type": "Sell",
-        "shares_changed": -1056,
-        "portfolio_change": "0.02"
       }
     ]
   },

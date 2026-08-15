@@ -1,20 +1,28 @@
 {
   "ticker": "HUT",
-  "updated_at": "2026-08-14T02:46:22.733903",
+  "updated_at": "2026-08-15T02:03:04.548758",
   "stats": {
     "sector": "Financials",
     "ownership_count": 2,
-    "ownership_rank": 495,
-    "percent_of_portfolios": "0.052%"
+    "ownership_rank": 481,
+    "percent_of_portfolios": "0.09%"
   },
   "superinvestors": [
     {
       "manager": "Stephen Mandel - Lone Pine Capital",
-      "percent_portfolio": 2.27,
-      "recent_activity": "Buy",
-      "shares": 6078951,
-      "value": 285164000,
+      "percent_portfolio": 4.07,
+      "recent_activity": "Reduce 5.03%",
+      "shares": 5773045,
+      "value": 666469000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 5773045,
+          "percent_portfolio": "4.07",
+          "activity": "Reduce 5.03%",
+          "percent_change_portfolio": "0.22",
+          "reported_price": "$115.44"
+        },
         {
           "period": "2026   Q1",
           "shares": 6078951,
@@ -51,11 +59,19 @@
     },
     {
       "manager": "Daniel Loeb - Third Point",
-      "percent_portfolio": 1.96,
-      "recent_activity": "Buy",
-      "shares": 869563,
-      "value": 40791000,
+      "percent_portfolio": 3.32,
+      "recent_activity": "Add 51.23%",
+      "shares": 1315000,
+      "value": 151810000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 1315000,
+          "percent_portfolio": "3.32",
+          "activity": "Add 51.23%",
+          "percent_change_portfolio": "1.12",
+          "reported_price": "$115.44"
+        },
         {
           "period": "2026   Q1",
           "shares": 869563,
@@ -68,6 +84,22 @@
     }
   ],
   "activity": {
+    "Q2  2026": [
+      {
+        "manager": "Daniel Loeb - Third Point",
+        "action": "Add 51.23%",
+        "type": "Buy",
+        "shares_changed": 445437,
+        "portfolio_change": "1.12"
+      },
+      {
+        "manager": "Stephen Mandel - Lone Pine Capital",
+        "action": "Reduce 5.03%",
+        "type": "Sell",
+        "shares_changed": -305906,
+        "portfolio_change": "0.22"
+      }
+    ],
     "Q1  2026": [
       {
         "manager": "Stephen Mandel - Lone Pine Capital",

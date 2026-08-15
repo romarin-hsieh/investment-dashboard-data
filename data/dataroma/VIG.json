@@ -1,20 +1,28 @@
 {
   "ticker": "VIG",
-  "updated_at": "2026-08-14T03:44:20.494785",
+  "updated_at": "2026-08-15T03:01:27.709531",
   "stats": {
     "sector": "",
     "ownership_count": 3,
-    "ownership_rank": 300,
+    "ownership_rank": 299,
     "percent_of_portfolios": "0.003%"
   },
   "superinvestors": [
     {
       "manager": "Arnold Van Den Berg - Century Management",
-      "percent_portfolio": 0.2,
-      "recent_activity": "Add 4.56%",
-      "shares": 4062,
-      "value": 874000,
+      "percent_portfolio": 0.21,
+      "recent_activity": "Add 1.30%",
+      "shares": 4115,
+      "value": 974000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 4115,
+          "percent_portfolio": "0.21",
+          "activity": "Add 1.30%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$236.70"
+        },
         {
           "period": "2026   Q1",
           "shares": 4062,
@@ -292,11 +300,19 @@
     },
     {
       "manager": "Mairs & Power Funds",
-      "percent_portfolio": 0.01,
-      "recent_activity": "Reduce 3.24%",
-      "shares": 2300,
-      "value": 495000,
+      "percent_portfolio": 0.0,
+      "recent_activity": "Reduce 26.52%",
+      "shares": 1690,
+      "value": 400000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 1690,
+          "percent_portfolio": "0.00",
+          "activity": "Reduce 26.52%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$236.69"
+        },
         {
           "period": "2026   Q1",
           "shares": 2300,
@@ -375,10 +391,24 @@
   "activity": {
     "Q2  2026": [
       {
+        "manager": "Arnold Van Den Berg - Century Management",
+        "action": "Add 1.30%",
+        "type": "Buy",
+        "shares_changed": 53,
+        "portfolio_change": "0.00"
+      },
+      {
         "manager": "David Katz - Matrix Asset Advisors",
         "action": "Reduce 2.66%",
         "type": "Sell",
         "shares_changed": -87,
+        "portfolio_change": "0.00"
+      },
+      {
+        "manager": "Mairs & Power Funds",
+        "action": "Reduce 26.52%",
+        "type": "Sell",
+        "shares_changed": -610,
         "portfolio_change": "0.00"
       }
     ],

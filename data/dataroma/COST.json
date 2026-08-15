@@ -1,20 +1,28 @@
 {
   "ticker": "COST",
-  "updated_at": "2026-08-14T02:28:38.147844",
+  "updated_at": "2026-08-15T01:45:47.614134",
   "stats": {
     "sector": "Consumer Staples",
     "ownership_count": 7,
-    "ownership_rank": 76,
-    "percent_of_portfolios": "0.011%"
+    "ownership_rank": 75,
+    "percent_of_portfolios": "0.01%"
   },
   "superinvestors": [
     {
       "manager": "Christopher Bloomstran - Semper Augustus",
-      "percent_portfolio": 0.4,
-      "recent_activity": "Reduce 2.32%",
-      "shares": 3367,
-      "value": 3355000,
+      "percent_portfolio": 0.35,
+      "recent_activity": "Reduce 0.39%",
+      "shares": 3354,
+      "value": 3138000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 3354,
+          "percent_portfolio": "0.35",
+          "activity": "Reduce 0.39%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$935.60"
+        },
         {
           "period": "2026   Q1",
           "shares": 3367,
@@ -1696,10 +1704,18 @@
     {
       "manager": "Mairs & Power Funds",
       "percent_portfolio": 0.03,
-      "recent_activity": "Add 1.02%",
+      "recent_activity": "",
       "shares": 2963,
-      "value": 2952000,
+      "value": 2772000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 2963,
+          "percent_portfolio": "0.03",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$935.54"
+        },
         {
           "period": "2026   Q1",
           "shares": 2963,
@@ -1777,10 +1793,18 @@
     {
       "manager": "Bill Nygren - Oakmark Funds",
       "percent_portfolio": 0.0,
-      "recent_activity": "Reduce 44.82%",
-      "shares": 362,
-      "value": 361000,
+      "recent_activity": "Reduce 1.10%",
+      "shares": 358,
+      "value": 335000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 358,
+          "percent_portfolio": "0.00",
+          "activity": "Reduce 1.10%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$935.75"
+        },
         {
           "period": "2026   Q1",
           "shares": 362,
@@ -1818,6 +1842,20 @@
   ],
   "activity": {
     "Q2  2026": [
+      {
+        "manager": "Christopher Bloomstran - Semper Augustus",
+        "action": "Reduce 0.39%",
+        "type": "Sell",
+        "shares_changed": -13,
+        "portfolio_change": "0.00"
+      },
+      {
+        "manager": "Bill Nygren - Oakmark Funds",
+        "action": "Reduce 1.10%",
+        "type": "Sell",
+        "shares_changed": -4,
+        "portfolio_change": "0.00"
+      },
       {
         "manager": "David Katz - Matrix Asset Advisors",
         "action": "Reduce 1.43%",
@@ -2557,20 +2595,6 @@
         "type": "Buy",
         "shares_changed": 78,
         "portfolio_change": "0.00"
-      },
-      {
-        "manager": "Christopher Bloomstran - Semper Augustus",
-        "action": "Add 0.46%",
-        "type": "Buy",
-        "shares_changed": 89,
-        "portfolio_change": "0.01"
-      },
-      {
-        "manager": "Lee Ainslie - Maverick Capital",
-        "action": "Buy",
-        "type": "Buy",
-        "shares_changed": 16306,
-        "portfolio_change": "0.07"
       }
     ]
   },

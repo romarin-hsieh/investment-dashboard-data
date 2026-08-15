@@ -1,20 +1,28 @@
 {
   "ticker": "KO",
-  "updated_at": "2026-08-14T02:55:31.670926",
+  "updated_at": "2026-08-15T02:12:15.509020",
   "stats": {
     "sector": "Consumer Staples",
     "ownership_count": 9,
-    "ownership_rank": 50,
-    "percent_of_portfolios": "0.186%"
+    "ownership_rank": 53,
+    "percent_of_portfolios": "0.182%"
   },
   "superinvestors": [
     {
       "manager": "Warren Buffett - Berkshire Hathaway",
-      "percent_portfolio": 11.56,
+      "percent_portfolio": 10.86,
       "recent_activity": "",
       "shares": 400000000,
-      "value": 30420000000,
+      "value": 32507999000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 400000000,
+          "percent_portfolio": "10.86",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$81.27"
+        },
         {
           "period": "2026   Q1",
           "shares": 400000000,
@@ -900,11 +908,19 @@
     },
     {
       "manager": "Lee Ainslie - Maverick Capital",
-      "percent_portfolio": 1.14,
-      "recent_activity": "Reduce 17.77%",
-      "shares": 1284612,
-      "value": 97695000,
+      "percent_portfolio": 1.47,
+      "recent_activity": "Add 56.23%",
+      "shares": 2006974,
+      "value": 163107000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 2006974,
+          "percent_portfolio": "1.47",
+          "activity": "Add 56.23%",
+          "percent_change_portfolio": "0.53",
+          "reported_price": "$81.27"
+        },
         {
           "period": "2026   Q1",
           "shares": 1284612,
@@ -1345,8 +1361,16 @@
       "percent_portfolio": 0.14,
       "recent_activity": "",
       "shares": 15328,
-      "value": 1166000,
+      "value": 1246000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 15328,
+          "percent_portfolio": "0.14",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$81.29"
+        },
         {
           "period": "2026   Q1",
           "shares": 15328,
@@ -1809,10 +1833,18 @@
     {
       "manager": "Mairs & Power Funds",
       "percent_portfolio": 0.02,
-      "recent_activity": "Reduce 0.41%",
-      "shares": 23315,
-      "value": 1773000,
+      "recent_activity": "Add 0.66%",
+      "shares": 23470,
+      "value": 1907000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 23470,
+          "percent_portfolio": "0.02",
+          "activity": "Add 0.66%",
+          "percent_change_portfolio": "0.00",
+          "reported_price": "$81.25"
+        },
         {
           "period": "2026   Q1",
           "shares": 23315,
@@ -2557,11 +2589,25 @@
   "activity": {
     "Q2  2026": [
       {
+        "manager": "Lee Ainslie - Maverick Capital",
+        "action": "Add 56.23%",
+        "type": "Buy",
+        "shares_changed": 722362,
+        "portfolio_change": "0.53"
+      },
+      {
         "manager": "Yacktman Asset Management",
         "action": "Add 1.38%",
         "type": "Buy",
         "shares_changed": 28902,
         "portfolio_change": "0.03"
+      },
+      {
+        "manager": "Mairs & Power Funds",
+        "action": "Add 0.66%",
+        "type": "Buy",
+        "shares_changed": 155,
+        "portfolio_change": "0.00"
       },
       {
         "manager": "Jensen Investment Management",
@@ -3280,20 +3326,6 @@
         "action": "Reduce 1.35%",
         "type": "Sell",
         "shares_changed": -1806,
-        "portfolio_change": "0.00"
-      },
-      {
-        "manager": "Yacktman Asset Management",
-        "action": "Reduce 2.19%",
-        "type": "Sell",
-        "shares_changed": -142443,
-        "portfolio_change": "0.07"
-      },
-      {
-        "manager": "Thomas Russo - Gardner Russo & Quinn",
-        "action": "Reduce 2.65%",
-        "type": "Sell",
-        "shares_changed": -617,
         "portfolio_change": "0.00"
       }
     ]

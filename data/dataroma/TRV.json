@@ -1,20 +1,28 @@
 {
   "ticker": "TRV",
-  "updated_at": "2026-08-14T03:34:43.104470",
+  "updated_at": "2026-08-15T02:51:05.411961",
   "stats": {
     "sector": "Financials",
-    "ownership_count": 5,
-    "ownership_rank": 160,
-    "percent_of_portfolios": "0.02%"
+    "ownership_count": 4,
+    "ownership_rank": 210,
+    "percent_of_portfolios": "0.021%"
   },
   "superinvestors": [
     {
       "manager": "Christopher Bloomstran - Semper Augustus",
-      "percent_portfolio": 0.67,
+      "percent_portfolio": 0.71,
       "recent_activity": "",
       "shares": 19100,
-      "value": 5571000,
+      "value": 6305000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 19100,
+          "percent_portfolio": "0.71",
+          "activity": "",
+          "percent_change_portfolio": "",
+          "reported_price": "$330.10"
+        },
         {
           "period": "2026   Q1",
           "shares": 19100,
@@ -316,11 +324,19 @@
     },
     {
       "manager": "Mairs & Power Funds",
-      "percent_portfolio": 0.42,
-      "recent_activity": "Add 25.14%",
-      "shares": 142414,
-      "value": 41539000,
+      "percent_portfolio": 0.47,
+      "recent_activity": "Add 9.88%",
+      "shares": 156482,
+      "value": 51658000,
       "history": [
+        {
+          "period": "2026   Q2",
+          "shares": 156482,
+          "percent_portfolio": "0.47",
+          "activity": "Add 9.88%",
+          "percent_change_portfolio": "0.04",
+          "reported_price": "$330.12"
+        },
         {
           "period": "2026   Q1",
           "shares": 142414,
@@ -483,128 +499,29 @@
           "reported_price": "$230.14"
         }
       ]
-    },
-    {
-      "manager": "Lee Ainslie - Maverick Capital",
-      "percent_portfolio": 0.0,
-      "recent_activity": "Buy",
-      "shares": 1305,
-      "value": 381000,
-      "history": [
-        {
-          "period": "2026   Q1",
-          "shares": 1305,
-          "percent_portfolio": "0.00",
-          "activity": "Buy",
-          "percent_change_portfolio": "0.00",
-          "reported_price": "$291.95"
-        },
-        {
-          "period": "2022   Q1",
-          "shares": 0,
-          "percent_portfolio": "0",
-          "activity": "Sell 100.00%",
-          "percent_change_portfolio": "0.00",
-          "reported_price": ""
-        },
-        {
-          "period": "2021   Q4",
-          "shares": 432,
-          "percent_portfolio": "0.00",
-          "activity": "Reduce 91.99%",
-          "percent_change_portfolio": "0.00",
-          "reported_price": "$157.41"
-        },
-        {
-          "period": "2021   Q3",
-          "shares": 5395,
-          "percent_portfolio": "0.01",
-          "activity": "Buy",
-          "percent_change_portfolio": "0.01",
-          "reported_price": "$151.99"
-        },
-        {
-          "period": "2021   Q1",
-          "shares": 0,
-          "percent_portfolio": "0",
-          "activity": "Sell 100.00%",
-          "percent_change_portfolio": "0.01",
-          "reported_price": ""
-        },
-        {
-          "period": "2020   Q4",
-          "shares": 2807,
-          "percent_portfolio": "0.01",
-          "activity": "Reduce 61.26%",
-          "percent_change_portfolio": "0.02",
-          "reported_price": "$140.36"
-        },
-        {
-          "period": "2020   Q3",
-          "shares": 7246,
-          "percent_portfolio": "0.01",
-          "activity": "Add 702.44%",
-          "percent_change_portfolio": "0.01",
-          "reported_price": "$108.20"
-        },
-        {
-          "period": "2020   Q2",
-          "shares": 903,
-          "percent_portfolio": "0.00",
-          "activity": "Buy",
-          "percent_change_portfolio": "0.00",
-          "reported_price": "$114.06"
-        },
-        {
-          "period": "2017   Q4",
-          "shares": 0,
-          "percent_portfolio": "0",
-          "activity": "Sell 100.00%",
-          "percent_change_portfolio": "0.04",
-          "reported_price": ""
-        },
-        {
-          "period": "2017   Q3",
-          "shares": 28680,
-          "percent_portfolio": "0.04",
-          "activity": "Buy",
-          "percent_change_portfolio": "0.04",
-          "reported_price": "$122.52"
-        },
-        {
-          "period": "2015   Q3",
-          "shares": 0,
-          "percent_portfolio": "0",
-          "activity": "Sell 100.00%",
-          "percent_change_portfolio": "0.01",
-          "reported_price": ""
-        },
-        {
-          "period": "2015   Q2",
-          "shares": 6810,
-          "percent_portfolio": "0.01",
-          "activity": "Add 3.65%",
-          "percent_change_portfolio": "0.00",
-          "reported_price": "$96.62"
-        },
-        {
-          "period": "2015   Q1",
-          "shares": 6570,
-          "percent_portfolio": "0.01",
-          "activity": "Buy",
-          "percent_change_portfolio": "0.01",
-          "reported_price": "$108.07"
-        }
-      ]
     }
   ],
   "activity": {
     "Q2  2026": [
       {
+        "manager": "Mairs & Power Funds",
+        "action": "Add 9.88%",
+        "type": "Buy",
+        "shares_changed": 14068,
+        "portfolio_change": "0.04"
+      },
+      {
         "manager": "Dodge & Cox Funds",
         "action": "Reduce 2.86%",
         "type": "Sell",
         "shares_changed": -2657,
+        "portfolio_change": "0.00"
+      },
+      {
+        "manager": "Lee Ainslie - Maverick Capital",
+        "action": "Sell 100.00%",
+        "type": "Sell",
+        "shares_changed": -1305,
         "portfolio_change": "0.00"
       }
     ],
