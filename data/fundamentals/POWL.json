@@ -45,8 +45,17 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0991,
         "position": 3608659,
-        "value": 750528883,
+        "value": 681964362,
         "pctChange": -0.1445
+      },
+      {
+        "maxAge": 1,
+        "reportDate": "2026-06-30T00:00:00.000Z",
+        "organization": "Vanguard Portfolio Management LLC",
+        "pctHeld": 0.0428,
+        "position": 1557700,
+        "value": 294374139,
+        "pctChange": 0.3536
       },
       {
         "maxAge": 1,
@@ -54,26 +63,17 @@
         "organization": "First Trust Advisors LP",
         "pctHeld": 0.0392,
         "position": 1426981,
-        "value": 296783502,
+        "value": 269670863,
         "pctChange": -0.0792
       },
       {
         "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
+        "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "Vanguard Capital Management LLC",
-        "pctHeld": 0.035,
-        "position": 1273827,
-        "value": 264930534,
-        "pctChange": 1
-      },
-      {
-        "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
-        "organization": "Vanguard Portfolio Management LLC",
-        "pctHeld": 0.031600002,
-        "position": 1150797,
-        "value": 239342755,
-        "pctChange": 1
+        "pctHeld": 0.0352,
+        "position": 1282082,
+        "value": 242287850,
+        "pctChange": 0.0064999997
       },
       {
         "maxAge": 1,
@@ -81,7 +81,7 @@
         "organization": "Dimensional Fund Advisors LP",
         "pctHeld": 0.026800001,
         "position": 974940,
-        "value": 202768017,
+        "value": 184244157,
         "pctChange": 0.0043
       },
       {
@@ -90,17 +90,26 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.026199998,
         "position": 955989,
-        "value": 198826588,
+        "value": 180662797,
         "pctChange": -0.120799996
       },
       {
         "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
+        "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "Morgan Stanley",
-        "pctHeld": 0.0224,
-        "position": 815988,
-        "value": 169709180,
-        "pctChange": 0.4114
+        "pctHeld": 0.0211,
+        "position": 768106,
+        "value": 145156668,
+        "pctChange": -0.0587
+      },
+      {
+        "maxAge": 1,
+        "reportDate": "2026-06-30T00:00:00.000Z",
+        "organization": "Invesco Ltd.",
+        "pctHeld": 0.0211,
+        "position": 769537,
+        "value": 145427098,
+        "pctChange": 0.0608
       },
       {
         "maxAge": 1,
@@ -108,35 +117,26 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.0201,
         "position": 731619,
-        "value": 152162116,
+        "value": 138261355,
         "pctChange": -0.0508
       },
       {
         "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
+        "reportDate": "2026-06-30T00:00:00.000Z",
         "organization": "Geode Capital Management, LLC",
-        "pctHeld": 0.02,
-        "position": 728571,
-        "value": 151528193,
-        "pctChange": 0.015700001
-      },
-      {
-        "maxAge": 1,
-        "reportDate": "2026-03-31T00:00:00.000Z",
-        "organization": "Invesco Ltd.",
-        "pctHeld": 0.0199,
-        "position": 725424,
-        "value": 150873680,
-        "pctChange": 0.1248
+        "pctHeld": 0.0184,
+        "position": 668799,
+        "value": 126389632,
+        "pctChange": -0.081999995
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.20629999,
-    "institutionsPercentHeld": 0.93797994,
-    "institutionsFloatPercentHeld": 1.18178,
-    "institutionsCount": 705
+    "insidersPercentHeld": 0.20611,
+    "institutionsPercentHeld": 0.93491,
+    "institutionsFloatPercentHeld": 1.17763,
+    "institutionsCount": 756
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1785788882
         }
       ],
-      "currentQuarterEstimate": 1.52767,
+      "currentQuarterEstimate": 1.54967,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -259,6 +259,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-14T11:13:46.000Z",
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 235,
+        "priorPriceTarget": 320
+      },
       {
         "epochGradeDate": "2026-05-11T13:51:15.000Z",
         "firm": "Cantor Fitzgerald",
@@ -535,28 +545,31 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.004711971,
+    "postMarketChangePercent": -0.005185711,
     "postMarketChange": -0.9799957,
-    "postMarketTime": "2026-08-12T23:35:52.000Z",
-    "postMarketPrice": 207,
+    "postMarketTime": "2026-08-24T23:48:43.000Z",
+    "postMarketPrice": 188,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0019196101,
-    "regularMarketChange": -0.400009,
-    "regularMarketTime": "2026-08-12T20:00:00.000Z",
+    "regularMarketChangePercent": -0.043962203,
+    "regularMarketChange": -8.69,
+    "regularMarketTime": "2026-08-24T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 207.98,
-    "regularMarketDayHigh": 219.27,
-    "regularMarketDayLow": 207.17,
-    "regularMarketVolume": 327795,
-    "averageDailyVolume10Day": 796400,
-    "averageDailyVolume3Month": 761043,
-    "regularMarketPreviousClose": 208.38,
+    "regularMarketPrice": 188.98,
+    "regularMarketDayHigh": 195.52,
+    "regularMarketDayLow": 186.1601,
+    "regularMarketVolume": 405042,
+    "averageDailyVolume10Day": 465260,
+    "averageDailyVolume3Month": 736712,
+    "regularMarketPreviousClose": 197.67,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 217,
+    "regularMarketOpen": 194.47,
+    "fulldayChangePercent": -0.043962203,
+    "fulldayChange": -8.69,
+    "fulldayPrice": 188,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "POSTPOST",
     "quoteType": "EQUITY",
     "symbol": "POWL",
     "underlyingSymbol": null,
@@ -568,30 +581,30 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 7577244672
+    "marketCap": 6884852736
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 6960780800,
-    "forwardPE": 30.601269,
+    "enterpriseValue": 6253988864,
+    "forwardPE": 26.555376,
     "profitMargins": 0.16488001,
-    "floatShares": 28689915,
-    "sharesOutstanding": 36432564,
+    "floatShares": 28840746,
+    "sharesOutstanding": 36431649,
     "sharesShort": 2731871,
     "sharesShortPriorMonth": "1970-01-26T20:33:46.000Z",
     "sharesShortPreviousMonthDate": "2026-06-30T00:00:00.000Z",
     "dateShortInterest": "2026-07-31T00:00:00.000Z",
     "sharesPercentSharesOut": 0.075,
-    "heldPercentInsiders": 0.20629999,
-    "heldPercentInstitutions": 0.93797994,
+    "heldPercentInsiders": 0.20611,
+    "heldPercentInstitutions": 0.93491,
     "shortRatio": 3.48,
     "shortPercentOfFloat": 0.111,
     "beta": 1.216,
-    "impliedSharesOutstanding": 36432564,
+    "impliedSharesOutstanding": 36431649,
     "category": null,
     "bookValue": 20.756,
-    "priceToBook": 10.020235,
+    "priceToBook": 9.104836,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-09-30T00:00:00.000Z",
@@ -599,17 +612,17 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.081,
     "netIncomeToCommon": 190856992,
-    "trailingEps": 5.23,
-    "forwardEps": 6.79645,
-    "pegRatio": 2.26,
+    "trailingEps": 5.22,
+    "forwardEps": 7.11645,
+    "pegRatio": 2.16,
     "lastSplitFactor": "3:1",
     "lastSplitDate": 1775433600,
-    "enterpriseToRevenue": 6.014,
-    "enterpriseToEbitda": 29.467,
-    "52WeekChange": 1.4420352,
-    "SandP52WeekChange": 0.19509852,
+    "enterpriseToRevenue": 5.403,
+    "enterpriseToEbitda": 26.475,
+    "52WeekChange": 1.0749552,
+    "SandP52WeekChange": 0.19179821,
     "lastDividendValue": 0.09,
-    "lastDividendDate": "2026-05-20T00:00:00.000Z",
+    "lastDividendDate": "2026-08-19T00:00:00.000Z",
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -638,6 +651,30 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 2250,
+        "value": 456862,
+        "filerUrl": "",
+        "transactionText": "Sale at price 203.05 per share.",
+        "filerName": "WILLIAMS RICHARD E",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-08-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4500,
+        "value": 931545,
+        "filerUrl": "",
+        "transactionText": "Sale at price 207.01 per share.",
+        "filerName": "COPE BRETT ALAN",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-08-13T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 4440,
@@ -824,18 +861,6 @@
         "value": 108596,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 542.98 per share.",
-        "filerName": "WILLIAMS RICHARD E",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-02-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 200,
-        "value": 108596,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 542.98 per share.",
         "filerName": "CURTIS KATHERYN BAUCOM",
         "filerRelation": "Director",
         "moneyText": "",
@@ -849,18 +874,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 542.98 per share.",
         "filerName": "SINGH MOHIT",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-02-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 200,
-        "value": 108596,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 542.98 per share.",
-        "filerName": "MCGILL JAMES W.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-02-18T00:00:00.000Z",
@@ -897,6 +910,30 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 542.98 per share.",
         "filerName": "BROOKS ALAINA K",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 200,
+        "value": 108596,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 542.98 per share.",
+        "filerName": "WILLIAMS RICHARD E",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 200,
+        "value": 108596,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 542.98 per share.",
+        "filerName": "MCGILL JAMES W.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-02-18T00:00:00.000Z",
@@ -964,18 +1001,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1300,
-        "value": 373334,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 287.18 per share.",
-        "filerName": "COPE BRETT ALAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 500,
         "value": 143590,
         "filerUrl": "",
@@ -994,6 +1019,18 @@
         "transactionText": "Stock Award(Grant) at price 338.22 per share.",
         "filerName": "MUDGE FREDERICK N",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1300,
+        "value": 373334,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 287.18 per share.",
+        "filerName": "COPE BRETT ALAN",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-01-02T00:00:00.000Z",
         "ownership": "D"
@@ -1020,18 +1057,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 24000,
-        "value": 7560720,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 315.03 per share.",
-        "filerName": "COPE BRETT ALAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-12-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1096,14 +1121,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 1900,
-        "value": 545642,
+        "shares": 24000,
+        "value": 7560720,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 287.18 per share.",
+        "transactionText": "Stock Award(Grant) at price 315.03 per share.",
         "filerName": "COPE BRETT ALAN",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-10-01T00:00:00.000Z",
+        "startDate": "2025-12-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1210,6 +1235,18 @@
         "transactionText": "Stock Award(Grant) at price 287.18 per share.",
         "filerName": "TUNINETTI DAVIDE",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-10-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1900,
+        "value": 545642,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 287.18 per share.",
+        "filerName": "COPE BRETT ALAN",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-10-01T00:00:00.000Z",
         "ownership": "D"
@@ -1376,18 +1413,6 @@
         "value": 97175,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 194.35 per share.",
-        "filerName": "WILLIAMS RICHARD E",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-02-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 500,
-        "value": 97175,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 194.35 per share.",
         "filerName": "CURTIS KATHERYN BAUCOM",
         "filerRelation": "Director",
         "moneyText": "",
@@ -1412,18 +1437,6 @@
         "value": 97175,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 194.35 per share.",
-        "filerName": "MCGILL JAMES W.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-02-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 500,
-        "value": 97175,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 194.35 per share.",
         "filerName": "STACEY JOHN G",
         "filerRelation": "Director",
         "moneyText": "",
@@ -1437,6 +1450,30 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 194.35 per share.",
         "filerName": "BROOKS ALAINA K",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-02-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 500,
+        "value": 97175,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 194.35 per share.",
+        "filerName": "WILLIAMS RICHARD E",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-02-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 500,
+        "value": 97175,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 194.35 per share.",
+        "filerName": "MCGILL JAMES W.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-02-19T00:00:00.000Z",
@@ -1516,18 +1553,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 17800,
-        "value": 4831988,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 271.46 per share.",
-        "filerName": "COPE BRETT ALAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2024-12-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 5800,
         "value": 1574468,
         "filerUrl": "",
@@ -1570,6 +1595,18 @@
         "transactionText": "Stock Award(Grant) at price 271.46 per share.",
         "filerName": "MUDGE FREDERICK N",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-12-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17800,
+        "value": 4831988,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 271.46 per share.",
+        "filerName": "COPE BRETT ALAN",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2024-12-02T00:00:00.000Z",
         "ownership": "D"
@@ -1633,18 +1670,6 @@
         "moneyText": "",
         "startDate": "2024-10-08T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3100,
-        "value": 708381,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 228.51 per share.",
-        "filerName": "COPE BRETT ALAN",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2024-10-01T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1744,6 +1769,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 3100,
+        "value": 708381,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 228.51 per share.",
+        "filerName": "COPE BRETT ALAN",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2024-10-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 600,
         "value": 137106,
         "filerUrl": "",
@@ -1801,41 +1838,17 @@
         "moneyText": "",
         "startDate": "2024-08-27T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4300,
-        "value": 711853,
-        "filerUrl": "",
-        "transactionText": "Sale at price 163.26 - 167.97 per share.",
-        "filerName": "METCALF MICHAEL WILLIAM",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 150,
-        "value": 24564,
-        "filerUrl": "",
-        "transactionText": "Sale at price 163.76 per share.",
-        "filerName": "MAUNEY WILLIAM MARSHALL JR",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-08-15T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 207.98,
+    "currentPrice": 188.98,
     "targetHighPrice": 333,
-    "targetLowPrice": 252,
-    "targetMeanPrice": 301.25,
-    "targetMedianPrice": 310,
+    "targetLowPrice": 235,
+    "targetMeanPrice": 280,
+    "targetMedianPrice": 276,
     "recommendationMean": 2.25,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 4,
@@ -1861,6 +1874,6 @@
     "profitMargins": 0.16488001,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-13T04:12:22.650Z",
+  "lastUpdated": "2026-08-25T03:00:00.452Z",
   "source": "Static Build (yahoo-finance2)"
 }
