@@ -45,7 +45,7 @@
         "organization": "Berkshire Hathaway, Inc",
         "pctHeld": 0.2245,
         "position": 151610700,
-        "value": 50963935879,
+        "value": 50677394062,
         "pctChange": 0
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0622,
         "position": 42006392,
-        "value": 14120448414,
+        "value": 14041057000,
         "pctChange": 0.0023
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0521,
         "position": 35215521,
-        "value": 11837697169,
+        "value": 11771140393,
         "pctChange": 0.0668
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0431,
         "position": 29095803,
-        "value": 9780554000,
+        "value": 9725563394,
         "pctChange": -0.0045
       },
       {
@@ -81,7 +81,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.030299999,
         "position": 20459941,
-        "value": 6877609042,
+        "value": 6838940078,
         "pctChange": 0.0025
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0208,
         "position": 14019549,
-        "value": 4712671310,
+        "value": 4686174585,
         "pctChange": -0.0104
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0194,
         "position": 13121109,
-        "value": 4410660710,
+        "value": 4385862022,
         "pctChange": 0.024400001
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.0139999995,
         "position": 9426671,
-        "value": 3168775399,
+        "value": 3150959140,
         "pctChange": 0.0191
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0128999995,
         "position": 8739519,
-        "value": 2937789258,
+        "value": 2921271706,
         "pctChange": 0.099
       },
       {
@@ -126,7 +126,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0117999995,
         "position": 7985867,
-        "value": 2684449143,
+        "value": 2669355981,
         "pctChange": 0.1989
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.22558,
-    "institutionsPercentHeld": 0.64773005,
-    "institutionsFloatPercentHeld": 0.8364,
-    "institutionsCount": 3773
+    "institutionsPercentHeld": 0.64769,
+    "institutionsFloatPercentHeld": 0.83636004,
+    "institutionsCount": 3772
   },
   "earnings": {
     "maxAge": 86400,
@@ -592,6 +592,56 @@
         "priorPriceTarget": 328
       },
       {
+        "epochGradeDate": "2026-01-12T17:50:06.000Z",
+        "firm": "JP Morgan",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 385,
+        "priorPriceTarget": 360
+      },
+      {
+        "epochGradeDate": "2026-01-08T17:45:03.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Hold",
+        "fromGrade": "Hold",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 375,
+        "priorPriceTarget": 350
+      },
+      {
+        "epochGradeDate": "2026-01-06T16:09:42.000Z",
+        "firm": "Barclays",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 367,
+        "priorPriceTarget": 355
+      },
+      {
+        "epochGradeDate": "2025-12-22T18:04:22.000Z",
+        "firm": "Truist Securities",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 420,
+        "priorPriceTarget": 395
+      },
+      {
+        "epochGradeDate": "2025-12-17T17:19:06.000Z",
+        "firm": "Wells Fargo",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 425,
+        "priorPriceTarget": 400
+      },
+      {
         "epochGradeDate": "2025-09-15T13:01:26.000Z",
         "firm": "Truist Securities",
         "toGrade": "Buy",
@@ -826,32 +876,27 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketChangePercent": -0.0029748625,
-    "preMarketChange": -1,
-    "preMarketTime": "2026-08-27T12:20:42.000Z",
-    "preMarketPrice": 335.15,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.000595272,
-    "regularMarketChange": 0.199982,
-    "regularMarketTime": "2026-08-26T20:00:02.000Z",
+    "regularMarketChangePercent": 0.00044902705,
+    "regularMarketChange": 0.15002441,
+    "regularMarketTime": "2026-08-28T13:45:47.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 336.15,
-    "regularMarketDayHigh": 337.5,
-    "regularMarketDayLow": 334.2,
-    "regularMarketVolume": 1624377,
-    "averageDailyVolume10Day": 2375260,
-    "averageDailyVolume3Month": 2961309,
-    "regularMarketPreviousClose": 335.95,
+    "regularMarketPrice": 334.26,
+    "regularMarketDayHigh": 336.56,
+    "regularMarketDayLow": 333.76,
+    "regularMarketVolume": 63641,
+    "averageDailyVolume10Day": 2407440,
+    "averageDailyVolume3Month": 2936328,
+    "regularMarketPreviousClose": 334.11,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 336.26,
-    "fulldayChangePercent": -0.0029748625,
-    "fulldayChange": -1,
-    "fulldayPrice": 335.15,
+    "regularMarketOpen": 334.37,
+    "fulldayChangePercent": 0.0031871032,
+    "fulldayChange": 1.0650024,
+    "fulldayPrice": 334.26,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PRE",
+    "marketState": "REGULAR",
     "quoteType": "EQUITY",
     "symbol": "AXP",
     "underlyingSymbol": null,
@@ -863,13 +908,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 227005399040
+    "marketCap": 225729069056
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 240345399296,
-    "forwardPE": 16.712498,
+    "enterpriseValue": 239001534464,
+    "forwardPE": 16.618532,
     "profitMargins": 0.16141,
     "floatShares": 522223847,
     "sharesOutstanding": 675309833,
@@ -879,14 +924,14 @@
     "dateShortInterest": "2026-08-14T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0161,
     "heldPercentInsiders": 0.22558,
-    "heldPercentInstitutions": 0.64773005,
+    "heldPercentInstitutions": 0.64769,
     "shortRatio": 3.91,
     "shortPercentOfFloat": 0.0208,
     "beta": 1.055,
     "impliedSharesOutstanding": 675309833,
     "category": null,
     "bookValue": 50.785,
-    "priceToBook": 6.6190805,
+    "priceToBook": 6.581865,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -894,14 +939,14 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.078,
     "netIncomeToCommon": 11310999552,
-    "trailingEps": 16.5,
+    "trailingEps": 16.47,
     "forwardEps": 20.11369,
     "pegRatio": 1.57,
     "lastSplitFactor": "10000:8753",
     "lastSplitDate": 1128297600,
-    "enterpriseToRevenue": 3.389,
-    "52WeekChange": 0.02801311,
-    "SandP52WeekChange": 0.18053913,
+    "enterpriseToRevenue": 3.37,
+    "52WeekChange": 0.008693576,
+    "SandP52WeekChange": 0.1966995,
     "lastDividendValue": 0.95,
     "lastDividendDate": "2026-07-02T00:00:00.000Z",
     "latestShareClass": null,
@@ -1028,11 +1073,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 14992,
-        "value": 2602761,
+        "shares": 12660,
+        "value": 2197903,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 173.61 per share.",
-        "filerName": "MARRS ANNA",
+        "filerName": "PICKETT DENISE",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-05T00:00:00.000Z",
@@ -1040,11 +1085,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 12660,
-        "value": 2197903,
+        "shares": 14992,
+        "value": 2602761,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 173.61 per share.",
-        "filerName": "PICKETT DENISE",
+        "filerName": "MARRS ANNA",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-05T00:00:00.000Z",
@@ -2039,7 +2084,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 336.15,
+    "currentPrice": 334.26,
     "targetHighPrice": 450,
     "targetLowPrice": 315,
     "targetMeanPrice": 375.9556,
@@ -2067,6 +2112,6 @@
     "profitMargins": 0.16141,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-27T12:20:45.901Z",
+  "lastUpdated": "2026-08-28T13:45:59.752Z",
   "source": "Static Build (yahoo-finance2)"
 }
