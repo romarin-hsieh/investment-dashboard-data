@@ -4,7 +4,7 @@
       {
         "period": "0m",
         "strongBuy": 3,
-        "buy": 24,
+        "buy": 25,
         "hold": 0,
         "sell": 0,
         "strongSell": 0
@@ -143,17 +143,6 @@
     "earningsChart": {
       "quarterly": [
         {
-          "date": "2Q2025",
-          "actual": -0.03,
-          "estimate": -0.34192,
-          "fiscalQuarter": "2Q2026",
-          "calendarQuarter": "2Q2025",
-          "difference": "0.31",
-          "surprisePct": "91.23",
-          "periodEndDate": 1753920000,
-          "reportedDate": 1757448300
-        },
-        {
           "date": "3Q2025",
           "actual": 0.1,
           "estimate": -0.17244,
@@ -185,14 +174,25 @@
           "surprisePct": "667.98",
           "periodEndDate": 1777507200,
           "reportedDate": 1780603500
+        },
+        {
+          "date": "2Q2026",
+          "actual": 0.2,
+          "estimate": 0.03925,
+          "fiscalQuarter": "2Q2027",
+          "calendarQuarter": "2Q2026",
+          "difference": "0.16",
+          "surprisePct": "409.55",
+          "periodEndDate": 1785456000,
+          "reportedDate": 1787861100
         }
       ],
-      "currentQuarterEstimate": 0.03925,
-      "currentQuarterEstimateDate": "2Q",
-      "currentCalendarQuarter": "2Q2026",
+      "currentQuarterEstimate": 0.08072,
+      "currentQuarterEstimateDate": "3Q",
+      "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "2Q2027",
-      "currentPeriodEndDate": 1785456000,
+      "currentFiscalQuarter": "3Q2027",
+      "currentPeriodEndDate": 1793404800,
       "earningsDate": [],
       "isEarningsDateEstimate": false
     },
@@ -1971,8 +1971,8 @@
     "regularMarketDayHigh": 107.37,
     "regularMarketDayLow": 93.0014,
     "regularMarketVolume": 9407511,
-    "averageDailyVolume10Day": 3398230,
-    "averageDailyVolume3Month": 3644330,
+    "averageDailyVolume10Day": 4081810,
+    "averageDailyVolume3Month": 3735919,
     "regularMarketPreviousClose": 107.02,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 98.95,
@@ -2000,7 +2000,7 @@
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 21425061888,
-    "forwardPE": 143.01083,
+    "forwardPE": 125.695694,
     "profitMargins": -0.20254,
     "floatShares": 157419746,
     "sharesOutstanding": 160956763,
@@ -2023,13 +2023,13 @@
     "nextFiscalYearEnd": "2027-01-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
     "netIncomeToCommon": -288576992,
-    "trailingEps": -1.46,
-    "forwardEps": 0.74413,
+    "trailingEps": -1.27,
+    "forwardEps": 0.74028,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 15.037,
     "enterpriseToEbitda": -74.764,
-    "52WeekChange": 0.21751988,
-    "SandP52WeekChange": 0.1966995,
+    "52WeekChange": 0.05858934,
+    "SandP52WeekChange": 0.20204377,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3806,10 +3806,10 @@
     "maxAge": 86400,
     "currentPrice": 93.05,
     "targetHighPrice": 135,
-    "targetLowPrice": 85,
-    "targetMeanPrice": 107.11111,
-    "targetMedianPrice": 109,
-    "recommendationMean": 1.11111,
+    "targetLowPrice": 90,
+    "targetMeanPrice": 116.2963,
+    "targetMedianPrice": 120,
+    "recommendationMean": 1.10714,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 27,
     "totalCash": 1749113984,
@@ -3831,6 +3831,6 @@
     "profitMargins": -0.20254,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-29T08:35:48.764Z",
+  "lastUpdated": "2026-08-30T07:49:11.635Z",
   "source": "Static Build (yahoo-finance2)"
 }

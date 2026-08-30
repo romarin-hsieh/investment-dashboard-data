@@ -134,25 +134,14 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.03257,
-    "institutionsPercentHeld": 0.59428,
-    "institutionsFloatPercentHeld": 0.61429,
-    "institutionsCount": 905
+    "institutionsPercentHeld": 0.59426,
+    "institutionsFloatPercentHeld": 0.61425996,
+    "institutionsCount": 902
   },
   "earnings": {
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
-        {
-          "date": "2Q2025",
-          "actual": 0.2102,
-          "estimate": 0.21568,
-          "fiscalQuarter": "4Q2025",
-          "calendarQuarter": "2Q2025",
-          "difference": "-0.005",
-          "surprisePct": "-2.54",
-          "periodEndDate": 1751241600,
-          "reportedDate": 1756411917
-        },
         {
           "date": "3Q2025",
           "actual": 0.00806,
@@ -185,14 +174,21 @@
           "surprisePct": "38.42",
           "periodEndDate": 1774915200,
           "reportedDate": 1778234926
+        },
+        {
+          "date": "2Q2026",
+          "estimate": -0.455,
+          "fiscalQuarter": "4Q2026",
+          "calendarQuarter": "2Q2026",
+          "periodEndDate": 1782777600
         }
       ],
-      "currentQuarterEstimate": -0.455,
-      "currentQuarterEstimateDate": "2Q",
-      "currentCalendarQuarter": "2Q2026",
+      "currentQuarterEstimate": -0.36,
+      "currentQuarterEstimateDate": "3Q",
+      "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "4Q2026",
-      "currentPeriodEndDate": 1782777600,
+      "currentFiscalQuarter": "1Q2027",
+      "currentPeriodEndDate": 1790726400,
       "earningsDate": [
         "2026-11-05T20:00:00.000Z"
       ],
@@ -203,43 +199,56 @@
         {
           "date": 2023,
           "revenue": 75509000,
-          "earnings": -171827000,
-          "profitMargin": -2.2755833
+          "earnings": -171871000,
+          "profitMargin": -2.276166
         },
         {
           "date": 2024,
-          "revenue": 187192000,
-          "earnings": -28920000,
-          "profitMargin": -0.15449378
+          "revenue": 188758000,
+          "earnings": -28955000,
+          "profitMargin": -0.15339747
         },
         {
           "date": 2025,
-          "revenue": 501023000,
-          "earnings": 86941000,
-          "profitMargin": 0.17352696
+          "revenue": 510400000,
+          "earnings": 86900000,
+          "profitMargin": 0.17025863
+        },
+        {
+          "date": 2026,
+          "revenue": 707000000,
+          "earnings": -702600000,
+          "profitMargin": -0.9937765
         }
       ],
       "quarterly": [
         {
           "date": "3Q2025",
           "fiscalQuarter": "1Q2026",
-          "revenue": 240295000,
+          "revenue": 244000000,
           "earnings": 384611000,
-          "profitMargin": 1.6005784
+          "profitMargin": 1.5762746
         },
         {
           "date": "4Q2025",
           "fiscalQuarter": "2Q2026",
-          "revenue": 184692000,
-          "earnings": -155407000,
-          "profitMargin": -0.8414388
+          "revenue": 184700000,
+          "earnings": -155400000,
+          "profitMargin": -0.8413644
         },
         {
           "date": "1Q2026",
           "fiscalQuarter": "3Q2026",
-          "revenue": 144795000,
-          "earnings": -247827000,
-          "profitMargin": -1.7115715
+          "revenue": 144800000,
+          "earnings": -247800000,
+          "profitMargin": -1.711326
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "4Q2026",
+          "revenue": 137200000,
+          "earnings": -684000000,
+          "profitMargin": -4.9854226
         }
       ]
     },
@@ -1527,8 +1536,8 @@
     "regularMarketDayHigh": 38.048,
     "regularMarketDayLow": 34.81,
     "regularMarketVolume": 89323370,
-    "averageDailyVolume10Day": 41993210,
-    "averageDailyVolume3Month": 44790425,
+    "averageDailyVolume10Day": 46750390,
+    "averageDailyVolume3Month": 45501782,
     "regularMarketPreviousClose": 40.53,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 37.59,
@@ -1555,7 +1564,7 @@
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "forwardPE": -35.332344,
+    "forwardPE": -172.92683,
     "profitMargins": -0.99377996,
     "sharesOutstanding": 357378674,
     "sharesShort": 94246133,
@@ -1564,7 +1573,7 @@
     "dateShortInterest": "2026-08-14T00:00:00.000Z",
     "sharesPercentSharesOut": 0.2637,
     "heldPercentInsiders": 0.03257,
-    "heldPercentInstitutions": 0.59428,
+    "heldPercentInstitutions": 0.59426,
     "shortRatio": 1.96,
     "shortPercentOfFloat": 0.2724,
     "impliedSharesOutstanding": 357378674,
@@ -1577,12 +1586,12 @@
     "nextFiscalYearEnd": "2027-06-30T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -702600000,
-    "trailingEps": -2.22,
+    "trailingEps": -1.94,
     "forwardEps": -0.205,
     "pegRatio": 3.11,
     "lastSplitFactor": null,
-    "52WeekChange": 0.39230502,
-    "SandP52WeekChange": 0.1966995,
+    "52WeekChange": 0.21779454,
+    "SandP52WeekChange": 0.20204377,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1820,8 +1829,8 @@
     "currentPrice": 35.45,
     "targetHighPrice": 131,
     "targetLowPrice": 41,
-    "targetMeanPrice": 80.1875,
-    "targetMedianPrice": 80.5,
+    "targetMeanPrice": 78.1875,
+    "targetMedianPrice": 80,
     "recommendationMean": 1.58824,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 16,
@@ -1845,6 +1854,6 @@
     "profitMargins": -0.99377996,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-29T08:35:59.207Z",
+  "lastUpdated": "2026-08-30T07:49:22.663Z",
   "source": "Static Build (yahoo-finance2)"
 }
