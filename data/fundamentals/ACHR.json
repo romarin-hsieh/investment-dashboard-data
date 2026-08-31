@@ -227,6 +227,13 @@
           "revenue": 1600000,
           "earnings": -217700000,
           "profitMargin": -136.0625
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 5000000,
+          "earnings": -263200000,
+          "profitMargin": -52.64
         }
       ]
     },
@@ -890,11 +897,11 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": -0.0017361508,
+    "preMarketChange": -0.010000229,
+    "preMarketTime": "2026-08-31T08:03:16.000Z",
+    "preMarketPrice": 5.75,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0,
-    "postMarketChange": 0,
-    "postMarketTime": "2026-08-28T23:58:58.000Z",
-    "postMarketPrice": 5.75,
     "postMarketSource": "FREE_REALTIME",
     "regularMarketChangePercent": -0.0303541,
     "regularMarketChange": -0.18,
@@ -909,13 +916,13 @@
     "regularMarketPreviousClose": 5.93,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 5.88,
-    "fulldayChangePercent": -0.0303541,
-    "fulldayChange": -0.18,
+    "fulldayChangePercent": -0.0017361508,
+    "fulldayChange": -0.010000229,
     "fulldayPrice": 5.75,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "ACHR",
     "underlyingSymbol": null,
@@ -957,7 +964,7 @@
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -799699968,
-    "trailingEps": -1.05,
+    "trailingEps": -1.08,
     "forwardEps": -0.80734,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 437.092,
@@ -1513,6 +1520,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 3000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "PERKINS TOSHA",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 42775,
         "value": 420457,
         "filerUrl": "",
@@ -1555,18 +1574,6 @@
         "transactionText": "Sale at price 9.83 per share.",
         "filerName": "GUPTA PRIYA",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-08-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "PERKINS TOSHA",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-18T00:00:00.000Z",
         "ownership": "D"
@@ -2281,6 +2288,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-30T07:50:24.943Z",
+  "lastUpdated": "2026-08-31T08:04:28.324Z",
   "source": "Static Build (yahoo-finance2)"
 }

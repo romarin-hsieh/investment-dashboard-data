@@ -203,26 +203,26 @@
         {
           "date": 2022,
           "revenue": 85946000,
-          "earnings": 0,
-          "profitMargin": 0
+          "earnings": -6405000,
+          "profitMargin": -0.07452354
         },
         {
           "date": 2023,
-          "revenue": 79551000,
-          "earnings": 61762000,
-          "profitMargin": 0.77638245
+          "revenue": 79521000,
+          "earnings": 60461000,
+          "profitMargin": 0.7603149
         },
         {
           "date": 2024,
           "revenue": 228000000,
-          "earnings": -283413000,
-          "profitMargin": -1.2430395
+          "earnings": -284309000,
+          "profitMargin": -1.2469692
         },
         {
           "date": 2025,
-          "revenue": 207132000,
-          "earnings": -83294000,
-          "profitMargin": -0.40213004
+          "revenue": 210059000,
+          "earnings": -83910000,
+          "profitMargin": -0.39945918
         }
       ],
       "quarterly": [
@@ -230,29 +230,29 @@
           "date": "2Q2025",
           "fiscalQuarter": "2Q2025",
           "revenue": 50313000,
-          "earnings": -25181000,
-          "profitMargin": -0.50048697
+          "earnings": -25332000,
+          "profitMargin": -0.5034882
         },
         {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
-          "revenue": 50987000,
-          "earnings": -6842000,
-          "profitMargin": -0.13419107
+          "revenue": 52437000,
+          "earnings": -7000000,
+          "profitMargin": -0.13349353
         },
         {
           "date": "4Q2025",
           "fiscalQuarter": "4Q2025",
-          "revenue": 43308000,
-          "earnings": -39875000,
-          "profitMargin": -0.9207306
+          "revenue": 44785000,
+          "earnings": -40035000,
+          "profitMargin": -0.8939377
         },
         {
           "date": "1Q2026",
           "fiscalQuarter": "1Q2026",
-          "revenue": 183630000,
-          "earnings": -37387000,
-          "profitMargin": -0.20359963
+          "revenue": 186730000,
+          "earnings": -37549000,
+          "profitMargin": -0.20108713
         }
       ]
     },
@@ -1066,32 +1066,32 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": 0.00780741,
+    "preMarketChange": 0.119999886,
+    "preMarketTime": "2026-08-31T08:02:03.000Z",
+    "preMarketPrice": 15.49,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.00780741,
-    "postMarketChange": 0.119999886,
-    "postMarketTime": "2026-08-28T23:59:58.000Z",
-    "postMarketPrice": 15.49,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0500618,
-    "regularMarketChange": -0.81,
+    "regularMarketChangePercent": -0.050061833,
+    "regularMarketChange": -0.8100004,
     "regularMarketTime": "2026-08-28T20:00:01.000Z",
     "priceHint": 2,
     "regularMarketPrice": 15.37,
     "regularMarketDayHigh": 16.025,
     "regularMarketDayLow": 15.15,
-    "regularMarketVolume": 5780583,
+    "regularMarketVolume": 5810274,
     "averageDailyVolume10Day": 8528340,
     "averageDailyVolume3Month": 11246506,
     "regularMarketPreviousClose": 16.18,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 16,
-    "fulldayChangePercent": -0.0500618,
-    "fulldayChange": -0.81,
+    "fulldayChangePercent": 0.00780741,
+    "fulldayChange": 0.119999886,
     "fulldayPrice": 15.49,
     "exchange": "NGM",
     "exchangeName": "NasdaqGM",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "LUNR",
     "underlyingSymbol": null,
@@ -2841,6 +2841,6 @@
     "profitMargins": -0.26635998,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-30T07:49:33.771Z",
+  "lastUpdated": "2026-08-31T08:03:38.023Z",
   "source": "Static Build (yahoo-finance2)"
 }

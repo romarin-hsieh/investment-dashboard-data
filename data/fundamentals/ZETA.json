@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01853,
-    "institutionsPercentHeld": 0.85369,
-    "institutionsFloatPercentHeld": 0.86981004,
-    "institutionsCount": 534
+    "institutionsPercentHeld": 0.85383004,
+    "institutionsFloatPercentHeld": 0.86995006,
+    "institutionsCount": 535
   },
   "earnings": {
     "maxAge": 86400,
@@ -1856,11 +1856,11 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": -0.009474196,
+    "preMarketChange": -0.28919983,
+    "preMarketTime": "2026-08-31T08:04:07.000Z",
+    "preMarketPrice": 30.2358,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.004584194,
-    "postMarketChange": -0.1400013,
-    "postMarketTime": "2026-08-28T23:59:16.000Z",
-    "postMarketPrice": 30.4,
     "postMarketSource": "FREE_REALTIME",
     "regularMarketChangePercent": 0.0105891,
     "regularMarketChange": 0.320002,
@@ -1875,13 +1875,13 @@
     "regularMarketPreviousClose": 30.22,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 29.8,
-    "fulldayChangePercent": 0.0105891,
-    "fulldayChange": 0.320002,
-    "fulldayPrice": 30.4,
+    "fulldayChangePercent": -0.009474196,
+    "fulldayChange": -0.28919983,
+    "fulldayPrice": 30.2358,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "ZETA",
     "underlyingSymbol": null,
@@ -1909,7 +1909,7 @@
     "dateShortInterest": "2026-08-14T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0924,
     "heldPercentInsiders": 0.01853,
-    "heldPercentInstitutions": 0.85369,
+    "heldPercentInstitutions": 0.85383004,
     "shortRatio": 2.49,
     "shortPercentOfFloat": 0.1031,
     "beta": 1.386,
@@ -2163,18 +2163,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 698883,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "STEINBERG DAVID A.",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-12-12T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 12990,
         "value": 251185,
         "filerUrl": "",
@@ -2184,6 +2172,18 @@
         "moneyText": "",
         "startDate": "2025-12-12T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 698883,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "STEINBERG DAVID A.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-12-12T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2427,6 +2427,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 2554739,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "STEINBERG DAVID A.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-02-12T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 1021819,
         "filerUrl": "",
         "transactionText": "",
@@ -2443,17 +2454,6 @@
         "transactionText": "",
         "filerName": "GERBER STEVEN H",
         "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2025-02-12T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2554739,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "STEINBERG DAVID A.",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-02-12T00:00:00.000Z",
         "ownership": "I"
@@ -2628,6 +2628,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1531076,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "STEINBERG DAVID A.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2024-10-09T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 870873,
         "filerUrl": "",
         "transactionText": "",
@@ -2669,17 +2680,6 @@
         "moneyText": "",
         "startDate": "2024-10-09T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1531076,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "STEINBERG DAVID A.",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2024-10-09T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2739,6 +2739,6 @@
     "profitMargins": -0.0013799999,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-30T07:50:08.485Z",
+  "lastUpdated": "2026-08-31T08:04:12.314Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -199,56 +199,43 @@
         {
           "date": 2023,
           "revenue": 75509000,
-          "earnings": -171871000,
-          "profitMargin": -2.276166
+          "earnings": -171827000,
+          "profitMargin": -2.2755833
         },
         {
           "date": 2024,
-          "revenue": 188758000,
-          "earnings": -28955000,
-          "profitMargin": -0.15339747
+          "revenue": 187192000,
+          "earnings": -28920000,
+          "profitMargin": -0.15449378
         },
         {
           "date": 2025,
-          "revenue": 510400000,
-          "earnings": 86900000,
-          "profitMargin": 0.17025863
-        },
-        {
-          "date": 2026,
-          "revenue": 707000000,
-          "earnings": -702600000,
-          "profitMargin": -0.9937765
+          "revenue": 501023000,
+          "earnings": 86941000,
+          "profitMargin": 0.17352696
         }
       ],
       "quarterly": [
         {
           "date": "3Q2025",
           "fiscalQuarter": "1Q2026",
-          "revenue": 244000000,
+          "revenue": 240295000,
           "earnings": 384611000,
-          "profitMargin": 1.5762746
+          "profitMargin": 1.6005784
         },
         {
           "date": "4Q2025",
           "fiscalQuarter": "2Q2026",
-          "revenue": 184700000,
-          "earnings": -155400000,
-          "profitMargin": -0.8413644
+          "revenue": 184692000,
+          "earnings": -155407000,
+          "profitMargin": -0.8414388
         },
         {
           "date": "1Q2026",
           "fiscalQuarter": "3Q2026",
-          "revenue": 144800000,
-          "earnings": -247800000,
-          "profitMargin": -1.711326
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "4Q2026",
-          "revenue": 137200000,
-          "earnings": -684000000,
-          "profitMargin": -4.9854226
+          "revenue": 144795000,
+          "earnings": -247827000,
+          "profitMargin": -1.7115715
         }
       ]
     },
@@ -1522,32 +1509,32 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": 0.004795435,
+    "preMarketChange": 0.16999817,
+    "preMarketTime": "2026-08-31T08:03:15.000Z",
+    "preMarketPrice": 35.62,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.004290539,
-    "postMarketChange": 0.15209961,
-    "postMarketTime": "2026-08-28T23:59:59.000Z",
-    "postMarketPrice": 35.6021,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.125339,
-    "regularMarketChange": -5.08,
+    "regularMarketChangePercent": -0.12533921,
+    "regularMarketChange": -5.079998,
     "regularMarketTime": "2026-08-28T20:00:01.000Z",
     "priceHint": 2,
     "regularMarketPrice": 35.45,
     "regularMarketDayHigh": 38.048,
     "regularMarketDayLow": 34.81,
-    "regularMarketVolume": 89323370,
+    "regularMarketVolume": 89747541,
     "averageDailyVolume10Day": 46750390,
     "averageDailyVolume3Month": 45501782,
     "regularMarketPreviousClose": 40.53,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 37.59,
-    "fulldayChangePercent": -0.125339,
-    "fulldayChange": -5.08,
-    "fulldayPrice": 35.6021,
+    "fulldayChangePercent": 0.004795435,
+    "fulldayChange": 0.16999817,
+    "fulldayPrice": 35.62,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "IREN",
     "underlyingSymbol": null,
@@ -1586,7 +1573,7 @@
     "nextFiscalYearEnd": "2027-06-30T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -702600000,
-    "trailingEps": -1.94,
+    "trailingEps": -2.22,
     "forwardEps": -0.205,
     "pegRatio": 3.11,
     "lastSplitFactor": null,
@@ -1854,6 +1841,6 @@
     "profitMargins": -0.99377996,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-30T07:49:22.663Z",
+  "lastUpdated": "2026-08-31T08:03:27.524Z",
   "source": "Static Build (yahoo-finance2)"
 }

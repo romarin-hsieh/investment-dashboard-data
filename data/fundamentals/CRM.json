@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.029779999,
-    "institutionsPercentHeld": 0.87606,
-    "institutionsFloatPercentHeld": 0.90296,
-    "institutionsCount": 3510
+    "institutionsPercentHeld": 0.87609,
+    "institutionsFloatPercentHeld": 0.90297997,
+    "institutionsCount": 3511
   },
   "earnings": {
     "maxAge": 86400,
@@ -244,13 +244,6 @@
           "revenue": 11133000000,
           "earnings": 2107000000,
           "profitMargin": 0.18925717
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "2Q2027",
-          "revenue": 11345000000,
-          "earnings": 3526000000,
-          "profitMargin": 0.31079772
         }
       ]
     },
@@ -9614,11 +9607,11 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": -0.009128487,
+    "preMarketChange": -2.3399963,
+    "preMarketTime": "2026-08-31T08:02:15.000Z",
+    "preMarketPrice": 254,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0018750429,
-    "postMarketChange": 0.480011,
-    "postMarketTime": "2026-08-28T23:59:58.000Z",
-    "postMarketPrice": 256.48,
     "postMarketSource": "FREE_REALTIME",
     "regularMarketChangePercent": 0.0156715,
     "regularMarketChange": 3.95,
@@ -9633,13 +9626,13 @@
     "regularMarketPreviousClose": 252.05,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 250.47,
-    "fulldayChangePercent": 0.0156715,
-    "fulldayChange": 3.95,
-    "fulldayPrice": 256.48,
+    "fulldayChangePercent": -0.009128487,
+    "fulldayChange": -2.3399963,
+    "fulldayPrice": 254,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "CRM",
     "underlyingSymbol": null,
@@ -9667,7 +9660,7 @@
     "dateShortInterest": "2026-08-14T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0324,
     "heldPercentInsiders": 0.029779999,
-    "heldPercentInstitutions": 0.87606,
+    "heldPercentInstitutions": 0.87609,
     "shortRatio": 2.12,
     "shortPercentOfFloat": 0.0374,
     "beta": 1.152,
@@ -9682,7 +9675,7 @@
     "mostRecentQuarter": "2026-07-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.869,
     "netIncomeToCommon": 9662000128,
-    "trailingEps": 11.08,
+    "trailingEps": 10.93,
     "forwardEps": 15.81141,
     "pegRatio": 1.05,
     "lastSplitFactor": "4:1",
@@ -11480,6 +11473,6 @@
     "profitMargins": 0.2199,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-30T07:48:39.155Z",
+  "lastUpdated": "2026-08-31T08:02:44.134Z",
   "source": "Static Build (yahoo-finance2)"
 }

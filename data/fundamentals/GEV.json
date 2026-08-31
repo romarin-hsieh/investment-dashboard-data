@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00126,
-    "institutionsPercentHeld": 0.81661004,
-    "institutionsFloatPercentHeld": 0.81764,
-    "institutionsCount": 4261
+    "institutionsPercentHeld": 0.81676,
+    "institutionsFloatPercentHeld": 0.81779,
+    "institutionsCount": 4266
   },
   "earnings": {
     "maxAge": 86400,
@@ -2320,11 +2320,11 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": -0.015027412,
+    "preMarketChange": -13.697937,
+    "preMarketTime": "2026-08-31T08:04:50.000Z",
+    "preMarketPrice": 897.8321,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0023735263,
-    "postMarketChange": 2.1644897,
-    "postMarketTime": "2026-08-28T23:59:58.000Z",
-    "postMarketPrice": 914.0945,
     "postMarketSource": "FREE_REALTIME",
     "regularMarketChangePercent": -0.0439282,
     "regularMarketChange": -41.9,
@@ -2339,13 +2339,13 @@
     "regularMarketPreviousClose": 953.83,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 948.59,
-    "fulldayChangePercent": -0.0439282,
-    "fulldayChange": -41.9,
-    "fulldayPrice": 914.0945,
+    "fulldayChangePercent": -0.015027412,
+    "fulldayChange": -13.697937,
+    "fulldayPrice": 897.8321,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "GEV",
     "underlyingSymbol": null,
@@ -2373,7 +2373,7 @@
     "dateShortInterest": "2026-08-14T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0298,
     "heldPercentInsiders": 0.00126,
-    "heldPercentInstitutions": 0.81661004,
+    "heldPercentInstitutions": 0.81676,
     "shortRatio": 3.05,
     "shortPercentOfFloat": 0.0298,
     "beta": 1.033,
@@ -2388,7 +2388,7 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.3,
     "netIncomeToCommon": 9528999936,
-    "trailingEps": 33.38,
+    "trailingEps": 34.84,
     "forwardEps": 25.1381,
     "pegRatio": 1.62,
     "lastSplitFactor": null,
@@ -2996,6 +2996,6 @@
     "profitMargins": 0.23035,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-30T07:50:56.807Z",
+  "lastUpdated": "2026-08-31T08:04:58.346Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -203,8 +203,8 @@
         {
           "date": 2022,
           "revenue": 11804000,
-          "earnings": 0,
-          "profitMargin": 0
+          "earnings": -57069000,
+          "profitMargin": -4.8347173
         },
         {
           "date": 2023,
@@ -806,11 +806,11 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": -0.0016171848,
+    "preMarketChange": -0.01499939,
+    "preMarketTime": "2026-08-31T08:02:57.000Z",
+    "preMarketPrice": 9.26,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0010764509,
-    "postMarketChange": -0.010000229,
-    "postMarketTime": "2026-08-28T23:59:54.000Z",
-    "postMarketPrice": 9.28,
     "postMarketSource": "FREE_REALTIME",
     "regularMarketChangePercent": -0.0462012,
     "regularMarketChange": -0.45,
@@ -825,13 +825,13 @@
     "regularMarketPreviousClose": 9.74,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 9.62,
-    "fulldayChangePercent": -0.0462012,
-    "fulldayChange": -0.45,
-    "fulldayPrice": 9.28,
+    "fulldayChangePercent": -0.0016171848,
+    "fulldayChange": -0.01499939,
+    "fulldayPrice": 9.26,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "SMR",
     "underlyingSymbol": null,
@@ -873,7 +873,7 @@
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -415702016,
-    "trailingEps": -2.1,
+    "trailingEps": -2.2,
     "forwardEps": -0.65188,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 252.517,
@@ -2331,6 +2331,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-30T07:48:53.664Z",
+  "lastUpdated": "2026-08-31T08:02:59.527Z",
   "source": "Static Build (yahoo-finance2)"
 }

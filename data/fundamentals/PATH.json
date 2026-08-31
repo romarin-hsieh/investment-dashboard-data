@@ -2816,11 +2816,11 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": -0.0045448537,
+    "preMarketChange": -0.08250046,
+    "preMarketTime": "2026-08-31T08:02:59.000Z",
+    "preMarketPrice": 18.07,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0022039071,
-    "postMarketChange": 0.040000916,
-    "postMarketTime": "2026-08-28T23:59:52.000Z",
-    "postMarketPrice": 18.19,
     "postMarketSource": "FREE_REALTIME",
     "regularMarketChangePercent": -0.009819981,
     "regularMarketChange": -0.18,
@@ -2835,13 +2835,13 @@
     "regularMarketPreviousClose": 18.33,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 18.125,
-    "fulldayChangePercent": -0.009819981,
-    "fulldayChange": -0.18,
-    "fulldayPrice": 18.19,
+    "fulldayChangePercent": -0.0045448537,
+    "fulldayChange": -0.08250046,
+    "fulldayPrice": 18.07,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "PATH",
     "underlyingSymbol": null,
@@ -2883,7 +2883,7 @@
     "nextFiscalYearEnd": "2027-01-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
     "netIncomeToCommon": 327409984,
-    "trailingEps": 0.59,
+    "trailingEps": 0.6,
     "forwardEps": 0.90655,
     "pegRatio": 0.65,
     "lastSplitFactor": null,
@@ -3650,18 +3650,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 122734,
-        "value": 2112412,
-        "filerUrl": "",
-        "transactionText": "Sale at price 17.21 per share.",
-        "filerName": "DINES DANIEL",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-10-16T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 10000,
         "value": 163521,
         "filerUrl": "",
@@ -3675,13 +3663,13 @@
       {
         "maxAge": 1,
         "shares": 122734,
-        "value": 2077212,
+        "value": 2112412,
         "filerUrl": "",
-        "transactionText": "Sale at price 16.92 per share.",
+        "transactionText": "Sale at price 17.21 per share.",
         "filerName": "DINES DANIEL",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2025-10-15T00:00:00.000Z",
+        "startDate": "2025-10-16T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -3707,6 +3695,18 @@
         "moneyText": "",
         "startDate": "2025-10-15T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 122734,
+        "value": 2077212,
+        "filerUrl": "",
+        "transactionText": "Sale at price 16.92 per share.",
+        "filerName": "DINES DANIEL",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-10-15T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -3806,18 +3806,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 122733,
-        "value": 1748233,
-        "filerUrl": "",
-        "transactionText": "Sale at price 14.24 per share.",
-        "filerName": "DINES DANIEL",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-10-06T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 66665,
         "value": 999982,
         "filerUrl": "",
@@ -3827,6 +3815,18 @@
         "moneyText": "",
         "startDate": "2025-10-06T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 122733,
+        "value": 1748233,
+        "filerUrl": "",
+        "transactionText": "Sale at price 14.24 per share.",
+        "filerName": "DINES DANIEL",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-10-06T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -3866,18 +3866,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 122733,
-        "value": 1817443,
-        "filerUrl": "",
-        "transactionText": "Sale at price 14.81 per share.",
-        "filerName": "DINES DANIEL",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-09-30T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 16083,
         "value": 241263,
         "filerUrl": "",
@@ -3887,6 +3875,18 @@
         "moneyText": "",
         "startDate": "2025-09-30T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 122733,
+        "value": 1817443,
+        "filerUrl": "",
+        "transactionText": "Sale at price 14.81 per share.",
+        "filerName": "DINES DANIEL",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-09-30T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -4748,6 +4748,6 @@
     "profitMargins": 0.19578,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-30T07:49:26.303Z",
+  "lastUpdated": "2026-08-31T08:03:31.173Z",
   "source": "Static Build (yahoo-finance2)"
 }

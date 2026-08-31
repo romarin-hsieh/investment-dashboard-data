@@ -246,6 +246,13 @@
           "revenue": 608104000,
           "earnings": -92115000,
           "profitMargin": -0.15147902
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 753214000,
+          "earnings": -86290000,
+          "profitMargin": -0.11456239
         }
       ]
     },
@@ -1739,11 +1746,11 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": 0.005896638,
+    "preMarketChange": 0.17000008,
+    "preMarketTime": "2026-08-31T08:01:58.000Z",
+    "preMarketPrice": 29,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0013869281,
-    "postMarketChange": 0.03999901,
-    "postMarketTime": "2026-08-28T23:59:57.000Z",
-    "postMarketPrice": 28.88,
     "postMarketSource": "DELAYED",
     "regularMarketChangePercent": -0.0890714,
     "regularMarketChange": -2.82,
@@ -1758,19 +1765,20 @@
     "regularMarketPreviousClose": 31.66,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 31.36,
-    "fulldayChangePercent": -0.0890714,
-    "fulldayChange": -2.82,
-    "fulldayPrice": 28.88,
+    "fulldayChangePercent": 0.005896638,
+    "fulldayChange": 0.17000008,
+    "fulldayPrice": 29,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "HIMS",
     "underlyingSymbol": null,
     "shortName": "Hims & Hers Health, Inc.",
     "longName": "Hims & Hers Health, Inc.",
     "currency": "USD",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
@@ -1805,7 +1813,7 @@
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -142030000,
-    "trailingEps": -0.58,
+    "trailingEps": -0.64,
     "forwardEps": 1.00223,
     "pegRatio": 2.15,
     "lastSplitFactor": null,
@@ -3627,6 +3635,6 @@
     "profitMargins": -0.05509,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-08-30T07:49:00.847Z",
+  "lastUpdated": "2026-08-31T08:03:06.689Z",
   "source": "Static Build (yahoo-finance2)"
 }
