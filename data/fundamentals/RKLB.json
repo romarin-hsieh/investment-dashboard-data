@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0678,
         "position": 40580130,
-        "value": 2593881835,
+        "value": 2537881367,
         "pctChange": 0.0683
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.045300003,
         "position": 27118258,
-        "value": 1733399001,
+        "value": 1695975880,
         "pctChange": 0.053600002
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0423,
         "position": 25299213,
-        "value": 1617125648,
+        "value": 1582212804,
         "pctChange": 0.0417
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0307,
         "position": 18343547,
-        "value": 1172519490,
+        "value": 1147205446,
         "pctChange": 4.0978
       },
       {
@@ -81,7 +81,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0241,
         "position": 14442067,
-        "value": 923136896,
+        "value": 903206883,
         "pctChange": 0.0372
       },
       {
@@ -90,7 +90,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0231,
         "position": 13805113,
-        "value": 882422797,
+        "value": 863371779,
         "pctChange": 0.2929
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0176,
         "position": 10503238,
-        "value": 671366953,
+        "value": 656872514,
         "pctChange": -0.0064
       },
       {
@@ -108,7 +108,7 @@
         "organization": "BAILLIE GIFFORD & CO",
         "pctHeld": 0.0174,
         "position": 10384512,
-        "value": 663777988,
+        "value": 649447389,
         "pctChange": -0.4365
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0123000005,
         "position": 7370414,
-        "value": 471116849,
+        "value": 460945698,
         "pctChange": 0.0177
       },
       {
@@ -126,17 +126,17 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0115,
         "position": 6895400,
-        "value": 440753955,
+        "value": 431238322,
         "pctChange": 0.28079998
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.00803,
-    "institutionsPercentHeld": 0.61541003,
-    "institutionsFloatPercentHeld": 0.62039,
-    "institutionsCount": 1458
+    "insidersPercentHeld": 0.00796,
+    "institutionsPercentHeld": 0.61557,
+    "institutionsFloatPercentHeld": 0.62051,
+    "institutionsCount": 1457
   },
   "earnings": {
     "maxAge": 86400,
@@ -243,6 +243,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-08-31T17:33:37.000Z",
+        "firm": "B of A Securities",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 110,
+        "priorPriceTarget": 115
+      },
       {
         "epochGradeDate": "2026-08-11T14:06:03.000Z",
         "firm": "Citizens",
@@ -1509,27 +1519,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0026595457,
-    "postMarketChange": 0.16999817,
-    "postMarketTime": "2026-08-31T23:59:51.000Z",
-    "postMarketPrice": 64.09,
+    "postMarketChangePercent": -0.014230882,
+    "postMarketChange": -0.8899994,
+    "postMarketTime": "2026-09-01T23:59:59.000Z",
+    "postMarketPrice": 61.65,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0072992896,
-    "regularMarketChange": -0.470001,
-    "regularMarketTime": "2026-08-31T20:00:00.000Z",
+    "regularMarketChangePercent": -0.0215894,
+    "regularMarketChange": -1.38,
+    "regularMarketTime": "2026-09-01T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 63.92,
-    "regularMarketDayHigh": 64.1122,
-    "regularMarketDayLow": 62.79,
-    "regularMarketVolume": 15207445,
-    "averageDailyVolume10Day": 14707330,
-    "averageDailyVolume3Month": 22124261,
-    "regularMarketPreviousClose": 64.39,
+    "regularMarketPrice": 62.54,
+    "regularMarketDayHigh": 63.9352,
+    "regularMarketDayLow": 61.945,
+    "regularMarketVolume": 14156543,
+    "averageDailyVolume10Day": 14710750,
+    "averageDailyVolume3Month": 22124804,
+    "regularMarketPreviousClose": 63.92,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 63.55,
-    "fulldayChangePercent": 0.008291596,
-    "fulldayChange": 0.5299988,
-    "fulldayPrice": 64.09,
+    "regularMarketOpen": 62.085,
+    "fulldayChangePercent": -0.019507535,
+    "fulldayChange": -1.2200012,
+    "fulldayPrice": 61.65,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -1545,13 +1555,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 40871149568
+    "marketCap": 39988764672
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 36078071808,
-    "forwardPE": 1278.3999,
+    "enterpriseValue": 35252350976,
+    "forwardPE": 1250.8,
     "profitMargins": -0.21511999,
     "floatShares": 556860860,
     "sharesOutstanding": 598459739,
@@ -1560,15 +1570,15 @@
     "sharesShortPreviousMonthDate": "2026-07-15T00:00:00.000Z",
     "dateShortInterest": "2026-08-14T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0694,
-    "heldPercentInsiders": 0.00803,
-    "heldPercentInstitutions": 0.61541003,
+    "heldPercentInsiders": 0.00796,
+    "heldPercentInstitutions": 0.61557,
     "shortRatio": 2.26,
     "shortPercentOfFloat": 0.0746,
     "beta": 2.629,
     "impliedSharesOutstanding": 639410989,
     "category": null,
     "bookValue": 5.838,
-    "priceToBook": 10.948956,
+    "priceToBook": 10.712573,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1578,10 +1588,10 @@
     "trailingEps": -0.27,
     "forwardEps": 0.05,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 46.907,
-    "enterpriseToEbitda": -239.688,
+    "enterpriseToRevenue": 45.833,
+    "enterpriseToEbitda": -234.202,
     "52WeekChange": 0.29628873,
-    "SandP52WeekChange": 0.20204377,
+    "SandP52WeekChange": 0.19805038,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1609,48 +1619,12 @@
     "transactions": [
       {
         "maxAge": 1,
-        "shares": 35558,
-        "value": 2368354,
-        "filerUrl": "",
-        "transactionText": "Sale at price 66.25 - 67.54 per share.",
-        "filerName": "KLEIN FRANK",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-08-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 6034,
-        "value": 402186,
-        "filerUrl": "",
-        "transactionText": "Sale at price 66.50 - 67.16 per share.",
-        "filerName": "KAMPANI ARJUN E",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-08-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 45692,
-        "value": 3181443,
+        "shares": 9677,
+        "value": 673790,
         "filerUrl": "",
         "transactionText": "Sale at price 69.53 - 71.17 per share.",
-        "filerName": "KLEIN FRANK",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-08-24T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 15051,
-        "value": 1047972,
-        "filerUrl": "",
-        "transactionText": "Sale at price 69.53 - 71.17 per share.",
-        "filerName": "CLEVENGER MARVIN BRADFORD",
-        "filerRelation": "Officer",
+        "filerName": "SPICE ADAM C",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-08-24T00:00:00.000Z",
         "ownership": "D"
@@ -1681,12 +1655,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 9677,
-        "value": 673790,
+        "shares": 45692,
+        "value": 3181443,
         "filerUrl": "",
         "transactionText": "Sale at price 69.53 - 71.17 per share.",
-        "filerName": "SPICE ADAM C",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "KLEIN FRANK",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-08-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 15051,
+        "value": 1047972,
+        "filerUrl": "",
+        "transactionText": "Sale at price 69.53 - 71.17 per share.",
+        "filerName": "CLEVENGER MARVIN BRADFORD",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-08-24T00:00:00.000Z",
         "ownership": "D"
@@ -1789,6 +1775,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 60000,
+        "value": 8964092,
+        "filerUrl": "",
+        "transactionText": "Sale at price 149.10 - 150.00 per share.",
+        "filerName": "SLUSKY ALEXANDER R",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-28T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 23804,
+        "value": 3509511,
+        "filerUrl": "",
+        "transactionText": "Sale at price 143.15 - 150.26 per share.",
+        "filerName": "KAMPANI ARJUN E",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-05-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 36860,
         "value": 5433998,
         "filerUrl": "",
@@ -1813,30 +1823,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 23804,
-        "value": 3509511,
-        "filerUrl": "",
-        "transactionText": "Sale at price 143.15 - 150.26 per share.",
-        "filerName": "KAMPANI ARJUN E",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-05-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 60000,
-        "value": 8964092,
-        "filerUrl": "",
-        "transactionText": "Sale at price 149.10 - 150.00 per share.",
-        "filerName": "SLUSKY ALEXANDER R",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-28T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 98668,
         "value": 14246080,
         "filerUrl": "",
@@ -1849,14 +1835,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 5000000,
+        "shares": 62744,
+        "value": 8945631,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BECK PETER",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Sale at price 139.41 - 144.13 per share.",
+        "filerName": "SPICE ADAM C",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-05-26T00:00:00.000Z",
-        "ownership": "I"
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1884,15 +1871,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 62744,
-        "value": 8945631,
+        "shares": 5000000,
         "filerUrl": "",
-        "transactionText": "Sale at price 139.41 - 144.13 per share.",
-        "filerName": "SPICE ADAM C",
-        "filerRelation": "Chief Financial Officer",
+        "transactionText": "",
+        "filerName": "BECK PETER",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-05-26T00:00:00.000Z",
-        "ownership": "D"
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2028,18 +2014,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 81250,
-        "value": 5740940,
-        "filerUrl": "",
-        "transactionText": "Sale at price 66.83 - 73.82 per share.",
-        "filerName": "KLEIN FRANK",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-03-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 52472,
         "value": 3707381,
         "filerUrl": "",
@@ -2052,14 +2026,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 18857,
-        "value": 1312257,
+        "shares": 81250,
+        "value": 5740940,
         "filerUrl": "",
-        "transactionText": "Sale at price 66.83 - 70.62 per share.",
-        "filerName": "BECK PETER",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Sale at price 66.83 - 73.82 per share.",
+        "filerName": "KLEIN FRANK",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
-        "startDate": "2026-03-02T00:00:00.000Z",
+        "startDate": "2026-03-04T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2070,6 +2044,18 @@
         "transactionText": "Sale at price 66.83 - 70.62 per share.",
         "filerName": "SPICE ADAM C",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-03-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 18857,
+        "value": 1312257,
+        "filerUrl": "",
+        "transactionText": "Sale at price 66.83 - 70.62 per share.",
+        "filerName": "BECK PETER",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-03-02T00:00:00.000Z",
         "ownership": "D"
@@ -2100,10 +2086,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 731330,
-        "value": 797150,
+        "shares": 1365665,
+        "value": 103112280,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 1.09 per share.",
+        "transactionText": "Sale at price 72.15 - 78.04 per share.",
         "filerName": "SPICE ADAM C",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -2112,10 +2098,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 1365665,
-        "value": 103112280,
+        "shares": 731330,
+        "value": 797150,
         "filerUrl": "",
-        "transactionText": "Sale at price 72.15 - 78.04 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 1.09 per share.",
         "filerName": "SPICE ADAM C",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -2184,11 +2170,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 27314,
-        "value": 1862972,
+        "shares": 15000,
+        "value": 1022773,
         "filerUrl": "",
-        "transactionText": "Sale at price 60.98 - 70.18 per share.",
-        "filerName": "ARMAGNO NINA M.",
+        "transactionText": "Sale at price 61.12 - 70.20 per share.",
+        "filerName": "OLSON JON A",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-19T00:00:00.000Z",
@@ -2208,11 +2194,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 15000,
-        "value": 1022773,
+        "shares": 27314,
+        "value": 1862972,
         "filerUrl": "",
-        "transactionText": "Sale at price 61.12 - 70.20 per share.",
-        "filerName": "OLSON JON A",
+        "transactionText": "Sale at price 60.98 - 70.18 per share.",
+        "filerName": "ARMAGNO NINA M.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-19T00:00:00.000Z",
@@ -2268,18 +2254,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 4736,
-        "value": 199311,
-        "filerUrl": "",
-        "transactionText": "Sale at price 41.96 - 43.16 per share.",
-        "filerName": "KLEIN FRANK",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2025-11-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 10554,
         "value": 444140,
         "filerUrl": "",
@@ -2292,12 +2266,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 41782,
-        "value": 1698509,
+        "shares": 4736,
+        "value": 199311,
         "filerUrl": "",
-        "transactionText": "Sale at price 40.02 - 41.35 per share.",
+        "transactionText": "Sale at price 41.96 - 43.16 per share.",
         "filerName": "KLEIN FRANK",
         "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2025-11-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 62627,
+        "value": 2545895,
+        "filerUrl": "",
+        "transactionText": "Sale at price 40.02 - 41.35 per share.",
+        "filerName": "SPICE ADAM C",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-11-24T00:00:00.000Z",
         "ownership": "D"
@@ -2328,12 +2314,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 62627,
-        "value": 2545895,
+        "shares": 41782,
+        "value": 1698509,
         "filerUrl": "",
         "transactionText": "Sale at price 40.02 - 41.35 per share.",
-        "filerName": "SPICE ADAM C",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "KLEIN FRANK",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2025-11-24T00:00:00.000Z",
         "ownership": "D"
@@ -2400,6 +2386,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 40601,
+        "value": 1976247,
+        "filerUrl": "",
+        "transactionText": "Sale at price 47.18 - 51.63 per share.",
+        "filerName": "KAMPANI ARJUN E",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-09-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 49821,
         "value": 2434267,
         "filerUrl": "",
@@ -2412,14 +2410,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 40601,
-        "value": 1976247,
+        "shares": 68254,
+        "value": 3342240,
         "filerUrl": "",
-        "transactionText": "Sale at price 47.18 - 51.63 per share.",
-        "filerName": "KAMPANI ARJUN E",
-        "filerRelation": "General Counsel",
+        "transactionText": "Sale at price 47.78 - 51.63 per share.",
+        "filerName": "SPICE ADAM C",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2025-09-17T00:00:00.000Z",
+        "startDate": "2025-09-16T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2445,18 +2443,6 @@
         "moneyText": "",
         "startDate": "2025-09-16T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 68254,
-        "value": 3342240,
-        "filerUrl": "",
-        "transactionText": "Sale at price 47.78 - 51.63 per share.",
-        "filerName": "SPICE ADAM C",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-09-16T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2567,18 +2553,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2546,
-        "value": 76380,
-        "filerUrl": "",
-        "transactionText": "Sale at price 30.00 per share.",
-        "filerName": "KLEIN FRANK",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2025-06-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 5194,
         "value": 155820,
         "filerUrl": "",
@@ -2591,14 +2565,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 46703,
-        "value": 1244778,
+        "shares": 2546,
+        "value": 76380,
         "filerUrl": "",
-        "transactionText": "Sale at price 26.51 - 26.66 per share.",
+        "transactionText": "Sale at price 30.00 per share.",
         "filerName": "KLEIN FRANK",
         "filerRelation": "Chief Operating Officer",
         "moneyText": "",
-        "startDate": "2025-06-02T00:00:00.000Z",
+        "startDate": "2025-06-09T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2609,6 +2583,18 @@
         "transactionText": "Sale at price 26.52 - 26.66 per share.",
         "filerName": "KAMPANI ARJUN E",
         "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-06-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 46703,
+        "value": 1244778,
+        "filerUrl": "",
+        "transactionText": "Sale at price 26.51 - 26.66 per share.",
+        "filerName": "KLEIN FRANK",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2025-06-02T00:00:00.000Z",
         "ownership": "D"
@@ -2627,18 +2613,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2569,
-        "value": 76999,
-        "filerUrl": "",
-        "transactionText": "Sale at price 29.97 per share.",
-        "filerName": "KLEIN FRANK",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2025-05-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 5277,
         "value": 158152,
         "filerUrl": "",
@@ -2651,14 +2625,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 46388,
-        "value": 846607,
+        "shares": 2569,
+        "value": 76999,
         "filerUrl": "",
-        "transactionText": "Sale at price 18.18 - 19.93 per share.",
+        "transactionText": "Sale at price 29.97 per share.",
         "filerName": "KLEIN FRANK",
         "filerRelation": "Chief Operating Officer",
         "moneyText": "",
-        "startDate": "2025-03-17T00:00:00.000Z",
+        "startDate": "2025-05-28T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -2669,6 +2643,18 @@
         "transactionText": "Sale at price 18.18 - 19.35 per share.",
         "filerName": "KAMPANI ARJUN E",
         "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-03-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 46388,
+        "value": 846607,
+        "filerUrl": "",
+        "transactionText": "Sale at price 18.18 - 19.93 per share.",
+        "filerName": "KLEIN FRANK",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2025-03-17T00:00:00.000Z",
         "ownership": "D"
@@ -2745,12 +2731,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 35968,
-        "value": 868469,
+        "shares": 62511,
+        "value": 1509366,
         "filerUrl": "",
         "transactionText": "Sale at price 24.15 per share.",
-        "filerName": "KLEIN FRANK",
-        "filerRelation": "Chief Operating Officer",
+        "filerName": "SPICE ADAM C",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2024-11-25T00:00:00.000Z",
         "ownership": "D"
@@ -2769,12 +2755,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 62511,
-        "value": 1509366,
+        "shares": 35968,
+        "value": 868469,
         "filerUrl": "",
         "transactionText": "Sale at price 24.15 per share.",
-        "filerName": "SPICE ADAM C",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "KLEIN FRANK",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2024-11-25T00:00:00.000Z",
         "ownership": "D"
@@ -2852,10 +2838,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 63.92,
+    "currentPrice": 62.54,
     "targetHighPrice": 150,
     "targetLowPrice": 64,
-    "targetMeanPrice": 112.94118,
+    "targetMeanPrice": 112.64706,
     "targetMedianPrice": 120,
     "recommendationMean": 1.61111,
     "recommendationKey": "buy",
@@ -2881,6 +2867,6 @@
     "profitMargins": -0.21511999,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-01T07:10:10.490Z",
+  "lastUpdated": "2026-09-02T06:47:13.854Z",
   "source": "Static Build (yahoo-finance2)"
 }
