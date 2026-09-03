@@ -12,8 +12,8 @@
       {
         "period": "-1m",
         "strongBuy": 8,
-        "buy": 29,
-        "hold": 6,
+        "buy": 28,
+        "hold": 7,
         "sell": 1,
         "strongSell": 0
       },
@@ -21,15 +21,15 @@
         "period": "-2m",
         "strongBuy": 8,
         "buy": 29,
-        "hold": 5,
+        "hold": 6,
         "sell": 1,
         "strongSell": 0
       },
       {
         "period": "-3m",
-        "strongBuy": 6,
-        "buy": 30,
-        "hold": 6,
+        "strongBuy": 8,
+        "buy": 29,
+        "hold": 5,
         "sell": 1,
         "strongSell": 0
       }
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0505,
         "position": 145353687,
-        "value": 20541384111,
+        "value": 21185299880,
         "pctChange": 0.0143
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0388,
         "position": 111788001,
-        "value": 15797881120,
+        "value": 16293101145,
         "pctChange": 0.0061000003
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0273,
         "position": 78645193,
-        "value": 11114139250,
+        "value": 11462536879,
         "pctChange": 0.0307
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0199,
         "position": 57285664,
-        "value": 8095610456,
+        "value": 8349385528,
         "pctChange": 0.0095
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.0138,
         "position": 39746237,
-        "value": 5616938503,
+        "value": 5793014042,
         "pctChange": 0.2367
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0136,
         "position": 39248959,
-        "value": 5546663173,
+        "value": 5720535774,
         "pctChange": 0.0077
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0106,
         "position": 30551196,
-        "value": 4317495242,
+        "value": 4452836817,
         "pctChange": 0.048699997
       },
       {
@@ -108,7 +108,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.009,
         "position": 26025909,
-        "value": 3677981650,
+        "value": 3793276236,
         "pctChange": 0.1375
       },
       {
@@ -117,7 +117,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0087,
         "position": 25002553,
-        "value": 3533360973,
+        "value": 3644122099,
         "pctChange": 0.123900004
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0083,
         "position": 23954012,
-        "value": 3385181151,
+        "value": 3491297249,
         "pctChange": 0.5571
       }
     ]
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-02T16:11:22.000Z",
+        "firm": "Jefferies",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 290,
+        "priorPriceTarget": 320
+      },
       {
         "epochGradeDate": "2026-09-01T13:44:09.000Z",
         "firm": "TD Cowen",
@@ -6757,27 +6767,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0011973161,
-    "postMarketChange": -0.16920471,
-    "postMarketTime": "2026-09-01T23:59:54.000Z",
-    "postMarketPrice": 141.1508,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0523068,
-    "regularMarketChange": -7.79999,
-    "regularMarketTime": "2026-09-01T20:04:18.000Z",
+    "postMarketChangePercent": 0.0034305316,
+    "postMarketChange": 0.5,
+    "postMarketTime": "2026-09-02T23:59:44.000Z",
+    "postMarketPrice": 146.25,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.0313472,
+    "regularMarketChange": 4.42999,
+    "regularMarketTime": "2026-09-02T20:05:22.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 141.32,
-    "regularMarketDayHigh": 146.77,
-    "regularMarketDayLow": 139.95,
-    "regularMarketVolume": 25201476,
-    "averageDailyVolume10Day": 19060900,
-    "averageDailyVolume3Month": 31588433,
-    "regularMarketPreviousClose": 149.12,
+    "regularMarketPrice": 145.75,
+    "regularMarketDayHigh": 146.6899,
+    "regularMarketDayLow": 139.72,
+    "regularMarketVolume": 21817305,
+    "averageDailyVolume10Day": 19690000,
+    "averageDailyVolume3Month": 31638308,
+    "regularMarketPreviousClose": 141.32,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 146.75,
-    "fulldayChangePercent": -0.011746416,
-    "fulldayChange": -1.6600037,
-    "fulldayPrice": 141.1508,
+    "regularMarketOpen": 140.26,
+    "fulldayChangePercent": 0.0004803247,
+    "fulldayChange": 0.070007324,
+    "fulldayPrice": 146.25,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -6788,18 +6798,18 @@
     "shortName": "Oracle Corporation",
     "longName": "Oracle Corporation",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 407068180480
+    "marketCap": 419828662272
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 548108173312,
-    "forwardPE": 12.934132,
+    "enterpriseValue": 560868622336,
+    "forwardPE": 13.339581,
     "profitMargins": 0.25368,
     "floatShares": 1713332956,
     "sharesOutstanding": 2880471000,
@@ -6816,7 +6826,7 @@
     "impliedSharesOutstanding": 2880471000,
     "category": null,
     "bookValue": 13.04,
-    "priceToBook": 10.837424,
+    "priceToBook": 11.177147,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-05-31T00:00:00.000Z",
@@ -6824,15 +6834,15 @@
     "mostRecentQuarter": "2026-05-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.256,
     "netIncomeToCommon": 16984000512,
-    "trailingEps": 5.53,
+    "trailingEps": 6.02,
     "forwardEps": 10.92613,
-    "pegRatio": 0.85,
+    "pegRatio": 0.8,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 971395200,
-    "enterpriseToRevenue": 8.137,
-    "enterpriseToEbitda": 17.974,
-    "52WeekChange": -0.33812696,
-    "SandP52WeekChange": 0.19805038,
+    "enterpriseToRevenue": 8.327,
+    "enterpriseToEbitda": 18.393,
+    "52WeekChange": -0.36627805,
+    "SandP52WeekChange": 0.17369676,
     "lastDividendValue": 0.5,
     "lastDividendDate": "2026-07-10T00:00:00.000Z",
     "latestShareClass": null,
@@ -7155,6 +7165,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 109212,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SICILIA MICHAEL D",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 129861,
         "filerUrl": "",
         "transactionText": "",
@@ -7170,17 +7191,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "SMITH MARIA",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-09-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 109212,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SICILIA MICHAEL D",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-19T00:00:00.000Z",
@@ -7597,7 +7607,7 @@
         "shares": 2986,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ABLO AWO",
+        "filerName": "PARRETT WILLIAM GREGORY",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-30T00:00:00.000Z",
@@ -7608,7 +7618,7 @@
         "shares": 2986,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "FAIRHEAD RONA ALISON",
+        "filerName": "ABLO AWO",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-30T00:00:00.000Z",
@@ -7630,7 +7640,7 @@
         "shares": 2986,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PARRETT WILLIAM GREGORY",
+        "filerName": "FAIRHEAD RONA ALISON",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-30T00:00:00.000Z",
@@ -7918,10 +7928,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 141.32,
+    "currentPrice": 145.75,
     "targetHighPrice": 400,
     "targetLowPrice": 110,
-    "targetMeanPrice": 244.11761,
+    "targetMeanPrice": 241.97476,
     "targetMedianPrice": 240,
     "recommendationMean": 1.59091,
     "recommendationKey": "buy",
@@ -7948,6 +7958,6 @@
     "profitMargins": 0.25368,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-02T06:47:09.787Z",
+  "lastUpdated": "2026-09-03T06:49:21.965Z",
   "source": "Static Build (yahoo-finance2)"
 }

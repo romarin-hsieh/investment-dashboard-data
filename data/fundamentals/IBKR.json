@@ -5,7 +5,7 @@
         "period": "0m",
         "strongBuy": 2,
         "buy": 7,
-        "hold": 3,
+        "hold": 4,
         "sell": 0,
         "strongSell": 1
       },
@@ -13,7 +13,7 @@
         "period": "-1m",
         "strongBuy": 2,
         "buy": 7,
-        "hold": 2,
+        "hold": 3,
         "sell": 0,
         "strongSell": 1
       },
@@ -21,14 +21,14 @@
         "period": "-2m",
         "strongBuy": 2,
         "buy": 7,
-        "hold": 1,
+        "hold": 2,
         "sell": 0,
         "strongSell": 1
       },
       {
         "period": "-3m",
         "strongBuy": 2,
-        "buy": 6,
+        "buy": 7,
         "hold": 1,
         "sell": 0,
         "strongSell": 1
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0731,
         "position": 33129663,
-        "value": 2994590218,
+        "value": 2952515657,
         "pctChange": 0.0559
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0626,
         "position": 28349920,
-        "value": 2562549251,
+        "value": 2526544948,
         "pctChange": 0.006
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0429,
         "position": 19437767,
-        "value": 1756979747,
+        "value": 1732293848,
         "pctChange": 0.018099999
       },
       {
@@ -72,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.026099999,
         "position": 11828151,
-        "value": 1069146561,
+        "value": 1054124849,
         "pctChange": -0.0538
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0235,
         "position": 10641906,
-        "value": 961921876,
+        "value": 948406691,
         "pctChange": 0.019
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Greenwich Wealth Management Llc",
         "pctHeld": 0.0219,
         "position": 9921755,
-        "value": 896827428,
+        "value": 884226832,
         "pctChange": -0.0002
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0214,
         "position": 9708980,
-        "value": 877594696,
+        "value": 865264324,
         "pctChange": 0.0064
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.019299999,
         "position": 8724292,
-        "value": 788588748,
+        "value": 777508927,
         "pctChange": -0.41779998
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Two Sigma Investments, LP",
         "pctHeld": 0.0184,
         "position": 8340400,
-        "value": 753888750,
+        "value": 743296470,
         "pctChange": 0.0033000002
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Wellington Management Group, LLP",
         "pctHeld": 0.0163,
         "position": 7382141,
-        "value": 667271720,
+        "value": 657896426,
         "pctChange": -0.2448
       }
     ]
@@ -187,7 +187,7 @@
           "reportedDate": 1784664660
         }
       ],
-      "currentQuarterEstimate": 0.69401,
+      "currentQuarterEstimate": 0.69174,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-02T17:16:53.000Z",
+        "firm": "Goldman Sachs",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 113,
+        "priorPriceTarget": 114
+      },
       {
         "epochGradeDate": "2026-08-27T18:25:18.000Z",
         "firm": "Raymond James",
@@ -1557,27 +1567,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.005752896,
-    "postMarketChange": 0.5200043,
-    "postMarketTime": "2026-09-01T23:54:19.000Z",
-    "postMarketPrice": 90.91,
+    "postMarketChangePercent": 0.0010098332,
+    "postMarketChange": 0.08999634,
+    "postMarketTime": "2026-09-02T23:59:29.000Z",
+    "postMarketPrice": 89.21,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0700856,
-    "regularMarketChange": -6.8125,
-    "regularMarketTime": "2026-09-01T20:00:01.000Z",
+    "regularMarketChangePercent": -0.0140502,
+    "regularMarketChange": -1.27,
+    "regularMarketTime": "2026-09-02T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 90.39,
-    "regularMarketDayHigh": 94.9,
-    "regularMarketDayLow": 90.025,
-    "regularMarketVolume": 5033237,
-    "averageDailyVolume10Day": 3859200,
-    "averageDailyVolume3Month": 4569085,
-    "regularMarketPreviousClose": 97.2025,
+    "regularMarketPrice": 89.12,
+    "regularMarketDayHigh": 91.35,
+    "regularMarketDayLow": 88.53,
+    "regularMarketVolume": 4308129,
+    "averageDailyVolume10Day": 4110950,
+    "averageDailyVolume3Month": 4532725,
+    "regularMarketPreviousClose": 90.39,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 94.625,
-    "fulldayChangePercent": 0.0024339112,
-    "fulldayChange": 0.22000122,
-    "fulldayPrice": 90.91,
+    "regularMarketOpen": 90.03,
+    "fulldayChangePercent": 0.002019752,
+    "fulldayChange": 0.1800003,
+    "fulldayPrice": 89.21,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -1593,13 +1603,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 154007879680
+    "marketCap": 151844044800
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": -27780263936,
-    "forwardPE": 28.416395,
+    "enterpriseValue": -28355674112,
+    "forwardPE": 28.02084,
     "profitMargins": 0.16474001,
     "floatShares": 439173202,
     "sharesOutstanding": 453077771,
@@ -1616,7 +1626,7 @@
     "impliedSharesOutstanding": 1703815587,
     "category": null,
     "bookValue": 13.103,
-    "priceToBook": 6.8984203,
+    "priceToBook": 6.801496,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1624,14 +1634,14 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.393,
     "netIncomeToCommon": 1126000000,
-    "trailingEps": 2.34,
+    "trailingEps": 2.49,
     "forwardEps": 3.18049,
-    "pegRatio": 1.84,
+    "pegRatio": 1.46,
     "lastSplitFactor": "4:1",
     "lastSplitDate": 1750204800,
-    "enterpriseToRevenue": -4.064,
-    "52WeekChange": 0.5225352,
-    "SandP52WeekChange": 0.19805038,
+    "enterpriseToRevenue": -4.149,
+    "52WeekChange": 0.4061917,
+    "SandP52WeekChange": 0.17369676,
     "lastDividendValue": 0.088,
     "lastDividendDate": "2026-09-01T00:00:00.000Z",
     "latestShareClass": null,
@@ -1781,6 +1791,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 11156,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MENDONCA DENIS",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-12-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 389,
         "value": 25017,
         "filerUrl": "",
@@ -1901,6 +1923,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 13944,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "FRANK THOMAS A J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-12-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 53841,
         "value": 25017,
         "filerUrl": "",
@@ -1949,18 +1983,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 11156,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MENDONCA DENIS",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-12-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 23629,
         "value": 25017,
         "filerUrl": "",
@@ -2003,18 +2025,6 @@
         "transactionText": "Stock Award(Grant) at price 64.31 per share.",
         "filerName": "GALIK MILAN",
         "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-12-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 13944,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "FRANK THOMAS A J",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-31T00:00:00.000Z",
         "ownership": "D"
@@ -2237,18 +2247,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 39786,
-        "value": 2640976,
-        "filerUrl": "",
-        "transactionText": "Sale at price 66.32 - 66.64 per share.",
-        "filerName": "NEMSER EARL H",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-07-30T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 1000000,
         "value": 66220000,
         "filerUrl": "",
@@ -2265,6 +2263,18 @@
         "value": 26488000,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 66.22 per share.",
+        "filerName": "NEMSER EARL H",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-07-30T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 39786,
+        "value": 2640976,
+        "filerUrl": "",
+        "transactionText": "Sale at price 66.32 - 66.64 per share.",
         "filerName": "NEMSER EARL H",
         "filerRelation": "Officer and Director",
         "moneyText": "",
@@ -2333,12 +2343,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 223922,
+        "shares": 3748,
         "value": 0,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "GALIK MILAN",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MENDONCA DENIS",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-12-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 142,
+        "value": 25087,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 176.67 per share.",
+        "filerName": "BRIGHT JILL",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2024-12-31T00:00:00.000Z",
         "ownership": "D"
@@ -2381,6 +2403,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 6709,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "FRANK THOMAS A J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-12-31T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 18272,
         "value": 25087,
         "filerUrl": "",
@@ -2398,30 +2432,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 176.67 per share.",
         "filerName": "HARRIS LAWRENCE E",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2024-12-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 3748,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MENDONCA DENIS",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-12-31T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 142,
-        "value": 25087,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 176.67 per share.",
-        "filerName": "BRIGHT JILL",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2024-12-31T00:00:00.000Z",
@@ -2453,12 +2463,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 6709,
+        "shares": 223922,
         "value": 0,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "FRANK THOMAS A J",
-        "filerRelation": "Officer",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "GALIK MILAN",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2024-12-31T00:00:00.000Z",
         "ownership": "D"
@@ -2480,14 +2490,14 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 90.39,
+    "currentPrice": 89.12,
     "targetHighPrice": 121,
     "targetLowPrice": 70,
-    "targetMeanPrice": 106.13333,
-    "targetMedianPrice": 109.5,
-    "recommendationMean": 1.84615,
+    "targetMeanPrice": 105.73846,
+    "targetMedianPrice": 109,
+    "recommendationMean": 1.92857,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 12,
+    "numberOfAnalystOpinions": 13,
     "totalCash": 130858999808,
     "totalCashPerShare": 288.822,
     "totalDebt": 45779001344,
@@ -2508,6 +2518,6 @@
     "profitMargins": 0.16474001,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-02T06:48:23.951Z",
+  "lastUpdated": "2026-09-03T06:50:34.018Z",
   "source": "Static Build (yahoo-finance2)"
 }

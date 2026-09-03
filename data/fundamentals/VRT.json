@@ -20,15 +20,15 @@
       {
         "period": "-2m",
         "strongBuy": 3,
-        "buy": 19,
-        "hold": 3,
+        "buy": 21,
+        "hold": 4,
         "sell": 0,
-        "strongSell": 1
+        "strongSell": 0
       },
       {
         "period": "-3m",
-        "strongBuy": 4,
-        "buy": 18,
+        "strongBuy": 3,
+        "buy": 19,
         "hold": 3,
         "sell": 0,
         "strongSell": 1
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0933,
         "position": 35921459,
-        "value": 9194815904,
+        "value": 9221038963,
         "pctChange": -0.0346
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0652,
         "position": 25087955,
-        "value": 6421763871,
+        "value": 6440078354,
         "pctChange": 0.0092
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0465,
         "position": 17909570,
-        "value": 4584312654,
+        "value": 4597386837,
         "pctChange": -0.00090000004
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0429,
         "position": 16531530,
-        "value": 4231575754,
+        "value": 4243643952,
         "pctChange": 0.044499997
       },
       {
@@ -81,7 +81,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.026099999,
         "position": 10061204,
-        "value": 2575366400,
+        "value": 2582711189,
         "pctChange": 0.65870005
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.023699999,
         "position": 9110798,
-        "value": 2332090975,
+        "value": 2338741957,
         "pctChange": 0.159
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0235,
         "position": 9028475,
-        "value": 2311018756,
+        "value": 2317609642,
         "pctChange": -0.1702
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0215,
         "position": 8280709,
-        "value": 2119613092,
+        "value": 2125658101,
         "pctChange": -0.0162
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0179,
         "position": 6894546,
-        "value": 1764796948,
+        "value": 1769830042,
         "pctChange": 0.036
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.014400001,
         "position": 5537463,
-        "value": 1417424410,
+        "value": 1421466819,
         "pctChange": -0.1543
       }
     ]
@@ -227,6 +227,13 @@
       ],
       "quarterly": [
         {
+          "date": "2Q2025",
+          "fiscalQuarter": "2Q2025",
+          "revenue": 2638100000,
+          "earnings": 324200000,
+          "profitMargin": 0.12289148
+        },
+        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 2675800000,
@@ -246,13 +253,6 @@
           "revenue": 2649500000,
           "earnings": 390100000,
           "profitMargin": 0.14723533
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "2Q2026",
-          "revenue": 3274300000,
-          "earnings": 497800000,
-          "profitMargin": 0.1520325
         }
       ]
     },
@@ -2007,27 +2007,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0003515894,
-    "postMarketChange": -0.08999634,
-    "postMarketTime": "2026-09-01T23:59:49.000Z",
-    "postMarketPrice": 255.88,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0106293,
-    "regularMarketChange": -2.75,
-    "regularMarketTime": "2026-09-01T20:00:03.000Z",
+    "postMarketChangePercent": 0.0012465009,
+    "postMarketChange": 0.3199768,
+    "postMarketTime": "2026-09-02T23:59:45.000Z",
+    "postMarketPrice": 257.02,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.00285194,
+    "regularMarketChange": 0.730011,
+    "regularMarketTime": "2026-09-02T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 255.97,
-    "regularMarketDayHigh": 257.89,
-    "regularMarketDayLow": 248.75,
-    "regularMarketVolume": 4211891,
-    "averageDailyVolume10Day": 4458060,
-    "averageDailyVolume3Month": 5957330,
-    "regularMarketPreviousClose": 258.72,
+    "regularMarketPrice": 256.7,
+    "regularMarketDayHigh": 260,
+    "regularMarketDayLow": 251.5,
+    "regularMarketVolume": 3007714,
+    "averageDailyVolume10Day": 4327570,
+    "averageDailyVolume3Month": 5944661,
+    "regularMarketPreviousClose": 255.97,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 255.22,
-    "fulldayChangePercent": -0.009337029,
-    "fulldayChange": -2.3899994,
-    "fulldayPrice": 255.88,
+    "regularMarketOpen": 254.97,
+    "fulldayChangePercent": -0.0005844348,
+    "fulldayChange": -0.15002441,
+    "fulldayPrice": 257.02,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -2038,18 +2038,17 @@
     "shortName": "Vertiv Holdings, LLC",
     "longName": "Vertiv Holdings Co",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 98545418240
+    "marketCap": 98826469376
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 98773024768,
-    "forwardPE": 28.13231,
+    "enterpriseValue": 99054067712,
+    "forwardPE": 28.212543,
     "profitMargins": 0.15088001,
     "floatShares": 383736961,
     "sharesOutstanding": 384988173,
@@ -2066,7 +2065,7 @@
     "impliedSharesOutstanding": 384988173,
     "category": null,
     "bookValue": 12.359,
-    "priceToBook": 20.711222,
+    "priceToBook": 20.77029,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2074,14 +2073,14 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.535,
     "netIncomeToCommon": 1732000000,
-    "trailingEps": 4.38,
+    "trailingEps": 4.44,
     "forwardEps": 9.09879,
-    "pegRatio": 1.21,
+    "pegRatio": 0.86,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 8.604,
-    "enterpriseToEbitda": 36.872,
-    "52WeekChange": 1.0862834,
-    "SandP52WeekChange": 0.19805038,
+    "enterpriseToRevenue": 8.629,
+    "enterpriseToEbitda": 36.977,
+    "52WeekChange": 1.03814,
+    "SandP52WeekChange": 0.17369676,
     "lastDividendValue": 0.063,
     "lastDividendDate": "2026-06-15T00:00:00.000Z",
     "latestShareClass": null,
@@ -2110,6 +2109,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 1,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CHAMBERLIN CRAIG",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-06-25T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 0,
@@ -2154,18 +2165,6 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "SHEN WEI",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-06-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CHAMBERLIN CRAIG",
-        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-06-25T00:00:00.000Z",
         "ownership": "D"
@@ -2232,6 +2231,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 1,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CHAMBERLIN CRAIG",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-03-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 0,
         "value": 0,
         "filerUrl": "",
@@ -2274,18 +2285,6 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "SHEN WEI",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CHAMBERLIN CRAIG",
-        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-03-26T00:00:00.000Z",
         "ownership": "D"
@@ -2436,24 +2435,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 30487,
-        "value": 791576,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 11.25 - 72.09 per share.",
-        "filerName": "KARLBORG ANDERS",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 38647,
         "value": 794582,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 20.56 per share.",
         "filerName": "VAN DOKKUM JOSEPH JACOBUS",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-02-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 30487,
+        "value": 791576,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 11.25 - 72.09 per share.",
+        "filerName": "KARLBORG ANDERS",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-26T00:00:00.000Z",
         "ownership": "D"
@@ -2568,6 +2567,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 2,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CHAMBERLIN CRAIG",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-12-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 0,
         "value": 0,
         "filerUrl": "",
@@ -2622,18 +2633,6 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "SHEN WEI",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-12-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CHAMBERLIN CRAIG",
-        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-12-18T00:00:00.000Z",
         "ownership": "D"
@@ -2868,18 +2867,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 23618,
-        "value": 3005122,
-        "filerUrl": "",
-        "transactionText": "Sale at price 125.63 - 127.34 per share.",
-        "filerName": "RYAN PAUL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 100000,
         "value": 12822110,
         "filerUrl": "",
@@ -2889,6 +2876,18 @@
         "moneyText": "",
         "startDate": "2025-08-26T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 23618,
+        "value": 3005122,
+        "filerUrl": "",
+        "transactionText": "Sale at price 125.63 - 127.34 per share.",
+        "filerName": "RYAN PAUL",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-26T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2960,6 +2959,18 @@
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-06-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 0,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "JOHNSON ERIC M.",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-26T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3041,18 +3052,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "KARLBORG ANDERS",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-06-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 0,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "JOHNSON ERIC M.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-06-26T00:00:00.000Z",
@@ -3216,6 +3215,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 0,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "JOHNSON ERIC M.",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-12-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 3,
         "value": 0,
         "filerUrl": "",
@@ -3288,18 +3299,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 0,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "JOHNSON ERIC M.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-12-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 100000,
         "value": 0,
         "filerUrl": "",
@@ -3360,18 +3359,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 284965,
-        "value": 40105002,
-        "filerUrl": "",
-        "transactionText": "Sale at price 140.51 - 141.27 per share.",
-        "filerName": "O'DOHERTY PHILIP PATRICK JOSEPH",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-11-25T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 38647,
         "value": 5271103,
         "filerUrl": "",
@@ -3381,6 +3368,18 @@
         "moneyText": "",
         "startDate": "2024-11-25T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 284965,
+        "value": 40105002,
+        "filerUrl": "",
+        "transactionText": "Sale at price 140.51 - 141.27 per share.",
+        "filerName": "O'DOHERTY PHILIP PATRICK JOSEPH",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-11-25T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -3549,49 +3548,13 @@
         "moneyText": "",
         "startDate": "2024-09-26T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 44924,
-        "value": 3593664,
-        "filerUrl": "",
-        "transactionText": "Sale at price 78.08 - 82.25 per share.",
-        "filerName": "WINTHER KARSTEN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-09-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10638,
-        "value": 799978,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 75.20 per share.",
-        "filerName": "PONCHERI FRANK",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-09-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 30204,
-        "value": 363958,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 12.05 per share.",
-        "filerName": "WINTHER KARSTEN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-09-03T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 255.97,
+    "currentPrice": 256.7,
     "targetHighPrice": 427,
     "targetLowPrice": 236,
     "targetMeanPrice": 338.15384,
@@ -3621,6 +3584,6 @@
     "profitMargins": 0.15088001,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-02T06:48:29.660Z",
+  "lastUpdated": "2026-09-03T06:50:39.463Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -4,7 +4,7 @@
       {
         "period": "0m",
         "strongBuy": 1,
-        "buy": 3,
+        "buy": 4,
         "hold": 7,
         "sell": 1,
         "strongSell": 1
@@ -19,11 +19,11 @@
       },
       {
         "period": "-2m",
-        "strongBuy": 0,
-        "buy": 2,
+        "strongBuy": 1,
+        "buy": 3,
         "hold": 7,
-        "sell": 0,
-        "strongSell": 2
+        "sell": 1,
+        "strongSell": 1
       },
       {
         "period": "-3m",
@@ -45,7 +45,7 @@
         "organization": "Rakuten Group, Inc.",
         "pctHeld": 0.0517,
         "position": 15510078,
-        "value": 865462340,
+        "value": 967828890,
         "pctChange": -0.5
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0509,
         "position": 15273481,
-        "value": 852260228,
+        "value": 953065237,
         "pctChange": 0.0521
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.044499997,
         "position": 13330558,
-        "value": 743845126,
+        "value": 831826839,
         "pctChange": 0.20709999
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0417,
         "position": 12515363,
-        "value": 698357245,
+        "value": 780958670,
         "pctChange": 0.08930001
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Alphabet Inc.",
         "pctHeld": 0.0298,
         "position": 8943486,
-        "value": 499046511,
+        "value": 558073540,
         "pctChange": 0
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.024400001,
         "position": 7317827,
-        "value": 408334741,
+        "value": 456632415,
         "pctChange": 1.2913
       },
       {
@@ -99,7 +99,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.022,
         "position": 6602096,
-        "value": 368396951,
+        "value": 411970800,
         "pctChange": 0.45310003
       },
       {
@@ -108,7 +108,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0218,
         "position": 6533847,
-        "value": 364588657,
+        "value": 407712062,
         "pctChange": 0.1698
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Marex Group Ltd.",
         "pctHeld": 0.0207,
         "position": 6220357,
-        "value": 347095915,
+        "value": 388150286,
         "pctChange": 1.3556
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Vodafone Ventures Ltd",
         "pctHeld": 0.0183,
         "position": 5471743,
-        "value": 305323255,
+        "value": 341436771,
         "pctChange": 0
       }
     ]
@@ -254,6 +254,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-02T15:27:30.000Z",
+        "firm": "Berenberg",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 92,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-08-11T20:54:44.000Z",
         "firm": "UBS",
@@ -810,27 +820,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0059140115,
-    "postMarketChange": 0.33000183,
-    "postMarketTime": "2026-09-01T23:59:54.000Z",
-    "postMarketPrice": 56.13,
+    "postMarketChangePercent": 0.0016025396,
+    "postMarketChange": 0.099998474,
+    "postMarketTime": "2026-09-02T23:59:29.000Z",
+    "postMarketPrice": 62.5,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.055837598,
-    "regularMarketChange": -3.3,
-    "regularMarketTime": "2026-09-01T20:00:01.000Z",
+    "regularMarketChangePercent": 0.11828,
+    "regularMarketChange": 6.6,
+    "regularMarketTime": "2026-09-02T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 55.8,
-    "regularMarketDayHigh": 58.4999,
-    "regularMarketDayLow": 55.7,
-    "regularMarketVolume": 8308720,
-    "averageDailyVolume10Day": 8924720,
-    "averageDailyVolume3Month": 16853511,
-    "regularMarketPreviousClose": 59.1,
+    "regularMarketPrice": 62.4,
+    "regularMarketDayHigh": 63.23,
+    "regularMarketDayLow": 58,
+    "regularMarketVolume": 19740307,
+    "averageDailyVolume10Day": 8851890,
+    "averageDailyVolume3Month": 16650173,
+    "regularMarketPreviousClose": 55.8,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 57.36,
-    "fulldayChangePercent": -0.0008960437,
-    "fulldayChange": -0.049999237,
-    "fulldayPrice": 56.13,
+    "regularMarketOpen": 58.325,
+    "fulldayChangePercent": 0.00016022951,
+    "fulldayChange": 0.0099983215,
+    "fulldayPrice": 62.5,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -846,13 +856,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 21715546112
+    "marketCap": 24284051456
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 17937283072,
-    "forwardPE": -46.03049,
+    "enterpriseValue": 19915890688,
+    "forwardPE": -48.40286,
     "profitMargins": 0,
     "floatShares": 266449736,
     "sharesOutstanding": 299789305,
@@ -869,20 +879,20 @@
     "impliedSharesOutstanding": 389167494,
     "category": null,
     "bookValue": 6.319,
-    "priceToBook": 8.830511,
+    "priceToBook": 9.874981,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -618761024,
-    "trailingEps": -2.03,
-    "forwardEps": -1.21224,
+    "trailingEps": -2.4,
+    "forwardEps": -1.28918,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 155.572,
-    "enterpriseToEbitda": -44.146,
-    "52WeekChange": 0.21205902,
-    "SandP52WeekChange": 0.19805038,
+    "enterpriseToRevenue": 172.733,
+    "enterpriseToEbitda": -49.015,
+    "52WeekChange": 0.2339673,
+    "SandP52WeekChange": 0.17369676,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1668,18 +1678,6 @@
       {
         "maxAge": 1,
         "shares": 25000,
-        "value": 603750,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 24.15 per share.",
-        "filerName": "YAO HUIWEN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-06-02T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 25000,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
@@ -1688,6 +1686,18 @@
         "moneyText": "",
         "startDate": "2025-06-02T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 25000,
+        "value": 603750,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 24.15 per share.",
+        "filerName": "YAO HUIWEN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-06-02T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1836,18 +1846,6 @@
       {
         "maxAge": 1,
         "shares": 100000,
-        "value": 2322000,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 23.22 per share.",
-        "filerName": "YAO HUIWEN",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2024-10-03T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 100000,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
@@ -1856,6 +1854,18 @@
         "moneyText": "",
         "startDate": "2024-10-03T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 100000,
+        "value": 2322000,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 23.22 per share.",
+        "filerName": "YAO HUIWEN",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2024-10-03T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2030,13 +2040,13 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 55.8,
+    "currentPrice": 62.4,
     "targetHighPrice": 108,
     "targetLowPrice": 42.5,
-    "targetMeanPrice": 78.48182,
-    "targetMedianPrice": 80,
+    "targetMeanPrice": 79.60833,
+    "targetMedianPrice": 82.5,
     "recommendationKey": "none",
-    "numberOfAnalystOpinions": 11,
+    "numberOfAnalystOpinions": 12,
     "totalCash": 2288252928,
     "totalCashPerShare": 7.633,
     "ebitda": -406319008,
@@ -2058,6 +2068,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-02T06:46:56.292Z",
+  "lastUpdated": "2026-09-03T06:49:08.886Z",
   "source": "Static Build (yahoo-finance2)"
 }
