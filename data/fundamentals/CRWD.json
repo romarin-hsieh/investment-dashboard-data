@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.021300001,
         "position": 21846397,
-        "value": 4443994037,
+        "value": 4696319989,
         "pctChange": 0.0221
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.015800001,
         "position": 16205746,
-        "value": 3296572821,
+        "value": 3483749237,
         "pctChange": 0.0150999995
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0113,
         "position": 11583850,
-        "value": 2356386745,
+        "value": 2490180248,
         "pctChange": 0.0401
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0082,
         "position": 8392874,
-        "value": 1707278413,
+        "value": 1804216134,
         "pctChange": 0.096
       },
       {
@@ -81,7 +81,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.008,
         "position": 8174463,
-        "value": 1662849248,
+        "value": 1757264321,
         "pctChange": 1.278
       },
       {
@@ -90,7 +90,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0077,
         "position": 7847117,
-        "value": 1596260525,
+        "value": 1686894751,
         "pctChange": 1.281
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0063,
         "position": 6494547,
-        "value": 1321120738,
+        "value": 1396132776,
         "pctChange": -0.0097
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0058999998,
         "position": 6083339,
-        "value": 1237472808,
+        "value": 1307735392,
         "pctChange": 0.0143
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0058,
         "position": 5956872,
-        "value": 1211746891,
+        "value": 1280548781,
         "pctChange": -0.0127
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0042,
         "position": 4308771,
-        "value": 876490188,
+        "value": 926256507,
         "pctChange": 0.0377
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01454,
-    "institutionsPercentHeld": 0.76548,
-    "institutionsFloatPercentHeld": 0.77677,
-    "institutionsCount": 3161
+    "institutionsPercentHeld": 0.76468,
+    "institutionsFloatPercentHeld": 0.77596,
+    "institutionsCount": 3160
   },
   "earnings": {
     "maxAge": 86400,
@@ -254,6 +254,66 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-03T18:21:59.000Z",
+        "firm": "Raymond James",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 250,
+        "priorPriceTarget": 240
+      },
+      {
+        "epochGradeDate": "2026-09-03T15:33:20.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 250,
+        "priorPriceTarget": 250
+      },
+      {
+        "epochGradeDate": "2026-09-03T13:58:43.000Z",
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 260,
+        "priorPriceTarget": 260
+      },
+      {
+        "epochGradeDate": "2026-09-03T11:49:45.000Z",
+        "firm": "Baird",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 235,
+        "priorPriceTarget": 230
+      },
+      {
+        "epochGradeDate": "2026-09-03T11:24:47.000Z",
+        "firm": "Needham",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 250,
+        "priorPriceTarget": 250
+      },
+      {
+        "epochGradeDate": "2026-09-03T09:24:56.000Z",
+        "firm": "BTIG",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 245,
+        "priorPriceTarget": 245
+      },
       {
         "epochGradeDate": "2026-09-02T13:22:05.000Z",
         "firm": "DA Davidson",
@@ -8580,27 +8640,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.009733535,
-    "postMarketChange": 1.9799957,
-    "postMarketTime": "2026-09-02T23:59:57.000Z",
-    "postMarketPrice": 205.4,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0541685,
-    "regularMarketChange": -11.65,
-    "regularMarketTime": "2026-09-02T20:00:01.000Z",
+    "postMarketChangePercent": -0.0022328498,
+    "postMarketChange": -0.47999573,
+    "postMarketTime": "2026-09-03T23:59:42.000Z",
+    "postMarketPrice": 214.49,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.056779098,
+    "regularMarketChange": 11.55,
+    "regularMarketTime": "2026-09-03T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 203.42,
-    "regularMarketDayHigh": 214.85,
-    "regularMarketDayLow": 200.6,
-    "regularMarketVolume": 12268302,
-    "averageDailyVolume10Day": 12680250,
-    "averageDailyVolume3Month": 10551424,
-    "regularMarketPreviousClose": 215.07,
+    "regularMarketPrice": 214.97,
+    "regularMarketDayHigh": 215.1,
+    "regularMarketDayLow": 203.78,
+    "regularMarketVolume": 12057530,
+    "averageDailyVolume10Day": 12843710,
+    "averageDailyVolume3Month": 10270566,
+    "regularMarketPreviousClose": 203.42,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 214.345,
-    "fulldayChangePercent": 0.0043260492,
-    "fulldayChange": 0.8800049,
-    "fulldayPrice": 205.4,
+    "regularMarketOpen": 208.844,
+    "fulldayChangePercent": 0.056779098,
+    "fulldayChange": 11.55,
+    "fulldayPrice": 214.49,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -8611,18 +8671,18 @@
     "shortName": "CrowdStrike Holdings, Inc.",
     "longName": "CrowdStrike Holdings, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 208288825344
+    "marketCap": 220115271680
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 204132958208,
-    "forwardPE": 127.30618,
+    "enterpriseValue": 215959404544,
+    "forwardPE": 134.53452,
     "profitMargins": 0.00834,
     "floatShares": 1006220769,
     "sharesOutstanding": 1023934842,
@@ -8630,16 +8690,16 @@
     "sharesShortPriorMonth": "1970-11-14T17:03:48.000Z",
     "sharesShortPreviousMonthDate": "2026-07-15T00:00:00.000Z",
     "dateShortInterest": "2026-08-14T00:00:00.000Z",
-    "sharesPercentSharesOut": 0.023699999,
+    "sharesPercentSharesOut": 0.023599999,
     "heldPercentInsiders": 0.01454,
-    "heldPercentInstitutions": 0.76548,
+    "heldPercentInstitutions": 0.76468,
     "shortRatio": 3.02,
-    "shortPercentOfFloat": 0.0241,
+    "shortPercentOfFloat": 0.024,
     "beta": 1.234,
     "impliedSharesOutstanding": 1023934842,
     "category": null,
     "bookValue": 4.983,
-    "priceToBook": 40.8228,
+    "priceToBook": 43.14068,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-01-31T00:00:00.000Z",
@@ -8647,14 +8707,14 @@
     "mostRecentQuarter": "2026-07-31T00:00:00.000Z",
     "netIncomeToCommon": 44995000,
     "trailingEps": 0.04,
-    "forwardEps": 1.60048,
+    "forwardEps": 1.60105,
     "pegRatio": 6.88,
     "lastSplitFactor": "4:1",
     "lastSplitDate": 1782950400,
-    "enterpriseToRevenue": 37.829,
-    "enterpriseToEbitda": 1910.266,
-    "52WeekChange": 1.0857296,
-    "SandP52WeekChange": 0.17369676,
+    "enterpriseToRevenue": 40.021,
+    "enterpriseToEbitda": 2020.938,
+    "52WeekChange": 0.9483274,
+    "SandP52WeekChange": 0.17909956,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -8673,7 +8733,7 @@
     "sector": "Technology",
     "sectorKey": "technology",
     "sectorDisp": "Technology",
-    "longBusinessSummary": "CrowdStrike Holdings, Inc. provides cybersecurity solutions in the United States and internationally. Its unified platform provides cloud-delivered protection of endpoints, cloud workloads, identity, and data through a software as a service (SaaS) subscription-based model. The company offers corporate endpoint and cloud workload security, managed security, security and vulnerability management, IT operations management, identity protection, threat intelligence, data protection, SaaS security posture management, and AI powered workflow automation, and securing generative AI workload services, as well as security orchestration, automation, and response; and security information and event management, and log management services. It primarily sells subscriptions to its Falcon platform and cloud modules. The company has a strategic alliance with Cognizant Technology Solutions Corporation to help enterprises secure artificial intelligence across its lifecycle, from the AI agents and models to the foundational infrastructure that supports the entire AI ecosystem and with Snowflake to bring AI-native security and enterprise data at scale. The company was incorporated in 2011 and is headquartered in Austin, Texas.",
+    "longBusinessSummary": "CrowdStrike Holdings, Inc. provides cybersecurity solutions in the United States and internationally. Its unified platform provides cloud-delivered protection of endpoints, cloud workloads, identity, and data through a software as a service (SaaS) subscription-based model. The company offers corporate endpoint and cloud workload security, managed security, security and vulnerability management, IT operations management, identity protection, threat intelligence, data protection, SaaS security posture management, and AI powered workflow automation, and securing generative AI workload services, as well as security orchestration, automation, and response; and security information and event management, and log management services. It primarily sells subscriptions to its Falcon platform and cloud modules. The company has a strategic alliance with Cognizant Technology Solutions Corporation to help enterprises secure artificial intelligence across its lifecycle, from the AI agents and models to the foundational infrastructure that supports the entire AI ecosystem and with Snowflake to bring AI-native security and enterprise data at scale. Additionally, it has a partnership with Fortanix Inc. to combine its Falcon platform with Fortanix Confidential AI to provide an integrated solution for end-to-end AI security. The company was incorporated in 2011 and is headquartered in Austin, Texas.",
     "fullTimeEmployees": 11706,
     "companyOfficers": [],
     "executiveTeam": [],
@@ -8681,6 +8741,30 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "value": 4456066,
+        "filerUrl": "",
+        "transactionText": "Sale at price 213.39 - 233.53 per share.",
+        "filerName": "KURTZ GEORGE ROBERT",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-09-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "value": 4337534,
+        "filerUrl": "",
+        "transactionText": "Sale at price 213.37 - 229.79 per share.",
+        "filerName": "GANDHI SAMEER K.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-09-01T00:00:00.000Z",
+        "ownership": "I"
+      },
       {
         "maxAge": 1,
         "shares": 19800,
@@ -9199,11 +9283,23 @@
       },
       {
         "maxAge": 1,
-        "shares": 423,
+        "shares": 445,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "GANDHI SAMEER K.",
+        "filerName": "WATZINGER GERHARD",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 422,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "O'LEARY DENIS J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-18T00:00:00.000Z",
@@ -9235,23 +9331,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 445,
+        "shares": 423,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "WATZINGER GERHARD",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 422,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "O'LEARY DENIS J",
+        "filerName": "GANDHI SAMEER K.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-18T00:00:00.000Z",
@@ -9607,10 +9691,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 4840,
-        "value": 2978615,
+        "shares": 160,
+        "value": 101018,
         "filerUrl": "",
-        "transactionText": "Sale at price 591.55 - 628.97 per share.",
+        "transactionText": "Sale at price 630.65 - 632.95 per share.",
         "filerName": "KURTZ GEORGE ROBERT",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -9619,10 +9703,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 160,
-        "value": 101018,
+        "shares": 4840,
+        "value": 2978615,
         "filerUrl": "",
-        "transactionText": "Sale at price 630.65 - 632.95 per share.",
+        "transactionText": "Sale at price 591.55 - 628.97 per share.",
         "filerName": "KURTZ GEORGE ROBERT",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -9727,6 +9811,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 17527,
+        "value": 9230016,
+        "filerUrl": "",
+        "transactionText": "Sale at price 525.44 - 528.17 per share.",
+        "filerName": "GANDHI SAMEER K.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-08T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 3098,
         "value": 1546245,
         "filerUrl": "",
@@ -9748,18 +9844,6 @@
         "moneyText": "",
         "startDate": "2026-05-08T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 17527,
-        "value": 9230016,
-        "filerUrl": "",
-        "transactionText": "Sale at price 525.44 - 528.17 per share.",
-        "filerName": "GANDHI SAMEER K.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-08T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -10026,11 +10110,23 @@
       },
       {
         "maxAge": 1,
-        "shares": 36,
+        "shares": 72,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "GANDHI SAMEER K.",
+        "filerName": "WATZINGER GERHARD",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-03-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 34,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "O'LEARY DENIS J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-20T00:00:00.000Z",
@@ -10062,23 +10158,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 72,
+        "shares": 36,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "WATZINGER GERHARD",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 34,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "O'LEARY DENIS J",
+        "filerName": "GANDHI SAMEER K.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-20T00:00:00.000Z",
@@ -10266,11 +10350,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 31,
+        "shares": 29,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "GANDHI SAMEER K.",
+        "filerName": "O'LEARY DENIS J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-19T00:00:00.000Z",
@@ -10314,11 +10398,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 29,
+        "shares": 31,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "O'LEARY DENIS J",
+        "filerName": "GANDHI SAMEER K.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-19T00:00:00.000Z",
@@ -10455,37 +10539,13 @@
         "moneyText": "",
         "startDate": "2025-11-03T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 6975,
-        "value": 3835496,
-        "filerUrl": "",
-        "transactionText": "Sale at price 545.95 - 555.70 per share.",
-        "filerName": "KURTZ GEORGE ROBERT",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-11-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5000,
-        "value": 2643869,
-        "filerUrl": "",
-        "transactionText": "Sale at price 525.38 - 534.80 per share.",
-        "filerName": "GANDHI SAMEER K.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-10-24T00:00:00.000Z",
-        "ownership": "I"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 203.42,
+    "currentPrice": 214.97,
     "targetHighPrice": 300,
     "targetLowPrice": 119,
     "targetMeanPrice": 230.32,
@@ -10514,6 +10574,6 @@
     "profitMargins": 0.00834,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-03T06:50:51.218Z",
+  "lastUpdated": "2026-09-04T07:02:33.919Z",
   "source": "Static Build (yahoo-finance2)"
 }

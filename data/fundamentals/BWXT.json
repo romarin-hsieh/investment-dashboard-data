@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.13229999,
         "position": 12123786,
-        "value": 1887309744,
+        "value": 1942836706,
         "pctChange": -0.0291
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0519,
         "position": 4755063,
-        "value": 740220648,
+        "value": 761998845,
         "pctChange": -0.0278
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0452,
         "position": 4140330,
-        "value": 644525163,
+        "value": 663487882,
         "pctChange": 0.0113
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.041500002,
         "position": 3799375,
-        "value": 591448699,
+        "value": 608849843,
         "pctChange": 0.0135
       },
       {
@@ -81,7 +81,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.029000001,
         "position": 2654239,
-        "value": 413185380,
+        "value": 425341799,
         "pctChange": 0.031600002
       },
       {
@@ -90,7 +90,7 @@
         "organization": "First Trust Advisors LP",
         "pctHeld": 0.0227,
         "position": 2075550,
-        "value": 323100864,
+        "value": 332606887,
         "pctChange": 0.492
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Alkeon Capital Management LLC",
         "pctHeld": 0.0221,
         "position": 2022748,
-        "value": 314881177,
+        "value": 324145367,
         "pctChange": 0.16290002
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Franklin Resources, Inc.",
         "pctHeld": 0.0211,
         "position": 1930298,
-        "value": 300489486,
+        "value": 309330254,
         "pctChange": 0.0152
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.020299999,
         "position": 1860802,
-        "value": 289671043,
+        "value": 298193520,
         "pctChange": 0.0375
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.02,
         "position": 1835328,
-        "value": 285705506,
+        "value": 294111312,
         "pctChange": -0.2724
       }
     ]
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-03T20:26:04.000Z",
+        "firm": "Jefferies",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 181,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-08-27T13:15:57.000Z",
         "firm": "Wells Fargo",
@@ -1177,27 +1187,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0010278388,
-    "postMarketChange": -0.16000366,
-    "postMarketTime": "2026-09-02T23:59:49.000Z",
-    "postMarketPrice": 155.51,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0363377,
-    "regularMarketChange": -5.87,
-    "regularMarketTime": "2026-09-02T20:00:03.000Z",
+    "postMarketChangePercent": 0.0074882805,
+    "postMarketChange": 1.199997,
+    "postMarketTime": "2026-09-03T23:58:44.000Z",
+    "postMarketPrice": 161.45,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.029421201,
+    "regularMarketChange": 4.58,
+    "regularMarketTime": "2026-09-03T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 155.67,
-    "regularMarketDayHigh": 160.99,
-    "regularMarketDayLow": 154.01,
-    "regularMarketVolume": 917489,
-    "averageDailyVolume10Day": 1296920,
-    "averageDailyVolume3Month": 1005341,
-    "regularMarketPreviousClose": 161.54,
+    "regularMarketPrice": 160.25,
+    "regularMarketDayHigh": 161.795,
+    "regularMarketDayLow": 157.155,
+    "regularMarketVolume": 1227372,
+    "averageDailyVolume10Day": 1283400,
+    "averageDailyVolume3Month": 1006632,
+    "regularMarketPreviousClose": 155.67,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 160.99,
-    "fulldayChangePercent": 0.005010592,
-    "fulldayChange": 0.7799988,
-    "fulldayPrice": 155.51,
+    "regularMarketOpen": 158.5,
+    "fulldayChangePercent": 0.029421201,
+    "fulldayChange": 4.58,
+    "fulldayPrice": 161.45,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -1208,18 +1218,18 @@
     "shortName": "BWX Technologies, Inc.",
     "longName": "BWX Technologies, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 14262794240
+    "marketCap": 14682423296
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 15674186752,
-    "forwardPE": 29.62846,
+    "enterpriseValue": 16093814784,
+    "forwardPE": 30.500166,
     "profitMargins": 0.10108,
     "floatShares": 91236251,
     "sharesOutstanding": 91621980,
@@ -1236,7 +1246,7 @@
     "impliedSharesOutstanding": 91621980,
     "category": null,
     "bookValue": 14.565,
-    "priceToBook": 10.687951,
+    "priceToBook": 11.002403,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1244,15 +1254,15 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.136,
     "netIncomeToCommon": 355179008,
-    "trailingEps": 3.72,
-    "forwardEps": 5.25407,
+    "trailingEps": 3.97,
+    "forwardEps": 5.26632,
     "pegRatio": 1.67,
     "lastSplitFactor": "1398:1000",
     "lastSplitDate": 1435708800,
-    "enterpriseToRevenue": 4.461,
-    "enterpriseToEbitda": 32.895,
-    "52WeekChange": -0.0137370825,
-    "SandP52WeekChange": 0.17369676,
+    "enterpriseToRevenue": 4.58,
+    "enterpriseToEbitda": 33.776,
+    "52WeekChange": -0.048704445,
+    "SandP52WeekChange": 0.17909956,
     "lastDividendValue": 0.27,
     "lastDividendDate": "2026-08-18T00:00:00.000Z",
     "latestShareClass": null,
@@ -1412,17 +1422,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 3241,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FITZGERALD MICHAEL THOMAS",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2149,
         "filerUrl": "",
         "transactionText": "",
@@ -1467,6 +1466,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 3241,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FITZGERALD MICHAEL THOMAS",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1742,
         "value": 0,
         "filerUrl": "",
@@ -1475,17 +1485,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 234,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FITZGERALD MICHAEL THOMAS",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-26T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1539,6 +1538,17 @@
         "transactionText": "",
         "filerName": "GEVEDEN REX D",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-02-26T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 234,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FITZGERALD MICHAEL THOMAS",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-26T00:00:00.000Z",
         "ownership": "D"
@@ -1639,18 +1649,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2261,
-        "value": 406618,
-        "filerUrl": "",
-        "transactionText": "Sale at price 179.84 per share.",
-        "filerName": "MEGUID OMAR FATHI",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 25000,
         "value": 4475098,
         "filerUrl": "",
@@ -1663,10 +1661,22 @@
       },
       {
         "maxAge": 1,
+        "shares": 2261,
+        "value": 406618,
+        "filerUrl": "",
+        "transactionText": "Sale at price 179.84 per share.",
+        "filerName": "MEGUID OMAR FATHI",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-06T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1465,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "RICHARDSON JOHN M",
+        "filerName": "KRIEG KENNETH J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-02T00:00:00.000Z",
@@ -1677,7 +1687,7 @@
         "shares": 1465,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "KRIEG KENNETH J",
+        "filerName": "RICHARDSON JOHN M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-02T00:00:00.000Z",
@@ -1704,6 +1714,28 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-03-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 430,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WHITFORD RONALD OWEN JR.",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-02-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3432,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GEVEDEN REX D",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-02-28T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1741,17 +1773,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 430,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "WHITFORD RONALD OWEN JR.",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 25,
         "filerUrl": "",
         "transactionText": "",
@@ -1774,23 +1795,34 @@
       },
       {
         "maxAge": 1,
-        "shares": 3432,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GEVEDEN REX D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2000,
         "value": 209850,
         "filerUrl": "",
         "transactionText": "Sale at price 104.92 per share.",
         "filerName": "WHITFORD RONALD OWEN JR.",
         "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-02-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 540,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WHITFORD RONALD OWEN JR.",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-02-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4538,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GEVEDEN REX D",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-02-27T00:00:00.000Z",
         "ownership": "D"
@@ -1830,17 +1862,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 540,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "WHITFORD RONALD OWEN JR.",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-02-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 91,
         "filerUrl": "",
         "transactionText": "",
@@ -1863,17 +1884,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 4538,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GEVEDEN REX D",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-02-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 45625,
         "value": 4900233,
         "filerUrl": "",
@@ -1886,33 +1896,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 7229,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MCCOY KEVIN M",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 3615,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "WHITFORD RONALD OWEN JR.",
         "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2025-02-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 14457,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LEMASTERS ROBB A.",
-        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-02-21T00:00:00.000Z",
         "ownership": "D"
@@ -1930,13 +1918,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 1064,
+        "shares": 7229,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "MCCOY KEVIN M",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-02-18T00:00:00.000Z",
+        "startDate": "2025-02-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 14457,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LEMASTERS ROBB A.",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-02-21T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1952,22 +1951,33 @@
       },
       {
         "maxAge": 1,
-        "shares": 2129,
+        "shares": 9772,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LEMASTERS ROBB A.",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "GEVEDEN REX D",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-02-18T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 9772,
+        "shares": 1064,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GEVEDEN REX D",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "MCCOY KEVIN M",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2129,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LEMASTERS ROBB A.",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-02-18T00:00:00.000Z",
         "ownership": "D"
@@ -2021,7 +2031,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 155.67,
+    "currentPrice": 160.25,
     "targetHighPrice": 290,
     "targetLowPrice": 170,
     "targetMeanPrice": 232.305,
@@ -2051,6 +2061,6 @@
     "profitMargins": 0.10108,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-03T06:51:03.613Z",
+  "lastUpdated": "2026-09-04T07:02:46.460Z",
   "source": "Static Build (yahoo-finance2)"
 }

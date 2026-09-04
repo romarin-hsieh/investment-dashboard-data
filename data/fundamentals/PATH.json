@@ -24,6 +24,14 @@
         "hold": 16,
         "sell": 0,
         "strongSell": 1
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 1,
+        "buy": 2,
+        "hold": 16,
+        "sell": 0,
+        "strongSell": 1
       }
     ],
     "maxAge": 86400
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1018,
         "position": 46153124,
-        "value": 830294690,
+        "value": 840909887,
         "pctChange": 0.0719
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Tetragon Partners GP Ltd.",
         "pctHeld": 0.0683,
         "position": 30950000,
-        "value": 556790492,
+        "value": 563908978,
         "pctChange": 0.22780001
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.058000002,
         "position": 26320700,
-        "value": 473509386,
+        "value": 479563135,
         "pctChange": -0.0063
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.041300002,
         "position": 18710688,
-        "value": 336605272,
+        "value": 340908722,
         "pctChange": 0.0062
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Two Sigma Investments, LP",
         "pctHeld": 0.0332,
         "position": 15034443,
-        "value": 270469626,
+        "value": 273927541,
         "pctChange": 3.2239
       },
       {
@@ -82,7 +90,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0305,
         "position": 13832188,
-        "value": 248841058,
+        "value": 252022455,
         "pctChange": 0.0364
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Senvest Management LLC",
         "pctHeld": 0.026700001,
         "position": 12085222,
-        "value": 217413141,
+        "value": 220192736,
         "pctChange": 0.5524
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0249,
         "position": 11292532,
-        "value": 203152648,
+        "value": 205749925,
         "pctChange": 0.124
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.018,
         "position": 8154846,
-        "value": 146705677,
+        "value": 148581288,
         "pctChange": 0.012999999
       },
       {
@@ -118,7 +126,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.0179,
         "position": 8132417,
-        "value": 146302179,
+        "value": 148172632,
         "pctChange": -0.1351
       }
     ]
@@ -128,7 +136,7 @@
     "insidersPercentHeld": 0.09237,
     "institutionsPercentHeld": 0.91133004,
     "institutionsFloatPercentHeld": 1.0040699,
-    "institutionsCount": 694
+    "institutionsCount": 695
   },
   "earnings": {
     "maxAge": 86400,
@@ -185,9 +193,7 @@
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2027",
       "currentPeriodEndDate": 1785456000,
-      "earningsDate": [
-        "2026-09-03T20:00:00.000Z"
-      ],
+      "earningsDate": [],
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
@@ -219,13 +225,6 @@
       ],
       "quarterly": [
         {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2026",
-          "revenue": 361728000,
-          "earnings": 1584000,
-          "profitMargin": 0.004378981
-        },
-        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2026",
           "revenue": 411113000,
@@ -253,6 +252,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-03T10:08:52.000Z",
+        "firm": "Needham",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 22,
+        "priorPriceTarget": 15
+      },
       {
         "epochGradeDate": "2026-08-31T12:44:07.000Z",
         "firm": "UBS",
@@ -2819,27 +2828,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.005558665,
-    "postMarketChange": 0.10000038,
-    "postMarketTime": "2026-09-03T00:00:00.000Z",
-    "postMarketPrice": 18.09,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.008269,
-    "regularMarketChange": -0.15,
-    "regularMarketTime": "2026-09-02T20:00:02.000Z",
+    "postMarketChangePercent": -0.07739293,
+    "postMarketChange": -1.410099,
+    "postMarketTime": "2026-09-03T23:59:56.000Z",
+    "postMarketPrice": 16.8099,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.012784899,
+    "regularMarketChange": 0.23,
+    "regularMarketTime": "2026-09-03T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 17.99,
-    "regularMarketDayHigh": 18.43,
-    "regularMarketDayLow": 17.715,
-    "regularMarketVolume": 60485113,
-    "averageDailyVolume10Day": 62727610,
-    "averageDailyVolume3Month": 67325592,
-    "regularMarketPreviousClose": 18.14,
+    "regularMarketPrice": 18.22,
+    "regularMarketDayHigh": 18.83,
+    "regularMarketDayLow": 17.9,
+    "regularMarketVolume": 60306189,
+    "averageDailyVolume10Day": 61499660,
+    "averageDailyVolume3Month": 68143130,
+    "regularMarketPreviousClose": 17.99,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 18.19,
-    "fulldayChangePercent": 0.0016676313,
-    "fulldayChange": 0.030000687,
-    "fulldayPrice": 18.09,
+    "regularMarketOpen": 18.4,
+    "fulldayChangePercent": 0.012784899,
+    "fulldayChange": 0.23,
+    "fulldayPrice": 16.8099,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -2850,17 +2859,18 @@
     "shortName": "UiPath, Inc.",
     "longName": "UiPath, Inc.",
     "currency": "USD",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 9320983552
+    "marketCap": 9440150528
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 8174460416,
-    "forwardPE": 19.816484,
+    "enterpriseValue": 8215910400,
+    "forwardPE": 20.069836,
     "profitMargins": 0.19578,
     "floatShares": 390191191,
     "sharesOutstanding": 453429560,
@@ -2877,21 +2887,21 @@
     "impliedSharesOutstanding": 518120266,
     "category": null,
     "bookValue": 3.656,
-    "priceToBook": 4.9206786,
+    "priceToBook": 4.9835887,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-01-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2027-01-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
     "netIncomeToCommon": 327409984,
-    "trailingEps": 0.6,
-    "forwardEps": 0.90783,
+    "trailingEps": 0.61,
+    "forwardEps": 0.90672,
     "pegRatio": 0.65,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 4.888,
-    "enterpriseToEbitda": 66.123,
-    "52WeekChange": 0.66727936,
-    "SandP52WeekChange": 0.17369676,
+    "enterpriseToRevenue": 4.913,
+    "enterpriseToEbitda": 66.458,
+    "52WeekChange": 0.56570935,
+    "SandP52WeekChange": 0.17909956,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3543,18 +3553,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 5000,
-        "value": 77336,
-        "filerUrl": "",
-        "transactionText": "Sale at price 15.47 per share.",
-        "filerName": "RAMANI HITESH",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-10-22T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 45000,
         "value": 698904,
         "filerUrl": "",
@@ -3579,14 +3577,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 10000,
-        "value": 156800,
+        "shares": 5000,
+        "value": 77336,
         "filerUrl": "",
-        "transactionText": "Sale at price 15.68 per share.",
+        "transactionText": "Sale at price 15.47 per share.",
         "filerName": "RAMANI HITESH",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-10-21T00:00:00.000Z",
+        "startDate": "2025-10-22T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3604,13 +3602,13 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 156500,
+        "value": 156800,
         "filerUrl": "",
-        "transactionText": "Sale at price 15.65 per share.",
+        "transactionText": "Sale at price 15.68 per share.",
         "filerName": "RAMANI HITESH",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-10-20T00:00:00.000Z",
+        "startDate": "2025-10-21T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3628,13 +3626,13 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 157345,
+        "value": 156500,
         "filerUrl": "",
-        "transactionText": "Sale at price 15.73 per share.",
+        "transactionText": "Sale at price 15.65 per share.",
         "filerName": "RAMANI HITESH",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-10-17T00:00:00.000Z",
+        "startDate": "2025-10-20T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3652,13 +3650,13 @@
       {
         "maxAge": 1,
         "shares": 10000,
-        "value": 163521,
+        "value": 157345,
         "filerUrl": "",
-        "transactionText": "Sale at price 16.22 - 16.99 per share.",
+        "transactionText": "Sale at price 15.73 per share.",
         "filerName": "RAMANI HITESH",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-10-16T00:00:00.000Z",
+        "startDate": "2025-10-17T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3675,14 +3673,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
-        "value": 332152,
+        "shares": 10000,
+        "value": 163521,
         "filerUrl": "",
-        "transactionText": "Sale at price 16.54 - 16.68 per share.",
+        "transactionText": "Sale at price 16.22 - 16.99 per share.",
         "filerName": "RAMANI HITESH",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2025-10-15T00:00:00.000Z",
+        "startDate": "2025-10-16T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3696,6 +3694,18 @@
         "moneyText": "",
         "startDate": "2025-10-15T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "value": 332152,
+        "filerUrl": "",
+        "transactionText": "Sale at price 16.54 - 16.68 per share.",
+        "filerName": "RAMANI HITESH",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-10-15T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -3747,18 +3757,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 240874,
-        "value": 4162059,
-        "filerUrl": "",
-        "transactionText": "Sale at price 17.01 - 18.53 per share.",
-        "filerName": "GUPTA ASHIM A",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2025-10-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 122734,
         "value": 2034230,
         "filerUrl": "",
@@ -3768,6 +3766,18 @@
         "moneyText": "",
         "startDate": "2025-10-09T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 240874,
+        "value": 4162059,
+        "filerUrl": "",
+        "transactionText": "Sale at price 17.01 - 18.53 per share.",
+        "filerName": "GUPTA ASHIM A",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2025-10-09T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -4721,10 +4731,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 17.99,
-    "targetHighPrice": 19,
+    "currentPrice": 18.22,
+    "targetHighPrice": 22,
     "targetLowPrice": 10.98,
-    "targetMeanPrice": 13.87375,
+    "targetMeanPrice": 14.31125,
     "targetMedianPrice": 13,
     "recommendationMean": 2.8,
     "recommendationKey": "hold",
@@ -4750,6 +4760,6 @@
     "profitMargins": 0.19578,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-03T06:50:14.413Z",
+  "lastUpdated": "2026-09-04T07:01:56.388Z",
   "source": "Static Build (yahoo-finance2)"
 }
