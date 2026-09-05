@@ -5,9 +5,9 @@
         "period": "0m",
         "strongBuy": 9,
         "buy": 35,
-        "hold": 5,
+        "hold": 6,
         "sell": 1,
-        "strongSell": 1
+        "strongSell": 0
       },
       {
         "period": "-1m",
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.09060001,
         "position": 31405420,
-        "value": 11195090105,
+        "value": 10589279285,
         "pctChange": 0.123100005
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0435,
         "position": 15066218,
-        "value": 5370654748,
+        "value": 5080027274,
         "pctChange": 0.0195
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0372,
         "position": 12878536,
-        "value": 4590811743,
+        "value": 4342384674,
         "pctChange": 0.0028
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.026600001,
         "position": 9218816,
-        "value": 3286231350,
+        "value": 3108400311,
         "pctChange": -0.1759
       },
       {
@@ -81,7 +81,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.023,
         "position": 7957874,
-        "value": 2836743354,
+        "value": 2683235897,
         "pctChange": 0.0385
       },
       {
@@ -90,7 +90,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0221,
         "position": 7653175,
-        "value": 2728127301,
+        "value": 2580497490,
         "pctChange": -0.2879
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0185,
         "position": 6416309,
-        "value": 2287221677,
+        "value": 2163451021,
         "pctChange": 0.33580002
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Jennison Associates LLC",
         "pctHeld": 0.0183,
         "position": 6340455,
-        "value": 2260182001,
+        "value": 2137874570,
         "pctChange": -0.115
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0153,
         "position": 5319366,
-        "value": 1896194404,
+        "value": 1793583788,
         "pctChange": 2.6425
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Wellington Management Group, LLP",
         "pctHeld": 0.0149,
         "position": 5150663,
-        "value": 1836056845,
+        "value": 1736700512,
         "pctChange": -0.0368
       }
     ]
@@ -134,8 +134,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.02962,
-    "institutionsPercentHeld": 0.82354,
-    "institutionsFloatPercentHeld": 0.84867996,
+    "institutionsPercentHeld": 0.82307,
+    "institutionsFloatPercentHeld": 0.84819,
     "institutionsCount": 1975
   },
   "earnings": {
@@ -154,6 +154,17 @@
           "reportedDate": 1764795900
         },
         {
+          "date": "2Q2025",
+          "actual": -0.89,
+          "estimate": -0.97248,
+          "fiscalQuarter": "2Q2026",
+          "calendarQuarter": "2Q2025",
+          "difference": "0.08",
+          "surprisePct": "8.48",
+          "periodEndDate": 1753920000,
+          "reportedDate": 1756325100
+        },
+        {
           "date": "4Q2025",
           "actual": 0.32,
           "estimate": 0.27169,
@@ -163,17 +174,6 @@
           "surprisePct": "17.78",
           "periodEndDate": 1769817600,
           "reportedDate": 1772053659
-        },
-        {
-          "date": "1Q2026",
-          "actual": 0.39,
-          "estimate": 0.31981,
-          "fiscalQuarter": "1Q2027",
-          "calendarQuarter": "1Q2026",
-          "difference": "0.07",
-          "surprisePct": "21.95",
-          "periodEndDate": 1777507200,
-          "reportedDate": 1779912300
         },
         {
           "date": "2Q2026",
@@ -187,12 +187,12 @@
           "reportedDate": 1788379709
         }
       ],
-      "currentQuarterEstimate": 0.51592,
-      "currentQuarterEstimateDate": "3Q",
-      "currentCalendarQuarter": "3Q2026",
+      "currentQuarterEstimate": 0.44698,
+      "currentQuarterEstimateDate": "2Q",
+      "currentCalendarQuarter": "2Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "3Q2027",
-      "currentPeriodEndDate": 1793404800,
+      "currentFiscalQuarter": "2Q2027",
+      "currentPeriodEndDate": 1785456000,
       "earningsDate": [
         "2026-12-02T20:00:00.000Z"
       ],
@@ -254,6 +254,36 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-04T19:34:40.000Z",
+        "firm": "Macquarie",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 350,
+        "priorPriceTarget": 200
+      },
+      {
+        "epochGradeDate": "2026-09-04T15:45:51.000Z",
+        "firm": "Goldman Sachs",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 436,
+        "priorPriceTarget": 300
+      },
+      {
+        "epochGradeDate": "2026-09-04T12:29:25.000Z",
+        "firm": "Argus Research",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 450,
+        "priorPriceTarget": 300
+      },
       {
         "epochGradeDate": "2026-09-03T21:08:25.000Z",
         "firm": "JP Morgan",
@@ -6840,31 +6870,31 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.00272113,
-    "postMarketChange": -0.9700012,
-    "postMarketTime": "2026-09-03T23:59:59.000Z",
-    "postMarketPrice": 355.5,
+    "postMarketChangePercent": 0.0029067635,
+    "postMarketChange": 0.98010254,
+    "postMarketTime": "2026-09-04T23:59:59.000Z",
+    "postMarketPrice": 338.1601,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.16554399,
-    "regularMarketChange": 50.63,
-    "regularMarketTime": "2026-09-03T20:00:03.000Z",
+    "regularMarketChangePercent": -0.054114,
+    "regularMarketChange": -19.29,
+    "regularMarketTime": "2026-09-04T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 356.47,
-    "regularMarketDayHigh": 384.55,
-    "regularMarketDayLow": 355.5,
-    "regularMarketVolume": 21794631,
-    "averageDailyVolume10Day": 4504950,
-    "averageDailyVolume3Month": 5411351,
-    "regularMarketPreviousClose": 305.84,
+    "regularMarketPrice": 337.18,
+    "regularMarketDayHigh": 356.83,
+    "regularMarketDayLow": 337.11,
+    "regularMarketVolume": 8431642,
+    "averageDailyVolume10Day": 6370990,
+    "averageDailyVolume3Month": 5648014,
+    "regularMarketPreviousClose": 356.47,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 377.245,
-    "fulldayChangePercent": 0.16554399,
-    "fulldayChange": 50.63,
-    "fulldayPrice": 355.5,
+    "regularMarketOpen": 353.63,
+    "fulldayChangePercent": -0.054114,
+    "fulldayChange": -19.29,
+    "fulldayPrice": 338.1601,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "SNOW",
     "underlyingSymbol": null,
@@ -6876,15 +6906,15 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 123552505856
+    "marketCap": 116866588672
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 105821241344,
-    "forwardPE": 131.67966,
-    "profitMargins": -0.23786,
-    "floatShares": 337113558,
+    "enterpriseValue": 118181593088,
+    "forwardPE": 113.772255,
+    "profitMargins": -0.20071,
+    "floatShares": 339697836,
     "sharesOutstanding": 346600000,
     "sharesShort": 18813753,
     "sharesShortPriorMonth": "1970-09-09T04:47:25.000Z",
@@ -6892,28 +6922,28 @@
     "dateShortInterest": "2026-08-14T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0543,
     "heldPercentInsiders": 0.02962,
-    "heldPercentInstitutions": 0.82354,
+    "heldPercentInstitutions": 0.82307,
     "shortRatio": 3.89,
     "shortPercentOfFloat": 0.0556,
-    "beta": 1.315,
+    "beta": 1.328,
     "impliedSharesOutstanding": 346600000,
     "category": null,
-    "bookValue": 5.596,
-    "priceToBook": 63.700855,
+    "bookValue": 6.155,
+    "priceToBook": 54.781475,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-01-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2027-01-31T00:00:00.000Z",
-    "mostRecentQuarter": "2026-04-30T00:00:00.000Z",
-    "netIncomeToCommon": -1197095040,
-    "trailingEps": -3.71,
-    "forwardEps": 2.95123,
-    "pegRatio": 8.08,
+    "mostRecentQuarter": "2026-07-31T00:00:00.000Z",
+    "netIncomeToCommon": -1090797952,
+    "trailingEps": -3,
+    "forwardEps": 2.96364,
+    "pegRatio": 9,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 21.026,
-    "enterpriseToEbitda": -93.924,
-    "52WeekChange": 0.35579395,
-    "SandP52WeekChange": 0.17909956,
+    "enterpriseToRevenue": 21.746,
+    "enterpriseToEbitda": -113.93,
+    "52WeekChange": 0.57368004,
+    "SandP52WeekChange": 0.19535756,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -6932,7 +6962,7 @@
     "sectorKey": "technology",
     "sectorDisp": "Technology",
     "longBusinessSummary": "Snowflake Inc. provides a cloud-based data platform for various organizations in the United States and internationally. The company's platform includes artificial intelligence (AI) Data Cloud, which enables customers to consolidate data into a single source of truth to drive meaningful business insights, build data applications, and share data and data products, as well as applies AI for solving business problems. It serves financial services, advertising, media and entertainment, retail and consumer goods, healthcare and life sciences, manufacturing, technology, telecom, travel and hospitality, and government and defense industries, as well as the public sector. the company has a collaboration with OpenAI, L.L.C. for the development of AI solutions for joint enterprise customers that deliver tangible return on investment. The company was formerly known as Snowflake Computing, Inc. and changed its name to Snowflake Inc. in April 2019. Snowflake Inc. was incorporated in 2012 and is based in Menlo Park, California.",
-    "fullTimeEmployees": 9250,
+    "fullTimeEmployees": 9060,
     "companyOfficers": [],
     "executiveTeam": [],
     "maxAge": 86400
@@ -8744,35 +8774,35 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 356.47,
-    "targetHighPrice": 500,
+    "currentPrice": 337.18,
+    "targetHighPrice": 525,
     "targetLowPrice": 110,
-    "targetMeanPrice": 331.6625,
-    "targetMedianPrice": 327.5,
-    "recommendationMean": 1.5098,
-    "recommendationKey": "buy",
+    "targetMeanPrice": 410.1625,
+    "targetMedianPrice": 433,
+    "recommendationMean": 1.4902,
+    "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 48,
-    "totalCash": 2954998016,
-    "totalCashPerShare": 8.526,
-    "ebitda": -1126667008,
-    "totalDebt": 2772094976,
-    "quickRatio": 0.941,
-    "currentRatio": 1.053,
-    "totalRevenue": 5032822784,
-    "debtToEquity": 142.912,
-    "revenuePerShare": 14.773,
-    "returnOnAssets": -0.0968,
-    "returnOnEquity": -0.54869,
-    "grossProfits": 3379303936,
-    "freeCashflow": 1739497728,
-    "operatingCashflow": 1236792064,
-    "revenueGrowth": 0.335,
-    "grossMargins": 0.67144996,
-    "ebitdaMargins": -0.22386,
-    "operatingMargins": -0.22173999,
-    "profitMargins": -0.23786,
+    "totalCash": 2344695040,
+    "totalCashPerShare": 6.713,
+    "ebitda": -1037313984,
+    "totalDebt": 2763814912,
+    "quickRatio": 0.823,
+    "currentRatio": 0.939,
+    "totalRevenue": 5434647040,
+    "debtToEquity": 128.57,
+    "revenuePerShare": 15.79,
+    "returnOnAssets": -0.09021,
+    "returnOnEquity": -0.48063,
+    "grossProfits": 3642867968,
+    "freeCashflow": 1739011968,
+    "operatingCashflow": 1253252992,
+    "revenueGrowth": 0.351,
+    "grossMargins": 0.6703,
+    "ebitdaMargins": -0.19087,
+    "operatingMargins": -0.16905001,
+    "profitMargins": -0.20071,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-04T07:05:04.996Z",
+  "lastUpdated": "2026-09-05T06:42:56.491Z",
   "source": "Static Build (yahoo-finance2)"
 }

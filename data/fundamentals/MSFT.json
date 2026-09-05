@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.08180001,
         "position": 607367113,
-        "value": 309830108717,
+        "value": 303501353780,
         "pctChange": 0.023699999
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0653,
         "position": 485192007,
-        "value": 247506144241,
+        "value": 242450451820,
         "pctChange": 0.0055
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0425,
         "position": 315653206,
-        "value": 161021011903,
+        "value": 157731910891,
         "pctChange": 0.0292
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0255,
         "position": 189632090,
-        "value": 96735120824,
+        "value": 94759157687,
         "pctChange": 0.006
       },
       {
@@ -81,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.025,
         "position": 185960066,
-        "value": 94861947959,
+        "value": 92924247250,
         "pctChange": -0.0224
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0227,
         "position": 168407641,
-        "value": 85908105004,
+        "value": 84153300263,
         "pctChange": 0.0055
       },
       {
@@ -99,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0182,
         "position": 135173516,
-        "value": 68954713321,
+        "value": 67546207595,
         "pctChange": 0.0633
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0172,
         "position": 127674661,
-        "value": 65129397445,
+        "value": 63799029660,
         "pctChange": 0.0224
       },
       {
@@ -117,7 +117,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0138,
         "position": 102732956,
-        "value": 52406135013,
+        "value": 51335659367,
         "pctChange": -0.0194
       },
       {
@@ -126,17 +126,17 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0135,
         "position": 100247890,
-        "value": 51138453157,
+        "value": 50093871856,
         "pctChange": 0.0152
       }
     ]
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.00092,
+    "insidersPercentHeld": 0.00091,
     "institutionsPercentHeld": 0.75858,
     "institutionsFloatPercentHeld": 0.75927,
-    "institutionsCount": 8166
+    "institutionsCount": 8169
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-04T17:04:22.000Z",
+        "firm": "Stifel",
+        "toGrade": "Hold",
+        "fromGrade": "Hold",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 530,
+        "priorPriceTarget": 450
+      },
       {
         "epochGradeDate": "2026-09-01T14:06:01.000Z",
         "firm": "B of A Securities",
@@ -9567,31 +9577,31 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.001019167,
-    "postMarketChange": -0.51989746,
-    "postMarketTime": "2026-09-03T23:59:54.000Z",
-    "postMarketPrice": 509.6001,
+    "postMarketChangePercent": -0.00016031347,
+    "postMarketChange": -0.08010864,
+    "postMarketTime": "2026-09-04T23:59:55.000Z",
+    "postMarketPrice": 499.6199,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0267702,
-    "regularMarketChange": 13.3,
-    "regularMarketTime": "2026-09-03T20:00:01.000Z",
+    "regularMarketChangePercent": -0.0204265,
+    "regularMarketChange": -10.42,
+    "regularMarketTime": "2026-09-04T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 510.12,
-    "regularMarketDayHigh": 515.64,
-    "regularMarketDayLow": 500.8,
-    "regularMarketVolume": 24108434,
-    "averageDailyVolume10Day": 22152830,
-    "averageDailyVolume3Month": 37092879,
-    "regularMarketPreviousClose": 496.82,
+    "regularMarketPrice": 499.7,
+    "regularMarketDayHigh": 511,
+    "regularMarketDayLow": 499.36,
+    "regularMarketVolume": 17437000,
+    "averageDailyVolume10Day": 22561890,
+    "averageDailyVolume3Month": 37048623,
+    "regularMarketPreviousClose": 510.12,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 502.14,
-    "fulldayChangePercent": 0.0267702,
-    "fulldayChange": 13.3,
-    "fulldayPrice": 509.6001,
+    "regularMarketOpen": 510,
+    "fulldayChangePercent": -0.0204265,
+    "fulldayChange": -10.42,
+    "fulldayPrice": 499.6199,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "MSFT",
     "underlyingSymbol": null,
@@ -9603,30 +9613,30 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 3787919458304
+    "marketCap": 3710545297408
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 3839889244160,
-    "forwardPE": 21.639755,
+    "enterpriseValue": 3762515083264,
+    "forwardPE": 21.19773,
     "profitMargins": 0.40305,
-    "floatShares": 7414481428,
+    "floatShares": 7414332917,
     "sharesOutstanding": 7425545491,
     "sharesShort": 68544953,
     "sharesShortPriorMonth": "1972-12-05T03:17:54.000Z",
     "sharesShortPreviousMonthDate": "2026-07-15T00:00:00.000Z",
     "dateShortInterest": "2026-08-14T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0092,
-    "heldPercentInsiders": 0.00092,
+    "heldPercentInsiders": 0.00091,
     "heldPercentInstitutions": 0.75858,
     "shortRatio": 1.85,
     "shortPercentOfFloat": 0.0092,
-    "beta": 1.099,
+    "beta": 1.108,
     "impliedSharesOutstanding": 7425545491,
     "category": null,
     "bookValue": 59.565,
-    "priceToBook": 8.56409,
+    "priceToBook": 8.389155,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-06-30T00:00:00.000Z",
@@ -9634,15 +9644,15 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.313,
     "netIncomeToCommon": 133748998144,
-    "trailingEps": 17.94,
+    "trailingEps": 17.59,
     "forwardEps": 23.57328,
-    "pegRatio": 1.63,
+    "pegRatio": 1.66,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1045526400,
-    "enterpriseToRevenue": 11.572,
-    "enterpriseToEbitda": 19.769,
-    "52WeekChange": -0.021950126,
-    "SandP52WeekChange": 0.17909956,
+    "enterpriseToRevenue": 11.338,
+    "enterpriseToEbitda": 19.371,
+    "52WeekChange": 0.030545473,
+    "SandP52WeekChange": 0.19535756,
     "lastDividendValue": 0.91,
     "lastDividendDate": "2026-08-20T00:00:00.000Z",
     "latestShareClass": null,
@@ -10633,11 +10643,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1000,
-        "value": 414720,
+        "shares": 25000,
+        "value": 10425000,
         "filerUrl": "",
-        "transactionText": "Sale at price 414.72 per share.",
-        "filerName": "NUMOTO TAKESHI",
+        "transactionText": "Sale at price 417.00 per share.",
+        "filerName": "ALTHOFF JUDSON",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-11-22T00:00:00.000Z",
@@ -10645,11 +10655,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 25000,
-        "value": 10425000,
+        "shares": 1000,
+        "value": 414720,
         "filerUrl": "",
-        "transactionText": "Sale at price 417.00 per share.",
-        "filerName": "ALTHOFF JUDSON",
+        "transactionText": "Sale at price 414.72 per share.",
+        "filerName": "NUMOTO TAKESHI",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-11-22T00:00:00.000Z",
@@ -10846,28 +10856,16 @@
         "moneyText": "",
         "startDate": "2024-09-06T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 38000,
-        "value": 15600794,
-        "filerUrl": "",
-        "transactionText": "Sale at price 410.55 per share.",
-        "filerName": "HOOD AMY E",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2024-09-05T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 510.12,
+    "currentPrice": 499.7,
     "targetHighPrice": 870,
     "targetLowPrice": 400,
-    "targetMeanPrice": 571.3767,
+    "targetMeanPrice": 572.91516,
     "targetMedianPrice": 555,
     "recommendationMean": 1.36364,
     "recommendationKey": "strong_buy",
@@ -10894,6 +10892,6 @@
     "profitMargins": 0.40305,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-04T07:02:26.244Z",
+  "lastUpdated": "2026-09-05T06:40:12.032Z",
   "source": "Static Build (yahoo-finance2)"
 }

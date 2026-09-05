@@ -20,6 +20,14 @@
       {
         "period": "-2m",
         "strongBuy": 1,
+        "buy": 3,
+        "hold": 7,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 1,
         "buy": 2,
         "hold": 7,
         "sell": 0,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.074499995,
         "position": 27130305,
-        "value": 94956067,
+        "value": 105265586,
         "pctChange": 0.1265
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.041199997,
         "position": 15021392,
-        "value": 52574872,
+        "value": 58283002,
         "pctChange": 0.0125
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Hudson Bay Capital Management Lp",
         "pctHeld": 0.0376,
         "position": 13683634,
-        "value": 47892719,
+        "value": 53092501,
         "pctChange": 1
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Driehaus Capital Management, LLC",
         "pctHeld": 0.0372,
         "position": 13556010,
-        "value": 47446035,
+        "value": 52597320,
         "pctChange": -0.0883
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Two Sigma Investments, LP",
         "pctHeld": 0.035099998,
         "position": 12783883,
-        "value": 44743590,
+        "value": 49601467,
         "pctChange": -0.0917
       },
       {
@@ -82,7 +90,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0279,
         "position": 10154935,
-        "value": 35542272,
+        "value": 39401148,
         "pctChange": 0.2665
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Susquehanna International Group, LLP",
         "pctHeld": 0.026600001,
         "position": 9683190,
-        "value": 33891165,
+        "value": 37570778,
         "pctChange": 0.5248
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024400001,
         "position": 8894922,
-        "value": 31132227,
+        "value": 34512298,
         "pctChange": 0.1385
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Electron Capital Partners, LLC",
         "pctHeld": 0.0183,
         "position": 6681859,
-        "value": 23386506,
+        "value": 25925613,
         "pctChange": 0.24209999
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0146,
         "position": 5313829,
-        "value": 18598401,
+        "value": 20617657,
         "pctChange": 0.7947
       }
     ]
@@ -798,50 +806,50 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0027714458,
-    "postMarketChange": 0.00970006,
-    "postMarketTime": "2026-09-03T23:58:45.000Z",
-    "postMarketPrice": 3.5097,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.0304709,
-    "regularMarketChange": -0.11,
-    "regularMarketTime": "2026-09-03T20:00:01.000Z",
+    "preMarketSource": "DELAYED",
+    "postMarketChangePercent": 0.010309268,
+    "postMarketChange": 0.03999996,
+    "postMarketTime": "2026-09-04T23:59:41.000Z",
+    "postMarketPrice": 3.92,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.10857099,
+    "regularMarketChange": 0.38,
+    "regularMarketTime": "2026-09-04T20:00:01.000Z",
     "priceHint": 4,
-    "regularMarketPrice": 3.5,
-    "regularMarketDayHigh": 3.71,
-    "regularMarketDayLow": 3.46,
-    "regularMarketVolume": 23279373,
-    "averageDailyVolume10Day": 26682200,
-    "averageDailyVolume3Month": 25834620,
-    "regularMarketPreviousClose": 3.61,
+    "regularMarketPrice": 3.88,
+    "regularMarketDayHigh": 3.91,
+    "regularMarketDayLow": 3.43,
+    "regularMarketVolume": 23564352,
+    "averageDailyVolume10Day": 25394150,
+    "averageDailyVolume3Month": 26012170,
+    "regularMarketPreviousClose": 3.5,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 3.5699,
-    "fulldayChangePercent": -0.0304709,
-    "fulldayChange": -0.11,
-    "fulldayPrice": 3.5097,
+    "regularMarketOpen": 3.52,
+    "fulldayChangePercent": 0.10857099,
+    "fulldayChange": 0.38,
+    "fulldayPrice": 3.92,
     "exchange": "NCM",
     "exchangeName": "NasdaqCM",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "EOSE",
     "underlyingSymbol": null,
     "shortName": "Eos Energy Enterprises, Inc.",
     "longName": "Eos Energy Enterprises, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 1265905664
+    "marketCap": 1403346816
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 4,
-    "enterpriseValue": 2323143168,
-    "forwardPE": -23.403543,
+    "enterpriseValue": 2461526784,
+    "forwardPE": -25.9445,
     "profitMargins": -2.46757,
     "floatShares": 357328674,
     "sharesOutstanding": 361687337,
@@ -854,7 +862,7 @@
     "heldPercentInstitutions": 0.64432,
     "shortRatio": 4.14,
     "shortPercentOfFloat": 0.3127,
-    "beta": 2.797,
+    "beta": 2.779,
     "impliedSharesOutstanding": 361687337,
     "category": null,
     "bookValue": -3.026,
@@ -864,21 +872,22 @@
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -1024953984,
-    "trailingEps": -6.07,
+    "trailingEps": -6.96,
     "forwardEps": -0.14955,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 10.843,
-    "enterpriseToEbitda": -8.166,
-    "52WeekChange": -0.5081744,
-    "SandP52WeekChange": 0.17909956,
+    "enterpriseToRevenue": 11.489,
+    "enterpriseToEbitda": -8.652,
+    "52WeekChange": -0.4905386,
+    "SandP52WeekChange": 0.19535756,
     "latestShareClass": null,
     "leadInvestor": null
   },
   "summaryProfile": {
-    "address1": "3920 Park Avenue",
-    "city": "Edison",
-    "state": "NJ",
-    "zip": "08820",
+    "address1": "Two Allegheny Center",
+    "address2": "Nova Tower 2",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15212",
     "country": "United States",
     "phone": "732 225 8400",
     "website": "https://www.eose.com",
@@ -888,7 +897,7 @@
     "sector": "Industrials",
     "sectorKey": "industrials",
     "sectorDisp": "Industrials",
-    "longBusinessSummary": "Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy storage solutions for utility-scale, microgrid, and commercial and industrial applications in the United States. The company offers Znyth technology battery energy storage system (BESS), which provides operating flexibility to manage increased grid complexity and price volatility. It also provides the Z3 battery module that provides utilities, independent power producers, renewables developers, and commercial and industrial customers with an alternative to lithium-ion and lead-acid monopolar batteries for critical 3- to 12-hour discharge duration applications; a battery management system, which provides remote asset monitoring capability and service to track the performance and health of BESS and identify future system performance issues through predictive analytics; and project management and commissioning services, as well as long-term maintenance plans. The company also provides Eos Indensity, an energy storage architecture; Eos Cube; and DawnOS, a proprietary U.S.-engineered battery management and analytics platform. Eos Energy Enterprises, Inc. was formerly known as B. Riley Principal Merger Corp. II and changed its name to Eos Energy Enterprises, Inc. in November 2020. The company was founded in 2008 and is headquartered in Edison, New Jersey.",
+    "longBusinessSummary": "Eos Energy Enterprises, Inc. designs, develops, manufactures, and markets energy storage solutions for utility-scale, microgrid, and commercial and industrial applications in the United States. The company offers Znyth technology battery energy storage system (BESS), which provides operating flexibility to manage increased grid complexity and price volatility. It also provides the Z3 battery module that provides utilities, independent power producers, renewables developers, and commercial and industrial customers with an alternative to lithium-ion and lead-acid monopolar batteries for critical 3- to 12-hour discharge duration applications; a battery management system, which provides remote asset monitoring capability and service to track the performance and health of BESS and identify future system performance issues through predictive analytics; and project management and commissioning services, as well as long-term maintenance plans. The company also provides Eos Indensity, an energy storage architecture; Eos Cube; and DawnOS, a proprietary U.S.-engineered battery management and analytics platform. Eos Energy Enterprises, Inc. was formerly known as B. Riley Principal Merger Corp. II and changed its name to Eos Energy Enterprises, Inc. in November 2020. The company was founded in 2008 and is headquartered in Pittsburgh, Pennsylvania.",
     "fullTimeEmployees": 787,
     "companyOfficers": [],
     "executiveTeam": [],
@@ -1983,24 +1992,13 @@
         "moneyText": "",
         "startDate": "2024-09-12T00:00:00.000Z",
         "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 68333,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PURI SUMEET",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-09-05T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 3.5,
+    "currentPrice": 3.88,
     "targetHighPrice": 11,
     "targetLowPrice": 4,
     "targetMeanPrice": 6.66667,
@@ -2027,6 +2025,6 @@
     "profitMargins": -2.46757,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-04T07:01:43.777Z",
+  "lastUpdated": "2026-09-05T06:39:28.177Z",
   "source": "Static Build (yahoo-finance2)"
 }

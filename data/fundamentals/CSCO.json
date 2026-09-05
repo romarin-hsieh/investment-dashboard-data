@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 5,
+        "buy": 14,
+        "hold": 9,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
         "strongBuy": 4,
         "buy": 13,
         "hold": 8,
@@ -18,7 +26,7 @@
         "strongSell": 1
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 4,
         "buy": 13,
         "hold": 8,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.091000006,
         "position": 358672289,
-        "value": 38955397527,
+        "value": 39167012864,
         "pctChange": -0.0175
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0621,
         "position": 244787330,
-        "value": 26586352060,
+        "value": 26730775688,
         "pctChange": 0.0041
       },
       {
@@ -55,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.05,
         "position": 197153062,
-        "value": 21412794184,
+        "value": 21529113768,
         "pctChange": 0.0184
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.035099998,
         "position": 138187071,
-        "value": 15008497865,
+        "value": 15090027731,
         "pctChange": -0.0107
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.030299999,
         "position": 119309850,
-        "value": 12958242881,
+        "value": 13028635255,
         "pctChange": 0.0124
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0256,
         "position": 101007196,
-        "value": 10970391619,
+        "value": 11029985494,
         "pctChange": -0.011
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.020399999,
         "position": 80401715,
-        "value": 8732430315,
+        "value": 8779867032,
         "pctChange": 0.0344
       },
       {
@@ -100,7 +108,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.019299999,
         "position": 76063526,
-        "value": 8261259605,
+        "value": 8306136807,
         "pctChange": 0.1288
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.017,
         "position": 67174294,
-        "value": 7295800112,
+        "value": 7335432699,
         "pctChange": 0.0504
       },
       {
@@ -118,7 +126,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0139,
         "position": 54835694,
-        "value": 5955704758,
+        "value": 5988057617,
         "pctChange": -0.0557
       }
     ]
@@ -128,7 +136,7 @@
     "insidersPercentHeld": 0.0005,
     "institutionsPercentHeld": 0.83415,
     "institutionsFloatPercentHeld": 0.83457,
-    "institutionsCount": 5131
+    "institutionsCount": 5132
   },
   "earnings": {
     "maxAge": 86400,
@@ -5349,31 +5357,31 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0001813746,
-    "postMarketChange": 0.019699097,
-    "postMarketTime": "2026-09-03T23:59:51.000Z",
-    "postMarketPrice": 108.6297,
+    "postMarketChangePercent": -0.001831474,
+    "postMarketChange": -0.19999695,
+    "postMarketTime": "2026-09-04T23:59:50.000Z",
+    "postMarketPrice": 109,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.00772008,
-    "regularMarketChange": -0.845001,
-    "regularMarketTime": "2026-09-03T20:00:01.000Z",
+    "regularMarketChangePercent": 0.00543225,
+    "regularMarketChange": 0.589996,
+    "regularMarketTime": "2026-09-04T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 108.61,
-    "regularMarketDayHigh": 109.67,
-    "regularMarketDayLow": 107.6,
-    "regularMarketVolume": 14214220,
-    "averageDailyVolume10Day": 13877260,
-    "averageDailyVolume3Month": 22245129,
-    "regularMarketPreviousClose": 109.455,
+    "regularMarketPrice": 109.2,
+    "regularMarketDayHigh": 110.35,
+    "regularMarketDayLow": 109,
+    "regularMarketVolume": 11975256,
+    "averageDailyVolume10Day": 14034980,
+    "averageDailyVolume3Month": 21939416,
+    "regularMarketPreviousClose": 108.61,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 108.8,
-    "fulldayChangePercent": -0.00772008,
-    "fulldayChange": -0.845001,
-    "fulldayPrice": 108.6297,
+    "regularMarketOpen": 109.64,
+    "fulldayChangePercent": 0.00543225,
+    "fulldayChange": 0.589996,
+    "fulldayPrice": 109,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "CSCO",
     "underlyingSymbol": null,
@@ -5385,15 +5393,15 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 428204359680
+    "marketCap": 430530461696
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 445852811264,
-    "forwardPE": 19.386818,
+    "enterpriseValue": 445797498880,
+    "forwardPE": 19.492132,
     "profitMargins": 0.20951,
-    "floatShares": 3942642110,
+    "floatShares": 3936239308,
     "sharesOutstanding": 3942586873,
     "sharesShort": 58942738,
     "sharesShortPriorMonth": "1972-01-21T06:46:09.000Z",
@@ -5404,11 +5412,11 @@
     "heldPercentInstitutions": 0.83415,
     "shortRatio": 2.58,
     "shortPercentOfFloat": 0.0149,
-    "beta": 1.002,
+    "beta": 0.992,
     "impliedSharesOutstanding": 3942586873,
     "category": null,
-    "bookValue": 12.734,
-    "priceToBook": 8.529135,
+    "bookValue": 12.743,
+    "priceToBook": 8.56941,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-07-25T00:00:00.000Z",
@@ -5416,15 +5424,15 @@
     "mostRecentQuarter": "2026-07-25T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.513,
     "netIncomeToCommon": 13267000320,
-    "trailingEps": 3.3,
+    "trailingEps": 3.35,
     "forwardEps": 5.60226,
-    "pegRatio": 1.01,
+    "pegRatio": 1,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 953769600,
-    "enterpriseToRevenue": 7.041,
-    "enterpriseToEbitda": 23.937,
-    "52WeekChange": 0.63617337,
-    "SandP52WeekChange": 0.17909956,
+    "enterpriseToRevenue": 7.04,
+    "enterpriseToEbitda": 23.914,
+    "52WeekChange": 0.62395334,
+    "SandP52WeekChange": 0.19535756,
     "lastDividendValue": 0.42,
     "lastDividendDate": "2026-07-06T00:00:00.000Z",
     "latestShareClass": null,
@@ -5445,6 +5453,7 @@
     "sectorKey": "technology",
     "sectorDisp": "Technology",
     "longBusinessSummary": "Cisco Systems, Inc. designs, develops, and sells technologies to power, help, secure, and draw insights from the internet in the Americas, Europe, the Middle East, Africa, the Asia Pacific, Japan, and China. The company provides data center switching; network security, identity and access management, and secure access service edge; identity and agentic security solutions; interconnects public and private wireline and mobile networks, delivering connectivity to campus, data center, and branch networks; WEBEX suite, collaboration devices, and contact center; communication platform as a service software, including perpetual licenses, subscription arrangements, and hardware solutions; network assurance and observability suite; accelerated issue resolution, software support, and hardware replacement; professional services, such as planning, design, implementation, and high-value consulting; service and support packages, financing, and managed network services; and regional, national, and international wireline carriers, webscale products, internet, and cable. It also provides wireless products, including indoor and outdoor coverage designed for seamless roaming use of voice, video, and data applications; end-to-end collaboration solutions through cloud, on-premise, or within hybrid cloud environments. In addition, it offers technical support services. The company serves businesses, public institutions, governments, and service providers. It sells its products and services directly, through systems integrators, service providers, and other thirdy-party resellers, and distributors. Cisco Systems, Inc. was incorporated in 1984 and is headquartered in San Jose, California.",
+    "fullTimeEmployees": 82400,
     "companyOfficers": [],
     "executiveTeam": [],
     "maxAge": 86400
@@ -7124,7 +7133,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 108.61,
+    "currentPrice": 109.2,
     "targetHighPrice": 170,
     "targetLowPrice": 115,
     "targetMeanPrice": 137.625,
@@ -7133,27 +7142,27 @@
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 24,
     "totalCash": 15918000128,
-    "totalCashPerShare": 4.031,
-    "ebitda": 18626000896,
-    "totalDebt": 29532999680,
-    "quickRatio": 0.645,
+    "totalCashPerShare": 4.037,
+    "ebitda": 18641999872,
+    "totalDebt": 31185000448,
+    "quickRatio": 0.691,
     "currentRatio": 0.931,
     "totalRevenue": 63324999680,
-    "debtToEquity": 58.731,
+    "debtToEquity": 62.017,
     "revenuePerShare": 16.019,
-    "returnOnAssets": 0.07981,
+    "returnOnAssets": 0.079780005,
     "returnOnEquity": 0.27319,
-    "grossProfits": 40884998144,
-    "freeCashflow": 11568000000,
+    "grossProfits": 40860000256,
+    "freeCashflow": 11182624768,
     "operatingCashflow": 14177000448,
-    "earningsGrowth": 0.52,
+    "earningsGrowth": 0.521,
     "revenueGrowth": 0.176,
-    "grossMargins": 0.64564,
-    "ebitdaMargins": 0.29413,
-    "operatingMargins": 0.27701,
+    "grossMargins": 0.64524,
+    "ebitdaMargins": 0.29439,
+    "operatingMargins": 0.27719,
     "profitMargins": 0.20951,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-04T07:03:16.727Z",
+  "lastUpdated": "2026-09-05T06:41:03.042Z",
   "source": "Static Build (yahoo-finance2)"
 }
