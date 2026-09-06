@@ -13,20 +13,12 @@
         "period": "-1m",
         "strongBuy": 5,
         "buy": 21,
-        "hold": 10,
-        "sell": 1,
-        "strongSell": 1
-      },
-      {
-        "period": "-2m",
-        "strongBuy": 5,
-        "buy": 21,
         "hold": 9,
         "sell": 1,
         "strongSell": 1
       },
       {
-        "period": "-3m",
+        "period": "-2m",
         "strongBuy": 4,
         "buy": 20,
         "hold": 11,
@@ -133,15 +125,26 @@
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.1877,
-    "institutionsPercentHeld": 0.7657,
-    "institutionsFloatPercentHeld": 0.94264,
-    "institutionsCount": 1261
+    "insidersPercentHeld": 0.18726999,
+    "institutionsPercentHeld": 0.76595,
+    "institutionsFloatPercentHeld": 0.94242996,
+    "institutionsCount": 1263
   },
   "earnings": {
     "maxAge": 86400,
     "earningsChart": {
       "quarterly": [
+        {
+          "date": "2Q2025",
+          "actual": -0.26882,
+          "estimate": -0.20708,
+          "fiscalQuarter": "2Q2025",
+          "calendarQuarter": "2Q2025",
+          "difference": "-0.06",
+          "surprisePct": "-29.81",
+          "periodEndDate": 1751241600,
+          "reportedDate": 1755029220
+        },
         {
           "date": "3Q2025",
           "actual": -0.22,
@@ -165,17 +168,6 @@
           "reportedDate": 1772139974
         },
         {
-          "date": "1Q2026",
-          "actual": -1.4,
-          "estimate": -1.2042,
-          "fiscalQuarter": "1Q2026",
-          "calendarQuarter": "1Q2026",
-          "difference": "-0.2",
-          "surprisePct": "-16.26",
-          "periodEndDate": 1774915200,
-          "reportedDate": 1778184637
-        },
-        {
           "date": "2Q2026",
           "actual": -1.14,
           "estimate": -1.46997,
@@ -187,7 +179,7 @@
           "reportedDate": 1786479026
         }
       ],
-      "currentQuarterEstimate": -1.55873,
+      "currentQuarterEstimate": -1.46997,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -228,6 +220,13 @@
           "revenue": 2078000000,
           "earnings": -740000000,
           "profitMargin": -0.35611165
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 2575000000,
+          "earnings": -626000000,
+          "profitMargin": -0.2431068
         }
       ]
     },
@@ -1725,8 +1724,8 @@
     "regularMarketDayHigh": 89.63,
     "regularMarketDayLow": 84.9,
     "regularMarketVolume": 20537770,
-    "averageDailyVolume10Day": 17071400,
-    "averageDailyVolume3Month": 27906319,
+    "averageDailyVolume10Day": 16925890,
+    "averageDailyVolume3Month": 27792447,
     "regularMarketPreviousClose": 84.56,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 85.98,
@@ -1756,15 +1755,15 @@
     "enterpriseValue": 95359311872,
     "forwardPE": -45.858562,
     "profitMargins": -0.25402,
-    "floatShares": 327474857,
+    "floatShares": 327678926,
     "sharesOutstanding": 458871690,
     "sharesShort": 58859603,
     "sharesShortPriorMonth": "1972-01-15T22:27:01.000Z",
     "sharesShortPreviousMonthDate": "2026-07-15T00:00:00.000Z",
     "dateShortInterest": "2026-08-14T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1067,
-    "heldPercentInsiders": 0.1877,
-    "heldPercentInstitutions": 0.7657,
+    "heldPercentInsiders": 0.18726999,
+    "heldPercentInstitutions": 0.76595,
     "shortRatio": 1.87,
     "shortPercentOfFloat": 0.1889,
     "impliedSharesOutstanding": 551536602,
@@ -1777,13 +1776,13 @@
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -1928000000,
-    "trailingEps": -3.75,
+    "trailingEps": -3.55,
     "forwardEps": -1.9486,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 12.564,
     "enterpriseToEbitda": 25.167,
-    "52WeekChange": -0.09609836,
-    "SandP52WeekChange": 0.19535756,
+    "52WeekChange": -0.044788897,
+    "SandP52WeekChange": 0.18836367,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1894,6 +1893,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 15646,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "JAIN SACHIN",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-08-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 23443,
         "filerUrl": "",
         "transactionText": "",
@@ -1905,44 +1915,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 2426,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BAKER JEFFREY R",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-08-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 19451,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "AGRAWAL NITIN",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-08-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 8038,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "MCBEE BRANNIN",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-08-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 15646,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "JAIN SACHIN",
-        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2026-08-20T00:00:00.000Z",
         "ownership": "D"
@@ -1982,12 +1959,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 8628,
-        "value": 792741,
+        "shares": 2426,
         "filerUrl": "",
-        "transactionText": "Sale at price 91.88 per share.",
-        "filerName": "GOLDBERG CHEN",
+        "transactionText": "",
+        "filerName": "BAKER JEFFREY R",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-08-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 19451,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "AGRAWAL NITIN",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-08-20T00:00:00.000Z",
         "ownership": "D"
@@ -2006,12 +1993,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 5899,
-        "value": 542000,
+        "shares": 10062,
+        "value": 924497,
         "filerUrl": "",
         "transactionText": "Sale at price 91.88 per share.",
-        "filerName": "VENTURO BRIAN M",
-        "filerRelation": "Officer and Director",
+        "filerName": "AGRAWAL NITIN",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-08-20T00:00:00.000Z",
         "ownership": "D"
@@ -2030,12 +2017,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 10062,
-        "value": 924497,
+        "shares": 5899,
+        "value": 542000,
         "filerUrl": "",
         "transactionText": "Sale at price 91.88 per share.",
-        "filerName": "AGRAWAL NITIN",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "VENTURO BRIAN M",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-08-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8628,
+        "value": 792741,
+        "filerUrl": "",
+        "transactionText": "Sale at price 91.88 per share.",
+        "filerName": "GOLDBERG CHEN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-08-20T00:00:00.000Z",
         "ownership": "D"
@@ -2254,17 +2253,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1440,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HUTCHINS GLENN H",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-08-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 197000,
         "filerUrl": "",
         "transactionText": "",
@@ -2284,6 +2272,17 @@
         "moneyText": "",
         "startDate": "2026-08-10T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1440,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HUTCHINS GLENN H",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-08-10T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2762,17 +2761,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1480,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BOONE KAREN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-07-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 197000,
         "filerUrl": "",
         "transactionText": "",
@@ -2792,6 +2780,17 @@
         "moneyText": "",
         "startDate": "2026-07-06T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1480,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BOONE KAREN",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-07-06T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2854,6 +2853,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 7,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "JAIN SACHIN",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-06-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 248049,
         "filerUrl": "",
         "transactionText": "",
@@ -2862,28 +2872,6 @@
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
         "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 7,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BAKER JEFFREY R",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-06-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 7,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "AGRAWAL NITIN",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-06-30T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2901,17 +2889,6 @@
         "shares": 7,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "JAIN SACHIN",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-06-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 7,
-        "filerUrl": "",
-        "transactionText": "",
         "filerName": "GOLDBERG CHEN",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -2931,12 +2908,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 4,
-        "value": 383,
+        "shares": 7,
         "filerUrl": "",
-        "transactionText": "Sale at price 95.69 per share.",
-        "filerName": "GOLDBERG CHEN",
+        "transactionText": "",
+        "filerName": "BAKER JEFFREY R",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-06-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "AGRAWAL NITIN",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
         "ownership": "D"
@@ -2949,6 +2936,18 @@
         "transactionText": "Sale at price 95.69 per share.",
         "filerName": "MCVEETY KRISTEN J",
         "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-06-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4,
+        "value": 383,
+        "filerUrl": "",
+        "transactionText": "Sale at price 95.69 per share.",
+        "filerName": "AGRAWAL NITIN",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
         "ownership": "D"
@@ -2971,23 +2970,11 @@
         "value": 383,
         "filerUrl": "",
         "transactionText": "Sale at price 95.69 per share.",
-        "filerName": "AGRAWAL NITIN",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-06-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 57207,
-        "value": 5473451,
-        "filerUrl": "",
-        "transactionText": "Sale at price 90.23 - 98.31 per share.",
-        "filerName": "MCBEE BRANNIN",
+        "filerName": "GOLDBERG CHEN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
-        "ownership": "D/I"
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -3015,14 +3002,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 55500,
+        "shares": 57207,
+        "value": 5473451,
         "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Sale at price 90.23 - 98.31 per share.",
         "filerName": "MCBEE BRANNIN",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2026-06-29T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-06-30T00:00:00.000Z",
+        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -3034,6 +3022,17 @@
         "moneyText": "",
         "startDate": "2026-06-29T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 55500,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MCBEE BRANNIN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-06-29T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -3579,6 +3578,6 @@
     "profitMargins": -0.25402,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-05T06:39:09.290Z",
+  "lastUpdated": "2026-09-06T06:49:45.533Z",
   "source": "Static Build (yahoo-finance2)"
 }
