@@ -13,12 +13,20 @@
         "period": "-1m",
         "strongBuy": 5,
         "buy": 21,
-        "hold": 9,
+        "hold": 10,
         "sell": 1,
         "strongSell": 1
       },
       {
         "period": "-2m",
+        "strongBuy": 5,
+        "buy": 21,
+        "hold": 9,
+        "sell": 1,
+        "strongSell": 1
+      },
+      {
+        "period": "-3m",
         "strongBuy": 4,
         "buy": 20,
         "hold": 11,
@@ -135,17 +143,6 @@
     "earningsChart": {
       "quarterly": [
         {
-          "date": "2Q2025",
-          "actual": -0.26882,
-          "estimate": -0.20708,
-          "fiscalQuarter": "2Q2025",
-          "calendarQuarter": "2Q2025",
-          "difference": "-0.06",
-          "surprisePct": "-29.81",
-          "periodEndDate": 1751241600,
-          "reportedDate": 1755029220
-        },
-        {
           "date": "3Q2025",
           "actual": -0.22,
           "estimate": -0.48219,
@@ -168,6 +165,17 @@
           "reportedDate": 1772139974
         },
         {
+          "date": "1Q2026",
+          "actual": -1.4,
+          "estimate": -1.2042,
+          "fiscalQuarter": "1Q2026",
+          "calendarQuarter": "1Q2026",
+          "difference": "-0.2",
+          "surprisePct": "-16.26",
+          "periodEndDate": 1774915200,
+          "reportedDate": 1778184637
+        },
+        {
           "date": "2Q2026",
           "actual": -1.14,
           "estimate": -1.46997,
@@ -179,7 +187,7 @@
           "reportedDate": 1786479026
         }
       ],
-      "currentQuarterEstimate": -1.46997,
+      "currentQuarterEstimate": -1.55873,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -1716,21 +1724,21 @@
     "postMarketTime": "2026-09-04T23:59:45.000Z",
     "postMarketPrice": 89.0733,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0567645,
-    "regularMarketChange": 4.8,
+    "regularMarketChangePercent": 0.056764465,
+    "regularMarketChange": 4.800003,
     "regularMarketTime": "2026-09-04T20:00:01.000Z",
     "priceHint": 2,
     "regularMarketPrice": 89.36,
     "regularMarketDayHigh": 89.63,
     "regularMarketDayLow": 84.9,
-    "regularMarketVolume": 20537770,
+    "regularMarketVolume": 20796936,
     "averageDailyVolume10Day": 16925890,
     "averageDailyVolume3Month": 27792447,
     "regularMarketPreviousClose": 84.56,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 85.98,
-    "fulldayChangePercent": 0.0567645,
-    "fulldayChange": 4.8,
+    "fulldayChangePercent": 0.056764465,
+    "fulldayChange": 4.800003,
     "fulldayPrice": 89.0733,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
@@ -3578,6 +3586,6 @@
     "profitMargins": -0.25402,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-06T06:49:45.533Z",
+  "lastUpdated": "2026-09-07T06:58:23.388Z",
   "source": "Static Build (yahoo-finance2)"
 }
