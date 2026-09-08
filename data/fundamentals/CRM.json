@@ -9911,17 +9911,17 @@
     "regularMarketDayLow": 257.82,
     "regularMarketVolume": 10336093,
     "averageDailyVolume10Day": 20371270,
-    "averageDailyVolume3Month": 15143946,
+    "averageDailyVolume3Month": 15207916,
     "regularMarketPreviousClose": 264.43,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 263.36,
-    "fulldayChangePercent": -0.0196649,
-    "fulldayChange": -5.19998,
+    "fulldayChangePercent": -0.033354733,
+    "fulldayChange": -8.819992,
     "fulldayPrice": 259.219,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "CRM",
     "underlyingSymbol": null,
@@ -9971,8 +9971,8 @@
     "lastSplitDate": 1366243200,
     "enterpriseToRevenue": 5.561,
     "enterpriseToEbitda": 18.941,
-    "52WeekChange": 0.02758944,
-    "SandP52WeekChange": 0.18836367,
+    "52WeekChange": 0.028445601,
+    "SandP52WeekChange": 0.18517768,
     "lastDividendValue": 0.44,
     "lastDividendDate": "2026-06-11T00:00:00.000Z",
     "latestShareClass": null,
@@ -10003,6 +10003,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 4500,
+        "value": 1172746,
+        "filerUrl": "",
+        "transactionText": "Sale at price 260.50 - 260.66 per share.",
+        "filerName": "CONWAY CRAIG",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-09-04T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 16000,
@@ -10629,10 +10641,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 487,
+        "shares": 1785,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "REDDY SUNDEEP G",
+        "filerName": "TALLAPRAGADA SRINIVAS D.",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-22T00:00:00.000Z",
@@ -10640,10 +10652,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 1785,
+        "shares": 487,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "TALLAPRAGADA SRINIVAS D.",
+        "filerName": "REDDY SUNDEEP G",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-22T00:00:00.000Z",
@@ -10689,7 +10701,7 @@
         "shares": 1016,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "NILES SABASTIAN",
+        "filerName": "MILANO MIGUEL",
         "filerRelation": "President",
         "moneyText": "",
         "startDate": "2025-12-22T00:00:00.000Z",
@@ -10700,7 +10712,7 @@
         "shares": 1016,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MILANO MIGUEL",
+        "filerName": "NILES SABASTIAN",
         "filerRelation": "President",
         "moneyText": "",
         "startDate": "2025-12-22T00:00:00.000Z",
@@ -10789,6 +10801,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1662,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MILANO MIGUEL",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2025-11-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 424,
         "filerUrl": "",
         "transactionText": "",
@@ -10826,17 +10849,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "NILES SABASTIAN",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2025-11-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1662,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MILANO MIGUEL",
         "filerRelation": "President",
         "moneyText": "",
         "startDate": "2025-11-21T00:00:00.000Z",
@@ -11714,18 +11726,6 @@
         "moneyText": "",
         "startDate": "2025-09-22T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2250,
-        "value": 558438,
-        "filerUrl": "",
-        "transactionText": "Sale at price 244.08 - 250.10 per share.",
-        "filerName": "BENIOFF MARC RUSSELL",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-09-22T00:00:00.000Z",
-        "ownership": "I"
       }
     ],
     "maxAge": 1
@@ -11762,6 +11762,6 @@
     "profitMargins": 0.2199,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-07T06:58:07.141Z",
+  "lastUpdated": "2026-09-08T06:53:25.456Z",
   "source": "Static Build (yahoo-finance2)"
 }

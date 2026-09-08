@@ -1283,7 +1283,7 @@
     "regularMarketDayLow": 16,
     "regularMarketVolume": 20478752,
     "averageDailyVolume10Day": 26167980,
-    "averageDailyVolume3Month": 32779857,
+    "averageDailyVolume3Month": 32935538,
     "regularMarketPreviousClose": 16.23,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 16.075,
@@ -1293,7 +1293,7 @@
     "exchange": "NCM",
     "exchangeName": "NasdaqCM",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "WULF",
     "underlyingSymbol": null,
@@ -1341,8 +1341,8 @@
     "lastSplitDate": 1084492800,
     "enterpriseToRevenue": 65.716,
     "enterpriseToEbitda": -40.073,
-    "52WeekChange": 0.7945652,
-    "SandP52WeekChange": 0.18836367,
+    "52WeekChange": 0.60291266,
+    "SandP52WeekChange": 0.18517768,
     "lastDividendValue": 5,
     "lastDividendDate": "2021-12-14T00:00:00.000Z",
     "latestShareClass": null,
@@ -2361,6 +2361,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 140000,
+        "value": 771400,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 5.51 per share.",
+        "filerName": "LANGLAIS KERRI M.",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-01-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 500000,
         "value": 2755000,
         "filerUrl": "",
@@ -2391,18 +2403,6 @@
         "transactionText": "Conversion of Exercise of derivative security at price 5.51 per share.",
         "filerName": "FLEURY PATRICK",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-01-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 140000,
-        "value": 771400,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 5.51 per share.",
-        "filerName": "LANGLAIS KERRI M.",
-        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2025-01-08T00:00:00.000Z",
         "ownership": "D"
@@ -2717,6 +2717,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-07T07:02:01.537Z",
+  "lastUpdated": "2026-09-08T06:57:10.324Z",
   "source": "Static Build (yahoo-finance2)"
 }
