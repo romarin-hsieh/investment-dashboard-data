@@ -3,9 +3,9 @@
     "trend": [
       {
         "period": "0m",
-        "strongBuy": 4,
+        "strongBuy": 5,
         "buy": 21,
-        "hold": 18,
+        "hold": 17,
         "sell": 2,
         "strongSell": 1
       },
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0788,
         "position": 33056139,
-        "value": 6014234010,
+        "value": 5769618279,
         "pctChange": 0.0348
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0634,
         "position": 26615598,
-        "value": 4842441965,
+        "value": 4645486296,
         "pctChange": 0.0184
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Harris Associates L.P.",
         "pctHeld": 0.045,
         "position": 18861551,
-        "value": 3431670634,
+        "value": 3292094984,
         "pctChange": -0.015700001
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0433,
         "position": 18150096,
-        "value": 3302228510,
+        "value": 3167917633,
         "pctChange": 0.0235
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.038599998,
         "position": 16173900,
-        "value": 2942679405,
+        "value": 2822992397,
         "pctChange": 0.0857
       },
       {
@@ -90,7 +90,7 @@
         "organization": "AQR Capital Management, LLC",
         "pctHeld": 0.0253,
         "position": 10624015,
-        "value": 1932933315,
+        "value": 1854315506,
         "pctChange": 0.32799998
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024600001,
         "position": 10340188,
-        "value": 1881293829,
+        "value": 1804776344,
         "pctChange": -0.0058999998
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0241,
         "position": 10104542,
-        "value": 1838420396,
+        "value": 1763646692,
         "pctChange": -0.0308
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0188,
         "position": 7906004,
-        "value": 1438418387,
+        "value": 1379913885,
         "pctChange": 0.0154
       },
       {
@@ -126,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.016,
         "position": 6713883,
-        "value": 1221523889,
+        "value": 1171841093,
         "pctChange": -0.1339
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01941,
-    "institutionsPercentHeld": 0.89519,
-    "institutionsFloatPercentHeld": 0.91292,
-    "institutionsCount": 1858
+    "institutionsPercentHeld": 0.89537,
+    "institutionsFloatPercentHeld": 0.91309,
+    "institutionsCount": 1861
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1786046573
         }
       ],
-      "currentQuarterEstimate": 2.85112,
+      "currentQuarterEstimate": 2.85506,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -261,6 +261,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-08T15:44:25.000Z",
+        "firm": "Raymond James",
+        "toGrade": "Outperform",
+        "fromGrade": "Market Perform",
+        "action": "up",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 200,
+        "priorPriceTarget": 0
+      },
+      {
+        "epochGradeDate": "2026-09-08T12:00:21.000Z",
+        "firm": "Baird",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 200,
+        "priorPriceTarget": 175
+      },
       {
         "epochGradeDate": "2026-09-01T11:59:55.000Z",
         "firm": "Rosenblatt",
@@ -4926,28 +4946,28 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.00032976564,
-    "postMarketChange": 0.05999756,
-    "postMarketTime": "2026-09-04T23:57:01.000Z",
-    "postMarketPrice": 182,
+    "preMarketSource": "DELAYED",
+    "postMarketChangePercent": -0.00023490528,
+    "postMarketChange": -0.041000366,
+    "postMarketTime": "2026-09-08T23:59:26.000Z",
+    "postMarketPrice": 174.499,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.017867733,
-    "regularMarketChange": -3.3099976,
-    "regularMarketTime": "2026-09-04T20:00:01.000Z",
+    "regularMarketChangePercent": -0.040672798,
+    "regularMarketChange": -7.40001,
+    "regularMarketTime": "2026-09-08T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 181.94,
-    "regularMarketDayHigh": 184.51,
-    "regularMarketDayLow": 181.16,
-    "regularMarketVolume": 3408787,
+    "regularMarketPrice": 174.54,
+    "regularMarketDayHigh": 182.79,
+    "regularMarketDayLow": 173.0327,
+    "regularMarketVolume": 7040714,
     "averageDailyVolume10Day": 4679120,
-    "averageDailyVolume3Month": 4380525,
-    "regularMarketPreviousClose": 185.25,
+    "averageDailyVolume3Month": 4395085,
+    "regularMarketPreviousClose": 181.94,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 183.19,
-    "fulldayChangePercent": -0.017867733,
-    "fulldayChange": -3.3099976,
-    "fulldayPrice": 182,
+    "regularMarketOpen": 181.635,
+    "fulldayChangePercent": -0.04237665,
+    "fulldayChange": -7.7100067,
+    "fulldayPrice": 174.499,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -4963,13 +4983,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 108943065088
+    "marketCap": 104512045056
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 97696219136,
-    "forwardPE": 29.63255,
+    "enterpriseValue": 93333282816,
+    "forwardPE": 28.382517,
     "profitMargins": 0.2045,
     "floatShares": 405841304,
     "sharesOutstanding": 419529556,
@@ -4979,14 +4999,14 @@
     "dateShortInterest": "2026-08-14T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0218,
     "heldPercentInsiders": 0.01941,
-    "heldPercentInstitutions": 0.89519,
+    "heldPercentInstitutions": 0.89537,
     "shortRatio": 2.69,
     "shortPercentOfFloat": 0.0311,
     "beta": 1.161,
     "impliedSharesOutstanding": 598785682,
     "category": null,
     "bookValue": 13.219,
-    "priceToBook": 13.763522,
+    "priceToBook": 13.203722,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4995,13 +5015,13 @@
     "earningsQuarterlyGrowth": 0.271,
     "netIncomeToCommon": 2691000064,
     "trailingEps": 4.38,
-    "forwardEps": 6.14554,
+    "forwardEps": 6.14956,
     "pegRatio": 1.73,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 7.424,
-    "enterpriseToEbitda": 35.384,
-    "52WeekChange": 0.46950972,
-    "SandP52WeekChange": 0.18517768,
+    "enterpriseToRevenue": 7.093,
+    "enterpriseToEbitda": 33.804,
+    "52WeekChange": 0.47427273,
+    "SandP52WeekChange": 0.18165231,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -6803,14 +6823,14 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 181.94,
+    "currentPrice": 174.54,
     "targetHighPrice": 220,
     "targetLowPrice": 125,
-    "targetMeanPrice": 179.4625,
-    "targetMedianPrice": 184,
-    "recommendationMean": 2.1087,
+    "targetMeanPrice": 180.57317,
+    "targetMedianPrice": 185,
+    "recommendationMean": 2.08696,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 40,
+    "numberOfAnalystOpinions": 41,
     "totalCash": 12069000192,
     "totalCashPerShare": 20.47,
     "ebitda": 2760999936,
@@ -6833,6 +6853,6 @@
     "profitMargins": 0.2045,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-08T06:57:16.026Z",
+  "lastUpdated": "2026-09-09T07:05:53.068Z",
   "source": "Static Build (yahoo-finance2)"
 }
