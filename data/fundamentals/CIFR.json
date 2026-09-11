@@ -45,7 +45,7 @@
         "organization": "V3 Holding Ltd                          ",
         "pctHeld": 0.14050001,
         "position": 58316694,
-        "value": 985552106,
+        "value": 929568077,
         "pctChange": -0.048899997
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0733,
         "position": 30414668,
-        "value": 514007877,
+        "value": 484809795,
         "pctChange": 0.0686
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0581,
         "position": 24124026,
-        "value": 407696030,
+        "value": 384536964,
         "pctChange": 0.0813
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0397,
         "position": 16494048,
-        "value": 278749404,
+        "value": 262915118,
         "pctChange": 0.0214
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Jane Street Group, LLC",
         "pctHeld": 0.0372,
         "position": 15434258,
-        "value": 260838954,
+        "value": 246022066,
         "pctChange": 0.3505
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0.035,
         "position": 14507309,
-        "value": 245173516,
+        "value": 231246499,
         "pctChange": -0.1148
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0287,
         "position": 11929222,
-        "value": 201603847,
+        "value": 190151793,
         "pctChange": 2.3296
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Value Aligned Research Advisors, LLC                          ",
         "pctHeld": 0.026800001,
         "position": 11125393,
-        "value": 188019137,
+        "value": 177338759,
         "pctChange": 0.0113
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.021300001,
         "position": 8823904,
-        "value": 149123974,
+        "value": 140653026,
         "pctChange": 0.0493
       },
       {
@@ -126,7 +126,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.020599999,
         "position": 8565797,
-        "value": 144761966,
+        "value": 136538800,
         "pctChange": 0.0373
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.0354,
-    "institutionsPercentHeld": 0.94652003,
-    "institutionsFloatPercentHeld": 0.98125,
-    "institutionsCount": 601
+    "institutionsPercentHeld": 0.94922996,
+    "institutionsFloatPercentHeld": 0.98406,
+    "institutionsCount": 600
   },
   "earnings": {
     "maxAge": 86400,
@@ -227,6 +227,13 @@
       ],
       "quarterly": [
         {
+          "date": "2Q2025",
+          "fiscalQuarter": "2Q2025",
+          "revenue": 43565000,
+          "earnings": -45781000,
+          "profitMargin": -1.0508665
+        },
+        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 71707000,
@@ -246,13 +253,6 @@
           "revenue": 34838000,
           "earnings": -114316000,
           "profitMargin": -3.2813594
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "2Q2026",
-          "revenue": 24837000,
-          "earnings": -267529000,
-          "profitMargin": -10.771389
         }
       ]
     },
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-10T11:53:56.000Z",
+        "firm": "Rosenblatt",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 30,
+        "priorPriceTarget": 30
+      },
       {
         "epochGradeDate": "2026-09-04T11:37:04.000Z",
         "firm": "Rosenblatt",
@@ -1477,27 +1487,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "DELAYED",
-    "postMarketChangePercent": -0.008875717,
-    "postMarketChange": -0.14999962,
-    "postMarketTime": "2026-09-09T23:59:48.000Z",
-    "postMarketPrice": 16.75,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.08698,
-    "regularMarketChange": -1.61,
-    "regularMarketTime": "2026-09-09T20:00:01.000Z",
+    "postMarketChangePercent": 0.0012484519,
+    "postMarketChange": 0.019900322,
+    "postMarketTime": "2026-09-10T23:59:53.000Z",
+    "postMarketPrice": 15.9599,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.0568047,
+    "regularMarketChange": -0.96,
+    "regularMarketTime": "2026-09-10T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 16.9,
-    "regularMarketDayHigh": 18.69,
-    "regularMarketDayLow": 16.85,
-    "regularMarketVolume": 41947213,
-    "averageDailyVolume10Day": 28402480,
-    "averageDailyVolume3Month": 30025218,
-    "regularMarketPreviousClose": 18.51,
+    "regularMarketPrice": 15.94,
+    "regularMarketDayHigh": 16.46,
+    "regularMarketDayLow": 15.28,
+    "regularMarketVolume": 46980968,
+    "averageDailyVolume10Day": 29703880,
+    "averageDailyVolume3Month": 30225517,
+    "regularMarketPreviousClose": 16.9,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 18.55,
-    "fulldayChangePercent": -0.09454349,
-    "fulldayChange": -1.75,
-    "fulldayPrice": 16.75,
+    "regularMarketOpen": 16.05,
+    "fulldayChangePercent": -0.043195236,
+    "fulldayChange": -0.72999954,
+    "fulldayPrice": 15.9599,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -1508,48 +1518,48 @@
     "shortName": "Cipher Digital Inc.",
     "longName": "Cipher Digital Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 7014019072
+    "marketCap": 6615589376
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 11794669568,
-    "forwardPE": 77.998795,
+    "enterpriseValue": 11396239360,
+    "forwardPE": 73.56809,
     "profitMargins": 0,
     "floatShares": 341624238,
     "sharesOutstanding": 415030722,
-    "sharesShort": 65492692,
-    "sharesShortPriorMonth": "1971-10-12T07:03:50.000Z",
-    "sharesShortPreviousMonthDate": "2026-07-15T00:00:00.000Z",
-    "dateShortInterest": "2026-08-14T00:00:00.000Z",
-    "sharesPercentSharesOut": 0.1578,
+    "sharesShort": 71618299,
+    "sharesShortPriorMonth": "1971-10-06T22:54:54.000Z",
+    "sharesShortPreviousMonthDate": "2026-07-31T00:00:00.000Z",
+    "dateShortInterest": "2026-08-31T00:00:00.000Z",
+    "sharesPercentSharesOut": 0.1726,
     "heldPercentInsiders": 0.0354,
-    "heldPercentInstitutions": 0.94652003,
-    "shortRatio": 2.01,
-    "shortPercentOfFloat": 0.192,
+    "heldPercentInstitutions": 0.94922996,
+    "shortRatio": 1.97,
+    "shortPercentOfFloat": 0.20989999,
     "beta": 3.167,
     "impliedSharesOutstanding": 415030722,
     "category": null,
     "bookValue": 1.357,
-    "priceToBook": 12.453942,
+    "priceToBook": 11.746499,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -1119332992,
-    "trailingEps": -2.61,
+    "trailingEps": -2.7,
     "forwardEps": 0.21667,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 61.722,
-    "enterpriseToEbitda": 122.755,
-    "52WeekChange": 0.85656977,
-    "SandP52WeekChange": 0.17475092,
+    "enterpriseToRevenue": 59.637,
+    "enterpriseToEbitda": 118.608,
+    "52WeekChange": 0.6950853,
+    "SandP52WeekChange": 0.15922499,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1834,11 +1844,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
-        "value": 436400,
+        "shares": 28169,
+        "value": 627042,
         "filerUrl": "",
-        "transactionText": "Sale at price 21.82 per share.",
-        "filerName": "GROSSMAN CARY M",
+        "transactionText": "Sale at price 22.26 per share.",
+        "filerName": "WILLIAMS WESLEY HASTIE",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-06T00:00:00.000Z",
@@ -1846,11 +1856,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 28169,
-        "value": 627042,
+        "shares": 20000,
+        "value": 436400,
         "filerUrl": "",
-        "transactionText": "Sale at price 22.26 per share.",
-        "filerName": "WILLIAMS WESLEY HASTIE",
+        "transactionText": "Sale at price 21.82 per share.",
+        "filerName": "GROSSMAN CARY M",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-06T00:00:00.000Z",
@@ -2043,11 +2053,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 21821,
-        "value": 349791,
+        "shares": 49867,
+        "value": 801861,
         "filerUrl": "",
-        "transactionText": "Sale at price 16.03 per share.",
-        "filerName": "NEWSOME JAMES E",
+        "transactionText": "Sale at price 16.08 per share.",
+        "filerName": "WILLIAMS WESLEY HASTIE",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-19T00:00:00.000Z",
@@ -2055,11 +2065,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 49867,
-        "value": 801861,
+        "shares": 21821,
+        "value": 349791,
         "filerUrl": "",
-        "transactionText": "Sale at price 16.08 per share.",
-        "filerName": "WILLIAMS WESLEY HASTIE",
+        "transactionText": "Sale at price 16.03 per share.",
+        "filerName": "NEWSOME JAMES E",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-12-19T00:00:00.000Z",
@@ -2148,11 +2158,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 16269,
-        "value": 282918,
+        "shares": 18769,
+        "value": 328645,
         "filerUrl": "",
-        "transactionText": "Sale at price 17.39 per share.",
-        "filerName": "EVANS HOLLY MORROW",
+        "transactionText": "Sale at price 17.51 per share.",
+        "filerName": "WILLIAMS WESLEY HASTIE",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-11-12T00:00:00.000Z",
@@ -2160,11 +2170,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 18769,
-        "value": 328645,
+        "shares": 16269,
+        "value": 282918,
         "filerUrl": "",
-        "transactionText": "Sale at price 17.51 per share.",
-        "filerName": "WILLIAMS WESLEY HASTIE",
+        "transactionText": "Sale at price 17.39 per share.",
+        "filerName": "EVANS HOLLY MORROW",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-11-12T00:00:00.000Z",
@@ -2965,7 +2975,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 16.9,
+    "currentPrice": 15.94,
     "targetHighPrice": 69,
     "targetLowPrice": 22,
     "targetMeanPrice": 32.17647,
@@ -2994,6 +3004,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-10T07:00:27.237Z",
+  "lastUpdated": "2026-09-11T07:00:39.789Z",
   "source": "Static Build (yahoo-finance2)"
 }

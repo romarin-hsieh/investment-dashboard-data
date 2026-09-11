@@ -3,7 +3,7 @@
     "trend": [
       {
         "period": "0m",
-        "strongBuy": 6,
+        "strongBuy": 7,
         "buy": 40,
         "hold": 3,
         "sell": 0,
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0837,
         "position": 398213826,
-        "value": 145101155862,
+        "value": 143687489488,
         "pctChange": 0.0318
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.065,
         "position": 309168582,
-        "value": 112654849418,
+        "value": 111557295291,
         "pctChange": 0.0037
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0414,
         "position": 196900541,
-        "value": 71746620091,
+        "value": 71047619565,
         "pctChange": 0.028800001
       },
       {
@@ -72,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.030299999,
         "position": 144359173,
-        "value": 52601596162,
+        "value": 52089118455,
         "pctChange": 0.16309999
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.026700001,
         "position": 127001513,
-        "value": 46276811927,
+        "value": 45825954230,
         "pctChange": -0.0111
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0256,
         "position": 121892859,
-        "value": 44415320557,
+        "value": 43982598676,
         "pctChange": 0.049099997
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024500001,
         "position": 116394795,
-        "value": 42411935970,
+        "value": 41998732316,
         "pctChange": 0.0185
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.0238,
         "position": 113126312,
-        "value": 41220966118,
+        "value": 40819365639,
         "pctChange": -0.025
       },
       {
@@ -117,7 +117,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.02,
         "position": 95016148,
-        "value": 34621984472,
+        "value": 34284675406,
         "pctChange": 0.0352
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0174,
         "position": 82851970,
-        "value": 30189601233,
+        "value": 29895475222,
         "pctChange": -0.019199999
       }
     ]
@@ -136,7 +136,7 @@
     "insidersPercentHeld": 0.01948,
     "institutionsPercentHeld": 0.80167997,
     "institutionsFloatPercentHeld": 0.8176,
-    "institutionsCount": 6309
+    "institutionsCount": 6310
   },
   "earnings": {
     "maxAge": 86400,
@@ -176,7 +176,7 @@
           "reportedDate": 1788380100
         }
       ],
-      "currentQuarterEstimate": 3.82593,
+      "currentQuarterEstimate": 3.82578,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -216,6 +216,13 @@
       ],
       "quarterly": [
         {
+          "date": "2Q2025",
+          "fiscalQuarter": "3Q2025",
+          "revenue": 15952000000,
+          "earnings": 4140000000,
+          "profitMargin": 0.25952858
+        },
+        {
           "date": "3Q2025",
           "fiscalQuarter": "4Q2025",
           "revenue": 18015000000,
@@ -235,13 +242,6 @@
           "revenue": 22187000000,
           "earnings": 9310000000,
           "profitMargin": 0.4196151
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "3Q2026",
-          "revenue": 29591000000,
-          "earnings": 13088000000,
-          "profitMargin": 0.44229665
         }
       ]
     },
@@ -250,6 +250,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-10T15:15:47.000Z",
+        "firm": "Piper Sandler",
+        "toGrade": "Overweight",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 460,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-09-04T16:14:42.000Z",
         "firm": "Citigroup",
@@ -6565,28 +6575,28 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketSource": "DELAYED",
-    "postMarketChangePercent": -0.0010428807,
-    "postMarketChange": -0.38000488,
-    "postMarketTime": "2026-09-09T23:59:56.000Z",
-    "postMarketPrice": 364,
+    "preMarketSource": "FREE_REALTIME",
+    "postMarketChangePercent": -0.0038799269,
+    "postMarketChange": -1.3999939,
+    "postMarketTime": "2026-09-10T23:59:58.000Z",
+    "postMarketPrice": 359.43,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.0113414,
-    "regularMarketChange": -4.17999,
-    "regularMarketTime": "2026-09-09T20:00:01.000Z",
+    "regularMarketChangePercent": -0.00974263,
+    "regularMarketChange": -3.55002,
+    "regularMarketTime": "2026-09-10T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 364.38,
-    "regularMarketDayHigh": 368.01,
-    "regularMarketDayLow": 359.25,
-    "regularMarketVolume": 24562370,
-    "averageDailyVolume10Day": 27881960,
-    "averageDailyVolume3Month": 24041226,
-    "regularMarketPreviousClose": 368.56,
+    "regularMarketPrice": 360.83,
+    "regularMarketDayHigh": 365.27,
+    "regularMarketDayLow": 357.785,
+    "regularMarketVolume": 21364163,
+    "averageDailyVolume10Day": 28672290,
+    "averageDailyVolume3Month": 23889268,
+    "regularMarketPreviousClose": 364.38,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 366.47,
-    "fulldayChangePercent": -0.014298864,
-    "fulldayChange": -5.269989,
-    "fulldayPrice": 364,
+    "regularMarketOpen": 360.02,
+    "fulldayChangePercent": -0.0065865135,
+    "fulldayChange": -2.399994,
+    "fulldayPrice": 359.43,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -6602,30 +6612,30 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 1733567184896
+    "marketCap": 1722468794368
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 1772079022080,
-    "forwardPE": 18.794197,
+    "enterpriseValue": 1755159724032,
+    "forwardPE": 18.614923,
     "profitMargins": 0.42944,
     "floatShares": 4707235220,
-    "sharesOutstanding": 4757580198,
-    "sharesShort": 56209128,
-    "sharesShortPriorMonth": "1972-03-05T10:22:09.000Z",
-    "sharesShortPreviousMonthDate": "2026-07-15T00:00:00.000Z",
-    "dateShortInterest": "2026-08-14T00:00:00.000Z",
-    "sharesPercentSharesOut": 0.0117999995,
+    "sharesOutstanding": 4773629865,
+    "sharesShort": 50451889,
+    "sharesShortPriorMonth": "1971-12-10T06:55:52.000Z",
+    "sharesShortPreviousMonthDate": "2026-07-31T00:00:00.000Z",
+    "dateShortInterest": "2026-08-31T00:00:00.000Z",
+    "sharesPercentSharesOut": 0.0106,
     "heldPercentInsiders": 0.01948,
     "heldPercentInstitutions": 0.80167997,
-    "shortRatio": 3.03,
-    "shortPercentOfFloat": 0.012,
+    "shortRatio": 2.58,
+    "shortPercentOfFloat": 0.0108,
     "beta": 1.457,
-    "impliedSharesOutstanding": 4757580198,
+    "impliedSharesOutstanding": 4773629865,
     "category": null,
     "bookValue": 20.917,
-    "priceToBook": 17.42028,
+    "priceToBook": 17.25056,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-11-02T00:00:00.000Z",
@@ -6635,13 +6645,13 @@
     "netIncomeToCommon": 38264999936,
     "trailingEps": 7.76,
     "forwardEps": 19.38391,
-    "pegRatio": 0.35,
+    "pegRatio": 0.36,
     "lastSplitFactor": "10:1",
     "lastSplitDate": 1721001600,
-    "enterpriseToRevenue": 19.888,
-    "enterpriseToEbitda": 34.04,
-    "52WeekChange": 0.024831057,
-    "SandP52WeekChange": 0.17475092,
+    "enterpriseToRevenue": 19.698,
+    "enterpriseToEbitda": 33.715,
+    "52WeekChange": 0.012532353,
+    "SandP52WeekChange": 0.15922499,
     "lastDividendValue": 0.65,
     "lastDividendDate": "2026-06-22T00:00:00.000Z",
     "latestShareClass": null,
@@ -6819,42 +6829,6 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "YOU HARRY L",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-04-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 864,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "DELLY GAYLA J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-04-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 864,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HAO KENNETH Y",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-04-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 864,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BRYANT DIANE M",
         "filerRelation": "Director",
         "moneyText": "",
@@ -6880,6 +6854,42 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "PAGE JUSTINE F.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-04-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 864,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HAO KENNETH Y",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-04-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 864,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "YOU HARRY L",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-04-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 864,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "DELLY GAYLA J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-04-20T00:00:00.000Z",
@@ -6983,24 +6993,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 64379,
-        "value": 20819103,
-        "filerUrl": "",
-        "transactionText": "Sale at price 317.95 - 328.77 per share.",
-        "filerName": "VELAGA S. RAM",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 60154,
         "value": 19452716,
         "filerUrl": "",
         "transactionText": "Sale at price 318.05 - 328.52 per share.",
         "filerName": "SPEARS KIRSTEN MARGRETA",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-03-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 64379,
+        "value": 20819103,
+        "filerUrl": "",
+        "transactionText": "Sale at price 317.95 - 328.77 per share.",
+        "filerName": "VELAGA S. RAM",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-17T00:00:00.000Z",
         "ownership": "D"
@@ -7587,66 +7597,6 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HARTENSTEIN EDDY W.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-04-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1602,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "YOU HARRY L",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-04-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1602,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "SAMUELI HENRY",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-04-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1602,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "DELLY GAYLA J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-04-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1602,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HAO KENNETH Y",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-04-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1602,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "BRYANT DIANE M",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7672,6 +7622,66 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "PAGE JUSTINE F.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-04-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1602,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SAMUELI HENRY",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-04-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1602,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HAO KENNETH Y",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-04-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1602,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "YOU HARRY L",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-04-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1602,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "HARTENSTEIN EDDY W.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-04-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1602,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "DELLY GAYLA J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-04-21T00:00:00.000Z",
@@ -8066,14 +8076,14 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 364.38,
+    "currentPrice": 360.83,
     "targetHighPrice": 715,
     "targetLowPrice": 215.88,
-    "targetMeanPrice": 533.4087,
-    "targetMedianPrice": 537.5,
-    "recommendationMean": 1.2449,
+    "targetMeanPrice": 531.8468,
+    "targetMedianPrice": 535,
+    "recommendationMean": 1.26,
     "recommendationKey": "strong_buy",
-    "numberOfAnalystOpinions": 46,
+    "numberOfAnalystOpinions": 47,
     "totalCash": 23975000064,
     "totalCashPerShare": 5.03,
     "ebitda": 52058001408,
@@ -8096,6 +8106,6 @@
     "profitMargins": 0.42944,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-10T06:58:30.675Z",
+  "lastUpdated": "2026-09-11T06:58:36.293Z",
   "source": "Static Build (yahoo-finance2)"
 }
