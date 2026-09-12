@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0505,
         "position": 145353687,
-        "value": 22230393244,
+        "value": 21843751904,
         "pctChange": 0.0143
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0388,
         "position": 111788001,
-        "value": 17096857145,
+        "value": 16799500653,
         "pctChange": 0.0061000003
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0273,
         "position": 78645193,
-        "value": 12027996009,
+        "value": 11818799508,
         "pctChange": 0.0307
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0199,
         "position": 57285664,
-        "value": 8761269592,
+        "value": 8608889515,
         "pctChange": 0.0095
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.0138,
         "position": 39746237,
-        "value": 6078789583,
+        "value": 5973064447,
         "pctChange": 0.2367
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0136,
         "position": 39248959,
-        "value": 6002735885,
+        "value": 5898333510,
         "pctChange": 0.0077
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0106,
         "position": 30551196,
-        "value": 4672499990,
+        "value": 4591233697,
         "pctChange": 0.048699997
       },
       {
@@ -108,7 +108,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.009,
         "position": 26025909,
-        "value": 3980402585,
+        "value": 3911173572,
         "pctChange": 0.1375
       },
       {
@@ -117,7 +117,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0087,
         "position": 25002553,
-        "value": 3823890516,
+        "value": 3757383634,
         "pctChange": 0.123900004
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0083,
         "position": 23954012,
-        "value": 3663526653,
+        "value": 3599808894,
         "pctChange": 0.5571
       }
     ]
@@ -187,14 +187,16 @@
           "reportedDate": 1789071000
         }
       ],
-      "currentQuarterEstimate": 1.8876,
+      "currentQuarterEstimate": 1.87407,
       "currentQuarterEstimateDate": "4Q",
       "currentCalendarQuarter": "4Q2026",
       "currentQuarterEstimateYear": 2026,
       "currentFiscalQuarter": "2Q2027",
       "currentPeriodEndDate": 1795996800,
-      "earningsDate": [],
-      "isEarningsDateEstimate": false
+      "earningsDate": [
+        "2026-12-10T20:00:00.000Z"
+      ],
+      "isEarningsDateEstimate": true
     },
     "financialsChart": {
       "yearly": [
@@ -259,6 +261,106 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-11T15:51:10.000Z",
+        "firm": "Stifel",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 200,
+        "priorPriceTarget": 220
+      },
+      {
+        "epochGradeDate": "2026-09-11T14:45:00.000Z",
+        "firm": "TD Cowen",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 240,
+        "priorPriceTarget": 240
+      },
+      {
+        "epochGradeDate": "2026-09-11T14:12:26.000Z",
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 250,
+        "priorPriceTarget": 245
+      },
+      {
+        "epochGradeDate": "2026-09-11T13:56:30.000Z",
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 225,
+        "priorPriceTarget": 225
+      },
+      {
+        "epochGradeDate": "2026-09-11T13:52:46.000Z",
+        "firm": "RBC Capital",
+        "toGrade": "Sector Perform",
+        "fromGrade": "Sector Perform",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 165,
+        "priorPriceTarget": 190
+      },
+      {
+        "epochGradeDate": "2026-09-11T13:49:56.000Z",
+        "firm": "Barclays",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 252,
+        "priorPriceTarget": 250
+      },
+      {
+        "epochGradeDate": "2026-09-11T13:33:11.000Z",
+        "firm": "Guggenheim",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 400,
+        "priorPriceTarget": 400
+      },
+      {
+        "epochGradeDate": "2026-09-11T13:25:23.000Z",
+        "firm": "BMO Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 195,
+        "priorPriceTarget": 220
+      },
+      {
+        "epochGradeDate": "2026-09-11T13:07:11.000Z",
+        "firm": "Stephens & Co.",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 175,
+        "priorPriceTarget": 175
+      },
+      {
+        "epochGradeDate": "2026-09-11T11:01:02.000Z",
+        "firm": "Cantor Fitzgerald",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 284,
+        "priorPriceTarget": 284
+      },
       {
         "epochGradeDate": "2026-09-09T20:23:22.000Z",
         "firm": "Scotiabank",
@@ -6815,31 +6917,31 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.04132334,
-    "postMarketChange": 6.319992,
-    "postMarketTime": "2026-09-10T23:59:53.000Z",
-    "postMarketPrice": 159.26,
+    "postMarketChangePercent": -0.016436603,
+    "postMarketChange": -2.4700928,
+    "postMarketTime": "2026-09-11T23:59:59.000Z",
+    "postMarketPrice": 147.8099,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0537648,
-    "regularMarketChange": -8.69,
-    "regularMarketTime": "2026-09-10T20:05:08.000Z",
+    "regularMarketChangePercent": -0.0173925,
+    "regularMarketChange": -2.66,
+    "regularMarketTime": "2026-09-11T20:04:42.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 152.94,
-    "regularMarketDayHigh": 159.22,
-    "regularMarketDayLow": 152.61,
-    "regularMarketVolume": 50925752,
-    "averageDailyVolume10Day": 24668680,
-    "averageDailyVolume3Month": 31117275,
-    "regularMarketPreviousClose": 161.63,
+    "regularMarketPrice": 150.28,
+    "regularMarketDayHigh": 165.99,
+    "regularMarketDayLow": 149.84,
+    "regularMarketVolume": 78527486,
+    "averageDailyVolume10Day": 28508540,
+    "averageDailyVolume3Month": 31564200,
+    "regularMarketPreviousClose": 152.94,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 158.375,
-    "fulldayChangePercent": -0.002227313,
-    "fulldayChange": -0.3600006,
-    "fulldayPrice": 159.26,
+    "regularMarketOpen": 164.43,
+    "fulldayChangePercent": -0.0173925,
+    "fulldayChange": -2.66,
+    "fulldayPrice": 147.8099,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "ORCL",
     "underlyingSymbol": null,
@@ -6851,13 +6953,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 440539250688
+    "marketCap": 432877174784
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 581579243520,
-    "forwardPE": 13.945881,
+    "forwardPE": 13.635513,
     "profitMargins": 0.25368,
     "floatShares": 1713332956,
     "sharesOutstanding": 2880471000,
@@ -6874,7 +6976,7 @@
     "impliedSharesOutstanding": 2880471000,
     "category": null,
     "bookValue": 13.04,
-    "priceToBook": 11.728528,
+    "priceToBook": 11.52454,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-05-31T00:00:00.000Z",
@@ -6882,15 +6984,15 @@
     "mostRecentQuarter": "2026-05-31T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.256,
     "netIncomeToCommon": 16984000512,
-    "trailingEps": 5.52,
-    "forwardEps": 10.99542,
+    "trailingEps": 6.27,
+    "forwardEps": 10.99412,
     "pegRatio": 0.91,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 971395200,
     "enterpriseToRevenue": 8.634,
     "enterpriseToEbitda": 19.072,
-    "52WeekChange": -0.44681358,
-    "SandP52WeekChange": 0.15922499,
+    "52WeekChange": -0.49381083,
+    "SandP52WeekChange": 0.15300202,
     "lastDividendValue": 0.5,
     "lastDividendDate": "2026-07-10T00:00:00.000Z",
     "latestShareClass": null,
@@ -6922,18 +7024,6 @@
       {
         "maxAge": 1,
         "shares": 400000,
-        "value": 63664040,
-        "filerUrl": "",
-        "transactionText": "Sale at price 156.06 - 165.57 per share.",
-        "filerName": "HENLEY JEFFREY O",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2026-06-24T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 400000,
         "value": 16372000,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 40.93 per share.",
@@ -6945,10 +7035,22 @@
       },
       {
         "maxAge": 1,
+        "shares": 400000,
+        "value": 63664040,
+        "filerUrl": "",
+        "transactionText": "Sale at price 156.06 - 165.57 per share.",
+        "filerName": "HENLEY JEFFREY O",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-06-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2114,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BOSKIN MICHAEL J",
+        "filerName": "MOORMAN CHARLES W IV",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-29T00:00:00.000Z",
@@ -6959,7 +7061,18 @@
         "shares": 2114,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ABLO AWO",
+        "filerName": "CHIZEN BRUCE R",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2114,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BOSKIN MICHAEL J",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-29T00:00:00.000Z",
@@ -6992,18 +7105,7 @@
         "shares": 2114,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "CHIZEN BRUCE R",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2114,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MOORMAN CHARLES W IV",
+        "filerName": "ABLO AWO",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-29T00:00:00.000Z",
@@ -7324,18 +7426,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 21241,
-        "value": 6310865,
-        "filerUrl": "",
-        "transactionText": "Sale at price 297.11 per share.",
-        "filerName": "MAGOUYRK CLAYTON M",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2025-09-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 11500,
         "value": 3519000,
         "filerUrl": "",
@@ -7348,6 +7438,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 21241,
+        "value": 6310865,
+        "filerUrl": "",
+        "transactionText": "Sale at price 297.11 per share.",
+        "filerName": "MAGOUYRK CLAYTON M",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2025-09-12T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 15880,
         "value": 4041142,
         "filerUrl": "",
@@ -7356,18 +7458,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 183,
-        "value": 44222,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 241.21 per share.",
-        "filerName": "SICILIA MICHAEL D",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-04T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7409,6 +7499,18 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "MAGOUYRK CLAYTON M",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 183,
+        "value": 44222,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 241.21 per share.",
+        "filerName": "SICILIA MICHAEL D",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-04T00:00:00.000Z",
@@ -7477,18 +7579,6 @@
       {
         "maxAge": 1,
         "shares": 1260508,
-        "value": 267244339,
-        "filerUrl": "",
-        "transactionText": "Sale at price 210.35 - 214.25 per share.",
-        "filerName": "CATZ SAFRA A",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-06-27T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1260508,
         "value": 64449774,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
@@ -7500,10 +7590,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 3739492,
-        "value": 794635666,
+        "shares": 1260508,
+        "value": 267244339,
         "filerUrl": "",
-        "transactionText": "Sale at price 210.64 - 216.82 per share.",
+        "transactionText": "Sale at price 210.35 - 214.25 per share.",
+        "filerName": "CATZ SAFRA A",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-06-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3739492,
+        "value": 191200226,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
         "filerName": "CATZ SAFRA A",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7513,9 +7615,9 @@
       {
         "maxAge": 1,
         "shares": 3739492,
-        "value": 191200226,
+        "value": 794635666,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
+        "transactionText": "Sale at price 210.64 - 216.82 per share.",
         "filerName": "CATZ SAFRA A",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7537,9 +7639,9 @@
       {
         "maxAge": 1,
         "shares": 3694918,
-        "value": 764007886,
+        "value": 188921157,
         "filerUrl": "",
-        "transactionText": "Sale at price 203.36 - 213.19 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
         "filerName": "CATZ SAFRA A",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7549,9 +7651,9 @@
       {
         "maxAge": 1,
         "shares": 3694918,
-        "value": 188921157,
+        "value": 764007886,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
+        "transactionText": "Sale at price 203.36 - 213.19 per share.",
         "filerName": "CATZ SAFRA A",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7585,6 +7687,18 @@
       {
         "maxAge": 1,
         "shares": 400000,
+        "value": 16144000,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 40.36 per share.",
+        "filerName": "HENLEY JEFFREY O",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-06-12T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 400000,
         "value": 76169016,
         "filerUrl": "",
         "transactionText": "Sale at price 190.41 - 191.00 per share.",
@@ -7596,15 +7710,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 400000,
-        "value": 16144000,
+        "shares": 2986,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 40.36 per share.",
-        "filerName": "HENLEY JEFFREY O",
-        "filerRelation": "Officer and Director",
+        "transactionText": "",
+        "filerName": "MOORMAN CHARLES W IV",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2025-06-12T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2025-05-30T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -7633,6 +7746,17 @@
         "shares": 2986,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "CHIZEN BRUCE R",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2986,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "BOSKIN MICHAEL J",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7645,17 +7769,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "SELIGMAN NAOMI O",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2986,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ABLO AWO",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-30T00:00:00.000Z",
@@ -7699,18 +7812,7 @@
         "shares": 2986,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "CHIZEN BRUCE R",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2986,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MOORMAN CHARLES W IV",
+        "filerName": "ABLO AWO",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-30T00:00:00.000Z",
@@ -7743,9 +7845,9 @@
       {
         "maxAge": 1,
         "shares": 17500,
-        "value": 2646651,
+        "value": 761075,
         "filerUrl": "",
-        "transactionText": "Sale at price 151.24 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 43.49 per share.",
         "filerName": "PANETTA LEON E",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7755,9 +7857,9 @@
       {
         "maxAge": 1,
         "shares": 17500,
-        "value": 761075,
+        "value": 2646651,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 43.49 per share.",
+        "transactionText": "Sale at price 151.24 per share.",
         "filerName": "PANETTA LEON E",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7815,9 +7917,9 @@
       {
         "maxAge": 1,
         "shares": 3805082,
-        "value": 705455414,
+        "value": 194553843,
         "filerUrl": "",
-        "transactionText": "Sale at price 185.12 - 190.10 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
         "filerName": "CATZ SAFRA A",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7827,9 +7929,9 @@
       {
         "maxAge": 1,
         "shares": 3805082,
-        "value": 194553843,
+        "value": 705455414,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 51.13 per share.",
+        "transactionText": "Sale at price 185.12 - 190.10 per share.",
         "filerName": "CATZ SAFRA A",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -7884,10 +7986,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 5506,
+        "shares": 66070,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SMITH MARIA",
+        "filerName": "SCREVEN EDWARD LLOYD",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-09-20T00:00:00.000Z",
@@ -7895,10 +7997,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 66070,
+        "shares": 5506,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SCREVEN EDWARD LLOYD",
+        "filerName": "SMITH MARIA",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-09-20T00:00:00.000Z",
@@ -7929,14 +8031,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 26336,
+        "shares": 39549,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LEVEY STUART A",
+        "filerName": "SCREVEN EDWARD LLOYD",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-09-13T00:00:00.000Z",
-        "ownership": "D"
+        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -7951,28 +8053,28 @@
       },
       {
         "maxAge": 1,
-        "shares": 39549,
+        "shares": 26336,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SCREVEN EDWARD LLOYD",
+        "filerName": "LEVEY STUART A",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-09-13T00:00:00.000Z",
-        "ownership": "D/I"
+        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 152.94,
+    "currentPrice": 150.28,
     "targetHighPrice": 400,
     "targetLowPrice": 110,
-    "targetMeanPrice": 241.42714,
-    "targetMedianPrice": 239.5,
+    "targetMeanPrice": 241.41318,
+    "targetMedianPrice": 240,
     "recommendationMean": 1.59091,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 42,
+    "numberOfAnalystOpinions": 41,
     "totalCash": 31893999616,
     "totalCashPerShare": 11.072,
     "ebitda": 30493999104,
@@ -7995,6 +8097,6 @@
     "profitMargins": 0.25368,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-11T06:58:26.720Z",
+  "lastUpdated": "2026-09-12T06:49:56.791Z",
   "source": "Static Build (yahoo-finance2)"
 }

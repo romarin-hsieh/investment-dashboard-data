@@ -37,7 +37,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.0714,
         "position": 29311762,
-        "value": 299273091,
+        "value": 252374260,
         "pctChange": 0.4632
       },
       {
@@ -46,7 +46,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.063,
         "position": 25857274,
-        "value": 264002768,
+        "value": 222631120,
         "pctChange": 1.0124
       },
       {
@@ -55,7 +55,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0369,
         "position": 15151963,
-        "value": 154701542,
+        "value": 130458396,
         "pctChange": 0.384
       },
       {
@@ -64,7 +64,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0343,
         "position": 14079030,
-        "value": 143746896,
+        "value": 121220443,
         "pctChange": 0.3118
       },
       {
@@ -73,7 +73,7 @@
         "organization": "Marex Group Ltd.",
         "pctHeld": 0.031,
         "position": 12711180,
-        "value": 129781148,
+        "value": 109443255,
         "pctChange": 0.3971
       },
       {
@@ -82,7 +82,7 @@
         "organization": "Mirae Asset Global ETFs Holdings Ltd.",
         "pctHeld": 0.0287,
         "position": 11769071,
-        "value": 120162215,
+        "value": 101331697,
         "pctChange": 0.0277
       },
       {
@@ -91,7 +91,7 @@
         "organization": "Two Sigma Investments, LP",
         "pctHeld": 0.028399998,
         "position": 11655351,
-        "value": 119001134,
+        "value": 100352568,
         "pctChange": 2.1304
       },
       {
@@ -100,7 +100,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0223,
         "position": 9138597,
-        "value": 93305075,
+        "value": 78683317,
         "pctChange": 0.29569998
       },
       {
@@ -109,7 +109,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0166,
         "position": 6830134,
-        "value": 69735668,
+        "value": 58807451,
         "pctChange": 0.83169997
       },
       {
@@ -118,7 +118,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0162,
         "position": 6662750,
-        "value": 68026677,
+        "value": 57366275,
         "pctChange": 0.8832
       }
     ]
@@ -126,8 +126,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01698,
-    "institutionsPercentHeld": 0.59393,
-    "institutionsFloatPercentHeld": 0.60418,
+    "institutionsPercentHeld": 0.59416,
+    "institutionsFloatPercentHeld": 0.60442,
     "institutionsCount": 634
   },
   "earnings": {
@@ -253,6 +253,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-11T12:50:52.000Z",
+        "firm": "UBS",
+        "toGrade": "Sell",
+        "fromGrade": "Neutral",
+        "action": "down",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 6,
+        "priorPriceTarget": 10
+      },
       {
         "epochGradeDate": "2026-08-14T16:07:22.000Z",
         "firm": "B. Riley Securities",
@@ -799,31 +809,31 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0070714806,
-    "postMarketChange": -0.07219982,
-    "postMarketTime": "2026-09-10T23:59:32.000Z",
-    "postMarketPrice": 10.1378,
+    "postMarketChangePercent": 0.008130157,
+    "postMarketChange": 0.07000065,
+    "postMarketTime": "2026-09-11T23:59:33.000Z",
+    "postMarketPrice": 8.68,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0555042,
-    "regularMarketChange": -0.6,
-    "regularMarketTime": "2026-09-10T20:04:26.000Z",
+    "regularMarketChangePercent": -0.156709,
+    "regularMarketChange": -1.6,
+    "regularMarketTime": "2026-09-11T20:03:54.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 10.21,
-    "regularMarketDayHigh": 10.685,
-    "regularMarketDayLow": 10.1,
-    "regularMarketVolume": 22960620,
-    "averageDailyVolume10Day": 32021980,
-    "averageDailyVolume3Month": 32030151,
-    "regularMarketPreviousClose": 10.81,
+    "regularMarketPrice": 8.61,
+    "regularMarketDayHigh": 9.77,
+    "regularMarketDayLow": 8.57,
+    "regularMarketVolume": 92048618,
+    "averageDailyVolume10Day": 29145180,
+    "averageDailyVolume3Month": 31816269,
+    "regularMarketPreviousClose": 10.21,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 10.49,
-    "fulldayChangePercent": -0.046253465,
-    "fulldayChange": -0.5,
-    "fulldayPrice": 10.1378,
+    "regularMarketOpen": 9.66,
+    "fulldayChangePercent": -0.156709,
+    "fulldayChange": -1.6,
+    "fulldayPrice": 8.68,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "SMR",
     "underlyingSymbol": null,
@@ -835,13 +845,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 4190077184
+    "marketCap": 3533453824
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 3076968960,
-    "forwardPE": -15.662392,
+    "enterpriseValue": 2420345856,
+    "forwardPE": -13.207952,
     "profitMargins": 0,
     "floatShares": 403564744,
     "sharesOutstanding": 410389522,
@@ -851,27 +861,27 @@
     "dateShortInterest": "2026-08-31T00:00:00.000Z",
     "sharesPercentSharesOut": 0.15810001,
     "heldPercentInsiders": 0.01698,
-    "heldPercentInstitutions": 0.59393,
+    "heldPercentInstitutions": 0.59416,
     "shortRatio": 1.91,
     "shortPercentOfFloat": 0.176,
     "beta": 2.309,
     "impliedSharesOutstanding": 410389522,
     "category": null,
-    "bookValue": 3.67,
-    "priceToBook": 2.7820163,
+    "bookValue": 5.023,
+    "priceToBook": 1.714115,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -415702016,
-    "trailingEps": -2.08,
-    "forwardEps": -0.65188,
+    "trailingEps": -1.86,
+    "forwardEps": -0.6576,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 287.836,
-    "enterpriseToEbitda": -13.731,
-    "52WeekChange": -0.69272316,
-    "SandP52WeekChange": 0.15922499,
+    "enterpriseToRevenue": 226.412,
+    "enterpriseToEbitda": -10.801,
+    "52WeekChange": -0.7190424,
+    "SandP52WeekChange": 0.15300202,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1233,22 +1243,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 73402,
+        "shares": 68365,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "REYES JOSE N. JR",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2026-03-02T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 199685,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HOPKINS JOHN LAWRENCE",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "SCOTT CLAYTON",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-02T00:00:00.000Z",
         "ownership": "D"
@@ -1266,22 +1265,33 @@
       },
       {
         "maxAge": 1,
-        "shares": 68365,
+        "shares": 71474,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SCOTT CLAYTON",
-        "filerRelation": "Officer",
+        "filerName": "FISHER CARL M",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2026-03-02T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 71474,
+        "shares": 73402,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "FISHER CARL M",
-        "filerRelation": "Chief Operating Officer",
+        "filerName": "REYES JOSE N. JR",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2026-03-02T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 199685,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HOPKINS JOHN LAWRENCE",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-03-02T00:00:00.000Z",
         "ownership": "D"
@@ -1798,28 +1808,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 32679,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "REYES JOSE N. JR",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-05-02T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 49019,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HOPKINS JOHN LAWRENCE",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-05-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 22875,
         "filerUrl": "",
         "transactionText": "",
@@ -1836,6 +1824,28 @@
         "transactionText": "",
         "filerName": "ENGEL JACQUELINE F",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-05-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 32679,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "REYES JOSE N. JR",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-05-02T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 49019,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HOPKINS JOHN LAWRENCE",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-05-02T00:00:00.000Z",
         "ownership": "D"
@@ -2009,6 +2019,50 @@
       },
       {
         "maxAge": 1,
+        "shares": 45095,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SCOTT CLAYTON",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 44270,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HAMADY ROBERT RAMSEY",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-02-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 52083,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FISHER CARL M",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2025-02-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 33621,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ENGEL JACQUELINE F",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1033,
         "filerUrl": "",
         "transactionText": "",
@@ -2036,50 +2090,6 @@
         "transactionText": "",
         "filerName": "HOPKINS JOHN LAWRENCE",
         "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 44270,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HAMADY ROBERT RAMSEY",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 45095,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SCOTT CLAYTON",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 52083,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FISHER CARL M",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 33621,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ENGEL JACQUELINE F",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-28T00:00:00.000Z",
         "ownership": "D"
@@ -2317,7 +2327,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 10.21,
+    "currentPrice": 8.61,
     "targetHighPrice": 20,
     "targetLowPrice": 6,
     "targetMeanPrice": 12.63333,
@@ -2346,6 +2356,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-11T06:58:48.223Z",
+  "lastUpdated": "2026-09-12T06:50:17.757Z",
   "source": "Static Build (yahoo-finance2)"
 }
