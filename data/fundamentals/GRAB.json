@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.19098,
-    "institutionsPercentHeld": 0.67138,
-    "institutionsFloatPercentHeld": 0.82987,
-    "institutionsCount": 783
+    "institutionsPercentHeld": 0.67123,
+    "institutionsFloatPercentHeld": 0.82968,
+    "institutionsCount": 784
   },
   "earnings": {
     "maxAge": 86400,
@@ -930,8 +930,8 @@
     "regularMarketDayHigh": 3.06,
     "regularMarketDayLow": 2.96,
     "regularMarketVolume": 61147471,
-    "averageDailyVolume10Day": 51574510,
-    "averageDailyVolume3Month": 47051751,
+    "averageDailyVolume10Day": 54796710,
+    "averageDailyVolume3Month": 47256190,
     "regularMarketPreviousClose": 3.01,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 3.02,
@@ -961,7 +961,7 @@
     "enterpriseValue": 8378150912,
     "forwardPE": 21.942446,
     "profitMargins": 0.16028,
-    "floatShares": 2771094597,
+    "floatShares": 2771135385,
     "sharesOutstanding": 3973517000,
     "sharesShort": 261650153,
     "sharesShortPriorMonth": "1978-08-13T17:06:31.000Z",
@@ -969,7 +969,7 @@
     "dateShortInterest": "2026-08-31T00:00:00.000Z",
     "sharesPercentSharesOut": 0.064,
     "heldPercentInsiders": 0.19098,
-    "heldPercentInstitutions": 0.67138,
+    "heldPercentInstitutions": 0.67123,
     "shortRatio": 6.77,
     "shortPercentOfFloat": 0.0761,
     "beta": 0.89,
@@ -990,8 +990,8 @@
     "lastSplitFactor": null,
     "enterpriseToRevenue": 2.246,
     "enterpriseToEbitda": 24.426,
-    "52WeekChange": -0.49833333,
-    "SandP52WeekChange": 0.15300202,
+    "52WeekChange": -0.50325733,
+    "SandP52WeekChange": 0.1574688,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1078,23 +1078,23 @@
       },
       {
         "maxAge": 1,
-        "shares": 38000,
-        "value": 137264,
+        "shares": 800000,
         "filerUrl": "",
-        "transactionText": "Sale at price 3.61 per share.",
-        "filerName": "ONG CHIN YIN",
-        "filerRelation": "Officer",
+        "transactionText": "",
+        "filerName": "TAN ANTHONY PING YEOW",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-08-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 800000,
+        "shares": 38000,
+        "value": 137264,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "TAN ANTHONY PING YEOW",
-        "filerRelation": "Chief Executive Officer",
+        "transactionText": "Sale at price 3.61 per share.",
+        "filerName": "ONG CHIN YIN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-08-03T00:00:00.000Z",
         "ownership": "D"
@@ -1340,10 +1340,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 38000,
-        "value": 136405,
+        "shares": 7474,
+        "value": 4246,
         "filerUrl": "",
-        "transactionText": "Sale at price 3.59 per share.",
+        "transactionText": "Conversion of Exercise of derivative security at price 0.48 - 0.60 per share.",
         "filerName": "ONG CHIN YIN",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -1352,10 +1352,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 7474,
-        "value": 4246,
+        "shares": 38000,
+        "value": 136405,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 0.48 - 0.60 per share.",
+        "transactionText": "Sale at price 3.59 per share.",
         "filerName": "ONG CHIN YIN",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -1372,18 +1372,6 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 50000,
-        "value": 196095,
-        "filerUrl": "",
-        "transactionText": "Sale at price 3.92 per share.",
-        "filerName": "OEY PETER HENRY",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-04-15T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1437,6 +1425,18 @@
         "transactionText": "",
         "filerName": "HUNGATE ALEXANDER CHARLES",
         "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2026-04-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 50000,
+        "value": 196095,
+        "filerUrl": "",
+        "transactionText": "Sale at price 3.92 per share.",
+        "filerName": "OEY PETER HENRY",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-04-15T00:00:00.000Z",
         "ownership": "D"
@@ -1582,6 +1582,6 @@
     "profitMargins": 0.16028,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-12T06:50:42.769Z",
+  "lastUpdated": "2026-09-13T07:09:12.000Z",
   "source": "Static Build (yahoo-finance2)"
 }

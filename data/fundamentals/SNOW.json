@@ -133,10 +133,10 @@
   },
   "majorHoldersBreakdown": {
     "maxAge": 1,
-    "insidersPercentHeld": 0.029059999,
-    "institutionsPercentHeld": 0.80973,
-    "institutionsFloatPercentHeld": 0.83396006,
-    "institutionsCount": 1982
+    "insidersPercentHeld": 0.029000001,
+    "institutionsPercentHeld": 0.81003,
+    "institutionsFloatPercentHeld": 0.83422,
+    "institutionsCount": 1984
   },
   "earnings": {
     "maxAge": 86400,
@@ -154,17 +154,6 @@
           "reportedDate": 1764795900
         },
         {
-          "date": "2Q2025",
-          "actual": -0.89,
-          "estimate": -0.97248,
-          "fiscalQuarter": "2Q2026",
-          "calendarQuarter": "2Q2025",
-          "difference": "0.08",
-          "surprisePct": "8.48",
-          "periodEndDate": 1753920000,
-          "reportedDate": 1756325100
-        },
-        {
           "date": "4Q2025",
           "actual": 0.32,
           "estimate": 0.27169,
@@ -174,6 +163,17 @@
           "surprisePct": "17.78",
           "periodEndDate": 1769817600,
           "reportedDate": 1772053659
+        },
+        {
+          "date": "1Q2026",
+          "actual": 0.39,
+          "estimate": 0.31981,
+          "fiscalQuarter": "1Q2027",
+          "calendarQuarter": "1Q2026",
+          "difference": "0.07",
+          "surprisePct": "21.95",
+          "periodEndDate": 1777507200,
+          "reportedDate": 1779912300
         },
         {
           "date": "2Q2026",
@@ -187,12 +187,12 @@
           "reportedDate": 1788379709
         }
       ],
-      "currentQuarterEstimate": 0.44698,
-      "currentQuarterEstimateDate": "2Q",
-      "currentCalendarQuarter": "2Q2026",
+      "currentQuarterEstimate": 0.59967,
+      "currentQuarterEstimateDate": "3Q",
+      "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
-      "currentFiscalQuarter": "2Q2027",
-      "currentPeriodEndDate": 1785456000,
+      "currentFiscalQuarter": "3Q2027",
+      "currentPeriodEndDate": 1793404800,
       "earningsDate": [
         "2026-12-02T20:00:00.000Z"
       ],
@@ -6890,8 +6890,8 @@
     "regularMarketDayHigh": 333.43,
     "regularMarketDayLow": 323.42,
     "regularMarketVolume": 4481954,
-    "averageDailyVolume10Day": 7051820,
-    "averageDailyVolume3Month": 5563044,
+    "averageDailyVolume10Day": 7093750,
+    "averageDailyVolume3Month": 5545690,
     "regularMarketPreviousClose": 329.72,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 329.86,
@@ -6921,15 +6921,15 @@
     "enterpriseValue": 116361445376,
     "forwardPE": 109.50017,
     "profitMargins": -0.20071,
-    "floatShares": 342956550,
+    "floatShares": 342935405,
     "sharesOutstanding": 352800000,
     "sharesShort": 18063703,
     "sharesShortPriorMonth": "1970-08-08T07:26:02.000Z",
     "sharesShortPreviousMonthDate": "2026-07-31T00:00:00.000Z",
     "dateShortInterest": "2026-08-31T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0512,
-    "heldPercentInsiders": 0.029059999,
-    "heldPercentInstitutions": 0.80973,
+    "heldPercentInsiders": 0.029000001,
+    "heldPercentInstitutions": 0.81003,
     "shortRatio": 4.12,
     "shortPercentOfFloat": 0.0525,
     "beta": 1.328,
@@ -6945,12 +6945,12 @@
     "netIncomeToCommon": -1090797952,
     "trailingEps": -3.16,
     "forwardEps": 3.00447,
-    "pegRatio": 8.33,
+    "pegRatio": 8.27,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 21.411,
     "enterpriseToEbitda": -112.287,
-    "52WeekChange": 0.46029496,
-    "SandP52WeekChange": 0.15300202,
+    "52WeekChange": 0.4570619,
+    "SandP52WeekChange": 0.1574688,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -6978,6 +6978,18 @@
     "transactions": [
       {
         "maxAge": 1,
+        "shares": 16668,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "DAGEVILLE BENOIT",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-09-09T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 2730,
         "value": 916516,
         "filerUrl": "",
@@ -7002,22 +7014,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 16668,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "DAGEVILLE BENOIT",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-09-09T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 50000,
         "value": 187000,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 3.74 per share.",
+        "filerName": "GARRETT MARK S",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-09-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 50000,
+        "value": 17500000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 350.00 per share.",
         "filerName": "GARRETT MARK S",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7038,18 +7050,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 50000,
-        "value": 17500000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 350.00 per share.",
-        "filerName": "GARRETT MARK S",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-09-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 25000,
         "value": 7941951,
         "filerUrl": "",
@@ -7062,10 +7062,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 50000,
-        "value": 15472000,
+        "shares": 16668,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 309.44 per share.",
+        "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "DAGEVILLE BENOIT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7074,10 +7074,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 16668,
-        "value": 0,
+        "shares": 50000,
+        "value": 15472000,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "Sale at price 309.44 per share.",
         "filerName": "DAGEVILLE BENOIT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7110,10 +7110,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 50000,
-        "value": 16785000,
+        "shares": 16668,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 335.70 per share.",
+        "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "DAGEVILLE BENOIT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7122,10 +7122,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 16668,
-        "value": 0,
+        "shares": 50000,
+        "value": 16785000,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "Sale at price 335.70 per share.",
         "filerName": "DAGEVILLE BENOIT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7182,10 +7182,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 50000,
-        "value": 14000000,
+        "shares": 16668,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 280.00 per share.",
+        "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "DAGEVILLE BENOIT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7194,10 +7194,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 16668,
-        "value": 0,
+        "shares": 50000,
+        "value": 14000000,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "Sale at price 280.00 per share.",
         "filerName": "DAGEVILLE BENOIT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7230,10 +7230,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 50000,
-        "value": 13826500,
+        "shares": 16668,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 276.53 per share.",
+        "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "DAGEVILLE BENOIT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7242,10 +7242,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 16668,
-        "value": 0,
+        "shares": 50000,
+        "value": 13826500,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "Sale at price 276.53 per share.",
         "filerName": "DAGEVILLE BENOIT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -7262,6 +7262,18 @@
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-07-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 687,
+        "value": 175099,
+        "filerUrl": "",
+        "transactionText": "Sale at price 254.64 - 255.11 per share.",
+        "filerName": "BRIGGS TERESA",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-07-06T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -7290,18 +7302,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 687,
-        "value": 175099,
-        "filerUrl": "",
-        "transactionText": "Sale at price 254.64 - 255.11 per share.",
-        "filerName": "BRIGGS TERESA",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-07-06T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 256035,
         "value": 189466,
         "filerUrl": "",
@@ -7314,18 +7314,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 190819,
-        "value": 48590150,
-        "filerUrl": "",
-        "transactionText": "Sale at price 254.64 per share.",
-        "filerName": "DAGEVILLE BENOIT",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-07-02T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
         "shares": 16668,
         "value": 0,
         "filerUrl": "",
@@ -7335,6 +7323,18 @@
         "moneyText": "",
         "startDate": "2026-07-02T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 190819,
+        "value": 48590150,
+        "filerUrl": "",
+        "transactionText": "Sale at price 254.64 per share.",
+        "filerName": "DAGEVILLE BENOIT",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-07-02T00:00:00.000Z",
+        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -7367,30 +7367,6 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "SCANNELL WILLIAM F",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1273,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MCLAUGHLIN MARK D",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1273,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "KRAMER KELLY A",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-29T00:00:00.000Z",
@@ -7439,6 +7415,30 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "ULLAL JAYSHREE",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1273,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "KRAMER KELLY A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1273,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MCLAUGHLIN MARK D",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-29T00:00:00.000Z",
@@ -7542,11 +7542,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 3876,
-        "value": 930240,
+        "shares": 2986,
+        "value": 716640,
         "filerUrl": "",
         "transactionText": "Sale at price 240.00 per share.",
-        "filerName": "RAGHUNATHAN VIVEK",
+        "filerName": "KLEINERMAN CHRISTIAN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-16T00:00:00.000Z",
@@ -7554,11 +7554,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 2986,
-        "value": 716640,
+        "shares": 3876,
+        "value": 930240,
         "filerUrl": "",
         "transactionText": "Sale at price 240.00 per share.",
-        "filerName": "KLEINERMAN CHRISTIAN",
+        "filerName": "RAGHUNATHAN VIVEK",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-16T00:00:00.000Z",
@@ -7638,18 +7638,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 100000,
-        "value": 374000,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.74 per share.",
-        "filerName": "GARRETT MARK S",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 437076,
         "value": 3881235,
         "filerUrl": "",
@@ -7662,11 +7650,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 437076,
-        "value": 110332853,
+        "shares": 100000,
+        "value": 374000,
         "filerUrl": "",
-        "transactionText": "Sale at price 250.44 - 256.02 per share.",
-        "filerName": "SLOOTMAN FRANK",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.74 per share.",
+        "filerName": "GARRETT MARK S",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-29T00:00:00.000Z",
@@ -7679,6 +7667,18 @@
         "filerUrl": "",
         "transactionText": "Sale at price 250.00 per share.",
         "filerName": "GARRETT MARK S",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 437076,
+        "value": 110332853,
+        "filerUrl": "",
+        "transactionText": "Sale at price 250.44 - 256.02 per share.",
+        "filerName": "SLOOTMAN FRANK",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-05-29T00:00:00.000Z",
@@ -7806,18 +7806,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2141,
-        "value": 372465,
-        "filerUrl": "",
-        "transactionText": "Sale at price 173.97 per share.",
-        "filerName": "HO EMILY",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2621,
         "value": 445596,
         "filerUrl": "",
@@ -7842,12 +7830,48 @@
       },
       {
         "maxAge": 1,
+        "shares": 2141,
+        "value": 372465,
+        "filerUrl": "",
+        "transactionText": "Sale at price 173.97 per share.",
+        "filerName": "HO EMILY",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 55189,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "RAMASWAMY SRIDHAR",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-03-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 14239,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "DAGEVILLE BENOIT",
         "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-03-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 14239,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "ROBINS BRIAN G",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-03-20T00:00:00.000Z",
         "ownership": "D"
@@ -7902,30 +7926,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 55189,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "RAMASWAMY SRIDHAR",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-03-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 14239,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "ROBINS BRIAN G",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-03-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 100000,
         "value": 888000,
         "filerUrl": "",
@@ -7962,24 +7962,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 7874,
-        "value": 1380627,
-        "filerUrl": "",
-        "transactionText": "Sale at price 175.34 per share.",
-        "filerName": "SLOOTMAN FRANK",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1919,
         "value": 336477,
         "filerUrl": "",
         "transactionText": "Sale at price 175.34 per share.",
         "filerName": "DAGEVILLE BENOIT",
         "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-03-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7874,
+        "value": 1380627,
+        "filerUrl": "",
+        "transactionText": "Sale at price 175.34 per share.",
+        "filerName": "SLOOTMAN FRANK",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-17T00:00:00.000Z",
         "ownership": "D"
@@ -7998,24 +7998,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 2042,
-        "value": 372542,
-        "filerUrl": "",
-        "transactionText": "Sale at price 182.44 per share.",
-        "filerName": "SLOOTMAN FRANK",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-10T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 4183,
         "value": 763147,
         "filerUrl": "",
         "transactionText": "Sale at price 182.44 per share.",
         "filerName": "DAGEVILLE BENOIT",
         "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-03-10T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2042,
+        "value": 372542,
+        "filerUrl": "",
+        "transactionText": "Sale at price 182.44 per share.",
+        "filerName": "SLOOTMAN FRANK",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-10T00:00:00.000Z",
         "ownership": "D"
@@ -8442,18 +8442,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 25000,
-        "value": 6241250,
-        "filerUrl": "",
-        "transactionText": "Sale at price 249.65 per share.",
-        "filerName": "DAGEVILLE BENOIT",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-11-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7500,
         "value": 0,
         "filerUrl": "",
@@ -8463,6 +8451,18 @@
         "moneyText": "",
         "startDate": "2025-11-28T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 25000,
+        "value": 6241250,
+        "filerUrl": "",
+        "transactionText": "Sale at price 249.65 per share.",
+        "filerName": "DAGEVILLE BENOIT",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-11-28T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -8478,18 +8478,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 25000,
-        "value": 6611250,
-        "filerUrl": "",
-        "transactionText": "Sale at price 264.45 per share.",
-        "filerName": "DAGEVILLE BENOIT",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-11-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7500,
         "value": 0,
         "filerUrl": "",
@@ -8499,6 +8487,18 @@
         "moneyText": "",
         "startDate": "2025-11-13T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 25000,
+        "value": 6611250,
+        "filerUrl": "",
+        "transactionText": "Sale at price 264.45 per share.",
+        "filerName": "DAGEVILLE BENOIT",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-11-13T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -8550,18 +8550,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 25000,
-        "value": 6625000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 265.00 per share.",
-        "filerName": "DAGEVILLE BENOIT",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-10-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7500,
         "value": 0,
         "filerUrl": "",
@@ -8571,6 +8559,18 @@
         "moneyText": "",
         "startDate": "2025-10-30T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 25000,
+        "value": 6625000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 265.00 per share.",
+        "filerName": "DAGEVILLE BENOIT",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-10-30T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -8586,18 +8586,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 25000,
-        "value": 6150000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 246.00 per share.",
-        "filerName": "DAGEVILLE BENOIT",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-10-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7500,
         "value": 0,
         "filerUrl": "",
@@ -8607,6 +8595,18 @@
         "moneyText": "",
         "startDate": "2025-10-16T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 25000,
+        "value": 6150000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 246.00 per share.",
+        "filerName": "DAGEVILLE BENOIT",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-10-16T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -8670,18 +8670,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 25000,
-        "value": 5866000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 234.64 per share.",
-        "filerName": "DAGEVILLE BENOIT",
-        "filerRelation": "Officer and Director",
-        "moneyText": "",
-        "startDate": "2025-10-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7500,
         "value": 0,
         "filerUrl": "",
@@ -8691,6 +8679,18 @@
         "moneyText": "",
         "startDate": "2025-10-02T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 25000,
+        "value": 5866000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 234.64 per share.",
+        "filerName": "DAGEVILLE BENOIT",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2025-10-02T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -8810,6 +8810,6 @@
     "profitMargins": -0.20071,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-12T06:53:58.340Z",
+  "lastUpdated": "2026-09-13T07:12:31.130Z",
   "source": "Static Build (yahoo-finance2)"
 }
