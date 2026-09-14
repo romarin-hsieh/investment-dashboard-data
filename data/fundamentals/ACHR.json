@@ -927,13 +927,13 @@
     "regularMarketPreviousClose": 5.45,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 5.49,
-    "fulldayChangePercent": 0.0238532,
-    "fulldayChange": 0.13,
+    "fulldayChangePercent": 0.009174347,
+    "fulldayChange": 0.05000019,
     "fulldayPrice": 5.58,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "ACHR",
     "underlyingSymbol": null,
@@ -1531,18 +1531,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 3000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "PERKINS TOSHA",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 42775,
         "value": 420457,
         "filerUrl": "",
@@ -1585,6 +1573,18 @@
         "transactionText": "Sale at price 9.83 per share.",
         "filerName": "GUPTA PRIYA",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-08-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "PERKINS TOSHA",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-18T00:00:00.000Z",
         "ownership": "D"
@@ -2107,18 +2107,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 751879,
-        "value": 4999995,
-        "filerUrl": "",
-        "transactionText": "Purchase at price 6.65 per share.",
-        "filerName": "STELLANTIS N.V.",
-        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2024-12-11T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 438428,
         "value": 3327669,
         "filerUrl": "",
@@ -2128,6 +2116,18 @@
         "moneyText": "",
         "startDate": "2024-12-11T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 751879,
+        "value": 4999995,
+        "filerUrl": "",
+        "transactionText": "Purchase at price 6.65 per share.",
+        "filerName": "STELLANTIS N.V.",
+        "filerRelation": "Beneficial Owner of more than 10% of a Class of Security",
+        "moneyText": "",
+        "startDate": "2024-12-11T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2167,10 +2167,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 19762,
-        "value": 101181,
+        "shares": 3007178,
+        "value": 14855764,
         "filerUrl": "",
-        "transactionText": "Purchase at price 5.12 per share.",
+        "transactionText": "Sale at price 4.63 - 5.15 per share.",
         "filerName": "GOLDSTEIN ADAM D",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -2179,10 +2179,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 3007178,
-        "value": 14855764,
+        "shares": 19762,
+        "value": 101181,
         "filerUrl": "",
-        "transactionText": "Sale at price 4.63 - 5.15 per share.",
+        "transactionText": "Purchase at price 5.12 per share.",
         "filerName": "GOLDSTEIN ADAM D",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -2299,6 +2299,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-13T07:10:19.755Z",
+  "lastUpdated": "2026-09-14T07:33:12.887Z",
   "source": "Static Build (yahoo-finance2)"
 }

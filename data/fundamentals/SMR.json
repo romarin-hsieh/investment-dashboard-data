@@ -5,8 +5,8 @@
         "period": "0m",
         "strongBuy": 1,
         "buy": 5,
-        "hold": 10,
-        "sell": 1,
+        "hold": 9,
+        "sell": 2,
         "strongSell": 1
       },
       {
@@ -19,6 +19,14 @@
       },
       {
         "period": "-2m",
+        "strongBuy": 1,
+        "buy": 5,
+        "hold": 10,
+        "sell": 1,
+        "strongSell": 1
+      },
+      {
+        "period": "-3m",
         "strongBuy": 1,
         "buy": 5,
         "hold": 9,
@@ -827,13 +835,13 @@
     "regularMarketPreviousClose": 10.21,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 9.66,
-    "fulldayChangePercent": -0.156709,
-    "fulldayChange": -1.6,
+    "fulldayChangePercent": -0.17335948,
+    "fulldayChange": -1.7700005,
     "fulldayPrice": 8.68,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "SMR",
     "underlyingSymbol": null,
@@ -851,7 +859,7 @@
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 2420345856,
-    "forwardPE": -13.207952,
+    "forwardPE": -13.093065,
     "profitMargins": 0,
     "floatShares": 403564744,
     "sharesOutstanding": 410389522,
@@ -1808,6 +1816,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1634,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ENGEL JACQUELINE F",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-05-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 32679,
         "filerUrl": "",
         "transactionText": "",
@@ -1834,17 +1853,6 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "SCOTT CLAYTON",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-05-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1634,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ENGEL JACQUELINE F",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-05-02T00:00:00.000Z",
@@ -2318,9 +2326,9 @@
     "currentPrice": 8.61,
     "targetHighPrice": 20,
     "targetLowPrice": 6,
-    "targetMeanPrice": 12.63333,
+    "targetMeanPrice": 12.36667,
     "targetMedianPrice": 11,
-    "recommendationMean": 2.55556,
+    "recommendationMean": 2.66667,
     "recommendationKey": "hold",
     "numberOfAnalystOpinions": 15,
     "totalCash": 1072147968,
@@ -2344,6 +2352,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-13T07:08:46.698Z",
+  "lastUpdated": "2026-09-14T07:31:41.464Z",
   "source": "Static Build (yahoo-finance2)"
 }

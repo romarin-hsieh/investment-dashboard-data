@@ -12,13 +12,21 @@
       {
         "period": "-1m",
         "strongBuy": 7,
+        "buy": 12,
+        "hold": 7,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 7,
         "buy": 11,
         "hold": 8,
         "sell": 0,
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 7,
         "buy": 11,
         "hold": 8,
@@ -1331,13 +1339,13 @@
     "regularMarketPreviousClose": 284.53,
     "regularMarketSource": "DELAYED",
     "regularMarketOpen": 291.98,
-    "fulldayChangePercent": 0.0235125,
-    "fulldayChange": 6.69,
+    "fulldayChangePercent": -0.022950124,
+    "fulldayChange": -6.529999,
     "fulldayPrice": 290.15,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "ALAB",
     "underlyingSymbol": null,
@@ -3222,7 +3230,8 @@
     "targetLowPrice": 190,
     "targetMeanPrice": 389.9527,
     "targetMedianPrice": 425,
-    "recommendationKey": "none",
+    "recommendationMean": 1.80769,
+    "recommendationKey": "buy",
     "numberOfAnalystOpinions": 23,
     "totalCash": 1252957952,
     "totalCashPerShare": 7.222,
@@ -3246,6 +3255,6 @@
     "profitMargins": 0.30742002,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-13T07:10:06.858Z",
+  "lastUpdated": "2026-09-14T07:32:59.891Z",
   "source": "Static Build (yahoo-finance2)"
 }
