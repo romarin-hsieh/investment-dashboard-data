@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0783,
         "position": 55436039,
-        "value": 13999262860,
+        "value": 14274225140,
         "pctChange": 0.0015
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0656,
         "position": 46396692,
-        "value": 11716556574,
+        "value": 11946683769,
         "pctChange": 0.0039
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.051,
         "position": 36080505,
-        "value": 9111409883,
+        "value": 9290368880,
         "pctChange": 0.0183
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.045100003,
         "position": 31923726,
-        "value": 8061698487,
+        "value": 8220039895,
         "pctChange": -0.1522
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.026500002,
         "position": 18781589,
-        "value": 4742914647,
+        "value": 4836071168,
         "pctChange": -0.016900001
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0256,
         "position": 18114553,
-        "value": 4574468046,
+        "value": 4664316075,
         "pctChange": 0.0085
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0212,
         "position": 15027364,
-        "value": 3794860212,
+        "value": 3869395809,
         "pctChange": -0.0378
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0155,
         "position": 10997796,
-        "value": 2777273410,
+        "value": 2831822384,
         "pctChange": -0.0953
       },
       {
@@ -117,7 +117,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0139999995,
         "position": 9878380,
-        "value": 2494587289,
+        "value": 2543583969,
         "pctChange": 0.044499997
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0128,
         "position": 9024883,
-        "value": 2279053692,
+        "value": 2323817035,
         "pctChange": -0.0729
       }
     ]
@@ -261,6 +261,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-14T17:52:51.000Z",
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 300,
+        "priorPriceTarget": 325
+      },
+      {
+        "epochGradeDate": "2026-09-14T15:09:44.000Z",
+        "firm": "Morgan Stanley",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 308,
+        "priorPriceTarget": 319
+      },
       {
         "epochGradeDate": "2026-09-11T10:13:45.000Z",
         "firm": "TD Cowen",
@@ -6967,27 +6987,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.000039214963,
-    "postMarketChange": -0.009902954,
-    "postMarketTime": "2026-09-11T23:59:08.000Z",
-    "postMarketPrice": 252.5201,
+    "postMarketChangePercent": 0.0019325785,
+    "postMarketChange": 0.49761963,
+    "postMarketTime": "2026-09-14T23:59:52.000Z",
+    "postMarketPrice": 257.9876,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.00205495,
-    "regularMarketChange": -0.520004,
-    "regularMarketTime": "2026-09-11T20:00:02.000Z",
+    "regularMarketChangePercent": 0.0196412,
+    "regularMarketChange": 4.95999,
+    "regularMarketTime": "2026-09-14T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 252.53,
-    "regularMarketDayHigh": 254.73,
-    "regularMarketDayLow": 252.17,
-    "regularMarketVolume": 4078109,
-    "averageDailyVolume10Day": 4381450,
-    "averageDailyVolume3Month": 4587254,
-    "regularMarketPreviousClose": 253.05,
+    "regularMarketPrice": 257.49,
+    "regularMarketDayHigh": 258.45,
+    "regularMarketDayLow": 254.645,
+    "regularMarketVolume": 4136836,
+    "averageDailyVolume10Day": 4409220,
+    "averageDailyVolume3Month": 4580552,
+    "regularMarketPreviousClose": 252.53,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 253.98,
-    "fulldayChangePercent": 0.0033589837,
-    "fulldayChange": 0.84999084,
-    "fulldayPrice": 252.5201,
+    "regularMarketOpen": 254.28,
+    "fulldayChangePercent": 0.017978096,
+    "fulldayChange": 4.5400085,
+    "fulldayPrice": 257.9876,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -7003,13 +7023,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 178700713984
+    "marketCap": 182210609152
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 232482717696,
-    "forwardPE": 18.0712,
+    "enterpriseValue": 235992612864,
+    "forwardPE": 18.426138,
     "profitMargins": 0.3172,
     "floatShares": 706580069,
     "sharesOutstanding": 707641531,
@@ -7034,14 +7054,14 @@
     "earningsQuarterlyGrowth": 0.048,
     "netIncomeToCommon": 8787000320,
     "trailingEps": 12.3,
-    "forwardEps": 13.97417,
+    "forwardEps": 13.97723,
     "pegRatio": 2.18,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 920851200,
-    "enterpriseToRevenue": 8.392,
-    "enterpriseToEbitda": 15.572,
-    "52WeekChange": -0.1640017,
-    "SandP52WeekChange": 0.1574688,
+    "enterpriseToRevenue": 8.519,
+    "enterpriseToEbitda": 15.807,
+    "52WeekChange": -0.1475817,
+    "SandP52WeekChange": 0.15187562,
     "lastDividendValue": 1.86,
     "lastDividendDate": "2026-09-01T00:00:00.000Z",
     "latestShareClass": null,
@@ -7886,10 +7906,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 5874,
+        "shares": 8057,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "STEIJAERT MANUEL JM",
+        "filerName": "RALLS-MORRISON DESIREE ANN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-14T00:00:00.000Z",
@@ -7897,10 +7917,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 8057,
+        "shares": 5874,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "RALLS-MORRISON DESIREE ANN",
+        "filerName": "STEIJAERT MANUEL JM",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-14T00:00:00.000Z",
@@ -8264,7 +8284,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 252.53,
+    "currentPrice": 257.49,
     "targetHighPrice": 407,
     "targetLowPrice": 250,
     "targetMeanPrice": 314.80646,
@@ -8292,6 +8312,6 @@
     "profitMargins": 0.3172,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-14T07:34:17.243Z",
+  "lastUpdated": "2026-09-15T07:11:04.009Z",
   "source": "Static Build (yahoo-finance2)"
 }

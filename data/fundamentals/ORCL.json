@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0505,
         "position": 145353687,
-        "value": 21843751904,
+        "value": 21045759364,
         "pctChange": 0.0143
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0388,
         "position": 111788001,
-        "value": 16799500653,
+        "value": 16185783914,
         "pctChange": 0.0061000003
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0273,
         "position": 78645193,
-        "value": 11818799508,
+        "value": 11387036966,
         "pctChange": 0.0307
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0199,
         "position": 57285664,
-        "value": 8608889515,
+        "value": 8294390905,
         "pctChange": 0.0095
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.0138,
         "position": 39746237,
-        "value": 5973064447,
+        "value": 5754857388,
         "pctChange": 0.2367
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0136,
         "position": 39248959,
-        "value": 5898333510,
+        "value": 5682856510,
         "pctChange": 0.0077
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0106,
         "position": 30551196,
-        "value": 4591233697,
+        "value": 4423507463,
         "pctChange": 0.048699997
       },
       {
@@ -108,7 +108,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.009,
         "position": 26025909,
-        "value": 3911173572,
+        "value": 3768291189,
         "pctChange": 0.1375
       },
       {
@@ -117,7 +117,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0087,
         "position": 25002553,
-        "value": 3757383634,
+        "value": 3620119481,
         "pctChange": 0.123900004
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0083,
         "position": 23954012,
-        "value": 3599808894,
+        "value": 3468301236,
         "pctChange": 0.5571
       }
     ]
@@ -261,6 +261,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-14T20:38:17.000Z",
+        "firm": "Freedom Broker",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 205,
+        "priorPriceTarget": 210
+      },
+      {
+        "epochGradeDate": "2026-09-14T12:53:07.000Z",
+        "firm": "Argus Research",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 225,
+        "priorPriceTarget": 225
+      },
       {
         "epochGradeDate": "2026-09-11T15:51:10.000Z",
         "firm": "Stifel",
@@ -6917,27 +6937,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.016436603,
-    "postMarketChange": -2.4700928,
-    "postMarketTime": "2026-09-11T23:59:59.000Z",
-    "postMarketPrice": 147.8099,
+    "postMarketChangePercent": -0.0029007401,
+    "postMarketChange": -0.41999817,
+    "postMarketTime": "2026-09-14T23:59:48.000Z",
+    "postMarketPrice": 144.37,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0173925,
-    "regularMarketChange": -2.66,
-    "regularMarketTime": "2026-09-11T20:04:42.000Z",
+    "regularMarketChangePercent": -0.0365318,
+    "regularMarketChange": -5.49001,
+    "regularMarketTime": "2026-09-14T20:04:34.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 150.28,
-    "regularMarketDayHigh": 165.99,
-    "regularMarketDayLow": 149.84,
-    "regularMarketVolume": 78527486,
-    "averageDailyVolume10Day": 33435690,
-    "averageDailyVolume3Month": 32337727,
-    "regularMarketPreviousClose": 152.94,
+    "regularMarketPrice": 144.79,
+    "regularMarketDayHigh": 145.32,
+    "regularMarketDayLow": 141.01,
+    "regularMarketVolume": 41975932,
+    "averageDailyVolume10Day": 33527260,
+    "averageDailyVolume3Month": 32550408,
+    "regularMarketPreviousClose": 150.28,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 164.43,
-    "fulldayChangePercent": -0.04119264,
-    "fulldayChange": -6.300003,
-    "fulldayPrice": 147.8099,
+    "regularMarketOpen": 141.42,
+    "fulldayChangePercent": -0.04112319,
+    "fulldayChange": -6.1799927,
+    "fulldayPrice": 144.37,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -6953,13 +6973,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 432877174784
+    "marketCap": 417063370752
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 591851028480,
-    "forwardPE": 13.669126,
+    "enterpriseValue": 575250759680,
+    "forwardPE": 13.181889,
     "profitMargins": 0.2636,
     "floatShares": 1798548410,
     "sharesOutstanding": 2880471000,
@@ -6976,7 +6996,7 @@
     "impliedSharesOutstanding": 2880471000,
     "category": null,
     "bookValue": 13.04,
-    "priceToBook": 11.52454,
+    "priceToBook": 11.103527,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-05-31T00:00:00.000Z",
@@ -6985,14 +7005,14 @@
     "earningsQuarterlyGrowth": 0.626,
     "netIncomeToCommon": 18736001024,
     "trailingEps": 6.39,
-    "forwardEps": 10.99412,
+    "forwardEps": 10.98401,
     "pegRatio": 0.85,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 971395200,
-    "enterpriseToRevenue": 8.246,
-    "enterpriseToEbitda": 17.188,
-    "52WeekChange": -0.5026147,
-    "SandP52WeekChange": 0.1574688,
+    "enterpriseToRevenue": 8.015,
+    "enterpriseToEbitda": 16.706,
+    "52WeekChange": -0.5099299,
+    "SandP52WeekChange": 0.15187562,
     "lastDividendValue": 0.5,
     "lastDividendDate": "2026-07-10T00:00:00.000Z",
     "latestShareClass": null,
@@ -7337,10 +7357,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 129861,
+        "shares": 20884,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MAGOUYRK CLAYTON M",
+        "filerName": "LEVEY STUART A",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-19T00:00:00.000Z",
@@ -7348,10 +7368,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 20884,
+        "shares": 129861,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LEVEY STUART A",
+        "filerName": "MAGOUYRK CLAYTON M",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-19T00:00:00.000Z",
@@ -7790,7 +7810,7 @@
         "shares": 2986,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PARRETT WILLIAM GREGORY",
+        "filerName": "ABLO AWO",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-30T00:00:00.000Z",
@@ -7801,7 +7821,7 @@
         "shares": 2986,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ABLO AWO",
+        "filerName": "PARRETT WILLIAM GREGORY",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-30T00:00:00.000Z",
@@ -8023,11 +8043,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 150.28,
+    "currentPrice": 144.79,
     "targetHighPrice": 400,
     "targetLowPrice": 110,
-    "targetMeanPrice": 239.0961,
-    "targetMedianPrice": 239,
+    "targetMeanPrice": 238.99854,
+    "targetMedianPrice": 240,
     "recommendationMean": 1.60465,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 41,
@@ -8053,6 +8073,6 @@
     "profitMargins": 0.2636,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-14T07:31:21.695Z",
+  "lastUpdated": "2026-09-15T07:08:06.780Z",
   "source": "Static Build (yahoo-finance2)"
 }
