@@ -45,7 +45,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.118999995,
         "position": 79723713,
-        "value": 4089029312,
+        "value": 4005319474,
         "pctChange": 0.7101
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0572,
         "position": 38327569,
-        "value": 1965821049,
+        "value": 1925577130,
         "pctChange": -0.019199999
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.047199998,
         "position": 31636629,
-        "value": 1622642730,
+        "value": 1589424294,
         "pctChange": 0.033800002
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0436,
         "position": 29196094,
-        "value": 1497467687,
+        "value": 1466811811,
         "pctChange": 0.0225
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0339,
         "position": 22709293,
-        "value": 1164759658,
+        "value": 1140914918,
         "pctChange": 0.0105
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0325,
         "position": 21741285,
-        "value": 1115110527,
+        "value": 1092282194,
         "pctChange": -0.0577
       },
       {
@@ -99,7 +99,7 @@
         "organization": "BAILLIE GIFFORD & CO",
         "pctHeld": 0.0315,
         "position": 21124935,
-        "value": 1083497935,
+        "value": 1061316769,
         "pctChange": -0.0139
       },
       {
@@ -108,7 +108,7 @@
         "organization": "IEQ Capital, LLC",
         "pctHeld": 0.0247,
         "position": 16574553,
-        "value": 850108838,
+        "value": 832705570,
         "pctChange": 0.0027
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.024500001,
         "position": 16424286,
-        "value": 842401643,
+        "value": 825156156,
         "pctChange": -0.1409
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Capital International Investors",
         "pctHeld": 0.024,
         "position": 16086049,
-        "value": 825053467,
+        "value": 808163128,
         "pctChange": -0.44869998
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.05473,
-    "institutionsPercentHeld": 0.8646,
-    "institutionsFloatPercentHeld": 0.91466004,
-    "institutionsCount": 1111
+    "institutionsPercentHeld": 0.86456,
+    "institutionsFloatPercentHeld": 0.91462,
+    "institutionsCount": 1110
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1785442405
         }
       ],
-      "currentQuarterEstimate": -0.41841,
+      "currentQuarterEstimate": -0.42017,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -261,6 +261,36 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-15T18:49:54.000Z",
+        "firm": "Macquarie",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 37,
+        "priorPriceTarget": 37
+      },
+      {
+        "epochGradeDate": "2026-09-15T16:55:13.000Z",
+        "firm": "Roth Capital",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 60,
+        "priorPriceTarget": 55
+      },
+      {
+        "epochGradeDate": "2026-09-15T10:15:53.000Z",
+        "firm": "BTIG",
+        "toGrade": "Sell",
+        "fromGrade": "Sell",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 41,
+        "priorPriceTarget": 30
+      },
       {
         "epochGradeDate": "2026-09-14T13:17:36.000Z",
         "firm": "Wells Fargo",
@@ -3657,27 +3687,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.000779897,
-    "postMarketChange": -0.040000916,
-    "postMarketTime": "2026-09-14T23:52:46.000Z",
-    "postMarketPrice": 51.25,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.127253,
-    "regularMarketChange": 5.79,
-    "regularMarketTime": "2026-09-14T20:00:02.000Z",
+    "postMarketChangePercent": 0.00019901118,
+    "postMarketChange": 0.0099983215,
+    "postMarketTime": "2026-09-15T23:58:33.000Z",
+    "postMarketPrice": 50.25,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.0204718,
+    "regularMarketChange": -1.05,
+    "regularMarketTime": "2026-09-15T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 51.29,
-    "regularMarketDayHigh": 51.295,
-    "regularMarketDayLow": 46.7301,
-    "regularMarketVolume": 18606396,
-    "averageDailyVolume10Day": 10725620,
-    "averageDailyVolume3Month": 11963755,
-    "regularMarketPreviousClose": 45.5,
+    "regularMarketPrice": 50.24,
+    "regularMarketDayHigh": 51.27,
+    "regularMarketDayLow": 49.9,
+    "regularMarketVolume": 8004859,
+    "averageDailyVolume10Day": 10726930,
+    "averageDailyVolume3Month": 11970104,
+    "regularMarketPreviousClose": 51.29,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 47.5,
-    "fulldayChangePercent": 0.119780235,
-    "fulldayChange": 5.450001,
-    "fulldayPrice": 51.25,
+    "regularMarketOpen": 50.52,
+    "fulldayChangePercent": -0.017352298,
+    "fulldayChange": -0.8899994,
+    "fulldayPrice": 50.25,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -3688,18 +3718,18 @@
     "shortName": "Roblox Corporation",
     "longName": "Roblox Corporation",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 36640342016
+    "marketCap": 35890249728
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 35439341568,
-    "forwardPE": -42.44842,
+    "enterpriseValue": 34689249280,
+    "forwardPE": -40.33009,
     "profitMargins": -0.17607,
     "floatShares": 643138372,
     "sharesOutstanding": 669992988,
@@ -3709,28 +3739,28 @@
     "dateShortInterest": "2026-08-31T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0328,
     "heldPercentInsiders": 0.05473,
-    "heldPercentInstitutions": 0.8646,
+    "heldPercentInstitutions": 0.86456,
     "shortRatio": 1.48,
     "shortPercentOfFloat": 0.036199998,
     "beta": 1.474,
     "impliedSharesOutstanding": 714375941,
     "category": null,
     "bookValue": 0.213,
-    "priceToBook": 240.79813,
+    "priceToBook": 235.86855,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -1001057024,
-    "trailingEps": -1.41,
+    "trailingEps": -1.38,
     "forwardEps": -1.24572,
     "pegRatio": 8.18,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 6.233,
-    "enterpriseToEbitda": -42.014,
-    "52WeekChange": -0.62630236,
-    "SandP52WeekChange": 0.15187562,
+    "enterpriseToRevenue": 6.101,
+    "enterpriseToEbitda": -41.124,
+    "52WeekChange": -0.6211405,
+    "SandP52WeekChange": 0.15448117,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -4617,24 +4647,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 19424,
-        "value": 1849788,
-        "filerUrl": "",
-        "transactionText": "Sale at price 93.34 - 96.98 per share.",
-        "filerName": "CHOPRA NAVEEN KUMAR",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-11-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 10584,
         "value": 1008013,
         "filerUrl": "",
         "transactionText": "Sale at price 93.45 - 97.26 per share.",
         "filerName": "BASZUCKI DAVID BRENT",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-11-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 19424,
+        "value": 1849788,
+        "filerUrl": "",
+        "transactionText": "Sale at price 93.34 - 96.98 per share.",
+        "filerName": "CHOPRA NAVEEN KUMAR",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-11-20T00:00:00.000Z",
         "ownership": "D"
@@ -5555,11 +5585,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 51.29,
+    "currentPrice": 50.24,
     "targetHighPrice": 65,
     "targetLowPrice": 30,
-    "targetMeanPrice": 47.47471,
-    "targetMedianPrice": 45.5,
+    "targetMeanPrice": 48.50412,
+    "targetMedianPrice": 47,
     "recommendationMean": 2.25714,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 34,
@@ -5584,6 +5614,6 @@
     "profitMargins": -0.17607,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-15T07:08:55.377Z",
+  "lastUpdated": "2026-09-16T07:09:36.904Z",
   "source": "Static Build (yahoo-finance2)"
 }

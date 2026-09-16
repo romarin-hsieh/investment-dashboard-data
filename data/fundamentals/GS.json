@@ -21,6 +21,14 @@
         "period": "-2m",
         "strongBuy": 1,
         "buy": 6,
+        "hold": 16,
+        "sell": 1,
+        "strongSell": 1
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 1,
+        "buy": 6,
         "hold": 15,
         "sell": 2,
         "strongSell": 1
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.082100004,
         "position": 23900376,
-        "value": 23624326948,
+        "value": 23342779819,
         "pctChange": -0.0037
       },
       {
@@ -46,7 +54,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0647,
         "position": 18830464,
-        "value": 18612972370,
+        "value": 18391148953,
         "pctChange": -0.0221
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0633,
         "position": 18425670,
-        "value": 18212853736,
+        "value": 17995798804,
         "pctChange": 0.0021
       },
       {
@@ -64,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0276,
         "position": 8039070,
-        "value": 7946218839,
+        "value": 7851518359,
         "pctChange": 0.1141
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0248,
         "position": 7215421,
-        "value": 7132082975,
+        "value": 7047085104,
         "pctChange": 0.001
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0241,
         "position": 7030974,
-        "value": 6949766336,
+        "value": 6866941256,
         "pctChange": 0.031400003
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.0239,
         "position": 6964113,
-        "value": 6883677579,
+        "value": 6801640124,
         "pctChange": 0.02
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0239,
         "position": 6948585,
-        "value": 6868328928,
+        "value": 6786474393,
         "pctChange": -0.0234
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0229,
         "position": 6680811,
-        "value": 6603647714,
+        "value": 6524947565,
         "pctChange": 0.035
       },
       {
@@ -118,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.013300001,
         "position": 3866640,
-        "value": 3821980355,
+        "value": 3776431222,
         "pctChange": 0.15720001
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00551,
-    "institutionsPercentHeld": 0.75834,
-    "institutionsFloatPercentHeld": 0.76254,
-    "institutionsCount": 3993
+    "institutionsPercentHeld": 0.75835,
+    "institutionsFloatPercentHeld": 0.76255995,
+    "institutionsCount": 3995
   },
   "earnings": {
     "maxAge": 86400,
@@ -4565,27 +4573,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0018715924,
-    "postMarketChange": 1.8499756,
-    "postMarketTime": "2026-09-14T23:59:56.000Z",
-    "postMarketPrice": 990.3,
+    "postMarketChangePercent": -0.00012286149,
+    "postMarketChange": -0.11999512,
+    "postMarketTime": "2026-09-15T23:57:00.000Z",
+    "postMarketPrice": 976.55,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0395752,
-    "regularMarketChange": -40.73,
-    "regularMarketTime": "2026-09-14T20:00:03.000Z",
+    "regularMarketChangePercent": -0.011917699,
+    "regularMarketChange": -11.78,
+    "regularMarketTime": "2026-09-15T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 988.45,
-    "regularMarketDayHigh": 1013.69,
-    "regularMarketDayLow": 978.93,
-    "regularMarketVolume": 2198325,
+    "regularMarketPrice": 976.67,
+    "regularMarketDayHigh": 988,
+    "regularMarketDayLow": 954.49,
+    "regularMarketVolume": 2351679,
     "averageDailyVolume10Day": 1669440,
-    "averageDailyVolume3Month": 1983753,
-    "regularMarketPreviousClose": 1029.18,
+    "averageDailyVolume3Month": 1977819,
+    "regularMarketPreviousClose": 988.45,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 1010,
-    "fulldayChangePercent": -0.041722592,
-    "fulldayChange": -42.940063,
-    "fulldayPrice": 990.3,
+    "regularMarketOpen": 984.65,
+    "fulldayChangePercent": -0.0081137335,
+    "fulldayChange": -8.02002,
+    "fulldayPrice": 976.55,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -4601,13 +4609,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 287808356352
+    "marketCap": 284378365952
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 53911371776,
-    "forwardPE": 13.35158,
+    "enterpriseValue": 50344796160,
+    "forwardPE": 13.19246,
     "profitMargins": 0.31039,
     "floatShares": 301060743,
     "sharesOutstanding": 291171408,
@@ -4617,14 +4625,14 @@
     "dateShortInterest": "2026-08-31T00:00:00.000Z",
     "sharesPercentSharesOut": 0.024,
     "heldPercentInsiders": 0.00551,
-    "heldPercentInstitutions": 0.75834,
+    "heldPercentInstitutions": 0.75835,
     "shortRatio": 3.86,
     "shortPercentOfFloat": 0.0241,
     "beta": 1.283,
     "impliedSharesOutstanding": 291171408,
     "category": null,
     "bookValue": 362.049,
-    "priceToBook": 2.7301552,
+    "priceToBook": 2.6976182,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4632,13 +4640,13 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.78,
     "netIncomeToCommon": 19982000128,
-    "trailingEps": 64.74,
+    "trailingEps": 63.97,
     "forwardEps": 74.03244,
-    "pegRatio": 1.27,
+    "pegRatio": 1.22,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 0.798,
-    "52WeekChange": 0.25635517,
-    "SandP52WeekChange": 0.15187562,
+    "enterpriseToRevenue": 0.745,
+    "52WeekChange": 0.2445544,
+    "SandP52WeekChange": 0.15448117,
     "lastDividendValue": 5,
     "lastDividendDate": "2026-09-01T00:00:00.000Z",
     "latestShareClass": null,
@@ -4914,6 +4922,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 32676,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "COLEMAN DENIS P.",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-01-27T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2846,
         "value": 2638717,
         "filerUrl": "",
@@ -4926,13 +4945,35 @@
       },
       {
         "maxAge": 1,
-        "shares": 32676,
+        "shares": 5249,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "COLEMAN DENIS P.",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2026-01-27T00:00:00.000Z",
+        "startDate": "2026-01-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4034,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HALIO CAREY",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-23T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5482,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GOLTEN ALEXANDER SIMON",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-01-23T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4978,39 +5019,6 @@
         "filerUrl": "",
         "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "FREDMAN SHEARA J.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5249,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "COLEMAN DENIS P.",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-01-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4034,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HALIO CAREY",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-23T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5482,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GOLTEN ALEXANDER SIMON",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-23T00:00:00.000Z",
@@ -5162,6 +5170,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 41462,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "RUEMMLER KATHRYN H",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-04-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 11933,
         "filerUrl": "",
         "transactionText": "",
@@ -5200,17 +5219,6 @@
         "transactionText": "",
         "filerName": "FREDMAN SHEARA J.",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-04-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 41462,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RUEMMLER KATHRYN H",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-04-30T00:00:00.000Z",
         "ownership": "D"
@@ -5276,6 +5284,50 @@
       },
       {
         "maxAge": 1,
+        "shares": 15937,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "RUEMMLER KATHRYN H",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-01-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8820,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "COLEMAN DENIS P.",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-01-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5589,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HALIO CAREY",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4986,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GOLTEN ALEXANDER SIMON",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2034,
         "value": 1275329,
         "filerUrl": "",
@@ -5318,50 +5370,6 @@
         "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "FREDMAN SHEARA J.",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 8820,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "COLEMAN DENIS P.",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-01-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5589,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HALIO CAREY",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 4986,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GOLTEN ALEXANDER SIMON",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 15937,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RUEMMLER KATHRYN H",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-01-21T00:00:00.000Z",
         "ownership": "D"
@@ -5515,7 +5523,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 988.45,
+    "currentPrice": 976.67,
     "targetHighPrice": 1325,
     "targetLowPrice": 730,
     "targetMeanPrice": 1141.65,
@@ -5542,6 +5550,6 @@
     "profitMargins": 0.31039,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-15T07:10:35.030Z",
+  "lastUpdated": "2026-09-16T07:11:17.141Z",
   "source": "Static Build (yahoo-finance2)"
 }
