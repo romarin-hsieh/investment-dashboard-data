@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0838,
         "position": 348770600,
-        "value": 26265913034,
+        "value": 25038241693,
         "pctChange": 0.0073
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.066,
         "position": 275026936,
-        "value": 20712277878,
+        "value": 19744183987,
         "pctChange": 0.0023
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0433,
         "position": 180129582,
-        "value": 13565558380,
+        "value": 12931502856,
         "pctChange": 0.0494
       },
       {
@@ -72,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0326,
         "position": 135937268,
-        "value": 10237435321,
+        "value": 9758936594,
         "pctChange": -0.33580002
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0325,
         "position": 135419167,
-        "value": 10198417136,
+        "value": 9721742122,
         "pctChange": 0.0301
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.026500002,
         "position": 110312736,
-        "value": 8307651878,
+        "value": 7919351418,
         "pctChange": 0.0655
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0239,
         "position": 99723374,
-        "value": 7510167052,
+        "value": 7159141110,
         "pctChange": 0.0070999996
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0225,
         "position": 93578816,
-        "value": 7047420404,
+        "value": 6718023286,
         "pctChange": -0.0551
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.021,
         "position": 87336163,
-        "value": 6577286222,
+        "value": 6269863221,
         "pctChange": -0.1187
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.018,
         "position": 75056512,
-        "value": 5652505735,
+        "value": 5388307065,
         "pctChange": -0.0045
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.0057200002,
-    "institutionsPercentHeld": 0.84013003,
+    "institutionsPercentHeld": 0.84012,
     "institutionsFloatPercentHeld": 0.84496003,
-    "institutionsCount": 4483
+    "institutionsCount": 4482
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-18T11:28:40.000Z",
+        "firm": "Wells Fargo",
+        "toGrade": "Underweight",
+        "fromGrade": "Equal-Weight",
+        "action": "down",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 57,
+        "priorPriceTarget": 80
+      },
       {
         "epochGradeDate": "2026-09-14T13:31:35.000Z",
         "firm": "Evercore ISI Group",
@@ -9787,31 +9797,31 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0022574135,
-    "postMarketChange": 0.1700058,
-    "postMarketTime": "2026-09-17T23:59:52.000Z",
-    "postMarketPrice": 75.48,
+    "postMarketChangePercent": 0.0020894487,
+    "postMarketChange": 0.15000153,
+    "postMarketTime": "2026-09-18T23:59:54.000Z",
+    "postMarketPrice": 71.94,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.0143961,
-    "regularMarketChange": -1.10001,
-    "regularMarketTime": "2026-09-17T20:00:00.000Z",
+    "regularMarketChangePercent": -0.0467401,
+    "regularMarketChange": -3.52,
+    "regularMarketTime": "2026-09-18T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 75.31,
-    "regularMarketDayHigh": 76.9231,
-    "regularMarketDayLow": 75.3,
-    "regularMarketVolume": 27803406,
-    "averageDailyVolume10Day": 26955490,
-    "averageDailyVolume3Month": 38958950,
-    "regularMarketPreviousClose": 76.41,
+    "regularMarketPrice": 71.79,
+    "regularMarketDayHigh": 72.38,
+    "regularMarketDayLow": 70.11,
+    "regularMarketVolume": 113606170,
+    "averageDailyVolume10Day": 36591210,
+    "averageDailyVolume3Month": 39983133,
+    "regularMarketPreviousClose": 75.31,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 76.905,
-    "fulldayChangePercent": -0.0143961,
-    "fulldayChange": -1.10001,
-    "fulldayPrice": 75.48,
+    "regularMarketOpen": 71.27,
+    "fulldayChangePercent": -0.0467401,
+    "fulldayChange": -3.52,
+    "fulldayPrice": 71.94,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "NFLX",
     "underlyingSymbol": null,
@@ -9823,13 +9833,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 313586286592
+    "marketCap": 298929225728
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 321113063424,
-    "forwardPE": 19.709965,
+    "enterpriseValue": 306455969792,
+    "forwardPE": 18.78872,
     "profitMargins": 0.28219,
     "floatShares": 4134708819,
     "sharesOutstanding": 4163939676,
@@ -9839,14 +9849,14 @@
     "dateShortInterest": "2026-08-31T00:00:00.000Z",
     "sharesPercentSharesOut": 0.022,
     "heldPercentInsiders": 0.0057200002,
-    "heldPercentInstitutions": 0.84013003,
+    "heldPercentInstitutions": 0.84012,
     "shortRatio": 3.1,
     "shortPercentOfFloat": 0.0221,
     "beta": 1.526,
     "impliedSharesOutstanding": 4163939676,
     "category": null,
     "bookValue": 7.241,
-    "priceToBook": 10.4004965,
+    "priceToBook": 9.914376,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -9854,15 +9864,15 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.088,
     "netIncomeToCommon": 13649642496,
-    "trailingEps": 3.13,
-    "forwardEps": 3.82091,
+    "trailingEps": 3.03,
+    "forwardEps": 3.81882,
     "pegRatio": 1.41,
     "lastSplitFactor": "10:1",
     "lastSplitDate": 1763337600,
-    "enterpriseToRevenue": 6.639,
-    "enterpriseToEbitda": 21.804,
-    "52WeekChange": -0.37724638,
-    "SandP52WeekChange": 0.13869953,
+    "enterpriseToRevenue": 6.336,
+    "enterpriseToEbitda": 20.809,
+    "52WeekChange": -0.4150908,
+    "SandP52WeekChange": 0.14797223,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -10032,22 +10042,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 6157,
+        "shares": 54388,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WILLEMS CLETUS R",
-        "filerRelation": "Officer",
+        "filerName": "PETERS GREGORY K.",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-08-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 54388,
+        "shares": 6157,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PETERS GREGORY K.",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "WILLEMS CLETUS R",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-08-03T00:00:00.000Z",
         "ownership": "D"
@@ -10195,22 +10205,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 54388,
+        "shares": 6168,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PETERS GREGORY K.",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "WILLEMS CLETUS R",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-04T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 6168,
+        "shares": 54388,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WILLEMS CLETUS R",
-        "filerRelation": "Officer",
+        "filerName": "PETERS GREGORY K.",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-05-04T00:00:00.000Z",
         "ownership": "D"
@@ -10454,22 +10464,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 6157,
+        "shares": 54388,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WILLEMS CLETUS R",
-        "filerRelation": "Officer",
+        "filerName": "PETERS GREGORY K.",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-02-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 54388,
+        "shares": 6157,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PETERS GREGORY K.",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "WILLEMS CLETUS R",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-03T00:00:00.000Z",
         "ownership": "D"
@@ -10750,22 +10760,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 463,
+        "shares": 4037,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WILLEMS CLETUS R",
-        "filerRelation": "Officer",
+        "filerName": "PETERS GREGORY K.",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-11-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 4037,
+        "shares": 463,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PETERS GREGORY K.",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "WILLEMS CLETUS R",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-03T00:00:00.000Z",
         "ownership": "D"
@@ -10965,10 +10975,10 @@
       {
         "maxAge": 1,
         "shares": 2026,
-        "value": 2351411,
+        "value": 2344964,
         "filerUrl": "",
-        "transactionText": "Sale at price 1160.62 per share.",
-        "filerName": "SARANDOS THEODORE ANTHONY JR.",
+        "transactionText": "Sale at price 1157.44 per share.",
+        "filerName": "PETERS GREGORY K.",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-08-05T00:00:00.000Z",
@@ -10977,10 +10987,10 @@
       {
         "maxAge": 1,
         "shares": 2026,
-        "value": 2344964,
+        "value": 2351411,
         "filerUrl": "",
-        "transactionText": "Sale at price 1157.44 per share.",
-        "filerName": "PETERS GREGORY K.",
+        "transactionText": "Sale at price 1160.62 per share.",
+        "filerName": "SARANDOS THEODORE ANTHONY JR.",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-08-05T00:00:00.000Z",
@@ -11010,22 +11020,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 462,
+        "shares": 4036,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WILLEMS CLETUS R",
-        "filerRelation": "Officer",
+        "filerName": "PETERS GREGORY K.",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-08-04T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 4036,
+        "shares": 462,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PETERS GREGORY K.",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "WILLEMS CLETUS R",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-04T00:00:00.000Z",
         "ownership": "D"
@@ -11605,22 +11615,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 461,
+        "shares": 4037,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WILLEMS CLETUS R",
-        "filerRelation": "Officer",
+        "filerName": "PETERS GREGORY K.",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-05-05T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 4037,
+        "shares": 461,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PETERS GREGORY K.",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "WILLEMS CLETUS R",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-05-05T00:00:00.000Z",
         "ownership": "D"
@@ -11665,7 +11675,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 75.31,
+    "currentPrice": 71.79,
     "targetHighPrice": 135,
     "targetLowPrice": 70,
     "targetMeanPrice": 93.88222,
@@ -11695,6 +11705,6 @@
     "profitMargins": 0.28219,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-18T07:00:47.026Z",
+  "lastUpdated": "2026-09-19T06:59:43.508Z",
   "source": "Static Build (yahoo-finance2)"
 }
