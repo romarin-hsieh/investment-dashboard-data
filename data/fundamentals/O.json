@@ -3,8 +3,8 @@
     "trend": [
       {
         "period": "0m",
-        "strongBuy": 3,
-        "buy": 5,
+        "strongBuy": 2,
+        "buy": 6,
         "hold": 15,
         "sell": 0,
         "strongSell": 1
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.119399995,
         "position": 112931238,
-        "value": 6398683927,
+        "value": 6397554805,
         "pctChange": 0.0465
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.087799996,
         "position": 83115805,
-        "value": 4709341498,
+        "value": 4708510480,
         "pctChange": 0.0232
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.069699995,
         "position": 65929425,
-        "value": 3735561210,
+        "value": 3734902026,
         "pctChange": 0.034
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0643,
         "position": 60848009,
-        "value": 3447648180,
+        "value": 3447039802,
         "pctChange": 0.0121
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.033,
         "position": 31265152,
-        "value": 1771483507,
+        "value": 1771170908,
         "pctChange": 0.032
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0202,
         "position": 19117994,
-        "value": 1083225537,
+        "value": 1083034389,
         "pctChange": 0.103
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0153,
         "position": 14440511,
-        "value": 818199351,
+        "value": 818054970,
         "pctChange": -0.052600004
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Dimensional Fund Advisors LP",
         "pctHeld": 0.014199999,
         "position": 13479666,
-        "value": 763757873,
+        "value": 763623099,
         "pctChange": 0.0354
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Charles Schwab Investment Management, Inc.",
         "pctHeld": 0.0138,
         "position": 13069240,
-        "value": 740503136,
+        "value": 740372465,
         "pctChange": 0.0722
       },
       {
@@ -126,7 +126,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0137,
         "position": 12978009,
-        "value": 735333987,
+        "value": 735204229,
         "pctChange": 0.3092
       }
     ]
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-21T16:28:04.000Z",
+        "firm": "Evercore ISI Group",
+        "toGrade": "In-Line",
+        "fromGrade": "In-Line",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 65,
+        "priorPriceTarget": 68
+      },
       {
         "epochGradeDate": "2026-09-17T13:21:05.000Z",
         "firm": "Mizuho",
@@ -2367,27 +2377,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.004412284,
+    "postMarketChangePercent": 0.0044130627,
     "postMarketChange": 0.25,
-    "postMarketTime": "2026-09-18T23:59:40.000Z",
-    "postMarketPrice": 56.91,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.0115143005,
-    "regularMarketChange": -0.66,
-    "regularMarketTime": "2026-09-18T20:00:02.000Z",
+    "postMarketTime": "2026-09-21T23:57:28.000Z",
+    "postMarketPrice": 56.9,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.000176462,
+    "regularMarketChange": -0.00999832,
+    "regularMarketTime": "2026-09-21T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 56.66,
-    "regularMarketDayHigh": 57.353,
-    "regularMarketDayLow": 56.55,
-    "regularMarketVolume": 15185526,
-    "averageDailyVolume10Day": 8127930,
-    "averageDailyVolume3Month": 5846119,
-    "regularMarketPreviousClose": 57.32,
+    "regularMarketPrice": 56.65,
+    "regularMarketDayHigh": 57.32,
+    "regularMarketDayLow": 56.61,
+    "regularMarketVolume": 8430880,
+    "averageDailyVolume10Day": 8479080,
+    "averageDailyVolume3Month": 5889298,
+    "regularMarketPreviousClose": 56.66,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 57.18,
-    "fulldayChangePercent": -0.00750175,
-    "fulldayChange": -0.4300003,
-    "fulldayPrice": 56.91,
+    "regularMarketOpen": 57.08,
+    "fulldayChangePercent": 0.0042358222,
+    "fulldayChange": 0.24000168,
+    "fulldayPrice": 56.9,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -2398,18 +2408,18 @@
     "shortName": "Realty Income Corporation",
     "longName": "Realty Income Corporation",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 53612716032
+    "marketCap": 53603254272
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 86761078784,
-    "forwardPE": 36.483753,
+    "enterpriseValue": 86751617024,
+    "forwardPE": 36.477318,
     "profitMargins": 0.20898001,
     "floatShares": 944060656,
     "sharesOutstanding": 946218033,
@@ -2426,7 +2436,7 @@
     "impliedSharesOutstanding": 946218033,
     "category": null,
     "bookValue": 41.798,
-    "priceToBook": 1.3555672,
+    "priceToBook": 1.3553281,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2439,10 +2449,10 @@
     "pegRatio": 2.86,
     "lastSplitFactor": "1032:1000",
     "lastSplitDate": 1636934400,
-    "enterpriseToRevenue": 14.304,
-    "enterpriseToEbitda": 16.194,
-    "52WeekChange": -0.04063666,
-    "SandP52WeekChange": 0.14293182,
+    "enterpriseToRevenue": 14.302,
+    "enterpriseToEbitda": 16.192,
+    "52WeekChange": -0.040805936,
+    "SandP52WeekChange": 0.15999258,
     "lastDividendValue": 0.271,
     "lastDividendDate": "2026-08-31T00:00:00.000Z",
     "latestShareClass": null,
@@ -2969,12 +2979,12 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 56.66,
+    "currentPrice": 56.65,
     "targetHighPrice": 74,
-    "targetLowPrice": 61.5,
-    "targetMeanPrice": 68.1625,
-    "targetMedianPrice": 68,
-    "recommendationMean": 2.5,
+    "targetLowPrice": 61,
+    "targetMeanPrice": 67.6625,
+    "targetMedianPrice": 67.5,
+    "recommendationMean": 2.45833,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 20,
     "totalCash": 569948032,
@@ -2999,6 +3009,6 @@
     "profitMargins": 0.20898001,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-21T07:38:34.396Z",
+  "lastUpdated": "2026-09-22T07:17:43.746Z",
   "source": "Static Build (yahoo-finance2)"
 }

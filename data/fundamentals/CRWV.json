@@ -3,10 +3,10 @@
     "trend": [
       {
         "period": "0m",
-        "strongBuy": 6,
+        "strongBuy": 7,
         "buy": 20,
         "hold": 9,
-        "sell": 1,
+        "sell": 2,
         "strongSell": 1
       },
       {
@@ -45,7 +45,7 @@
         "organization": "Magnetar Financial LLC",
         "pctHeld": 0.11350001,
         "position": 52062927,
-        "value": 4235839772,
+        "value": 4447735869,
         "pctChange": -0.24069999
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Nvidia Corp                          ",
         "pctHeld": 0.1029,
         "position": 47213353,
-        "value": 3841278428,
+        "value": 4033436761,
         "pctChange": 0
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0525,
         "position": 24105966,
-        "value": 1961261408,
+        "value": 2059372682,
         "pctChange": 1.5703999
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0395,
         "position": 18103949,
-        "value": 1472937301,
+        "value": 1546620368,
         "pctChange": 0.0127
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0372,
         "position": 17063815,
-        "value": 1388311998,
+        "value": 1457761720,
         "pctChange": 0.3425
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0344,
         "position": 15789271,
-        "value": 1284615098,
+        "value": 1348877426,
         "pctChange": 0.26950002
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Jane Street Group, LLC",
         "pctHeld": 0.030299999,
         "position": 13885024,
-        "value": 1129685561,
+        "value": 1186197604,
         "pctChange": 0.5677
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.027,
         "position": 12408675,
-        "value": 1009569805,
+        "value": 1060073109,
         "pctChange": 11.4948
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Alyeska Investment Group, L.p.",
         "pctHeld": 0.023699999,
         "position": 10891267,
-        "value": 886113489,
+        "value": 930440943,
         "pctChange": 0.5573
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Value Aligned Research Advisors, LLC                          ",
         "pctHeld": 0.023699999,
         "position": 10886110,
-        "value": 885693916,
+        "value": 930000380,
         "pctChange": 0.3146
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.18677999,
-    "institutionsPercentHeld": 0.76688004,
-    "institutionsFloatPercentHeld": 0.94302005,
-    "institutionsCount": 1283
+    "institutionsPercentHeld": 0.76698,
+    "institutionsFloatPercentHeld": 0.94315004,
+    "institutionsCount": 1286
   },
   "earnings": {
     "maxAge": 86400,
@@ -243,6 +243,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-21T12:11:49.000Z",
+        "firm": "Rothschild & Co",
+        "toGrade": "Sell",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 54,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-09-18T11:45:05.000Z",
         "firm": "Rosenblatt",
@@ -1729,27 +1739,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.0006145901,
-    "postMarketChange": -0.05000305,
-    "postMarketTime": "2026-09-18T23:59:50.000Z",
-    "postMarketPrice": 81.31,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.018527834,
-    "regularMarketChange": 1.4800034,
-    "regularMarketTime": "2026-09-18T20:00:01.000Z",
+    "postMarketChangePercent": 0.01097622,
+    "postMarketChange": 0.93769836,
+    "postMarketTime": "2026-09-21T23:59:52.000Z",
+    "postMarketPrice": 86.3677,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.0500246,
+    "regularMarketChange": 4.07,
+    "regularMarketTime": "2026-09-21T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 81.36,
-    "regularMarketDayHigh": 81.74,
-    "regularMarketDayLow": 79.16,
-    "regularMarketVolume": 66370228,
+    "regularMarketPrice": 85.43,
+    "regularMarketDayHigh": 87.25,
+    "regularMarketDayLow": 80.92,
+    "regularMarketVolume": 39625644,
     "averageDailyVolume10Day": 34632300,
-    "averageDailyVolume3Month": 28451841,
-    "regularMarketPreviousClose": 79.88,
+    "averageDailyVolume3Month": 28428600,
+    "regularMarketPreviousClose": 81.36,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 79.83,
-    "fulldayChangePercent": 0.03392588,
-    "fulldayChange": 2.709999,
-    "fulldayPrice": 81.31,
+    "regularMarketOpen": 81.57,
+    "fulldayChangePercent": 0.036135722,
+    "fulldayChange": 2.9400024,
+    "fulldayPrice": 86.3677,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -1760,18 +1770,18 @@
     "shortName": "CoreWeave, Inc.",
     "longName": "CoreWeave, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 44873015296
+    "marketCap": 47117770752
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 90947018752,
-    "forwardPE": -41.731853,
+    "enterpriseValue": 93191774208,
+    "forwardPE": -44.016117,
     "profitMargins": -0.25402,
     "floatShares": 328042940,
     "sharesOutstanding": 458871690,
@@ -1781,13 +1791,13 @@
     "dateShortInterest": "2026-08-31T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1008,
     "heldPercentInsiders": 0.18677999,
-    "heldPercentInstitutions": 0.76688004,
+    "heldPercentInstitutions": 0.76698,
     "shortRatio": 1.93,
     "shortPercentOfFloat": 0.1784,
     "impliedSharesOutstanding": 551536602,
     "category": null,
     "bookValue": 9.118,
-    "priceToBook": 8.92301,
+    "priceToBook": 9.369379,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1795,12 +1805,12 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -1928000000,
     "trailingEps": -3.55,
-    "forwardEps": -1.94959,
+    "forwardEps": -1.94088,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 11.982,
-    "enterpriseToEbitda": 24.003,
-    "52WeekChange": -0.38932675,
-    "SandP52WeekChange": 0.14293182,
+    "enterpriseToRevenue": 12.278,
+    "enterpriseToEbitda": 24.595,
+    "52WeekChange": -0.37840933,
+    "SandP52WeekChange": 0.15999258,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1909,6 +1919,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 307692,
+        "value": 30794542,
+        "filerUrl": "",
+        "transactionText": "Sale at price 93.35 - 104.44 per share.",
+        "filerName": "INTRATOR MICHAEL N",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-09-08T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
         "shares": 97500,
         "value": 9158766,
         "filerUrl": "",
@@ -1930,18 +1952,6 @@
         "moneyText": "",
         "startDate": "2026-09-08T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 307692,
-        "value": 30794542,
-        "filerUrl": "",
-        "transactionText": "Sale at price 93.35 - 104.44 per share.",
-        "filerName": "INTRATOR MICHAEL N",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-09-08T00:00:00.000Z",
-        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -1968,18 +1978,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 156000,
-        "value": 12734129,
-        "filerUrl": "",
-        "transactionText": "Sale at price 81.16 - 82.50 per share.",
-        "filerName": "MCVEETY KRISTEN J",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-09-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 307692,
         "value": 25127375,
         "filerUrl": "",
@@ -1989,6 +1987,18 @@
         "moneyText": "",
         "startDate": "2026-09-01T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 156000,
+        "value": 12734129,
+        "filerUrl": "",
+        "transactionText": "Sale at price 81.16 - 82.50 per share.",
+        "filerName": "MCVEETY KRISTEN J",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-09-01T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2687,17 +2697,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 12500,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MCBEE BRANNIN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-07-27T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 237000,
         "filerUrl": "",
         "transactionText": "",
@@ -2706,6 +2705,17 @@
         "moneyText": "",
         "startDate": "2026-07-27T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 12500,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MCBEE BRANNIN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-27T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -2756,17 +2766,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 194000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MCBEE BRANNIN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-07-20T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
         "shares": 55500,
         "filerUrl": "",
         "transactionText": "",
@@ -2775,6 +2774,17 @@
         "moneyText": "",
         "startDate": "2026-07-20T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 194000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MCBEE BRANNIN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-07-20T00:00:00.000Z",
+        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -3089,10 +3099,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 121118,
+        "shares": 7,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MCBEE BRANNIN",
+        "filerName": "GOLDBERG CHEN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
@@ -3100,10 +3110,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 7,
+        "shares": 121118,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GOLDBERG CHEN",
+        "filerName": "MCBEE BRANNIN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
@@ -3567,14 +3577,14 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 81.36,
+    "currentPrice": 85.43,
     "targetHighPrice": 317,
     "targetLowPrice": 39,
-    "targetMeanPrice": 144.44118,
-    "targetMedianPrice": 150,
-    "recommendationMean": 1.83784,
+    "targetMeanPrice": 141.38889,
+    "targetMedianPrice": 145,
+    "recommendationMean": 1.92308,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 34,
+    "numberOfAnalystOpinions": 36,
     "totalCash": 5538999808,
     "totalCashPerShare": 10.043,
     "ebitda": 3788999936,
@@ -3596,6 +3606,6 @@
     "profitMargins": -0.25402,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-21T07:35:53.603Z",
+  "lastUpdated": "2026-09-22T07:14:58.198Z",
   "source": "Static Build (yahoo-finance2)"
 }
