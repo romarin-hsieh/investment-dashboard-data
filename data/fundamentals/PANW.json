@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.77769995,
         "position": 75753509,
-        "value": 28162125245,
+        "value": 28374992420,
         "pctChange": 0.045900002
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.5454,
         "position": 53129128,
-        "value": 19751285144,
+        "value": 19900577864,
         "pctChange": 0.0069
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.3796,
         "position": 36979497,
-        "value": 13747498165,
+        "value": 13851410462,
         "pctChange": 0.0421
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.3023,
         "position": 29450112,
-        "value": 10948373924,
+        "value": 11031128667,
         "pctChange": -0.0888
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.2633,
         "position": 25647946,
-        "value": 9534880655,
+        "value": 9606951321,
         "pctChange": 0.0719
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.23290001,
         "position": 22681876,
-        "value": 8432214443,
+        "value": 8495950459,
         "pctChange": 0.0091
       },
       {
@@ -99,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.2229,
         "position": 21715578,
-        "value": 8072983489,
+        "value": 8134004210,
         "pctChange": 0.6122
       },
       {
@@ -108,7 +108,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.2059,
         "position": 20054462,
-        "value": 7455446988,
+        "value": 7511799978,
         "pctChange": 1.4744
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.2014,
         "position": 19615573,
-        "value": 7292285610,
+        "value": 7347405322,
         "pctChange": 0.0150999995
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.19860001,
         "position": 19347649,
-        "value": 7192682181,
+        "value": 7247049027,
         "pctChange": -0.0128999995
       }
     ]
@@ -201,6 +201,12 @@
     "financialsChart": {
       "yearly": [
         {
+          "date": 2022,
+          "revenue": 5501500000,
+          "earnings": -267000000,
+          "profitMargin": -0.048532218
+        },
+        {
           "date": 2023,
           "revenue": 6892700000,
           "earnings": 439700000,
@@ -217,15 +223,16 @@
           "revenue": 9221500000,
           "earnings": 1133900000,
           "profitMargin": 0.122962646
-        },
-        {
-          "date": 2026,
-          "revenue": 11480000000,
-          "earnings": 307000000,
-          "profitMargin": 0.026742158
         }
       ],
       "quarterly": [
+        {
+          "date": "2Q2025",
+          "fiscalQuarter": "4Q2025",
+          "revenue": 2536300000,
+          "earnings": 253800000,
+          "profitMargin": 0.10006703
+        },
         {
           "date": "3Q2025",
           "fiscalQuarter": "1Q2026",
@@ -246,13 +253,6 @@
           "revenue": 3002000000,
           "earnings": -177000000,
           "profitMargin": -0.058960695
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "4Q2026",
-          "revenue": 3410000000,
-          "earnings": -282000000,
-          "profitMargin": -0.08269795
         }
       ]
     },
@@ -9576,28 +9576,28 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.000511089,
-    "postMarketChange": -0.19000244,
-    "postMarketTime": "2026-09-21T23:59:53.000Z",
-    "postMarketPrice": 371.57,
+    "preMarketSource": "DELAYED",
+    "postMarketChangePercent": 0.000667432,
+    "postMarketChange": 0.25,
+    "postMarketTime": "2026-09-22T23:57:22.000Z",
+    "postMarketPrice": 374.82,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0224986,
-    "regularMarketChange": 8.18002,
-    "regularMarketTime": "2026-09-21T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0075586303,
+    "regularMarketChange": 2.81,
+    "regularMarketTime": "2026-09-22T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 371.76,
-    "regularMarketDayHigh": 374.56,
-    "regularMarketDayLow": 357.59,
-    "regularMarketVolume": 5136650,
-    "averageDailyVolume10Day": 6909180,
-    "averageDailyVolume3Month": 6623973,
-    "regularMarketPreviousClose": 363.58,
+    "regularMarketPrice": 374.57,
+    "regularMarketDayHigh": 377.91,
+    "regularMarketDayLow": 363.58,
+    "regularMarketVolume": 7925297,
+    "averageDailyVolume10Day": 6910190,
+    "averageDailyVolume3Month": 6636333,
+    "regularMarketPreviousClose": 371.76,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 364.26,
-    "fulldayChangePercent": 0.035150446,
-    "fulldayChange": 12.779999,
-    "fulldayPrice": 371.57,
+    "regularMarketOpen": 374.394,
+    "fulldayChangePercent": 0.009441519,
+    "fulldayChange": 3.5099792,
+    "fulldayPrice": 374.82,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -9613,13 +9613,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 304099688448
+    "marketCap": 306398265344
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 303595683840,
-    "forwardPE": 76.194855,
+    "enterpriseValue": 305894260736,
+    "forwardPE": 76.77078,
     "profitMargins": 0.02674,
     "floatShares": 811235140,
     "sharesOutstanding": 818000000,
@@ -9636,22 +9636,22 @@
     "impliedSharesOutstanding": 818000000,
     "category": null,
     "bookValue": 33.733,
-    "priceToBook": 11.020662,
+    "priceToBook": 11.103963,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-07-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2027-07-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-07-31T00:00:00.000Z",
     "netIncomeToCommon": 307000000,
-    "trailingEps": 0.4,
+    "trailingEps": 0.41,
     "forwardEps": 4.87907,
-    "pegRatio": 1.86,
+    "pegRatio": 1.9,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1734307200,
-    "enterpriseToRevenue": 26.446,
-    "enterpriseToEbitda": 194.613,
-    "52WeekChange": 0.7857623,
-    "SandP52WeekChange": 0.15999258,
+    "enterpriseToRevenue": 26.646,
+    "enterpriseToEbitda": 196.086,
+    "52WeekChange": 0.8290775,
+    "SandP52WeekChange": 0.16641033,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -9677,6 +9677,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "value": 7533686,
+        "filerUrl": "",
+        "transactionText": "Sale at price 372.51 - 382.69 per share.",
+        "filerName": "GOETZ JAMES JOSEPH",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-09-17T00:00:00.000Z",
+        "ownership": "I"
+      },
       {
         "maxAge": 1,
         "shares": 1500,
@@ -9787,18 +9799,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1468,
-        "value": 399835,
-        "filerUrl": "",
-        "transactionText": "Sale at price 265.00 - 280.00 per share.",
-        "filerName": "BAWA APARNA",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-12T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 7500,
         "value": 2094300,
         "filerUrl": "",
@@ -9808,6 +9808,18 @@
         "moneyText": "",
         "startDate": "2026-06-12T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1468,
+        "value": 399835,
+        "filerUrl": "",
+        "transactionText": "Sale at price 265.00 - 280.00 per share.",
+        "filerName": "BAWA APARNA",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-12T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -11386,7 +11398,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 371.76,
+    "currentPrice": 374.57,
     "targetHighPrice": 475,
     "targetLowPrice": 190,
     "targetMeanPrice": 395.7,
@@ -11415,6 +11427,6 @@
     "profitMargins": 0.02674,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-22T07:16:06.205Z",
+  "lastUpdated": "2026-09-23T07:16:49.193Z",
   "source": "Static Build (yahoo-finance2)"
 }
