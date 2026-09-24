@@ -4,7 +4,7 @@
       {
         "period": "0m",
         "strongBuy": 5,
-        "buy": 16,
+        "buy": 17,
         "hold": 1,
         "sell": 0,
         "strongSell": 0
@@ -45,7 +45,7 @@
         "organization": "Lone Pine Capital Llc",
         "pctHeld": 0.0484,
         "position": 24144625,
-        "value": 418426349,
+        "value": 394764627,
         "pctChange": 0.21200001
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0469,
         "position": 23392928,
-        "value": 405399440,
+        "value": 382474381,
         "pctChange": -0.1688
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.044699997,
         "position": 22295667,
-        "value": 386383907,
+        "value": 364534163,
         "pctChange": -0.0074
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0359,
         "position": 17896846,
-        "value": 310152339,
+        "value": 292613438,
         "pctChange": 0.1452
       },
       {
@@ -81,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.028900001,
         "position": 14444267,
-        "value": 250319146,
+        "value": 236163770,
         "pctChange": 2.0157
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Value Aligned Research Advisors, LLC                          ",
         "pctHeld": 0.024600001,
         "position": 12263135,
-        "value": 212520128,
+        "value": 200502261,
         "pctChange": 0.5625
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0238,
         "position": 11894191,
-        "value": 206126329,
+        "value": 194470027,
         "pctChange": 1.0058
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Two Sigma Investments, LP",
         "pctHeld": 0.023,
         "position": 11495860,
-        "value": 199223252,
+        "value": 187957315,
         "pctChange": 0.4669
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0159,
         "position": 7916252,
-        "value": 137188646,
+        "value": 129430723,
         "pctChange": -0.0713
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Scoggin Management, LP",
         "pctHeld": 0.015700001,
         "position": 7825000,
-        "value": 135607249,
+        "value": 127938752,
         "pctChange": 0.0433
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.22878,
-    "institutionsPercentHeld": 0.89947,
-    "institutionsFloatPercentHeld": 1.1662899,
-    "institutionsCount": 649
+    "institutionsPercentHeld": 0.89955,
+    "institutionsFloatPercentHeld": 1.16639,
+    "institutionsCount": 651
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-23T12:42:21.000Z",
+        "firm": "UBS",
+        "toGrade": "Buy",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 24,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-09-21T12:04:33.000Z",
         "firm": "Rothschild & Co",
@@ -1306,28 +1316,28 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketSource": "DELAYED",
-    "postMarketChangePercent": -0.000028835853,
-    "postMarketChange": -0.00049972534,
-    "postMarketTime": "2026-09-22T23:58:18.000Z",
-    "postMarketPrice": 17.3295,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.00687684,
-    "regularMarketChange": -0.120001,
-    "regularMarketTime": "2026-09-22T20:00:00.000Z",
+    "preMarketSource": "FREE_REALTIME",
+    "postMarketChangePercent": 0.0012232695,
+    "postMarketChange": 0.020000458,
+    "postMarketTime": "2026-09-23T23:59:57.000Z",
+    "postMarketPrice": 16.37,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.0565493,
+    "regularMarketChange": -0.98,
+    "regularMarketTime": "2026-09-23T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 17.33,
-    "regularMarketDayHigh": 17.93,
-    "regularMarketDayLow": 17.21,
-    "regularMarketVolume": 21498700,
-    "averageDailyVolume10Day": 30458510,
-    "averageDailyVolume3Month": 33287852,
-    "regularMarketPreviousClose": 17.45,
+    "regularMarketPrice": 16.35,
+    "regularMarketDayHigh": 17.49,
+    "regularMarketDayLow": 16.29,
+    "regularMarketVolume": 30680442,
+    "averageDailyVolume10Day": 30005080,
+    "averageDailyVolume3Month": 33242326,
+    "regularMarketPreviousClose": 17.33,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 17.31,
-    "fulldayChangePercent": -0.001146158,
-    "fulldayChange": -0.020000458,
-    "fulldayPrice": 17.3295,
+    "regularMarketOpen": 17.14,
+    "fulldayChangePercent": -0.06693594,
+    "fulldayChange": -1.1599998,
+    "fulldayPrice": 16.37,
     "exchange": "NCM",
     "exchangeName": "NasdaqCM",
     "exchangeDataDelayedBy": 0,
@@ -1338,18 +1348,18 @@
     "shortName": "TeraWulf Inc.",
     "longName": "TeraWulf Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 8647127040
+    "marketCap": 8158137856
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 11264904192,
-    "forwardPE": -72.322845,
+    "enterpriseValue": 10775914496,
+    "forwardPE": -68.23304,
     "profitMargins": 0,
     "floatShares": 384051201,
     "sharesOutstanding": 498968677,
@@ -1359,28 +1369,28 @@
     "dateShortInterest": "2026-08-31T00:00:00.000Z",
     "sharesPercentSharesOut": 0.2451,
     "heldPercentInsiders": 0.22878,
-    "heldPercentInstitutions": 0.89947,
+    "heldPercentInstitutions": 0.89955,
     "shortRatio": 3.9,
     "shortPercentOfFloat": 0.2882,
     "beta": 4.248,
     "impliedSharesOutstanding": 498968677,
     "category": null,
     "bookValue": 0.295,
-    "priceToBook": 58.745766,
+    "priceToBook": 55.423733,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -1949179008,
-    "trailingEps": -4.43,
-    "forwardEps": -0.24,
+    "trailingEps": -4.21,
+    "forwardEps": -0.23962,
     "lastSplitFactor": "3:2",
     "lastSplitDate": 1084492800,
-    "enterpriseToRevenue": 68.192,
-    "enterpriseToEbitda": -41.583,
-    "52WeekChange": 0.55249107,
-    "SandP52WeekChange": 0.16641033,
+    "enterpriseToRevenue": 65.232,
+    "enterpriseToEbitda": -39.778,
+    "52WeekChange": 0.43421054,
+    "SandP52WeekChange": 0.16090155,
     "lastDividendValue": 5,
     "lastDividendDate": "2021-12-14T00:00:00.000Z",
     "latestShareClass": null,
@@ -2738,14 +2748,14 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 17.33,
+    "currentPrice": 16.35,
     "targetHighPrice": 62.5,
     "targetLowPrice": 15,
-    "targetMeanPrice": 34.3,
+    "targetMeanPrice": 33.85217,
     "targetMedianPrice": 32,
-    "recommendationMean": 1.31818,
+    "recommendationMean": 1.30435,
     "recommendationKey": "strong_buy",
-    "numberOfAnalystOpinions": 22,
+    "numberOfAnalystOpinions": 23,
     "totalCash": 2619191040,
     "totalCashPerShare": 5.249,
     "ebitda": -270900000,
@@ -2767,6 +2777,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-23T07:19:17.970Z",
+  "lastUpdated": "2026-09-24T07:11:06.936Z",
   "source": "Static Build (yahoo-finance2)"
 }

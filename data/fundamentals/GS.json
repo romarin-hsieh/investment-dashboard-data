@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.082100004,
         "position": 23900376,
-        "value": 22693167774,
+        "value": 22379355721,
         "pctChange": -0.0037
       },
       {
@@ -54,7 +54,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0647,
         "position": 18830464,
-        "value": 17879337079,
+        "value": 17632092995,
         "pctChange": -0.0221
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0633,
         "position": 18425670,
-        "value": 17494989228,
+        "value": 17253060091,
         "pctChange": 0.0021
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0276,
         "position": 8039070,
-        "value": 7633016495,
+        "value": 7527463467,
         "pctChange": 0.1141
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0248,
         "position": 7215421,
-        "value": 6850970014,
+        "value": 6756231501,
         "pctChange": 0.001
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0241,
         "position": 7030974,
-        "value": 6675839434,
+        "value": 6583522711,
         "pctChange": 0.031400003
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Fisher Asset Management, LLC",
         "pctHeld": 0.0239,
         "position": 6964113,
-        "value": 6612355584,
+        "value": 6520916746,
         "pctChange": 0.02
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0239,
         "position": 6948585,
-        "value": 6597611903,
+        "value": 6506376948,
         "pctChange": -0.0234
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0229,
         "position": 6680811,
-        "value": 6343363171,
+        "value": 6255644090,
         "pctChange": 0.035
       },
       {
@@ -126,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.013300001,
         "position": 3866640,
-        "value": 3671335975,
+        "value": 3620566973,
         "pctChange": 0.15720001
       }
     ]
@@ -136,7 +136,7 @@
     "insidersPercentHeld": 0.00551,
     "institutionsPercentHeld": 0.75838995,
     "institutionsFloatPercentHeld": 0.76259005,
-    "institutionsCount": 3998
+    "institutionsCount": 4000
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1784028640
         }
       ],
-      "currentQuarterEstimate": 16.05434,
+      "currentQuarterEstimate": 15.72678,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -199,14 +199,78 @@
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
-      "yearly": [],
-      "quarterly": []
+      "yearly": [
+        {
+          "date": 2022,
+          "revenue": 47365000000,
+          "earnings": 10764000000,
+          "profitMargin": 0.22725642
+        },
+        {
+          "date": 2023,
+          "revenue": 46524000000,
+          "earnings": 7907000000,
+          "profitMargin": 0.1699553
+        },
+        {
+          "date": 2024,
+          "revenue": 53512000000,
+          "earnings": 13525000000,
+          "profitMargin": 0.25274706
+        },
+        {
+          "date": 2025,
+          "revenue": 58283000000,
+          "earnings": 16300000000,
+          "profitMargin": 0.27966988
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2025",
+          "fiscalQuarter": "3Q2025",
+          "revenue": 15184000000,
+          "earnings": 3860000000,
+          "profitMargin": 0.25421497
+        },
+        {
+          "date": "4Q2025",
+          "fiscalQuarter": "4Q2025",
+          "revenue": 13454000000,
+          "earnings": 4384000000,
+          "profitMargin": 0.32585105
+        },
+        {
+          "date": "1Q2026",
+          "fiscalQuarter": "1Q2026",
+          "revenue": 17227000000,
+          "earnings": 5403000000,
+          "profitMargin": 0.31363556
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 20338000000,
+          "earnings": 6399000000,
+          "profitMargin": 0.3146327
+        }
+      ]
     },
     "financialCurrency": "USD",
     "defaultMethodology": "gaap"
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-23T15:15:12.000Z",
+        "firm": "Citigroup",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 1050,
+        "priorPriceTarget": 1200
+      },
       {
         "epochGradeDate": "2026-08-03T20:48:06.000Z",
         "firm": "UBS",
@@ -4573,27 +4637,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.0013796856,
-    "postMarketChange": 1.3099976,
-    "postMarketTime": "2026-09-22T23:06:17.000Z",
-    "postMarketPrice": 950.8,
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0103191,
-    "regularMarketChange": -9.90002,
-    "regularMarketTime": "2026-09-22T20:00:03.000Z",
+    "postMarketChangePercent": 0.0021466208,
+    "postMarketChange": 2.0100098,
+    "postMarketTime": "2026-09-23T23:58:31.000Z",
+    "postMarketPrice": 938.37,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": -0.0138285,
+    "regularMarketChange": -13.13,
+    "regularMarketTime": "2026-09-23T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 949.49,
-    "regularMarketDayHigh": 966.35,
-    "regularMarketDayLow": 936.775,
-    "regularMarketVolume": 2033514,
-    "averageDailyVolume10Day": 2322260,
-    "averageDailyVolume3Month": 2017534,
-    "regularMarketPreviousClose": 959.39,
+    "regularMarketPrice": 936.36,
+    "regularMarketDayHigh": 954.53,
+    "regularMarketDayLow": 933.675,
+    "regularMarketVolume": 2089762,
+    "averageDailyVolume10Day": 2448180,
+    "averageDailyVolume3Month": 2019090,
+    "regularMarketPreviousClose": 949.49,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 967.39,
-    "fulldayChangePercent": -0.007702826,
-    "fulldayChange": -7.3900146,
-    "fulldayPrice": 950.8,
+    "regularMarketOpen": 940.73,
+    "fulldayChangePercent": -0.016735315,
+    "fulldayChange": -15.890015,
+    "fulldayPrice": 938.37,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -4604,18 +4668,18 @@
     "shortName": "Goldman Sachs Group, Inc. (The)",
     "longName": "The Goldman Sachs Group, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 276464336896
+    "marketCap": 272641245184
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 42115637248,
-    "forwardPE": 12.825323,
+    "enterpriseValue": 38140325888,
+    "forwardPE": 12.647968,
     "profitMargins": 0.31039,
     "floatShares": 301060743,
     "sharesOutstanding": 291171408,
@@ -4632,7 +4696,7 @@
     "impliedSharesOutstanding": 291171408,
     "category": null,
     "bookValue": 362.049,
-    "priceToBook": 2.6225455,
+    "priceToBook": 2.5862796,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4642,11 +4706,11 @@
     "netIncomeToCommon": 19982000128,
     "trailingEps": 64.09,
     "forwardEps": 74.03244,
-    "pegRatio": 1.19,
+    "pegRatio": 1.17,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 0.623,
-    "52WeekChange": 0.18983781,
-    "SandP52WeekChange": 0.16641033,
+    "enterpriseToRevenue": 0.564,
+    "52WeekChange": 0.18163121,
+    "SandP52WeekChange": 0.16090155,
     "lastDividendValue": 5,
     "lastDividendDate": "2026-09-01T00:00:00.000Z",
     "latestShareClass": null,
@@ -4806,6 +4870,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 27071,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "RUEMMLER KATHRYN H",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-04-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 19206,
         "filerUrl": "",
         "transactionText": "",
@@ -4833,17 +4908,6 @@
         "transactionText": "",
         "filerName": "FREDMAN SHEARA J.",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 27071,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RUEMMLER KATHRYN H",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2026-04-28T00:00:00.000Z",
         "ownership": "D"
@@ -5192,6 +5256,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 41462,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "RUEMMLER KATHRYN H",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2025-04-30T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 11933,
         "filerUrl": "",
         "transactionText": "",
@@ -5219,17 +5294,6 @@
         "transactionText": "",
         "filerName": "FREDMAN SHEARA J.",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-04-30T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 41462,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RUEMMLER KATHRYN H",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2025-04-30T00:00:00.000Z",
         "ownership": "D"
@@ -5523,10 +5587,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 949.49,
+    "currentPrice": 936.36,
     "targetHighPrice": 1325,
     "targetLowPrice": 730,
-    "targetMeanPrice": 1141.65,
+    "targetMeanPrice": 1134.15,
     "targetMedianPrice": 1150,
     "recommendationMean": 2.6,
     "recommendationKey": "hold",
@@ -5551,6 +5615,6 @@
     "profitMargins": 0.31039,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-23T07:17:52.397Z",
+  "lastUpdated": "2026-09-24T07:09:41.757Z",
   "source": "Static Build (yahoo-finance2)"
 }
