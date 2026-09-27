@@ -134,7 +134,7 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00756,
-    "institutionsPercentHeld": 0.84442,
+    "institutionsPercentHeld": 0.84441,
     "institutionsFloatPercentHeld": 0.85085,
     "institutionsCount": 3863
   },
@@ -201,6 +201,12 @@
     "financialsChart": {
       "yearly": [
         {
+          "date": 2022,
+          "revenue": 5501500000,
+          "earnings": -267000000,
+          "profitMargin": -0.048532218
+        },
+        {
           "date": 2023,
           "revenue": 6892700000,
           "earnings": 439700000,
@@ -217,15 +223,16 @@
           "revenue": 9221500000,
           "earnings": 1133900000,
           "profitMargin": 0.122962646
-        },
-        {
-          "date": 2026,
-          "revenue": 11480000000,
-          "earnings": 307000000,
-          "profitMargin": 0.026742158
         }
       ],
       "quarterly": [
+        {
+          "date": "2Q2025",
+          "fiscalQuarter": "4Q2025",
+          "revenue": 2536300000,
+          "earnings": 253800000,
+          "profitMargin": 0.10006703
+        },
         {
           "date": "3Q2025",
           "fiscalQuarter": "1Q2026",
@@ -246,13 +253,6 @@
           "revenue": 3002000000,
           "earnings": -177000000,
           "profitMargin": -0.058960695
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "4Q2026",
-          "revenue": 3410000000,
-          "earnings": -282000000,
-          "profitMargin": -0.08269795
         }
       ]
     },
@@ -9629,7 +9629,7 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.026700001,
     "heldPercentInsiders": 0.00756,
-    "heldPercentInstitutions": 0.84442,
+    "heldPercentInstitutions": 0.84441,
     "shortRatio": 3.39,
     "shortPercentOfFloat": 0.0269,
     "beta": 0.908,
@@ -9643,9 +9643,9 @@
     "nextFiscalYearEnd": "2027-07-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-07-31T00:00:00.000Z",
     "netIncomeToCommon": 307000000,
-    "trailingEps": 0.39,
+    "trailingEps": 0.41,
     "forwardEps": 4.87907,
-    "pegRatio": 1.99,
+    "pegRatio": 1.91,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1734307200,
     "enterpriseToRevenue": 26.658,
@@ -9811,18 +9811,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 7500,
-        "value": 2094300,
-        "filerUrl": "",
-        "transactionText": "Sale at price 279.24 per share.",
-        "filerName": "KEY JOHN PHILLIP",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1468,
         "value": 399835,
         "filerUrl": "",
@@ -9832,6 +9820,18 @@
         "moneyText": "",
         "startDate": "2026-06-12T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7500,
+        "value": 2094300,
+        "filerUrl": "",
+        "transactionText": "Sale at price 279.24 per share.",
+        "filerName": "KEY JOHN PHILLIP",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-12T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -11439,6 +11439,6 @@
     "profitMargins": 0.02674,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-26T07:02:58.819Z",
+  "lastUpdated": "2026-09-27T07:33:38.676Z",
   "source": "Static Build (yahoo-finance2)"
 }

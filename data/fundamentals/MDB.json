@@ -134,8 +134,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.02637,
-    "institutionsPercentHeld": 0.9675,
-    "institutionsFloatPercentHeld": 0.9937,
+    "institutionsPercentHeld": 0.96751,
+    "institutionsFloatPercentHeld": 0.99372,
     "institutionsCount": 1263
   },
   "earnings": {
@@ -227,6 +227,13 @@
       ],
       "quarterly": [
         {
+          "date": "2Q2025",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 591402000,
+          "earnings": -47048000,
+          "profitMargin": -0.079553336
+        },
+        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2026",
           "revenue": 628309000,
@@ -246,13 +253,6 @@
           "revenue": 687616000,
           "earnings": 4434000,
           "profitMargin": 0.0064483667
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "2Q2027",
-          "revenue": 771773000,
-          "earnings": 40940000,
-          "profitMargin": 0.053046685
         }
       ]
     },
@@ -6403,7 +6403,7 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 33063546880
+    "marketCap": 33012480000
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
@@ -6412,18 +6412,18 @@
     "forwardPE": 52.670074,
     "profitMargins": 0.02116,
     "floatShares": 78453820,
-    "sharesOutstanding": 80556341,
+    "sharesOutstanding": 80431927,
     "sharesShort": 2879053,
     "sharesShortPriorMonth": "1970-02-02T20:41:24.000Z",
     "sharesShortPreviousMonthDate": "2026-08-14T00:00:00.000Z",
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0357,
     "heldPercentInsiders": 0.02637,
-    "heldPercentInstitutions": 0.9675,
+    "heldPercentInstitutions": 0.96751,
     "shortRatio": 1.49,
     "shortPercentOfFloat": 0.0367,
     "beta": 1.585,
-    "impliedSharesOutstanding": 80556341,
+    "impliedSharesOutstanding": 80431927,
     "category": null,
     "bookValue": 36.957,
     "priceToBook": 11.10588,
@@ -6433,7 +6433,7 @@
     "nextFiscalYearEnd": "2027-01-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-07-31T00:00:00.000Z",
     "netIncomeToCommon": 58897000,
-    "trailingEps": 0.72,
+    "trailingEps": 0.7,
     "forwardEps": 7.79266,
     "pegRatio": 1.67,
     "lastSplitFactor": null,
@@ -8133,6 +8133,6 @@
     "profitMargins": 0.02116,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-26T07:01:30.065Z",
+  "lastUpdated": "2026-09-27T07:32:09.382Z",
   "source": "Static Build (yahoo-finance2)"
 }

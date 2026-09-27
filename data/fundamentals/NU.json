@@ -227,6 +227,13 @@
       ],
       "quarterly": [
         {
+          "date": "2Q2025",
+          "fiscalQuarter": "2Q2025",
+          "revenue": 3668470000,
+          "earnings": 636838000,
+          "profitMargin": 0.17359772
+        },
+        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 4173000000,
@@ -246,13 +253,6 @@
           "revenue": 4967967000,
           "earnings": 872056000,
           "profitMargin": 0.17553578
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "2Q2026",
-          "revenue": 5513208000,
-          "earnings": 1060199000,
-          "profitMargin": 0.19230165
         }
       ]
     },
@@ -1138,7 +1138,6 @@
     "shortName": "Nu Holdings Ltd.",
     "longName": "Nu Holdings Ltd.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
@@ -1176,7 +1175,7 @@
     "netIncomeToCommon": 3607106048,
     "trailingEps": 0.73,
     "forwardEps": 1.12612,
-    "pegRatio": 0.62,
+    "pegRatio": 0.63,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 6.678,
     "52WeekChange": -0.14984328,
@@ -1216,6 +1215,42 @@
         "moneyText": "",
         "startDate": "2026-08-25T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1356,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "LEONE DOUGLAS M",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-08-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1356,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "PIACENTINI DIEGO",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-08-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1356,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "SANDS ANITA M",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-08-24T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1439,6 +1474,6 @@
     "profitMargins": 0.42728,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-26T07:02:38.804Z",
+  "lastUpdated": "2026-09-27T07:33:18.083Z",
   "source": "Static Build (yahoo-finance2)"
 }

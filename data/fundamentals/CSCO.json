@@ -201,6 +201,12 @@
     "financialsChart": {
       "yearly": [
         {
+          "date": 2022,
+          "revenue": 51557000000,
+          "earnings": 11812000000,
+          "profitMargin": 0.22910565
+        },
+        {
           "date": 2023,
           "revenue": 56998000000,
           "earnings": 12613000000,
@@ -217,15 +223,16 @@
           "revenue": 56654000000,
           "earnings": 10453000000,
           "profitMargin": 0.18450595
-        },
-        {
-          "date": 2026,
-          "revenue": 63325000000,
-          "earnings": 13267000000,
-          "profitMargin": 0.20950653
         }
       ],
       "quarterly": [
+        {
+          "date": "2Q2025",
+          "fiscalQuarter": "4Q2025",
+          "revenue": 14673000000,
+          "earnings": 2823000000,
+          "profitMargin": 0.1923942
+        },
         {
           "date": "3Q2025",
           "fiscalQuarter": "1Q2026",
@@ -246,13 +253,6 @@
           "revenue": 15841000000,
           "earnings": 3373000000,
           "profitMargin": 0.21292847
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "4Q2026",
-          "revenue": 17252000000,
-          "earnings": 3859000000,
-          "profitMargin": 0.22368422
         }
       ]
     },
@@ -5436,7 +5436,7 @@
     "netIncomeToCommon": 13267000320,
     "trailingEps": 3.33,
     "forwardEps": 5.62188,
-    "pegRatio": 0.99,
+    "pegRatio": 0.98,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 953769600,
     "enterpriseToRevenue": 6.884,
@@ -7101,6 +7101,6 @@
     "profitMargins": 0.20951,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-26T07:03:42.306Z",
+  "lastUpdated": "2026-09-27T07:34:22.954Z",
   "source": "Static Build (yahoo-finance2)"
 }

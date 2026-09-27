@@ -3,33 +3,33 @@
     "trend": [
       {
         "period": "0m",
-        "strongBuy": 3,
-        "buy": 9,
-        "hold": 10,
+        "strongBuy": 15,
+        "buy": 42,
+        "hold": 2,
         "sell": 0,
-        "strongSell": 1
+        "strongSell": 0
       },
       {
         "period": "-1m",
-        "strongBuy": 3,
-        "buy": 9,
-        "hold": 10,
+        "strongBuy": 15,
+        "buy": 44,
+        "hold": 2,
         "sell": 0,
         "strongSell": 0
       },
       {
         "period": "-2m",
-        "strongBuy": 2,
-        "buy": 9,
-        "hold": 11,
+        "strongBuy": 16,
+        "buy": 44,
+        "hold": 3,
         "sell": 0,
         "strongSell": 0
       },
       {
         "period": "-3m",
-        "strongBuy": 3,
-        "buy": 7,
-        "hold": 11,
+        "strongBuy": 15,
+        "buy": 47,
+        "hold": 4,
         "sell": 0,
         "strongSell": 0
       }
@@ -136,7 +136,7 @@
     "insidersPercentHeld": 0.08866,
     "institutionsPercentHeld": 0.68711,
     "institutionsFloatPercentHeld": 0.75396,
-    "institutionsCount": 7941
+    "institutionsCount": 7940
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1785441983
         }
       ],
-      "currentQuarterEstimate": 1.94175,
+      "currentQuarterEstimate": 1.9419,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -227,13 +227,6 @@
       ],
       "quarterly": [
         {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 167702000000,
-          "earnings": 18164000000,
-          "profitMargin": 0.10831118
-        },
-        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 180169000000,
@@ -253,6 +246,13 @@
           "revenue": 181519000000,
           "earnings": 30255000000,
           "profitMargin": 0.16667676
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 200606000000,
+          "earnings": 62647000000,
+          "profitMargin": 0.31228876
         }
       ]
     },
@@ -10157,7 +10157,7 @@
     "regularMarketTime": "2026-09-25T20:00:01.000Z",
     "priceHint": 2,
     "regularMarketPrice": 249.67,
-    "regularMarketDayHigh": 250.8775,
+    "regularMarketDayHigh": 250.85,
     "regularMarketDayLow": 247.18,
     "regularMarketVolume": 32976800,
     "averageDailyVolume10Day": 37576560,
@@ -10189,7 +10189,7 @@
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 2821665849344,
-    "forwardPE": 24.021444,
+    "forwardPE": 23.834845,
     "profitMargins": 0.1744,
     "floatShares": 9810475783,
     "sharesOutstanding": 10786313572,
@@ -10214,8 +10214,8 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 2.449,
     "netIncomeToCommon": 135281000448,
-    "trailingEps": 12.42,
-    "forwardEps": 10.39363,
+    "trailingEps": 12.43,
+    "forwardEps": 10.475,
     "pegRatio": 1.48,
     "lastSplitFactor": "20:1",
     "lastSplitDate": 1654473600,
@@ -12003,8 +12003,8 @@
     "targetLowPrice": 230,
     "targetMeanPrice": 329.5393,
     "targetMedianPrice": 330,
-    "recommendationMean": 2.13043,
-    "recommendationKey": "buy",
+    "recommendationMean": 1.32203,
+    "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 57,
     "totalCash": 122988003328,
     "totalCashPerShare": 11.402,
@@ -12028,6 +12028,6 @@
     "profitMargins": 0.1744,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-26T07:01:42.640Z",
+  "lastUpdated": "2026-09-27T07:32:22.726Z",
   "source": "Static Build (yahoo-finance2)"
 }
