@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0787,
         "position": 6342387,
-        "value": 2122670034,
+        "value": 2138589488,
         "pctChange": 0.1078
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0556,
         "position": 4478068,
-        "value": 1498719765,
+        "value": 1509959759,
         "pctChange": -0.0052
       },
       {
@@ -63,7 +63,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0454,
         "position": 3660780,
-        "value": 1225189823,
+        "value": 1234378417,
         "pctChange": 0.66940004
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0435,
         "position": 3500977,
-        "value": 1171706956,
+        "value": 1180494443,
         "pctChange": -0.0050999997
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Dz Bank Ag Deutsche Zentral Genossenschafts Bank, Frankfurt Am Main",
         "pctHeld": 0.0312,
         "position": 2514942,
-        "value": 841700770,
+        "value": 848013299,
         "pctChange": 0.2876
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.025799999,
         "position": 2074569,
-        "value": 694316737,
+        "value": 699523926,
         "pctChange": -0.0086
       },
       {
@@ -99,7 +99,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.024,
         "position": 1934054,
-        "value": 647289178,
+        "value": 652143672,
         "pctChange": 0.048800003
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.019299999,
         "position": 1554896,
-        "value": 520392581,
+        "value": 524295386,
         "pctChange": 0.0177
       },
       {
@@ -117,7 +117,7 @@
         "organization": "AQR Capital Management, LLC",
         "pctHeld": 0.0187,
         "position": 1503774,
-        "value": 503283071,
+        "value": 507057558,
         "pctChange": 0.1461
       },
       {
@@ -126,7 +126,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0174,
         "position": 1404430,
-        "value": 470034622,
+        "value": 473559755,
         "pctChange": 0.0254
       }
     ]
@@ -136,7 +136,7 @@
     "insidersPercentHeld": 0.02637,
     "institutionsPercentHeld": 0.96752,
     "institutionsFloatPercentHeld": 0.99372,
-    "institutionsCount": 1263
+    "institutionsCount": 1262
   },
   "earnings": {
     "maxAge": 86400,
@@ -227,13 +227,6 @@
       ],
       "quarterly": [
         {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2026",
-          "revenue": 591402000,
-          "earnings": -47048000,
-          "profitMargin": -0.079553336
-        },
-        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2026",
           "revenue": 628309000,
@@ -253,6 +246,13 @@
           "revenue": 687616000,
           "earnings": 4434000,
           "profitMargin": 0.0064483667
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2027",
+          "revenue": 771773000,
+          "earnings": 40940000,
+          "profitMargin": 0.053046685
         }
       ]
     },
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-29T15:46:40.000Z",
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 465,
+        "priorPriceTarget": 465
+      },
       {
         "epochGradeDate": "2026-09-02T19:12:30.000Z",
         "firm": "Scotiabank",
@@ -6366,28 +6376,28 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.008106016,
-    "postMarketChange": 2.7129211,
-    "postMarketTime": "2026-09-28T23:59:57.000Z",
-    "postMarketPrice": 337.3929,
+    "preMarketSource": "DELAYED",
+    "postMarketChangePercent": -0.0020762887,
+    "postMarketChange": -0.70010376,
+    "postMarketTime": "2026-09-29T23:59:46.000Z",
+    "postMarketPrice": 336.4899,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.18458201,
-    "regularMarketChange": -75.76,
-    "regularMarketTime": "2026-09-28T20:00:01.000Z",
+    "regularMarketChangePercent": 0.00749973,
+    "regularMarketChange": 2.51001,
+    "regularMarketTime": "2026-09-29T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 334.68,
-    "regularMarketDayHigh": 344.3016,
-    "regularMarketDayLow": 300,
-    "regularMarketVolume": 17806336,
-    "averageDailyVolume10Day": 3023380,
-    "averageDailyVolume3Month": 1867719,
-    "regularMarketPreviousClose": 410.44,
+    "regularMarketPrice": 337.19,
+    "regularMarketDayHigh": 349,
+    "regularMarketDayLow": 321,
+    "regularMarketVolume": 9306790,
+    "averageDailyVolume10Day": 3857420,
+    "averageDailyVolume3Month": 1996474,
+    "regularMarketPreviousClose": 334.68,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 311.236,
-    "fulldayChangePercent": -0.17525093,
-    "fulldayChange": -71.92999,
-    "fulldayPrice": 337.3929,
+    "regularMarketOpen": 335.06,
+    "fulldayChangePercent": 0.008276621,
+    "fulldayChange": 2.7700195,
+    "fulldayPrice": 336.4899,
     "exchange": "NGM",
     "exchangeName": "NasdaqGM",
     "exchangeDataDelayedBy": 0,
@@ -6403,16 +6413,16 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 26918957056
+    "marketCap": 27162793984
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 24604354560,
-    "forwardPE": 42.914402,
+    "enterpriseValue": 24806551552,
+    "forwardPE": 43.23625,
     "profitMargins": 0.02116,
     "floatShares": 78453820,
-    "sharesOutstanding": 80431927,
+    "sharesOutstanding": 80556341,
     "sharesShort": 2879053,
     "sharesShortPriorMonth": "1970-02-02T20:41:24.000Z",
     "sharesShortPreviousMonthDate": "2026-08-14T00:00:00.000Z",
@@ -6423,24 +6433,24 @@
     "shortRatio": 1.49,
     "shortPercentOfFloat": 0.0367,
     "beta": 1.585,
-    "impliedSharesOutstanding": 80431927,
+    "impliedSharesOutstanding": 80556341,
     "category": null,
     "bookValue": 36.957,
-    "priceToBook": 9.055929,
+    "priceToBook": 9.123846,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-01-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2027-01-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-07-31T00:00:00.000Z",
     "netIncomeToCommon": 58897000,
-    "trailingEps": 0.57,
+    "trailingEps": 0.71,
     "forwardEps": 7.79266,
     "pegRatio": 1.67,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 8.842,
-    "enterpriseToEbitda": 1775.975,
-    "52WeekChange": 0.07829118,
-    "SandP52WeekChange": 0.1534977,
+    "enterpriseToRevenue": 8.914,
+    "enterpriseToEbitda": 1790.57,
+    "52WeekChange": 0.048704624,
+    "SandP52WeekChange": 0.14687681,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -7177,18 +7187,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 33320,
-        "value": 10038855,
-        "filerUrl": "",
-        "transactionText": "Sale at price 297.83 - 310.17 per share.",
-        "filerName": "ITTYCHERIA DEV C",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-08-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 8004,
         "value": 2401200,
         "filerUrl": "",
@@ -7198,6 +7196,18 @@
         "moneyText": "",
         "startDate": "2025-08-28T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 33320,
+        "value": 10038855,
+        "filerUrl": "",
+        "transactionText": "Sale at price 297.83 - 310.17 per share.",
+        "filerName": "ITTYCHERIA DEV C",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-08-28T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -8104,7 +8114,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 334.68,
+    "currentPrice": 337.19,
     "targetHighPrice": 565,
     "targetLowPrice": 272.64,
     "targetMeanPrice": 454.15244,
@@ -8133,6 +8143,6 @@
     "profitMargins": 0.02116,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-29T07:50:06.849Z",
+  "lastUpdated": "2026-09-30T07:53:28.673Z",
   "source": "Static Build (yahoo-finance2)"
 }

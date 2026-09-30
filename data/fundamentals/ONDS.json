@@ -45,7 +45,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.78699994,
         "position": 15579626,
-        "value": 119651525,
+        "value": 116535602,
         "pctChange": 1.4255
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.6423,
         "position": 12715298,
-        "value": 97653486,
+        "value": 95110429,
         "pctChange": 1.3986
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.63060004,
         "position": 12482729,
-        "value": 95867356,
+        "value": 93370813,
         "pctChange": 89.0578
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Hood River Capital Management LLC",
         "pctHeld": 0.5904,
         "position": 11688295,
-        "value": 89766103,
+        "value": 87428446,
         "pctChange": 0.139
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.578,
         "position": 11441930,
-        "value": 87874020,
+        "value": 85585636,
         "pctChange": 0.78699994
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Van Eck Associates Corporation",
         "pctHeld": 0.51919997,
         "position": 10278737,
-        "value": 78940698,
+        "value": 76884952,
         "pctChange": 0.0085
       },
       {
@@ -99,7 +99,7 @@
         "organization": "UBS Group AG",
         "pctHeld": 0.3471,
         "position": 6872057,
-        "value": 52777396,
+        "value": 51402986,
         "pctChange": 0.8858
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Marex Group Ltd.",
         "pctHeld": 0.3439,
         "position": 6807921,
-        "value": 52284832,
+        "value": 50923249,
         "pctChange": 0.383
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0,
         "position": 39500271,
-        "value": 303362074,
+        "value": 295462027,
         "pctChange": 3.2419
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0,
         "position": 21914212,
-        "value": 168301144,
+        "value": 163918306,
         "pctChange": 0.1966
       }
     ]
@@ -227,6 +227,13 @@
       ],
       "quarterly": [
         {
+          "date": "2Q2025",
+          "fiscalQuarter": "2Q2025",
+          "revenue": 6273390,
+          "earnings": -12018630,
+          "profitMargin": -1.9158111
+        },
+        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 10098310,
@@ -246,13 +253,6 @@
           "revenue": 50122000,
           "earnings": 361250000,
           "profitMargin": 7.2074137
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "2Q2026",
-          "revenue": 83772000,
-          "earnings": -88587000,
-          "profitMargin": -1.0574775
         }
       ]
     },
@@ -597,27 +597,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "DELAYED",
-    "postMarketChangePercent": 0.0039062775,
+    "postMarketChangePercent": 0.0040107234,
     "postMarketChange": 0.03000021,
-    "postMarketTime": "2026-09-28T23:59:45.000Z",
-    "postMarketPrice": 7.71,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0052356,
-    "regularMarketChange": 0.04,
-    "regularMarketTime": "2026-09-28T20:00:00.000Z",
+    "postMarketTime": "2026-09-29T23:59:51.000Z",
+    "postMarketPrice": 7.51,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.0260416,
+    "regularMarketChange": -0.2,
+    "regularMarketTime": "2026-09-29T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 7.68,
-    "regularMarketDayHigh": 7.8,
-    "regularMarketDayLow": 7.44,
-    "regularMarketVolume": 52702697,
-    "averageDailyVolume10Day": 69182980,
-    "averageDailyVolume3Month": 82316076,
-    "regularMarketPreviousClose": 7.64,
+    "regularMarketPrice": 7.48,
+    "regularMarketDayHigh": 7.91,
+    "regularMarketDayLow": 7.47,
+    "regularMarketVolume": 48660493,
+    "averageDailyVolume10Day": 67300660,
+    "averageDailyVolume3Month": 81799319,
+    "regularMarketPreviousClose": 7.68,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 7.536,
-    "fulldayChangePercent": 0.010471194,
-    "fulldayChange": 0.07999992,
-    "fulldayPrice": 7.71,
+    "regularMarketOpen": 7.9,
+    "fulldayChangePercent": -0.023437478,
+    "fulldayChange": -0.17999983,
+    "fulldayPrice": 7.51,
     "exchange": "NCM",
     "exchangeName": "NasdaqCM",
     "exchangeDataDelayedBy": 0,
@@ -628,18 +628,18 @@
     "shortName": "Ondas Inc",
     "longName": "Ondas Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 4472084992
+    "marketCap": 4355624448
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 3044029952,
-    "forwardPE": -384,
+    "enterpriseValue": 2929919488,
+    "forwardPE": -374,
     "profitMargins": 0.96248,
     "floatShares": 533409384,
     "sharesOutstanding": 582302699,
@@ -656,7 +656,7 @@
     "impliedSharesOutstanding": 582302699,
     "category": null,
     "bookValue": 2.963,
-    "priceToBook": 2.5919676,
+    "priceToBook": 2.5244684,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -666,10 +666,10 @@
     "trailingEps": -0.03,
     "forwardEps": -0.02,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 17.484,
-    "enterpriseToEbitda": -16.858,
-    "52WeekChange": -0.005181372,
-    "SandP52WeekChange": 0.1534977,
+    "enterpriseToRevenue": 16.829,
+    "enterpriseToEbitda": -16.226,
+    "52WeekChange": 0.023255825,
+    "SandP52WeekChange": 0.14687681,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1226,7 +1226,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 7.68,
+    "currentPrice": 7.48,
     "targetHighPrice": 25,
     "targetLowPrice": 13,
     "targetMeanPrice": 19.41667,
@@ -1255,6 +1255,6 @@
     "profitMargins": 0.96248,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-29T07:50:01.651Z",
+  "lastUpdated": "2026-09-30T07:53:22.994Z",
   "source": "Static Build (yahoo-finance2)"
 }

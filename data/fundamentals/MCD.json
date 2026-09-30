@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0783,
         "position": 55436039,
-        "value": 12949859048,
+        "value": 12970924168,
         "pctChange": 0.0015
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0656,
         "position": 46396692,
-        "value": 10838267534,
+        "value": 10855897795,
         "pctChange": 0.0039
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.051,
         "position": 36080505,
-        "value": 8428406188,
+        "value": 8442116405,
         "pctChange": 0.0183
       },
       {
@@ -72,7 +72,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.045100003,
         "position": 31923726,
-        "value": 7457382588,
+        "value": 7469513273,
         "pctChange": -0.1522
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.026500002,
         "position": 18781589,
-        "value": 4387379305,
+        "value": 4394516113,
         "pctChange": -0.016900001
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0256,
         "position": 18114553,
-        "value": 4231559691,
+        "value": 4238443033,
         "pctChange": 0.0085
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0212,
         "position": 15027364,
-        "value": 3510392322,
+        "value": 3516102564,
         "pctChange": -0.0378
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0155,
         "position": 10997796,
-        "value": 2569085212,
+        "value": 2573264261,
         "pctChange": -0.0953
       },
       {
@@ -117,7 +117,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0139999995,
         "position": 9878380,
-        "value": 2307589628,
+        "value": 2311343310,
         "pctChange": 0.044499997
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0128,
         "position": 9024883,
-        "value": 2108212723,
+        "value": 2111642085,
         "pctChange": -0.0729
       }
     ]
@@ -227,13 +227,6 @@
       ],
       "quarterly": [
         {
-          "date": "2Q2025",
-          "fiscalQuarter": "2Q2025",
-          "revenue": 6843000000,
-          "earnings": 2253000000,
-          "profitMargin": 0.32924157
-        },
-        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 7078000000,
@@ -253,6 +246,13 @@
           "revenue": 6517000000,
           "earnings": 1983000000,
           "profitMargin": 0.30428112
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 7099000000,
+          "earnings": 2362000000,
+          "profitMargin": 0.3327229
         }
       ]
     },
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-29T13:57:18.000Z",
+        "firm": "JP Morgan",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 250,
+        "priorPriceTarget": 260
+      },
       {
         "epochGradeDate": "2026-09-28T17:46:01.000Z",
         "firm": "Melius Research",
@@ -7117,27 +7127,27 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.001369829,
-    "postMarketChange": 0.31999207,
-    "postMarketTime": "2026-09-28T23:58:27.000Z",
-    "postMarketPrice": 233.92,
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.0122621,
-    "regularMarketChange": -2.89999,
-    "regularMarketTime": "2026-09-28T20:00:02.000Z",
+    "postMarketChangePercent": 0.0005556239,
+    "postMarketChange": 0.13000488,
+    "postMarketTime": "2026-09-29T23:59:46.000Z",
+    "postMarketPrice": 234.11,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.00162667,
+    "regularMarketChange": 0.37999,
+    "regularMarketTime": "2026-09-29T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 233.6,
-    "regularMarketDayHigh": 237.48,
-    "regularMarketDayLow": 233.23,
-    "regularMarketVolume": 5321935,
-    "averageDailyVolume10Day": 7364160,
-    "averageDailyVolume3Month": 4932466,
-    "regularMarketPreviousClose": 236.5,
+    "regularMarketPrice": 233.98,
+    "regularMarketDayHigh": 236.01,
+    "regularMarketDayLow": 232.06,
+    "regularMarketVolume": 5212070,
+    "averageDailyVolume10Day": 7413260,
+    "averageDailyVolume3Month": 4940750,
+    "regularMarketPreviousClose": 233.6,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 235.735,
-    "fulldayChangePercent": -0.0108668385,
-    "fulldayChange": -2.5700073,
-    "fulldayPrice": 233.92,
+    "regularMarketOpen": 232.2,
+    "fulldayChangePercent": 0.005008554,
+    "fulldayChange": 1.1699982,
+    "fulldayPrice": 234.11,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -7148,18 +7158,18 @@
     "shortName": "McDonald's Corporation",
     "longName": "McDonald's Corporation",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 165305073664
+    "marketCap": 165573967872
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 219087060992,
-    "forwardPE": 16.845688,
+    "enterpriseValue": 219355971584,
+    "forwardPE": 16.879177,
     "profitMargins": 0.3172,
     "floatShares": 706580069,
     "sharesOutstanding": 707641531,
@@ -7183,15 +7193,15 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.048,
     "netIncomeToCommon": 8787000320,
-    "trailingEps": 12.17,
-    "forwardEps": 13.86705,
-    "pegRatio": 2.04,
+    "trailingEps": 12.33,
+    "forwardEps": 13.86267,
+    "pegRatio": 2.02,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 920851200,
-    "enterpriseToRevenue": 7.909,
-    "enterpriseToEbitda": 14.674,
-    "52WeekChange": -0.23130077,
-    "SandP52WeekChange": 0.1534977,
+    "enterpriseToRevenue": 7.918,
+    "enterpriseToEbitda": 14.692,
+    "52WeekChange": -0.22141623,
+    "SandP52WeekChange": 0.14687681,
     "lastDividendValue": 1.86,
     "lastDividendDate": "2026-09-01T00:00:00.000Z",
     "latestShareClass": null,
@@ -8306,10 +8316,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 233.6,
+    "currentPrice": 233.98,
     "targetHighPrice": 390,
     "targetLowPrice": 230,
-    "targetMeanPrice": 299.2069,
+    "targetMeanPrice": 298.86206,
     "targetMedianPrice": 295,
     "recommendationMean": 2.05882,
     "recommendationKey": "buy",
@@ -8334,6 +8344,6 @@
     "profitMargins": 0.3172,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-29T07:53:04.868Z",
+  "lastUpdated": "2026-09-30T07:56:28.031Z",
   "source": "Static Build (yahoo-finance2)"
 }
