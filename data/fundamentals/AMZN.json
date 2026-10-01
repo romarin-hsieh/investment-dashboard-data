@@ -24,14 +24,6 @@
         "hold": 3,
         "sell": 0,
         "strongSell": 0
-      },
-      {
-        "period": "-3m",
-        "strongBuy": 15,
-        "buy": 47,
-        "hold": 4,
-        "sell": 0,
-        "strongSell": 0
       }
     ],
     "maxAge": 86400
@@ -45,7 +37,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0694,
         "position": 748403539,
-        "value": 184608699594,
+        "value": 186464737173,
         "pctChange": 0.0175
       },
       {
@@ -54,7 +46,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0589,
         "position": 635764130,
-        "value": 156823936782,
+        "value": 158400629109,
         "pctChange": 0.0073
       },
       {
@@ -63,7 +55,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0368,
         "position": 397186958,
-        "value": 97974106202,
+        "value": 98959128161,
         "pctChange": 0.0173
       },
       {
@@ -72,7 +64,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0339,
         "position": 365660364,
-        "value": 90197441318,
+        "value": 91104277458,
         "pctChange": 0.0194
       },
       {
@@ -81,7 +73,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0216,
         "position": 233211684,
-        "value": 57526325665,
+        "value": 58104689645,
         "pctChange": -0.0001
       },
       {
@@ -90,7 +82,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0166,
         "position": 179376541,
-        "value": 44246811040,
+        "value": 44691664095,
         "pctChange": 0.0313
       },
       {
@@ -99,7 +91,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0156,
         "position": 167979147,
-        "value": 41435415882,
+        "value": 41852003449,
         "pctChange": -0.0057
       },
       {
@@ -108,7 +100,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.013300001,
         "position": 143818328,
-        "value": 35475666704,
+        "value": 35832335543,
         "pctChange": 0.0365
       },
       {
@@ -117,7 +109,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.012999999,
         "position": 140565601,
-        "value": 34673316541,
+        "value": 35021918631,
         "pctChange": -0.0128999995
       },
       {
@@ -126,7 +118,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0113,
         "position": 121626899,
-        "value": 30001706953,
+        "value": 30303341143,
         "pctChange": -0.0424
       }
     ]
@@ -134,9 +126,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.08866,
-    "institutionsPercentHeld": 0.68714,
-    "institutionsFloatPercentHeld": 0.75399,
-    "institutionsCount": 7939
+    "institutionsPercentHeld": 0.68701,
+    "institutionsFloatPercentHeld": 0.75385004,
+    "institutionsCount": 7867
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +179,7 @@
           "reportedDate": 1785441983
         }
       ],
-      "currentQuarterEstimate": 1.94504,
+      "currentQuarterEstimate": 1.94527,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -261,6 +253,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-09-30T12:01:09.000Z",
+        "firm": "Rosenblatt",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 360,
+        "priorPriceTarget": 335
+      },
       {
         "epochGradeDate": "2026-09-03T14:12:46.000Z",
         "firm": "Wells Fargo",
@@ -10130,66 +10132,56 @@
         "priceTargetAction": "Raises",
         "currentPriceTarget": 2400,
         "priorPriceTarget": 2200
-      },
-      {
-        "epochGradeDate": "2020-01-31T13:56:14.000Z",
-        "firm": "BMO Capital",
-        "toGrade": "Outperform",
-        "fromGrade": "Outperform",
-        "action": "main",
-        "priceTargetAction": "Raises",
-        "currentPriceTarget": 2450,
-        "priorPriceTarget": 2150
       }
     ],
     "maxAge": 86400
   },
   "price": {
     "maxAge": 1,
-    "preMarketSource": "DELAYED",
-    "postMarketChangePercent": 0.0025540395,
-    "postMarketChange": 0.6300049,
-    "postMarketTime": "2026-09-29T23:59:56.000Z",
-    "postMarketPrice": 247.3,
+    "preMarketChangePercent": 0.0009632972,
+    "preMarketChange": 0.2400055,
+    "preMarketTime": "2026-10-01T08:13:58.000Z",
+    "preMarketPrice": 249.39,
+    "preMarketSource": "FREE_REALTIME",
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.00211255,
-    "regularMarketChange": 0.520004,
-    "regularMarketTime": "2026-09-29T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0100539,
+    "regularMarketChange": 2.48,
+    "regularMarketTime": "2026-09-30T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 246.67,
-    "regularMarketDayHigh": 248.8389,
-    "regularMarketDayLow": 245.14,
-    "regularMarketVolume": 31588613,
-    "averageDailyVolume10Day": 37891690,
-    "averageDailyVolume3Month": 39706873,
-    "regularMarketPreviousClose": 246.15,
+    "regularMarketPrice": 249.15,
+    "regularMarketDayHigh": 252.44,
+    "regularMarketDayLow": 246.09,
+    "regularMarketVolume": 41456321,
+    "averageDailyVolume10Day": 37900430,
+    "averageDailyVolume3Month": 39480491,
+    "regularMarketPreviousClose": 246.67,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 246.945,
-    "fulldayChangePercent": 0.004225101,
-    "fulldayChange": 1.0400085,
-    "fulldayPrice": 247.3,
+    "regularMarketOpen": 246.635,
+    "fulldayChangePercent": 0.0009632972,
+    "fulldayChange": 0.2400055,
+    "fulldayPrice": 249.39,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "AMZN",
     "underlyingSymbol": null,
     "shortName": "Amazon.com, Inc.",
     "longName": "Amazon.com, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 2660659888128
+    "marketCap": 2687409848320
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 2789307056128,
-    "forwardPE": 23.548449,
+    "enterpriseValue": 2816057016320,
+    "forwardPE": 23.78359,
     "profitMargins": 0.1744,
     "floatShares": 9810475783,
     "sharesOutstanding": 10786313572,
@@ -10199,14 +10191,14 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0076,
     "heldPercentInsiders": 0.08866,
-    "heldPercentInstitutions": 0.68714,
+    "heldPercentInstitutions": 0.68701,
     "shortRatio": 2.51,
     "shortPercentOfFloat": 0.0083,
     "beta": 1.443,
     "impliedSharesOutstanding": 10786313572,
     "category": null,
     "bookValue": 51.156,
-    "priceToBook": 4.8219175,
+    "priceToBook": 4.8703966,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -10214,15 +10206,15 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 2.449,
     "netIncomeToCommon": 135281000448,
-    "trailingEps": 12.46,
-    "forwardEps": 10.475,
+    "trailingEps": 12.43,
+    "forwardEps": 10.46148,
     "pegRatio": 1.46,
     "lastSplitFactor": "20:1",
     "lastSplitDate": 1654473600,
-    "enterpriseToRevenue": 3.596,
-    "enterpriseToEbitda": 16.513,
-    "52WeekChange": 0.11802566,
-    "SandP52WeekChange": 0.14687681,
+    "enterpriseToRevenue": 3.63,
+    "enterpriseToEbitda": 16.672,
+    "52WeekChange": 0.10907781,
+    "SandP52WeekChange": 0.14299083,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -11998,10 +11990,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 246.67,
+    "currentPrice": 249.15,
     "targetHighPrice": 405,
     "targetLowPrice": 230,
-    "targetMeanPrice": 329.5393,
+    "targetMeanPrice": 329.97787,
     "targetMedianPrice": 330,
     "recommendationMean": 1.32203,
     "recommendationKey": "strong_buy",
@@ -12028,6 +12020,6 @@
     "profitMargins": 0.1744,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-30T07:53:42.349Z",
+  "lastUpdated": "2026-10-01T08:14:20.325Z",
   "source": "Static Build (yahoo-finance2)"
 }

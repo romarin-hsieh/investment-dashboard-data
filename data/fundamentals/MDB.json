@@ -13,17 +13,17 @@
         "period": "-1m",
         "strongBuy": 8,
         "buy": 24,
-        "hold": 8,
+        "hold": 9,
         "sell": 0,
-        "strongSell": 1
+        "strongSell": 0
       },
       {
         "period": "-2m",
         "strongBuy": 8,
-        "buy": 23,
-        "hold": 9,
+        "buy": 24,
+        "hold": 8,
         "sell": 0,
-        "strongSell": 0
+        "strongSell": 1
       },
       {
         "period": "-3m",
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0787,
         "position": 6342387,
-        "value": 2138589488,
+        "value": 2211019439,
         "pctChange": 0.1078
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0556,
         "position": 4478068,
-        "value": 1509959759,
+        "value": 1561099219,
         "pctChange": -0.0052
       },
       {
@@ -63,7 +63,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0454,
         "position": 3660780,
-        "value": 1234378417,
+        "value": 1276184462,
         "pctChange": 0.66940004
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0435,
         "position": 3500977,
-        "value": 1180494443,
+        "value": 1220475540,
         "pctChange": -0.0050999997
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Dz Bank Ag Deutsche Zentral Genossenschafts Bank, Frankfurt Am Main",
         "pctHeld": 0.0312,
         "position": 2514942,
-        "value": 848013299,
+        "value": 876733893,
         "pctChange": 0.2876
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.025799999,
         "position": 2074569,
-        "value": 699523926,
+        "value": 723215468,
         "pctChange": -0.0086
       },
       {
@@ -99,7 +99,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.024,
         "position": 1934054,
-        "value": 652143672,
+        "value": 674230536,
         "pctChange": 0.048800003
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.019299999,
         "position": 1554896,
-        "value": 524295386,
+        "value": 542052271,
         "pctChange": 0.0177
       },
       {
@@ -117,7 +117,7 @@
         "organization": "AQR Capital Management, LLC",
         "pctHeld": 0.0187,
         "position": 1503774,
-        "value": 507057558,
+        "value": 524230632,
         "pctChange": 0.1461
       },
       {
@@ -126,7 +126,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0174,
         "position": 1404430,
-        "value": 473559755,
+        "value": 489598321,
         "pctChange": 0.0254
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.02637,
-    "institutionsPercentHeld": 0.96752,
-    "institutionsFloatPercentHeld": 0.99372,
-    "institutionsCount": 1262
+    "institutionsPercentHeld": 0.96656,
+    "institutionsFloatPercentHeld": 0.99274004,
+    "institutionsCount": 1257
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1788293276
         }
       ],
-      "currentQuarterEstimate": 1.61176,
+      "currentQuarterEstimate": 1.61143,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -262,6 +262,116 @@
   "upgradeDowngradeHistory": {
     "history": [
       {
+        "epochGradeDate": "2026-09-30T18:13:26.000Z",
+        "firm": "DA Davidson",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 415,
+        "priorPriceTarget": 465
+      },
+      {
+        "epochGradeDate": "2026-09-30T17:43:23.000Z",
+        "firm": "UBS",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 375,
+        "priorPriceTarget": 410
+      },
+      {
+        "epochGradeDate": "2026-09-30T15:50:47.000Z",
+        "firm": "Macquarie",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 375,
+        "priorPriceTarget": 375
+      },
+      {
+        "epochGradeDate": "2026-09-30T13:12:10.000Z",
+        "firm": "Citizens",
+        "toGrade": "Market Outperform",
+        "fromGrade": "Market Outperform",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 519,
+        "priorPriceTarget": 519
+      },
+      {
+        "epochGradeDate": "2026-09-30T13:06:18.000Z",
+        "firm": "RBC Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 465,
+        "priorPriceTarget": 465
+      },
+      {
+        "epochGradeDate": "2026-09-30T12:54:09.000Z",
+        "firm": "BMO Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 420,
+        "priorPriceTarget": 450
+      },
+      {
+        "epochGradeDate": "2026-09-30T12:29:59.000Z",
+        "firm": "Guggenheim",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 560,
+        "priorPriceTarget": 560
+      },
+      {
+        "epochGradeDate": "2026-09-30T12:25:56.000Z",
+        "firm": "Stifel",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 385,
+        "priorPriceTarget": 465
+      },
+      {
+        "epochGradeDate": "2026-09-30T12:04:58.000Z",
+        "firm": "Stephens & Co.",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "Equal-Weight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 372,
+        "priorPriceTarget": 398
+      },
+      {
+        "epochGradeDate": "2026-09-30T10:14:59.000Z",
+        "firm": "Needham",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 430,
+        "priorPriceTarget": 430
+      },
+      {
+        "epochGradeDate": "2026-09-30T10:09:27.000Z",
+        "firm": "Evercore ISI Group",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 525,
+        "priorPriceTarget": 525
+      },
+      {
         "epochGradeDate": "2026-09-29T15:46:40.000Z",
         "firm": "DA Davidson",
         "toGrade": "Buy",
@@ -270,6 +380,16 @@
         "priceTargetAction": "Maintains",
         "currentPriceTarget": 465,
         "priorPriceTarget": 465
+      },
+      {
+        "epochGradeDate": "2026-09-03T15:51:36.000Z",
+        "firm": "Macquarie",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 375,
+        "priorPriceTarget": 315
       },
       {
         "epochGradeDate": "2026-09-02T19:12:30.000Z",
@@ -6376,32 +6496,32 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": 0.012478146,
+    "preMarketChange": 4.350006,
+    "preMarketTime": "2026-10-01T08:09:15.000Z",
+    "preMarketPrice": 352.96,
     "preMarketSource": "DELAYED",
-    "postMarketChangePercent": -0.0020762887,
-    "postMarketChange": -0.70010376,
-    "postMarketTime": "2026-09-29T23:59:46.000Z",
-    "postMarketPrice": 336.4899,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.00749973,
-    "regularMarketChange": 2.51001,
-    "regularMarketTime": "2026-09-29T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0338681,
+    "regularMarketChange": 11.42,
+    "regularMarketTime": "2026-09-30T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 337.19,
-    "regularMarketDayHigh": 349,
-    "regularMarketDayLow": 321,
-    "regularMarketVolume": 9306790,
-    "averageDailyVolume10Day": 3857420,
-    "averageDailyVolume3Month": 1996474,
-    "regularMarketPreviousClose": 334.68,
+    "regularMarketPrice": 348.61,
+    "regularMarketDayHigh": 370.4295,
+    "regularMarketDayLow": 340.23,
+    "regularMarketVolume": 6237459,
+    "averageDailyVolume10Day": 3859730,
+    "averageDailyVolume3Month": 2001077,
+    "regularMarketPreviousClose": 337.19,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 335.06,
-    "fulldayChangePercent": 0.008276621,
-    "fulldayChange": 2.7700195,
-    "fulldayPrice": 336.4899,
+    "regularMarketOpen": 341.36,
+    "fulldayChangePercent": 0.012363467,
+    "fulldayChange": 4.310028,
+    "fulldayPrice": 352.96,
     "exchange": "NGM",
     "exchangeName": "NasdaqGM",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "MDB",
     "underlyingSymbol": null,
@@ -6413,13 +6533,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 27162793984
+    "marketCap": 28082745344
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 24806551552,
-    "forwardPE": 43.23625,
+    "enterpriseValue": 25726504960,
+    "forwardPE": 44.369576,
     "profitMargins": 0.02116,
     "floatShares": 78453820,
     "sharesOutstanding": 80556341,
@@ -6429,28 +6549,28 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0357,
     "heldPercentInsiders": 0.02637,
-    "heldPercentInstitutions": 0.96752,
+    "heldPercentInstitutions": 0.96656,
     "shortRatio": 1.49,
     "shortPercentOfFloat": 0.0367,
     "beta": 1.585,
     "impliedSharesOutstanding": 80556341,
     "category": null,
     "bookValue": 36.957,
-    "priceToBook": 9.123846,
+    "priceToBook": 9.432854,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-01-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2027-01-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-07-31T00:00:00.000Z",
     "netIncomeToCommon": 58897000,
-    "trailingEps": 0.71,
+    "trailingEps": 0.73,
     "forwardEps": 7.79266,
     "pegRatio": 1.67,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 8.914,
-    "enterpriseToEbitda": 1790.57,
-    "52WeekChange": 0.048704624,
-    "SandP52WeekChange": 0.14687681,
+    "enterpriseToRevenue": 9.245,
+    "enterpriseToEbitda": 1856.973,
+    "52WeekChange": 0.0334059,
+    "SandP52WeekChange": 0.14299083,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -7187,18 +7307,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 8004,
-        "value": 2401200,
-        "filerUrl": "",
-        "transactionText": "Sale at price 300.00 per share.",
-        "filerName": "HAZARD CHARLES M. JR.",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-08-28T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
         "shares": 33320,
         "value": 10038855,
         "filerUrl": "",
@@ -7208,6 +7316,18 @@
         "moneyText": "",
         "startDate": "2025-08-28T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8004,
+        "value": 2401200,
+        "filerUrl": "",
+        "transactionText": "Sale at price 300.00 per share.",
+        "filerName": "HAZARD CHARLES M. JR.",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-08-28T00:00:00.000Z",
+        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -7271,24 +7391,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 3747,
-        "value": 772069,
-        "filerUrl": "",
-        "transactionText": "Sale at price 206.05 per share.",
-        "filerName": "ITTYCHERIA DEV C",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-07-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1000,
         "value": 206050,
         "filerUrl": "",
         "transactionText": "Sale at price 206.05 per share.",
         "filerName": "MERRIMAN DWIGHT A",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-07-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3747,
+        "value": 772069,
+        "filerUrl": "",
+        "transactionText": "Sale at price 206.05 per share.",
+        "filerName": "ITTYCHERIA DEV C",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-07-02T00:00:00.000Z",
         "ownership": "D"
@@ -7427,24 +7547,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 25005,
-        "value": 5851170,
-        "filerUrl": "",
-        "transactionText": "Sale at price 234.00 per share.",
-        "filerName": "ITTYCHERIA DEV C",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-06-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2000,
         "value": 468000,
         "filerUrl": "",
         "transactionText": "Sale at price 234.00 per share.",
         "filerName": "MERRIMAN DWIGHT A",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 25005,
+        "value": 5851170,
+        "filerUrl": "",
+        "transactionText": "Sale at price 234.00 per share.",
+        "filerName": "ITTYCHERIA DEV C",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-06-05T00:00:00.000Z",
         "ownership": "D"
@@ -7475,12 +7595,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 525,
-        "value": 90962,
+        "shares": 301,
+        "value": 52148,
         "filerUrl": "",
-        "transactionText": "Sale at price 173.25 - 174.71 per share.",
-        "filerName": "TANJGA SRDJAN",
-        "filerRelation": "Chief Financial Officer",
+        "transactionText": "Sale at price 173.25 per share.",
+        "filerName": "BULL THOMAS",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-04-02T00:00:00.000Z",
         "ownership": "D"
@@ -7499,12 +7619,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 301,
-        "value": 52148,
+        "shares": 525,
+        "value": 90962,
         "filerUrl": "",
-        "transactionText": "Sale at price 173.25 per share.",
-        "filerName": "BULL THOMAS",
-        "filerRelation": "Officer",
+        "transactionText": "Sale at price 173.25 - 174.71 per share.",
+        "filerName": "TANJGA SRDJAN",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-04-02T00:00:00.000Z",
         "ownership": "D"
@@ -7775,24 +7895,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 169,
-        "value": 39561,
-        "filerUrl": "",
-        "transactionText": "Sale at price 234.09 per share.",
-        "filerName": "BULL THOMAS",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1245,
         "value": 291442,
         "filerUrl": "",
         "transactionText": "Sale at price 234.09 per share.",
         "filerName": "GORDON MICHAEL LAWRENCE",
         "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2025-01-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 169,
+        "value": 39561,
+        "filerUrl": "",
+        "transactionText": "Sale at price 234.09 per share.",
+        "filerName": "BULL THOMAS",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-01-02T00:00:00.000Z",
         "ownership": "D"
@@ -8114,11 +8234,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 337.19,
+    "currentPrice": 348.61,
     "targetHighPrice": 565,
     "targetLowPrice": 272.64,
-    "targetMeanPrice": 454.15244,
-    "targetMedianPrice": 465,
+    "targetMeanPrice": 446.50378,
+    "targetMedianPrice": 460,
     "recommendationMean": 1.63415,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 37,
@@ -8143,6 +8263,6 @@
     "profitMargins": 0.02116,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-09-30T07:53:28.673Z",
+  "lastUpdated": "2026-10-01T08:14:08.334Z",
   "source": "Static Build (yahoo-finance2)"
 }
