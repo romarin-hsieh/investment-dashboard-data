@@ -24,6 +24,14 @@
         "hold": 4,
         "sell": 1,
         "strongSell": 0
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 6,
+        "buy": 14,
+        "hold": 4,
+        "sell": 1,
+        "strongSell": 0
       }
     ],
     "maxAge": 86400
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0784,
         "position": 154824622,
-        "value": 31616737098,
+        "value": 32064180161,
         "pctChange": 0.0698
       },
       {
@@ -46,7 +54,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.075100005,
         "position": 148447634,
-        "value": 30314492335,
+        "value": 30743505907,
         "pctChange": -0.0306
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0622,
         "position": 122899830,
-        "value": 25097375109,
+        "value": 25452555543,
         "pctChange": 0.0034
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Berkshire Hathaway, Inc",
         "pctHeld": 0.0427,
         "position": 84375856,
-        "value": 17230394120,
+        "value": 17474240292,
         "pctChange": 0
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0225,
         "position": 44535812,
-        "value": 9094658467,
+        "value": 9223366937,
         "pctChange": 0.0197
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0215,
         "position": 42476901,
-        "value": 8674208238,
+        "value": 8796966456,
         "pctChange": 0.0039
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Charles Schwab Investment Management, Inc.",
         "pctHeld": 0.0191,
         "position": 37714808,
-        "value": 7701741194,
+        "value": 7810736966,
         "pctChange": 0.0442
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0182,
         "position": 36051004,
-        "value": 7361975768,
+        "value": 7466163148,
         "pctChange": -0.0216
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.0138,
         "position": 27205457,
-        "value": 5555626556,
+        "value": 5634250310,
         "pctChange": -0.0154
       },
       {
@@ -118,7 +126,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0116,
         "position": 22964061,
-        "value": 4689491050,
+        "value": 4755857173,
         "pctChange": -0.061100002
       }
     ]
@@ -188,7 +196,7 @@
       "earningsDate": [
         "2026-10-30T12:30:00.000Z"
       ],
-      "isEarningsDateEstimate": true
+      "isEarningsDateEstimate": false
     },
     "financialsChart": {
       "yearly": [
@@ -4728,50 +4736,50 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketChangePercent": -0.006507177,
-    "preMarketChange": -1.3300018,
-    "preMarketTime": "2026-10-01T08:11:49.000Z",
-    "preMarketPrice": 203.06,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.000831775,
-    "regularMarketChange": -0.169998,
-    "regularMarketTime": "2026-09-30T20:04:11.000Z",
+    "postMarketChangePercent": -0.00069824985,
+    "postMarketChange": -0.14460754,
+    "postMarketTime": "2026-10-01T23:42:22.000Z",
+    "postMarketPrice": 206.9554,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.0141521,
+    "regularMarketChange": 2.89,
+    "regularMarketTime": "2026-10-01T20:02:54.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 204.21,
-    "regularMarketDayHigh": 206.8262,
-    "regularMarketDayLow": 204.21,
-    "regularMarketVolume": 6247607,
-    "averageDailyVolume10Day": 12076150,
-    "averageDailyVolume3Month": 8560945,
-    "regularMarketPreviousClose": 204.38,
+    "regularMarketPrice": 207.1,
+    "regularMarketDayHigh": 207.4,
+    "regularMarketDayLow": 202.915,
+    "regularMarketVolume": 5998039,
+    "averageDailyVolume10Day": 11771900,
+    "averageDailyVolume3Month": 8469947,
+    "regularMarketPreviousClose": 204.21,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 205.09,
-    "fulldayChangePercent": -0.006507177,
-    "fulldayChange": -1.3300018,
-    "fulldayPrice": 203.06,
+    "regularMarketOpen": 203.325,
+    "fulldayChangePercent": 0.008863413,
+    "fulldayChange": 1.8099976,
+    "fulldayPrice": 206.9554,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PRE",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "CVX",
     "underlyingSymbol": null,
     "shortName": "Chevron Corporation",
     "longName": "Chevron Corporation",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 400579035136
+    "marketCap": 406248062976
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 434799017984,
-    "forwardPE": 14.147022,
+    "enterpriseValue": 440468045824,
+    "forwardPE": 14.347232,
     "profitMargins": 0.09834,
     "floatShares": 1868505583,
     "sharesOutstanding": 1961603274,
@@ -4788,7 +4796,7 @@
     "impliedSharesOutstanding": 1961603274,
     "category": null,
     "bookValue": 96.8,
-    "priceToBook": 2.1096075,
+    "priceToBook": 2.1394627,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4796,15 +4804,15 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 3.848,
     "netIncomeToCommon": 20590999552,
-    "trailingEps": 10.38,
-    "forwardEps": 13.56976,
+    "trailingEps": 10.28,
+    "forwardEps": 14.13668,
     "pegRatio": 0.89,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1095033600,
-    "enterpriseToRevenue": 2.077,
-    "enterpriseToEbitda": 8.582,
-    "52WeekChange": 0.3325944,
-    "SandP52WeekChange": 0.14299083,
+    "enterpriseToRevenue": 2.104,
+    "enterpriseToEbitda": 8.694,
+    "52WeekChange": 0.3487463,
+    "SandP52WeekChange": 0.1415559,
     "lastDividendValue": 1.78,
     "lastDividendDate": "2026-08-19T00:00:00.000Z",
     "latestShareClass": null,
@@ -5708,24 +5716,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 3200,
-        "value": 424608,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 132.69 per share.",
-        "filerName": "KNOWLES ALANA K.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-01-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 7534,
         "value": 831528,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 110.37 per share.",
         "filerName": "BONNER EIMEAR P",
         "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-01-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3200,
+        "value": 424608,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 132.69 per share.",
+        "filerName": "KNOWLES ALANA K.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-01-28T00:00:00.000Z",
         "ownership": "D"
@@ -6590,7 +6598,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 204.21,
+    "currentPrice": 207.1,
     "targetHighPrice": 250,
     "targetLowPrice": 175,
     "targetMeanPrice": 224.20833,
@@ -6620,6 +6628,6 @@
     "profitMargins": 0.09834,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-01T08:16:23.213Z",
+  "lastUpdated": "2026-10-02T07:56:02.417Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 6,
+        "buy": 21,
+        "hold": 16,
+        "sell": 1,
+        "strongSell": 1
+      },
+      {
+        "period": "-2m",
         "strongBuy": 4,
         "buy": 21,
         "hold": 18,
@@ -18,7 +26,7 @@
         "strongSell": 1
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 4,
         "buy": 19,
         "hold": 20,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0788,
         "position": 33056139,
-        "value": 5310468528,
+        "value": 5304518665,
         "pctChange": 0.0348
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0634,
         "position": 26615598,
-        "value": 4275795656,
+        "value": 4271005043,
         "pctChange": 0.0184
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Harris Associates L.P.",
         "pctHeld": 0.045,
         "position": 18861551,
-        "value": 3030108053,
+        "value": 3026713111,
         "pctChange": -0.015700001
       },
       {
@@ -64,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0433,
         "position": 18150096,
-        "value": 2915812811,
+        "value": 2912545927,
         "pctChange": 0.0235
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.038599998,
         "position": 16173900,
-        "value": 2598336936,
+        "value": 2595425752,
         "pctChange": 0.0857
       },
       {
@@ -82,7 +90,7 @@
         "organization": "AQR Capital Management, LLC",
         "pctHeld": 0.0253,
         "position": 10624015,
-        "value": 1706747944,
+        "value": 1704835700,
         "pctChange": 0.32799998
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024600001,
         "position": 10340188,
-        "value": 1661151139,
+        "value": 1659289980,
         "pctChange": -0.0058999998
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0241,
         "position": 10104542,
-        "value": 1623294610,
+        "value": 1621475867,
         "pctChange": -0.0308
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0188,
         "position": 7906004,
-        "value": 1270099494,
+        "value": 1268676471,
         "pctChange": 0.0154
       },
       {
@@ -118,7 +126,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.016,
         "position": 6713883,
-        "value": 1078585262,
+        "value": 1077376813,
         "pctChange": -0.1339
       }
     ]
@@ -188,7 +196,7 @@
       "earningsDate": [
         "2026-11-05T20:00:00.000Z"
       ],
-      "isEarningsDateEstimate": true
+      "isEarningsDateEstimate": false
     },
     "financialsChart": {
       "yearly": [
@@ -4968,32 +4976,32 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketChangePercent": -0.0036725574,
-    "preMarketChange": -0.58999634,
-    "preMarketTime": "2026-10-01T08:12:40.000Z",
-    "preMarketPrice": 160.06,
     "preMarketSource": "DELAYED",
+    "postMarketChangePercent": 0.00737646,
+    "postMarketChange": 1.1837006,
+    "postMarketTime": "2026-10-01T23:58:39.000Z",
+    "postMarketPrice": 161.6537,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0235091,
-    "regularMarketChange": 3.68999,
-    "regularMarketTime": "2026-09-30T20:00:00.000Z",
+    "regularMarketChangePercent": -0.0011204,
+    "regularMarketChange": -0.179993,
+    "regularMarketTime": "2026-10-01T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 160.65,
-    "regularMarketDayHigh": 162.435,
-    "regularMarketDayLow": 157,
-    "regularMarketVolume": 4601996,
-    "averageDailyVolume10Day": 6016860,
-    "averageDailyVolume3Month": 4682438,
-    "regularMarketPreviousClose": 156.96,
+    "regularMarketPrice": 160.47,
+    "regularMarketDayHigh": 161.7502,
+    "regularMarketDayLow": 157.8,
+    "regularMarketVolume": 4802704,
+    "averageDailyVolume10Day": 6323620,
+    "averageDailyVolume3Month": 4702012,
+    "regularMarketPreviousClose": 160.65,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 157.83,
-    "fulldayChangePercent": 0.0010582847,
-    "fulldayChange": 0.17001343,
-    "fulldayPrice": 160.06,
+    "regularMarketOpen": 161.15,
+    "fulldayChangePercent": 0.019607902,
+    "fulldayChange": 3.1500092,
+    "fulldayPrice": 161.6537,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PRE",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "ABNB",
     "underlyingSymbol": null,
@@ -5005,13 +5013,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 96194912256
+    "marketCap": 96087138304
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 85143937024,
-    "forwardPE": 25.966278,
+    "enterpriseValue": 85037817856,
+    "forwardPE": 25.937185,
     "profitMargins": 0.2045,
     "floatShares": 405782346,
     "sharesOutstanding": 419529556,
@@ -5028,7 +5036,7 @@
     "impliedSharesOutstanding": 598785682,
     "category": null,
     "bookValue": 13.219,
-    "priceToBook": 12.152962,
+    "priceToBook": 12.139345,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -5036,14 +5044,14 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.271,
     "netIncomeToCommon": 2691000064,
-    "trailingEps": 4.48,
+    "trailingEps": 4.38,
     "forwardEps": 6.18687,
-    "pegRatio": 1.35,
+    "pegRatio": 1.38,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 6.47,
-    "enterpriseToEbitda": 30.838,
-    "52WeekChange": 0.2919582,
-    "SandP52WeekChange": 0.14299083,
+    "enterpriseToRevenue": 6.462,
+    "enterpriseToEbitda": 30.8,
+    "52WeekChange": 0.33480287,
+    "SandP52WeekChange": 0.1415559,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -5069,6 +5077,53 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 17692,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BLECHARCZYK NATHAN",
+        "filerRelation": "Officer, Director and Beneficial Owner",
+        "moneyText": "",
+        "startDate": "2026-09-28T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 13615,
+        "value": 2135172,
+        "filerUrl": "",
+        "transactionText": "Sale at price 154.45 - 158.31 per share.",
+        "filerName": "BLECHARCZYK NATHAN",
+        "filerRelation": "Officer, Director and Beneficial Owner",
+        "moneyText": "",
+        "startDate": "2026-09-28T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 4077,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "BLECHARCZYK NATHAN",
+        "filerRelation": "Officer, Director and Beneficial Owner",
+        "moneyText": "",
+        "startDate": "2026-09-28T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11204,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MERTZ ELINOR",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-09-28T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 1489,
@@ -5373,6 +5428,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 690000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BLECHARCZYK NATHAN",
+        "filerRelation": "Officer, Director and Beneficial Owner",
+        "moneyText": "",
+        "startDate": "2026-08-07T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 8346,
         "value": 500009,
         "filerUrl": "",
@@ -5382,17 +5448,6 @@
         "moneyText": "",
         "startDate": "2026-08-07T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 690000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BLECHARCZYK NATHAN",
-        "filerRelation": "Officer, Director and Beneficial Owner",
-        "moneyText": "",
-        "startDate": "2026-08-07T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5976,22 +6031,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 3450000,
+        "shares": 450,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GEBBIA JOSEPH",
-        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
+        "filerName": "BLECHARCZYK NATHAN",
+        "filerRelation": "Officer, Director and Beneficial Owner",
         "moneyText": "",
         "startDate": "2026-05-19T00:00:00.000Z",
         "ownership": "I"
       },
       {
         "maxAge": 1,
-        "shares": 450,
+        "shares": 3450000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BLECHARCZYK NATHAN",
-        "filerRelation": "Officer, Director and Beneficial Owner",
+        "filerName": "GEBBIA JOSEPH",
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
         "moneyText": "",
         "startDate": "2026-05-19T00:00:00.000Z",
         "ownership": "I"
@@ -6366,24 +6421,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 58000,
-        "value": 7572587,
-        "filerUrl": "",
-        "transactionText": "Sale at price 128.74 - 132.04 per share.",
-        "filerName": "GEBBIA JOSEPH",
-        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2025-12-15T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 60000,
         "value": 7861124,
         "filerUrl": "",
         "transactionText": "Sale at price 130.17 - 132.04 per share.",
         "filerName": "CHESKY BRIAN",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-12-15T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 58000,
+        "value": 7572587,
+        "filerUrl": "",
+        "transactionText": "Sale at price 128.74 - 132.04 per share.",
+        "filerName": "GEBBIA JOSEPH",
+        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
         "moneyText": "",
         "startDate": "2025-12-15T00:00:00.000Z",
         "ownership": "I"
@@ -6790,61 +6845,13 @@
         "moneyText": "",
         "startDate": "2025-09-29T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 600,
-        "value": 73746,
-        "filerUrl": "",
-        "transactionText": "Sale at price 122.91 per share.",
-        "filerName": "BALOGH ARISTOTLE N",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-09-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 600,
-        "value": 74244,
-        "filerUrl": "",
-        "transactionText": "Sale at price 123.74 per share.",
-        "filerName": "BALOGH ARISTOTLE N",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-09-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 236000,
-        "value": 28499875,
-        "filerUrl": "",
-        "transactionText": "Sale at price 119.93 - 122.23 per share.",
-        "filerName": "GEBBIA JOSEPH",
-        "filerRelation": "Director and Beneficial Owner of more than 10% of a Class of Security",
-        "moneyText": "",
-        "startDate": "2025-09-15T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 600,
-        "value": 74208,
-        "filerUrl": "",
-        "transactionText": "Sale at price 123.68 per share.",
-        "filerName": "BALOGH ARISTOTLE N",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2025-09-11T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 160.65,
+    "currentPrice": 160.47,
     "targetHighPrice": 220,
     "targetLowPrice": 135,
     "targetMeanPrice": 184.35,
@@ -6874,6 +6881,6 @@
     "profitMargins": 0.2045,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-01T08:18:06.088Z",
+  "lastUpdated": "2026-10-02T07:57:47.338Z",
   "source": "Static Build (yahoo-finance2)"
 }

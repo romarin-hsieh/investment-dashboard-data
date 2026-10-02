@@ -37,7 +37,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.77769995,
         "position": 75753509,
-        "value": 30097626475,
+        "value": 30017327941,
         "pctChange": 0.045900002
       },
       {
@@ -46,7 +46,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.5454,
         "position": 53129128,
-        "value": 21108733715,
+        "value": 21052416970,
         "pctChange": 0.0069
       },
       {
@@ -55,7 +55,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.3796,
         "position": 36979497,
-        "value": 14692323862,
+        "value": 14653125686,
         "pctChange": 0.0421
       },
       {
@@ -64,7 +64,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.3023,
         "position": 29450112,
-        "value": 11700823926,
+        "value": 11669606880,
         "pctChange": -0.0888
       },
       {
@@ -73,7 +73,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.2633,
         "position": 25647946,
-        "value": 10190185362,
+        "value": 10162998602,
         "pctChange": 0.0719
       },
       {
@@ -82,7 +82,7 @@
         "organization": "Bank of America Corporation",
         "pctHeld": 0.23290001,
         "position": 22681876,
-        "value": 9011736098,
+        "value": 8987693365,
         "pctChange": 0.0091
       },
       {
@@ -91,7 +91,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.2229,
         "position": 21715578,
-        "value": 8627816242,
+        "value": 8604797782,
         "pctChange": 0.6122
       },
       {
@@ -100,7 +100,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.2059,
         "position": 20054462,
-        "value": 7967838248,
+        "value": 7946580567,
         "pctChange": 1.4744
       },
       {
@@ -109,7 +109,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.2014,
         "position": 19615573,
-        "value": 7793463260,
+        "value": 7772670801,
         "pctChange": 0.0150999995
       },
       {
@@ -118,7 +118,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.19860001,
         "position": 19347649,
-        "value": 7687014376,
+        "value": 7666505916,
         "pctChange": -0.0128999995
       }
     ]
@@ -126,8 +126,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00753,
-    "institutionsPercentHeld": 0.84384,
-    "institutionsFloatPercentHeld": 0.85025,
+    "institutionsPercentHeld": 0.84367996,
+    "institutionsFloatPercentHeld": 0.85009,
     "institutionsCount": 3834
   },
   "earnings": {
@@ -193,6 +193,12 @@
     "financialsChart": {
       "yearly": [
         {
+          "date": 2022,
+          "revenue": 5501500000,
+          "earnings": -267000000,
+          "profitMargin": -0.048532218
+        },
+        {
           "date": 2023,
           "revenue": 6892700000,
           "earnings": 439700000,
@@ -209,15 +215,16 @@
           "revenue": 9221500000,
           "earnings": 1133900000,
           "profitMargin": 0.122962646
-        },
-        {
-          "date": 2026,
-          "revenue": 11480000000,
-          "earnings": 307000000,
-          "profitMargin": 0.026742158
         }
       ],
       "quarterly": [
+        {
+          "date": "2Q2025",
+          "fiscalQuarter": "4Q2025",
+          "revenue": 2536300000,
+          "earnings": 253800000,
+          "profitMargin": 0.10006703
+        },
         {
           "date": "3Q2025",
           "fiscalQuarter": "1Q2026",
@@ -238,13 +245,6 @@
           "revenue": 3002000000,
           "earnings": -177000000,
           "profitMargin": -0.058960695
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "4Q2026",
-          "revenue": 3410000000,
-          "earnings": -282000000,
-          "profitMargin": -0.08269795
         }
       ]
     },
@@ -9578,50 +9578,50 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketChangePercent": 0.0069970526,
-    "preMarketChange": 2.7799988,
-    "preMarketTime": "2026-10-01T08:14:44.000Z",
-    "preMarketPrice": 400.09,
     "preMarketSource": "DELAYED",
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0229139,
-    "regularMarketChange": 8.89999,
-    "regularMarketTime": "2026-09-30T20:00:00.000Z",
+    "postMarketChangePercent": 0.0006119689,
+    "postMarketChange": 0.24249268,
+    "postMarketTime": "2026-10-01T23:59:51.000Z",
+    "postMarketPrice": 396.4925,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": -0.00266794,
+    "regularMarketChange": -1.06,
+    "regularMarketTime": "2026-10-01T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 397.31,
-    "regularMarketDayHigh": 404.6879,
-    "regularMarketDayLow": 388.89,
-    "regularMarketVolume": 6033488,
-    "averageDailyVolume10Day": 6507070,
-    "averageDailyVolume3Month": 6427258,
-    "regularMarketPreviousClose": 388.41,
+    "regularMarketPrice": 396.25,
+    "regularMarketDayHigh": 398.5,
+    "regularMarketDayLow": 387.02,
+    "regularMarketVolume": 5258404,
+    "averageDailyVolume10Day": 6493150,
+    "averageDailyVolume3Month": 6370603,
+    "regularMarketPreviousClose": 397.31,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 391.67,
-    "fulldayChangePercent": 0.011804391,
-    "fulldayChange": 4.6900024,
-    "fulldayPrice": 400.09,
+    "regularMarketOpen": 396.79,
+    "fulldayChangePercent": 0.0026679358,
+    "fulldayChange": 1.0599976,
+    "fulldayPrice": 396.4925,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PRE",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "PANW",
     "underlyingSymbol": null,
     "shortName": "Palo Alto Networks, Inc.",
     "longName": "Palo Alto Networks, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 324999577600
+    "marketCap": 324132503552
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 324495572992,
-    "forwardPE": 81.4315,
+    "enterpriseValue": 323628498944,
+    "forwardPE": 81.21425,
     "profitMargins": 0.02674,
     "floatShares": 811259680,
     "sharesOutstanding": 818000000,
@@ -9631,14 +9631,14 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.026700001,
     "heldPercentInsiders": 0.00753,
-    "heldPercentInstitutions": 0.84384,
+    "heldPercentInstitutions": 0.84367996,
     "shortRatio": 3.39,
     "shortPercentOfFloat": 0.0269,
     "beta": 0.908,
     "impliedSharesOutstanding": 818000000,
     "category": null,
     "bookValue": 33.733,
-    "priceToBook": 11.77808,
+    "priceToBook": 11.746657,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-07-31T00:00:00.000Z",
@@ -9647,13 +9647,13 @@
     "netIncomeToCommon": 307000000,
     "trailingEps": 0.4,
     "forwardEps": 4.87907,
-    "pegRatio": 1.98,
+    "pegRatio": 2.03,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1734307200,
-    "enterpriseToRevenue": 28.266,
-    "enterpriseToEbitda": 208.01,
-    "52WeekChange": 0.8781915,
-    "SandP52WeekChange": 0.14299083,
+    "enterpriseToRevenue": 28.191,
+    "enterpriseToEbitda": 207.454,
+    "52WeekChange": 0.91249573,
+    "SandP52WeekChange": 0.1415559,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -9681,18 +9681,6 @@
     "transactions": [
       {
         "maxAge": 1,
-        "shares": 27500,
-        "value": 10769137,
-        "filerUrl": "",
-        "transactionText": "Sale at price 388.69 - 396.21 per share.",
-        "filerName": "GOLECHHA DIPAK",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-09-24T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 260,
         "value": 102098,
         "filerUrl": "",
@@ -9702,6 +9690,18 @@
         "moneyText": "",
         "startDate": "2026-09-24T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 27500,
+        "value": 10769137,
+        "filerUrl": "",
+        "transactionText": "Sale at price 388.69 - 396.21 per share.",
+        "filerName": "GOLECHHA DIPAK",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-09-24T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -9921,24 +9921,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 5000,
-        "value": 802077,
-        "filerUrl": "",
-        "transactionText": "Sale at price 157.81 - 160.70 per share.",
-        "filerName": "GOLECHHA DIPAK",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1100,
         "value": 177540,
         "filerUrl": "",
         "transactionText": "Sale at price 161.40 per share.",
         "filerName": "PAUL JOSHUA D.",
         "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5000,
+        "value": 802077,
+        "filerUrl": "",
+        "transactionText": "Sale at price 157.81 - 160.70 per share.",
+        "filerName": "GOLECHHA DIPAK",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
         "ownership": "D"
@@ -10293,24 +10293,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 700,
-        "value": 153979,
-        "filerUrl": "",
-        "transactionText": "Sale at price 219.97 per share.",
-        "filerName": "PAUL JOSHUA D.",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-11-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 120774,
         "value": 26321980,
         "filerUrl": "",
         "transactionText": "Sale at price 215.88 - 220.40 per share.",
         "filerName": "KLARICH LEE",
         "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-11-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 700,
+        "value": 153979,
+        "filerUrl": "",
+        "transactionText": "Sale at price 219.97 per share.",
+        "filerName": "PAUL JOSHUA D.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-03T00:00:00.000Z",
         "ownership": "D"
@@ -11424,7 +11424,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 397.31,
+    "currentPrice": 396.25,
     "targetHighPrice": 475,
     "targetLowPrice": 190,
     "targetMeanPrice": 396.12,
@@ -11453,6 +11453,6 @@
     "profitMargins": 0.02674,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-01T08:15:37.596Z",
+  "lastUpdated": "2026-10-02T07:55:16.487Z",
   "source": "Static Build (yahoo-finance2)"
 }

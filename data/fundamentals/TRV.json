@@ -24,6 +24,14 @@
         "hold": 17,
         "sell": 4,
         "strongSell": 2
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 1,
+        "buy": 5,
+        "hold": 17,
+        "sell": 4,
+        "strongSell": 2
       }
     ],
     "maxAge": 86400
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.1004,
         "position": 20949680,
-        "value": 7468770621,
+        "value": 7576242582,
         "pctChange": -0.031600002
       },
       {
@@ -46,7 +54,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0753,
         "position": 15706016,
-        "value": 5599351917,
+        "value": 5679923856,
         "pctChange": -0.026500002
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.066599995,
         "position": 13886981,
-        "value": 4950847731,
+        "value": 5022088012,
         "pctChange": -0.0117
       },
       {
@@ -64,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0493,
         "position": 10272794,
-        "value": 3662353889,
+        "value": 3715053372,
         "pctChange": -0.1439
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0399,
         "position": 8314274,
-        "value": 2964121904,
+        "value": 3006774171,
         "pctChange": 0.5425
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.030299999,
         "position": 6320694,
-        "value": 2253390679,
+        "value": 2285815870,
         "pctChange": 0.1204
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Massachusetts Financial Services Co.",
         "pctHeld": 0.020299999,
         "position": 4241289,
-        "value": 1512061982,
+        "value": 1533819816,
         "pctChange": -0.1351
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0183,
         "position": 3826776,
-        "value": 1364283949,
+        "value": 1383915328,
         "pctChange": 0.0712
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Dimensional Fund Advisors LP",
         "pctHeld": 0.017,
         "position": 3555980,
-        "value": 1267742464,
+        "value": 1285984659,
         "pctChange": 0.020499999
       },
       {
@@ -118,7 +126,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0149,
         "position": 3112602,
-        "value": 1109673769,
+        "value": 1125641432,
         "pctChange": -0.16469999
       }
     ]
@@ -179,7 +187,7 @@
           "reportedDate": 1784285908
         }
       ],
-      "currentQuarterEstimate": 6.88916,
+      "currentQuarterEstimate": 6.94791,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -219,6 +227,13 @@
       ],
       "quarterly": [
         {
+          "date": "2Q2025",
+          "fiscalQuarter": "2Q2025",
+          "revenue": 10921000000,
+          "earnings": 1509000000,
+          "profitMargin": 0.13817416
+        },
+        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 11135000000,
@@ -238,13 +253,6 @@
           "revenue": 10605000000,
           "earnings": 1711000000,
           "profitMargin": 0.161339
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "2Q2026",
-          "revenue": 10753000000,
-          "earnings": 2208000000,
-          "profitMargin": 0.20533803
         }
       ]
     },
@@ -4769,45 +4777,49 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "DELAYED",
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.0184466,
-    "regularMarketChange": -6.69998,
-    "regularMarketTime": "2026-09-30T20:00:02.000Z",
+    "postMarketChangePercent": 0,
+    "postMarketChange": 0,
+    "postMarketTime": "2026-10-01T21:49:31.000Z",
+    "postMarketPrice": 361.64,
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.014389499,
+    "regularMarketChange": 5.13,
+    "regularMarketTime": "2026-10-01T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 356.51,
-    "regularMarketDayHigh": 363.635,
-    "regularMarketDayLow": 356.48,
-    "regularMarketVolume": 1129966,
-    "averageDailyVolume10Day": 1471140,
-    "averageDailyVolume3Month": 1719308,
-    "regularMarketPreviousClose": 363.21,
+    "regularMarketPrice": 361.64,
+    "regularMarketDayHigh": 361.98,
+    "regularMarketDayLow": 353.79,
+    "regularMarketVolume": 1198419,
+    "averageDailyVolume10Day": 1416990,
+    "averageDailyVolume3Month": 1707403,
+    "regularMarketPreviousClose": 356.51,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 362.28,
-    "fulldayChangePercent": -0.029542083,
-    "fulldayChange": -10.72998,
-    "fulldayPrice": 356.51,
+    "regularMarketOpen": 356,
+    "fulldayChangePercent": 0.01820423,
+    "fulldayChange": 6.48999,
+    "fulldayPrice": 361.64,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PRE",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "TRV",
     "underlyingSymbol": null,
     "shortName": "The Travelers Companies, Inc.",
     "longName": "The Travelers Companies, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 74359087104
+    "marketCap": 75429076992
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 78366081024,
-    "forwardPE": 11.764808,
+    "enterpriseValue": 79436070912,
+    "forwardPE": 11.924916,
     "profitMargins": 0.16951999,
     "floatShares": 207363201,
     "sharesOutstanding": 208575022,
@@ -4824,7 +4836,7 @@
     "impliedSharesOutstanding": 208575022,
     "category": null,
     "bookValue": 158.778,
-    "priceToBook": 2.2453363,
+    "priceToBook": 2.2776456,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4832,15 +4844,15 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.463,
     "netIncomeToCommon": 8242999808,
-    "trailingEps": 37.19,
-    "forwardEps": 30.30309,
+    "trailingEps": 37.76,
+    "forwardEps": 30.32642,
     "pegRatio": 2.36,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 894931200,
-    "enterpriseToRevenue": 1.6,
-    "enterpriseToEbitda": 6.826,
-    "52WeekChange": 0.29699326,
-    "SandP52WeekChange": 0.14299083,
+    "enterpriseToRevenue": 1.622,
+    "enterpriseToEbitda": 6.92,
+    "52WeekChange": 0.27087438,
+    "SandP52WeekChange": 0.1415559,
     "lastDividendValue": 1.25,
     "lastDividendDate": "2026-09-10T00:00:00.000Z",
     "latestShareClass": null,
@@ -6674,10 +6686,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 356.51,
+    "currentPrice": 361.64,
     "targetHighPrice": 430,
     "targetLowPrice": 262,
-    "targetMeanPrice": 360.70834,
+    "targetMeanPrice": 360.45834,
     "targetMedianPrice": 359.5,
     "recommendationMean": 2.96552,
     "recommendationKey": "hold",
@@ -6704,6 +6716,6 @@
     "profitMargins": 0.16951999,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-01T08:17:37.470Z",
+  "lastUpdated": "2026-10-02T07:57:18.374Z",
   "source": "Static Build (yahoo-finance2)"
 }

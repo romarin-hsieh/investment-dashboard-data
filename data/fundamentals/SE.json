@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 5,
+        "buy": 22,
+        "hold": 2,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
         "strongBuy": 6,
         "buy": 21,
         "hold": 2,
@@ -18,7 +26,7 @@
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 6,
         "buy": 21,
         "hold": 2,
@@ -37,7 +45,7 @@
         "organization": "BAILLIE GIFFORD & CO",
         "pctHeld": 0.0677,
         "position": 38409385,
-        "value": 3739537747,
+        "value": 3659261980,
         "pctChange": -0.031400003
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0629,
         "position": 35638546,
-        "value": 3469768860,
+        "value": 3395284157,
         "pctChange": 0.066700004
       },
       {
@@ -55,7 +63,7 @@
         "organization": "WCM Investment Management, LLC",
         "pctHeld": 0.0598,
         "position": 33881192,
-        "value": 3298672873,
+        "value": 3227861048,
         "pctChange": 0.004
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0374,
         "position": 21183402,
-        "value": 2062416031,
+        "value": 2018142637,
         "pctChange": 0.0115
       },
       {
@@ -73,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0272,
         "position": 15403524,
-        "value": 1499687106,
+        "value": 1467493679,
         "pctChange": 0.096999995
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Tiger Global Management, LLC",
         "pctHeld": 0.0222,
         "position": 12559152,
-        "value": 1222759046,
+        "value": 1196510368,
         "pctChange": -0.18530001
       },
       {
@@ -91,7 +99,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.014400001,
         "position": 8186557,
-        "value": 797043194,
+        "value": 779933257,
         "pctChange": -0.1242
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Schroder Investment Management Group",
         "pctHeld": 0.0135,
         "position": 7646820,
-        "value": 744494399,
+        "value": 728512515,
         "pctChange": 0.2195
       },
       {
@@ -109,7 +117,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0128,
         "position": 7280311,
-        "value": 708811083,
+        "value": 693595204,
         "pctChange": 0.0037
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Temasek Holdings (Private) Ltd",
         "pctHeld": 0.0101,
         "position": 5744587,
-        "value": 559292993,
+        "value": 547286784,
         "pctChange": 0.0874
       }
     ]
@@ -2418,32 +2426,32 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketChangePercent": -0.01387603,
-    "preMarketChange": -1.3506927,
-    "preMarketTime": "2026-10-01T08:14:33.000Z",
-    "preMarketPrice": 95.9893,
     "preMarketSource": "FREE_REALTIME",
+    "postMarketChangePercent": 0.00041986897,
+    "postMarketChange": 0.040000916,
+    "postMarketTime": "2026-10-01T23:52:28.000Z",
+    "postMarketPrice": 95.31,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.012776299,
-    "regularMarketChange": -1.26,
-    "regularMarketTime": "2026-09-30T20:00:03.000Z",
+    "regularMarketChangePercent": -0.021466801,
+    "regularMarketChange": -2.09,
+    "regularMarketTime": "2026-10-01T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 97.36,
-    "regularMarketDayHigh": 99.18,
-    "regularMarketDayLow": 97,
-    "regularMarketVolume": 2822825,
-    "averageDailyVolume10Day": 3513240,
-    "averageDailyVolume3Month": 4381641,
-    "regularMarketPreviousClose": 98.62,
+    "regularMarketPrice": 95.27,
+    "regularMarketDayHigh": 96.87,
+    "regularMarketDayLow": 93.7,
+    "regularMarketVolume": 4565193,
+    "averageDailyVolume10Day": 3638430,
+    "averageDailyVolume3Month": 4313109,
+    "regularMarketPreviousClose": 97.36,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 98.775,
-    "fulldayChangePercent": -0.01387603,
-    "fulldayChange": -1.3506927,
-    "fulldayPrice": 95.9893,
+    "regularMarketOpen": 96.4,
+    "fulldayChangePercent": -0.030197231,
+    "fulldayChange": -2.9400024,
+    "fulldayPrice": 95.31,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PRE",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "SE",
     "underlyingSymbol": null,
@@ -2455,13 +2463,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 59631497216
+    "marketCap": 58351398912
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 57113419776,
-    "forwardPE": 18.788294,
+    "enterpriseValue": 55783612416,
+    "forwardPE": 18.38497,
     "profitMargins": 0.05908,
     "floatShares": 418431701,
     "sharesOutstanding": 566956729,
@@ -2478,7 +2486,7 @@
     "impliedSharesOutstanding": 612484522,
     "category": null,
     "bookValue": 20.292,
-    "priceToBook": 4.79795,
+    "priceToBook": 4.6949534,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -2486,14 +2494,14 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.106,
     "netIncomeToCommon": 1637852032,
-    "trailingEps": 2.56,
-    "forwardEps": 5.19035,
-    "pegRatio": 0.95,
+    "trailingEps": 2.53,
+    "forwardEps": 5.18195,
+    "pegRatio": 0.94,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 2.06,
-    "enterpriseToEbitda": 21.288,
-    "52WeekChange": -0.45816165,
-    "SandP52WeekChange": 0.14299083,
+    "enterpriseToRevenue": 2.012,
+    "enterpriseToEbitda": 20.792,
+    "52WeekChange": -0.48477638,
+    "SandP52WeekChange": 0.1415559,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -3733,24 +3741,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 1600,
-        "value": 141217,
-        "filerUrl": "",
-        "transactionText": "Sale at price 85.80 - 90.42 per share.",
-        "filerName": "CHEN JINGYE DAVID",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-15T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 20000,
         "value": 1767214,
         "filerUrl": "",
         "transactionText": "Sale at price 85.87 - 90.42 per share.",
         "filerName": "YE GANG",
         "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-04-15T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1600,
+        "value": 141217,
+        "filerUrl": "",
+        "transactionText": "Sale at price 85.80 - 90.42 per share.",
+        "filerName": "CHEN JINGYE DAVID",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-04-15T00:00:00.000Z",
         "ownership": "I"
@@ -4072,7 +4080,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 97.36,
+    "currentPrice": 95.27,
     "targetHighPrice": 195,
     "targetLowPrice": 105,
     "targetMeanPrice": 155.11,
@@ -4102,6 +4110,6 @@
     "profitMargins": 0.05908,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-01T08:15:06.812Z",
+  "lastUpdated": "2026-10-02T07:54:45.875Z",
   "source": "Static Build (yahoo-finance2)"
 }

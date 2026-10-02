@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 4,
+        "buy": 13,
+        "hold": 9,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
         "strongBuy": 3,
         "buy": 13,
         "hold": 10,
@@ -18,7 +26,7 @@
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 3,
         "buy": 13,
         "hold": 10,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0829,
         "position": 250601039,
-        "value": 20060613936,
+        "value": 20110733379,
         "pctChange": -0.039100002
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0661,
         "position": 199899163,
-        "value": 16001928608,
+        "value": 16041907830,
         "pctChange": -0.0043
       },
       {
@@ -55,7 +63,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0504,
         "position": 152555290,
-        "value": 12212051430,
+        "value": 12242562022,
         "pctChange": -0.056500003
       },
       {
@@ -64,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.045,
         "position": 135987935,
-        "value": 10885834611,
+        "value": 10913031783,
         "pctChange": 0.0036000002
       },
       {
@@ -73,7 +81,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0378,
         "position": 114238700,
-        "value": 9144808283,
+        "value": 9167655675,
         "pctChange": -0.1159
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.0253,
         "position": 76395745,
-        "value": 6115479620,
+        "value": 6130758536,
         "pctChange": 0.048
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024400001,
         "position": 73893386,
-        "value": 5915165774,
+        "value": 5929944226,
         "pctChange": 0.00059999997
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.020499999,
         "position": 62029564,
-        "value": 4965466787,
+        "value": 4977872511,
         "pctChange": 0.0058
       },
       {
@@ -109,7 +117,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0183,
         "position": 55487578,
-        "value": 4441780788,
+        "value": 4452878134,
         "pctChange": 0.146
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0176,
         "position": 53356165,
-        "value": 4271161171,
+        "value": 4281832241,
         "pctChange": 0.0323
       }
     ]
@@ -179,7 +187,7 @@
           "reportedDate": 1784024901
         }
       ],
-      "currentQuarterEstimate": 1.85137,
+      "currentQuarterEstimate": 1.85295,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -253,6 +261,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-10-01T15:41:44.000Z",
+        "firm": "Evercore ISI Group",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 90,
+        "priorPriceTarget": 95
+      },
+      {
+        "epochGradeDate": "2026-10-01T13:07:23.000Z",
+        "firm": "Truist Securities",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 95,
+        "priorPriceTarget": 94
+      },
       {
         "epochGradeDate": "2026-07-29T18:20:28.000Z",
         "firm": "JP Morgan",
@@ -5648,32 +5676,32 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketChangePercent": 0.0052466975,
-    "preMarketChange": 0.41999817,
-    "preMarketTime": "2026-10-01T08:02:37.000Z",
-    "preMarketPrice": 80.47,
-    "preMarketSource": "DELAYED",
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.00534295,
-    "regularMarketChange": -0.43,
-    "regularMarketTime": "2026-09-30T20:05:13.000Z",
+    "preMarketSource": "FREE_REALTIME",
+    "postMarketChangePercent": -0.0004984538,
+    "postMarketChange": -0.040000916,
+    "postMarketTime": "2026-10-01T23:33:36.000Z",
+    "postMarketPrice": 80.21,
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.0024984002,
+    "regularMarketChange": 0.199997,
+    "regularMarketTime": "2026-10-01T20:04:27.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 80.05,
-    "regularMarketDayHigh": 80.875,
-    "regularMarketDayLow": 79.815,
-    "regularMarketVolume": 17775219,
-    "averageDailyVolume10Day": 13905590,
-    "averageDailyVolume3Month": 14031853,
-    "regularMarketPreviousClose": 80.48,
+    "regularMarketPrice": 80.25,
+    "regularMarketDayHigh": 80.315,
+    "regularMarketDayLow": 78,
+    "regularMarketVolume": 16376104,
+    "averageDailyVolume10Day": 14819580,
+    "averageDailyVolume3Month": 14188341,
+    "regularMarketPreviousClose": 80.05,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 80.25,
-    "fulldayChangePercent": 0.004493829,
-    "fulldayChange": 0.3600006,
-    "fulldayPrice": 80.47,
+    "regularMarketOpen": 79.35,
+    "fulldayChangePercent": 0.0006245524,
+    "fulldayChange": 0.049995422,
+    "fulldayPrice": 80.21,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PRE",
+    "marketState": "PREPRE",
     "quoteType": "EQUITY",
     "symbol": "WFC",
     "underlyingSymbol": null,
@@ -5685,13 +5713,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 242071142400
+    "marketCap": 242675941376
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 241610145792,
-    "forwardPE": 10.066866,
+    "enterpriseValue": 242214944768,
+    "forwardPE": 10.079139,
     "profitMargins": 0.27232,
     "floatShares": 3015622858,
     "sharesOutstanding": 3023999336,
@@ -5707,8 +5735,8 @@
     "beta": 0.916,
     "impliedSharesOutstanding": 3023999336,
     "category": null,
-    "bookValue": 53.194,
-    "priceToBook": 1.504869,
+    "bookValue": 54.43,
+    "priceToBook": 1.4743707,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -5717,13 +5745,13 @@
     "earningsQuarterlyGrowth": 0.166,
     "netIncomeToCommon": 21614999552,
     "trailingEps": 6.88,
-    "forwardEps": 7.93734,
-    "pegRatio": 1.26,
+    "forwardEps": 7.96199,
+    "pegRatio": 1.25,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1155513600,
-    "enterpriseToRevenue": 2.91,
-    "52WeekChange": -0.004822552,
-    "SandP52WeekChange": 0.14299083,
+    "enterpriseToRevenue": 2.917,
+    "52WeekChange": -0.005206406,
+    "SandP52WeekChange": 0.1415559,
     "lastDividendValue": 0.5,
     "lastDividendDate": "2026-08-07T00:00:00.000Z",
     "latestShareClass": null,
@@ -5800,11 +5828,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 60914,
+        "shares": 125481,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SANTOS KLEBER",
-        "filerRelation": "Officer",
+        "filerName": "SANTOMASSIMO MICHAEL P",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-03-05T00:00:00.000Z",
         "ownership": "D"
@@ -5822,11 +5850,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 125481,
+        "shares": 60914,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SANTOMASSIMO MICHAEL P",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "SANTOS KLEBER",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-05T00:00:00.000Z",
         "ownership": "D"
@@ -5935,11 +5963,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 49047,
+        "shares": 61441,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SANTOS KLEBER",
-        "filerRelation": "Officer",
+        "filerName": "POWELL SCOTT E",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2026-02-05T00:00:00.000Z",
         "ownership": "D"
@@ -5968,11 +5996,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 61441,
+        "shares": 49047,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "POWELL SCOTT E",
-        "filerRelation": "Chief Operating Officer",
+        "filerName": "SANTOS KLEBER",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-05T00:00:00.000Z",
         "ownership": "D"
@@ -6122,17 +6150,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 3786,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SOMMERS BARRY",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-12-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 952,
         "filerUrl": "",
         "transactionText": "",
@@ -6159,6 +6176,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "VAN BEURDEN SAUL",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-12-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 3786,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SOMMERS BARRY",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-12-05T00:00:00.000Z",
@@ -6235,22 +6263,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 111766,
+        "shares": 87815,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SANTOMASSIMO MICHAEL P",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "POWELL SCOTT E",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2025-03-05T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 87815,
+        "shares": 111766,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "POWELL SCOTT E",
-        "filerRelation": "Chief Operating Officer",
+        "filerName": "SANTOMASSIMO MICHAEL P",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-03-05T00:00:00.000Z",
         "ownership": "D"
@@ -6368,11 +6396,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 109150,
+        "shares": 62216,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "ENGLE BRIDGET E.",
-        "filerRelation": "Officer",
+        "filerName": "POWELL SCOTT E",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2025-02-05T00:00:00.000Z",
         "ownership": "D"
@@ -6401,11 +6429,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 62216,
+        "shares": 109150,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "POWELL SCOTT E",
-        "filerRelation": "Chief Operating Officer",
+        "filerName": "ENGLE BRIDGET E.",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-05T00:00:00.000Z",
         "ownership": "D"
@@ -6533,10 +6561,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 3744,
+        "shares": 1063,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "VAN BEURDEN SAUL",
+        "filerName": "HRANICKY KYLE G",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-12-09T00:00:00.000Z",
@@ -6544,10 +6572,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 1063,
+        "shares": 3744,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HRANICKY KYLE G",
+        "filerName": "VAN BEURDEN SAUL",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-12-09T00:00:00.000Z",
@@ -6593,10 +6621,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 80.05,
+    "currentPrice": 80.25,
     "targetHighPrice": 115,
     "targetLowPrice": 90,
-    "targetMeanPrice": 100.54348,
+    "targetMeanPrice": 100.36957,
     "targetMedianPrice": 100,
     "recommendationMean": 1.84615,
     "recommendationKey": "buy",
@@ -6618,6 +6646,6 @@
     "profitMargins": 0.27232,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-01T08:17:57.157Z",
+  "lastUpdated": "2026-10-02T07:57:38.562Z",
   "source": "Static Build (yahoo-finance2)"
 }
