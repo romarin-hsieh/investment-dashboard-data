@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.078,
         "position": 545683702,
-        "value": 29319585058,
+        "value": 29330498982,
         "pctChange": 0.0119
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Berkshire Hathaway, Inc",
         "pctHeld": 0.0691,
         "position": 483394015,
-        "value": 25972760204,
+        "value": 25982428306,
         "pctChange": -0.0589
       },
       {
@@ -63,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.060300004,
         "position": 421828996,
-        "value": 22664871761,
+        "value": 22673308535,
         "pctChange": 0.0296
       },
       {
@@ -72,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0429,
         "position": 299782707,
-        "value": 16107324709,
+        "value": 16113320501,
         "pctChange": 0.0165
       },
       {
@@ -81,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0271,
         "position": 189182396,
-        "value": 10164770050,
+        "value": 10168553785,
         "pctChange": -0.0469
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.024600001,
         "position": 172341501,
-        "value": 9259908769,
+        "value": 9263355678,
         "pctChange": 0.0545
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0225,
         "position": 157607251,
-        "value": 8468237524,
+        "value": 8471389741,
         "pctChange": -0.002
       },
       {
@@ -108,7 +108,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0188,
         "position": 131583164,
-        "value": 7069963341,
+        "value": 7072595065,
         "pctChange": -0.0052
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0166,
         "position": 115849982,
-        "value": 6224619479,
+        "value": 6226936532,
         "pctChange": -0.19709998
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0164,
         "position": 114601311,
-        "value": 6157528387,
+        "value": 6159820466,
         "pctChange": 0.0546
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.070300005,
-    "institutionsPercentHeld": 0.71204,
-    "institutionsFloatPercentHeld": 0.76588,
-    "institutionsCount": 4509
+    "institutionsPercentHeld": 0.71205,
+    "institutionsFloatPercentHeld": 0.76589996,
+    "institutionsCount": 4514
   },
   "earnings": {
     "maxAge": 86400,
@@ -187,7 +187,7 @@
           "reportedDate": 1784025908
         }
       ],
-      "currentQuarterEstimate": 1.1361,
+      "currentQuarterEstimate": 1.12927,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -199,14 +199,78 @@
       "isEarningsDateEstimate": false
     },
     "financialsChart": {
-      "yearly": [],
-      "quarterly": []
+      "yearly": [
+        {
+          "date": 2022,
+          "revenue": 94950000000,
+          "earnings": 26015000000,
+          "profitMargin": 0.2739863
+        },
+        {
+          "date": 2023,
+          "revenue": 98581000000,
+          "earnings": 24866000000,
+          "profitMargin": 0.2522393
+        },
+        {
+          "date": 2024,
+          "revenue": 101887000000,
+          "earnings": 25503000000,
+          "profitMargin": 0.25030673
+        },
+        {
+          "date": 2025,
+          "revenue": 113097000000,
+          "earnings": 29055000000,
+          "profitMargin": 0.25690338
+        }
+      ],
+      "quarterly": [
+        {
+          "date": "3Q2025",
+          "fiscalQuarter": "3Q2025",
+          "revenue": 28088000000,
+          "earnings": 8040000000,
+          "profitMargin": 0.28624323
+        },
+        {
+          "date": "4Q2025",
+          "fiscalQuarter": "4Q2025",
+          "revenue": 28367000000,
+          "earnings": 7319000000,
+          "profitMargin": 0.25801107
+        },
+        {
+          "date": "1Q2026",
+          "fiscalQuarter": "1Q2026",
+          "revenue": 30272000000,
+          "earnings": 8155000000,
+          "profitMargin": 0.26939085
+        },
+        {
+          "date": "2Q2026",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 31558000000,
+          "earnings": 8748000000,
+          "profitMargin": 0.2772039
+        }
+      ]
     },
     "financialCurrency": "USD",
     "defaultMethodology": "gaap"
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-10-02T16:10:07.000Z",
+        "firm": "JP Morgan",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 62,
+        "priorPriceTarget": 68
+      },
       {
         "epochGradeDate": "2026-10-01T13:56:04.000Z",
         "firm": "Evercore ISI Group",
@@ -4473,31 +4537,31 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": -0.00038707853,
-    "postMarketChange": -0.02079773,
-    "postMarketTime": "2026-10-01T23:55:28.000Z",
-    "postMarketPrice": 53.7092,
+    "postMarketChangePercent": 0.0002660707,
+    "postMarketChange": 0.0143013,
+    "postMarketTime": "2026-10-02T23:59:51.000Z",
+    "postMarketPrice": 53.7643,
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.0128606,
-    "regularMarketChange": -0.700001,
-    "regularMarketTime": "2026-10-01T20:00:03.000Z",
+    "regularMarketChangePercent": 0.00037223997,
+    "regularMarketChange": 0.0200005,
+    "regularMarketTime": "2026-10-02T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 53.73,
-    "regularMarketDayHigh": 54.34,
-    "regularMarketDayLow": 52.89,
-    "regularMarketVolume": 60012656,
-    "averageDailyVolume10Day": 39205650,
-    "averageDailyVolume3Month": 33391868,
-    "regularMarketPreviousClose": 54.43,
+    "regularMarketPrice": 53.75,
+    "regularMarketDayHigh": 54,
+    "regularMarketDayLow": 53.305,
+    "regularMarketVolume": 34897453,
+    "averageDailyVolume10Day": 39207950,
+    "averageDailyVolume3Month": 33392233,
+    "regularMarketPreviousClose": 53.73,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 53.91,
-    "fulldayChangePercent": -0.011941972,
-    "fulldayChange": -0.6500015,
-    "fulldayPrice": 53.7092,
+    "regularMarketOpen": 53.89,
+    "fulldayChangePercent": 0.00037223997,
+    "fulldayChange": 0.0200005,
+    "fulldayPrice": 53.7643,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "BAC",
     "underlyingSymbol": null,
@@ -4509,13 +4573,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 375720378368
+    "marketCap": 375860232192
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 321559363584,
-    "forwardPE": 10.202977,
+    "enterpriseValue": 321699217408,
+    "forwardPE": 10.222246,
     "profitMargins": 0.29524,
     "floatShares": 6965127009,
     "sharesOutstanding": 6992748365,
@@ -4525,14 +4589,14 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0,
     "heldPercentInsiders": 0.070300005,
-    "heldPercentInstitutions": 0.71204,
+    "heldPercentInstitutions": 0.71205,
     "shortRatio": 0,
     "shortPercentOfFloat": 0,
     "beta": 1.164,
     "impliedSharesOutstanding": 6992748365,
     "category": null,
     "bookValue": 39.342,
-    "priceToBook": 1.3657161,
+    "priceToBook": 1.3662244,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -4540,13 +4604,13 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.266,
     "netIncomeToCommon": 32124999680,
-    "trailingEps": 4.28,
-    "forwardEps": 5.26611,
-    "pegRatio": 0.86,
+    "trailingEps": 4.33,
+    "forwardEps": 5.25814,
+    "pegRatio": 0.85,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1093824000,
-    "enterpriseToRevenue": 2.822,
-    "52WeekChange": 0.061018944,
+    "enterpriseToRevenue": 2.824,
+    "52WeekChange": 0.06628299,
     "SandP52WeekChange": 0.1415559,
     "lastDividendValue": 0.32,
     "lastDividendDate": "2026-09-04T00:00:00.000Z",
@@ -4833,17 +4897,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 99917,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "NGUYEN THONG M",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-27T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 107411,
         "filerUrl": "",
         "transactionText": "",
@@ -4852,6 +4905,17 @@
         "moneyText": "",
         "startDate": "2026-02-27T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 99917,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "NGUYEN THONG M",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-27T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -4977,17 +5041,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 160764,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "NGUYEN THONG M",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-13T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 190997,
         "filerUrl": "",
         "transactionText": "",
@@ -4996,6 +5049,17 @@
         "moneyText": "",
         "startDate": "2026-02-13T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 160764,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "NGUYEN THONG M",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-13T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5385,6 +5449,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1234,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SCHIMPF ERIC A",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-05-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 975,
         "filerUrl": "",
         "transactionText": "",
@@ -5401,17 +5476,6 @@
         "transactionText": "",
         "filerName": "MOYNIHAN BRIAN T",
         "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-05-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1234,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SCHIMPF ERIC A",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-05-15T00:00:00.000Z",
         "ownership": "D"
@@ -5546,17 +5610,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 81082,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "NGUYEN THONG M",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 45219,
         "filerUrl": "",
         "transactionText": "",
@@ -5572,6 +5625,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "ATHANASIA DEAN C",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 81082,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "NGUYEN THONG M",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-28T00:00:00.000Z",
@@ -5608,6 +5672,17 @@
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-02-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 54884,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "SCHIMPF ERIC A",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-14T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -5722,6 +5797,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 142583,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BHASIN ADITYA",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2025-02-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 234368,
         "filerUrl": "",
         "transactionText": "",
@@ -5755,33 +5841,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 54884,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "SCHIMPF ERIC A",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 138700,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "MENSAH BERNARD AMPONSAH",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 142583,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BHASIN ADITYA",
-        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
         "startDate": "2025-02-14T00:00:00.000Z",
         "ownership": "D"
@@ -5997,10 +6061,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 53.73,
+    "currentPrice": 53.75,
     "targetHighPrice": 76,
     "targetLowPrice": 62,
-    "targetMeanPrice": 68.2381,
+    "targetMeanPrice": 67.95238,
     "targetMedianPrice": 68,
     "recommendationMean": 1.5,
     "recommendationKey": "strong_buy",
@@ -6022,6 +6086,6 @@
     "profitMargins": 0.29524,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-02T07:55:47.934Z",
+  "lastUpdated": "2026-10-03T07:33:21.644Z",
   "source": "Static Build (yahoo-finance2)"
 }

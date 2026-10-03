@@ -12,13 +12,21 @@
       {
         "period": "-1m",
         "strongBuy": 3,
+        "buy": 11,
+        "hold": 9,
+        "sell": 0,
+        "strongSell": 1
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 3,
         "buy": 12,
         "hold": 8,
         "sell": 0,
         "strongSell": 1
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 3,
         "buy": 12,
         "hold": 8,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0719,
         "position": 22778297,
-        "value": 4869999968,
+        "value": 4874327900,
         "pctChange": -0.0671
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0653,
         "position": 20693284,
-        "value": 4424224182,
+        "value": 4428155956,
         "pctChange": 0.0026
       },
       {
@@ -55,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0591,
         "position": 18738370,
-        "value": 4006263563,
+        "value": 4009823899,
         "pctChange": 0.18120001
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Newport Trust Company, LLC",
         "pctHeld": 0.040599998,
         "position": 12865197,
-        "value": 2750579157,
+        "value": 2753023576,
         "pctChange": 1
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0355,
         "position": 11249305,
-        "value": 2405101443,
+        "value": 2407238838,
         "pctChange": 0.0653
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0304,
         "position": 9632173,
-        "value": 2059358616,
+        "value": 2061188753,
         "pctChange": 0.045300003
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.025899999,
         "position": 8207101,
-        "value": 1754678218,
+        "value": 1756237588,
         "pctChange": 0.0101
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0248,
         "position": 7862818,
-        "value": 1681070512,
+        "value": 1682564467,
         "pctChange": 0.0047999998
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.023,
         "position": 7290377,
-        "value": 1558682624,
+        "value": 1560067814,
         "pctChange": 1.0217
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Franklin Resources, Inc.",
         "pctHeld": 0.020499999,
         "position": 6509094,
-        "value": 1391644317,
+        "value": 1392881060,
         "pctChange": -0.038900003
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00081,
-    "institutionsPercentHeld": 0.84489995,
-    "institutionsFloatPercentHeld": 0.84558,
-    "institutionsCount": 2754
+    "institutionsPercentHeld": 0.84349996,
+    "institutionsFloatPercentHeld": 0.84419,
+    "institutionsCount": 2759
   },
   "earnings": {
     "maxAge": 86400,
@@ -3729,31 +3737,31 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "DELAYED",
-    "postMarketChangePercent": 0.0002806247,
-    "postMarketChange": 0.05999756,
-    "postMarketTime": "2026-10-01T23:50:35.000Z",
-    "postMarketPrice": 213.86,
+    "postMarketChangePercent": -0.0033179433,
+    "postMarketChange": -0.7100067,
+    "postMarketTime": "2026-10-02T23:30:03.000Z",
+    "postMarketPrice": 213.28,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0135584,
-    "regularMarketChange": 2.86,
-    "regularMarketTime": "2026-10-01T20:00:00.000Z",
+    "regularMarketChangePercent": 0.000888692,
+    "regularMarketChange": 0.190002,
+    "regularMarketTime": "2026-10-02T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 213.8,
-    "regularMarketDayHigh": 215.02,
-    "regularMarketDayLow": 210.025,
-    "regularMarketVolume": 2394969,
+    "regularMarketPrice": 213.99,
+    "regularMarketDayHigh": 216.08,
+    "regularMarketDayLow": 212.54,
+    "regularMarketVolume": 1792209,
     "averageDailyVolume10Day": 3030920,
     "averageDailyVolume3Month": 3196568,
-    "regularMarketPreviousClose": 210.94,
+    "regularMarketPreviousClose": 213.8,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 210.94,
-    "fulldayChangePercent": 0.014696078,
-    "fulldayChange": 3.0999908,
-    "fulldayPrice": 213.86,
+    "regularMarketOpen": 216.08,
+    "fulldayChangePercent": 0.000888692,
+    "fulldayChange": 0.190002,
+    "fulldayPrice": 213.28,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "HON",
     "underlyingSymbol": null,
@@ -3765,13 +3773,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 67761774592
+    "marketCap": 67821993984
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 93840777216,
-    "forwardPE": 21.68929,
+    "enterpriseValue": 93900996608,
+    "forwardPE": 21.708565,
     "profitMargins": 0.21581,
     "floatShares": 297685904,
     "sharesOutstanding": 316940010,
@@ -3781,14 +3789,14 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0234,
     "heldPercentInsiders": 0.00081,
-    "heldPercentInstitutions": 0.84489995,
+    "heldPercentInstitutions": 0.84349996,
     "shortRatio": 2.71,
     "shortPercentOfFloat": 0.0234,
     "beta": 0.901,
     "impliedSharesOutstanding": 316940010,
     "category": null,
     "bookValue": 58.487,
-    "priceToBook": 3.6555133,
+    "priceToBook": 3.658762,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3796,14 +3804,14 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 2.619,
     "netIncomeToCommon": 8265999872,
-    "trailingEps": 26.36,
-    "forwardEps": 9.8574,
-    "pegRatio": 3.45,
+    "trailingEps": 26.02,
+    "forwardEps": 9.93901,
+    "pegRatio": 3.49,
     "lastSplitFactor": "1907:2000",
     "lastSplitDate": 1782691200,
-    "enterpriseToRevenue": 2.466,
-    "enterpriseToEbitda": 11.025,
-    "52WeekChange": 0.034650326,
+    "enterpriseToRevenue": 2.467,
+    "enterpriseToEbitda": 11.032,
+    "52WeekChange": 0.034897923,
     "SandP52WeekChange": 0.1415559,
     "lastDividendValue": 0.7,
     "lastDividendDate": "2026-08-14T00:00:00.000Z",
@@ -4082,7 +4090,7 @@
         "shares": 625,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "FLINT DEBORAH",
+        "filerName": "WILLIAMSON STEPHEN",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-04-15T00:00:00.000Z",
@@ -4093,7 +4101,7 @@
         "shares": 625,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WILLIAMSON STEPHEN",
+        "filerName": "FLINT DEBORAH",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-04-15T00:00:00.000Z",
@@ -4327,6 +4335,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 955,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "MATTIMORE KAREN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 698,
         "filerUrl": "",
         "transactionText": "",
@@ -4343,17 +4362,6 @@
         "transactionText": "",
         "filerName": "KAPUR VIMAL M",
         "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-02-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 955,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "MATTIMORE KAREN",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-13T00:00:00.000Z",
         "ownership": "D"
@@ -4564,6 +4572,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1375,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "CURRIER JAMES E",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2759,
         "value": 477451,
         "filerUrl": "",
@@ -4581,17 +4600,6 @@
         "transactionText": "",
         "filerName": "STEPNIAK MICHAL",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-08-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1375,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "CURRIER JAMES E",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-01T00:00:00.000Z",
         "ownership": "D"
@@ -4654,10 +4662,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 552,
+        "shares": 662,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "WEST KENNETH J",
+        "filerName": "CURRIER JAMES E",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-07-25T00:00:00.000Z",
@@ -4665,10 +4673,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 662,
+        "shares": 552,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "CURRIER JAMES E",
+        "filerName": "WEST KENNETH J",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-07-25T00:00:00.000Z",
@@ -4722,11 +4730,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 650,
-        "value": 130247,
+        "shares": 83,
+        "value": 16632,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 200.38 per share.",
-        "filerName": "FLINT DEBORAH",
+        "filerName": "WILLIAMSON STEPHEN",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-04-15T00:00:00.000Z",
@@ -4734,11 +4742,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 83,
-        "value": 16632,
+        "shares": 650,
+        "value": 130247,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 200.38 per share.",
-        "filerName": "WILLIAMSON STEPHEN",
+        "filerName": "FLINT DEBORAH",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-04-15T00:00:00.000Z",
@@ -4954,6 +4962,17 @@
         "shares": 1682,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "CURRIER JAMES E",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-02-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1682,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "WEST KENNETH J",
         "filerRelation": "President",
         "moneyText": "",
@@ -4967,17 +4986,6 @@
         "transactionText": "",
         "filerName": "HAMMOUD BILLAL",
         "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2025-02-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1682,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "CURRIER JAMES E",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-02-11T00:00:00.000Z",
         "ownership": "D"
@@ -5142,27 +5150,16 @@
         "moneyText": "",
         "startDate": "2024-10-28T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10958,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BOLDEA LUCIAN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-10-03T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 213.8,
+    "currentPrice": 213.99,
     "targetHighPrice": 303,
     "targetLowPrice": 186,
-    "targetMeanPrice": 258.82608,
+    "targetMeanPrice": 258.21738,
     "targetMedianPrice": 262,
     "recommendationMean": 2,
     "recommendationKey": "buy",
@@ -5189,6 +5186,6 @@
     "profitMargins": 0.21581,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-02T07:56:21.326Z",
+  "lastUpdated": "2026-10-03T07:33:54.654Z",
   "source": "Static Build (yahoo-finance2)"
 }

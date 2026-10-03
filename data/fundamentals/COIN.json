@@ -37,7 +37,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.075,
         "position": 16710783,
-        "value": 3163184001,
+        "value": 3058073289,
         "pctChange": -0.0021
       },
       {
@@ -46,7 +46,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0636,
         "position": 14165975,
-        "value": 2681477312,
+        "value": 2592373425,
         "pctChange": 0.0025
       },
       {
@@ -55,7 +55,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.043,
         "position": 9571891,
-        "value": 1811863183,
+        "value": 1751656053,
         "pctChange": 0.0088
       },
       {
@@ -64,7 +64,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0429,
         "position": 9562203,
-        "value": 1810029341,
+        "value": 1749883149,
         "pctChange": 0.0216
       },
       {
@@ -73,7 +73,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0276,
         "position": 6154642,
-        "value": 1165012142,
+        "value": 1126299486,
         "pctChange": 0.004
       },
       {
@@ -82,7 +82,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0171,
         "position": 3802156,
-        "value": 719710083,
+        "value": 695794548,
         "pctChange": 0.001
       },
       {
@@ -91,7 +91,7 @@
         "organization": "Paradigm Operations LP",
         "pctHeld": 0.0143,
         "position": 3185297,
-        "value": 602944847,
+        "value": 582909351,
         "pctChange": -0.1126
       },
       {
@@ -100,7 +100,7 @@
         "organization": "NORGES BANK",
         "pctHeld": 0.0125,
         "position": 2790018,
-        "value": 528122488,
+        "value": 510573294,
         "pctChange": -0.039300002
       },
       {
@@ -109,7 +109,7 @@
         "organization": "Goldman Sachs Group Inc",
         "pctHeld": 0.0114,
         "position": 2544211,
-        "value": 481593683,
+        "value": 465590613,
         "pctChange": 0.0136
       },
       {
@@ -118,7 +118,7 @@
         "organization": "ARK Investment Management, LLC",
         "pctHeld": 0.0113,
         "position": 2511319,
-        "value": 475367556,
+        "value": 459571377,
         "pctChange": 0.0583
       }
     ]
@@ -253,6 +253,26 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-10-02T14:02:32.000Z",
+        "firm": "Piper Sandler",
+        "toGrade": "Neutral",
+        "fromGrade": "Neutral",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 170,
+        "priorPriceTarget": 146
+      },
+      {
+        "epochGradeDate": "2026-10-02T13:30:06.000Z",
+        "firm": "Wells Fargo",
+        "toGrade": "Equal-Weight",
+        "fromGrade": "",
+        "action": "init",
+        "priceTargetAction": "Announces",
+        "currentPriceTarget": 200,
+        "priorPriceTarget": 0
+      },
       {
         "epochGradeDate": "2026-09-28T11:45:07.000Z",
         "firm": "Baird",
@@ -4579,31 +4599,31 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "DELAYED",
-    "postMarketChangePercent": 0.0036452136,
-    "postMarketChange": 0.69000244,
-    "postMarketTime": "2026-10-01T23:59:55.000Z",
-    "postMarketPrice": 189.98,
+    "postMarketChangePercent": 0.0013098378,
+    "postMarketChange": 0.23970032,
+    "postMarketTime": "2026-10-02T23:59:50.000Z",
+    "postMarketPrice": 183.2397,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0154498005,
-    "regularMarketChange": 2.87999,
-    "regularMarketTime": "2026-10-01T20:00:01.000Z",
+    "regularMarketChangePercent": -0.0332294,
+    "regularMarketChange": -6.28999,
+    "regularMarketTime": "2026-10-02T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 189.29,
-    "regularMarketDayHigh": 192.3,
-    "regularMarketDayLow": 185.88,
-    "regularMarketVolume": 5815637,
-    "averageDailyVolume10Day": 9141830,
-    "averageDailyVolume3Month": 8784434,
-    "regularMarketPreviousClose": 186.41,
+    "regularMarketPrice": 183,
+    "regularMarketDayHigh": 200.3514,
+    "regularMarketDayLow": 180.81,
+    "regularMarketVolume": 12808738,
+    "averageDailyVolume10Day": 9144180,
+    "averageDailyVolume3Month": 8784807,
+    "regularMarketPreviousClose": 189.29,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 186.07,
-    "fulldayChangePercent": 0.03508392,
-    "fulldayChange": 6.5399933,
-    "fulldayPrice": 189.98,
+    "regularMarketOpen": 194.402,
+    "fulldayChangePercent": -0.0332294,
+    "fulldayChange": -6.28999,
+    "fulldayPrice": 183.2397,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "PREPRE",
+    "marketState": "CLOSED",
     "quoteType": "EQUITY",
     "symbol": "COIN",
     "underlyingSymbol": null,
@@ -4615,13 +4635,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 49941688320
+    "marketCap": 48282157056
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 47821139968,
-    "forwardPE": 66.76401,
+    "enterpriseValue": 46161604608,
+    "forwardPE": 64.54548,
     "profitMargins": -0.16344,
     "floatShares": 219789349,
     "sharesOutstanding": 222803032,
@@ -4638,19 +4658,19 @@
     "impliedSharesOutstanding": 263836923,
     "category": null,
     "bookValue": 49.585,
-    "priceToBook": 3.817485,
+    "priceToBook": 3.6906323,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -987766016,
-    "trailingEps": -3.94,
-    "forwardEps": 2.83521,
-    "pegRatio": 1.88,
+    "trailingEps": -3.73,
+    "forwardEps": 2.8302,
+    "pegRatio": 1.91,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 7.912,
-    "enterpriseToEbitda": 68.36,
+    "enterpriseToRevenue": 7.638,
+    "enterpriseToEbitda": 65.988,
     "52WeekChange": -0.5018946,
     "SandP52WeekChange": 0.1415559,
     "latestShareClass": null,
@@ -4820,25 +4840,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 1268,
+        "shares": 1150,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "KRAMER KELLY A",
+        "filerName": "ANDREESSEN MARC L",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1100,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LUTKE TOBIAS ALBIN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-16T00:00:00.000Z",
-        "ownership": "D"
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -4850,17 +4859,6 @@
         "moneyText": "",
         "startDate": "2026-06-16T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1150,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ANDREESSEN MARC L",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-16T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -4879,6 +4877,28 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "DAVIES CHRISTINA MARGARET",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1268,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "KRAMER KELLY A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1100,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LUTKE TOBIAS ALBIN",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-16T00:00:00.000Z",
@@ -4989,10 +5009,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 15549,
+        "shares": 11700,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GREWAL PAUL",
+        "filerName": "BROCK LAWRENCE J",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-20T00:00:00.000Z",
@@ -5000,10 +5020,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 11700,
+        "shares": 15549,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BROCK LAWRENCE J",
+        "filerName": "GREWAL PAUL",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-20T00:00:00.000Z",
@@ -5128,10 +5148,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 10478,
+        "shares": 7136,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GREWAL PAUL",
+        "filerName": "BROCK LAWRENCE J",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-20T00:00:00.000Z",
@@ -5139,10 +5159,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 7136,
+        "shares": 10478,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BROCK LAWRENCE J",
+        "filerName": "GREWAL PAUL",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-20T00:00:00.000Z",
@@ -5196,18 +5216,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 8050,
-        "value": 2012532,
-        "filerUrl": "",
-        "transactionText": "Sale at price 249.56 - 250.44 per share.",
-        "filerName": "HAAS ALESIA J",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-01-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 4125,
         "value": 1059373,
         "filerUrl": "",
@@ -5217,6 +5225,18 @@
         "moneyText": "",
         "startDate": "2026-01-15T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 8050,
+        "value": 2012532,
+        "filerUrl": "",
+        "transactionText": "Sale at price 249.56 - 250.44 per share.",
+        "filerName": "HAAS ALESIA J",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-01-15T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5527,17 +5547,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 9971,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "HAAS ALESIA J",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-11-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2750,
         "filerUrl": "",
         "transactionText": "",
@@ -5549,12 +5558,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 5288,
-        "value": 64853,
+        "shares": 9971,
         "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 74.63 per share.",
-        "filerName": "JONES JENNIFER N",
-        "filerRelation": "Officer",
+        "transactionText": "",
+        "filerName": "HAAS ALESIA J",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2025-11-20T00:00:00.000Z",
         "ownership": "D"
@@ -5572,10 +5580,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 10789,
+        "shares": 5288,
+        "value": 64853,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GREWAL PAUL",
+        "transactionText": "Conversion of Exercise of derivative security at price 74.63 per share.",
+        "filerName": "JONES JENNIFER N",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-20T00:00:00.000Z",
@@ -5587,6 +5596,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "BROCK LAWRENCE J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-11-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10789,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GREWAL PAUL",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-20T00:00:00.000Z",
@@ -6015,18 +6035,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 5289,
-        "value": 64853,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 74.63 per share.",
-        "filerName": "JONES JENNIFER N",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 28980,
         "filerUrl": "",
         "transactionText": "",
@@ -6038,21 +6046,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 10790,
+        "shares": 5289,
+        "value": 64853,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GREWAL PAUL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10486,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BROCK LAWRENCE J",
+        "transactionText": "Conversion of Exercise of derivative security at price 74.63 per share.",
+        "filerName": "JONES JENNIFER N",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-20T00:00:00.000Z",
@@ -6076,6 +6074,28 @@
         "transactionText": "",
         "filerName": "LEHANE CHRIS",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-08-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10486,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "BROCK LAWRENCE J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10790,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GREWAL PAUL",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-20T00:00:00.000Z",
         "ownership": "D"
@@ -6360,28 +6380,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1410,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "EHRSAM FREDERICK ERNEST III",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1329,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LUTKE TOBIAS ALBIN",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1390,
         "filerUrl": "",
         "transactionText": "",
@@ -6404,10 +6402,32 @@
       },
       {
         "maxAge": 1,
+        "shares": 1410,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "EHRSAM FREDERICK ERNEST III",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 1533,
         "filerUrl": "",
         "transactionText": "",
         "filerName": "KRAMER KELLY A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-13T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1329,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LUTKE TOBIAS ALBIN",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-13T00:00:00.000Z",
@@ -6418,7 +6438,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 189.29,
+    "currentPrice": 183,
     "targetHighPrice": 330,
     "targetLowPrice": 95,
     "targetMeanPrice": 207.34688,
@@ -6447,6 +6467,6 @@
     "profitMargins": -0.16344,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-02T07:54:58.102Z",
+  "lastUpdated": "2026-10-03T07:32:32.184Z",
   "source": "Static Build (yahoo-finance2)"
 }
