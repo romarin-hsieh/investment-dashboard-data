@@ -11,7 +11,7 @@
       },
       {
         "period": "-1m",
-        "strongBuy": 3,
+        "strongBuy": 4,
         "buy": 5,
         "hold": 12,
         "sell": 2,
@@ -19,6 +19,14 @@
       },
       {
         "period": "-2m",
+        "strongBuy": 3,
+        "buy": 5,
+        "hold": 12,
+        "sell": 2,
+        "strongSell": 2
+      },
+      {
+        "period": "-3m",
         "strongBuy": 2,
         "buy": 5,
         "hold": 12,
@@ -126,8 +134,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01454,
-    "institutionsPercentHeld": 0.51453,
-    "institutionsFloatPercentHeld": 0.52212,
+    "institutionsPercentHeld": 0.51453996,
+    "institutionsFloatPercentHeld": 0.52213,
     "institutionsCount": 1183
   },
   "earnings": {
@@ -2152,8 +2160,8 @@
     "regularMarketDayHigh": 16.25,
     "regularMarketDayLow": 15.72,
     "regularMarketVolume": 44191235,
-    "averageDailyVolume10Day": 51999490,
-    "averageDailyVolume3Month": 58904069,
+    "averageDailyVolume10Day": 52014280,
+    "averageDailyVolume3Month": 58677121,
     "regularMarketPreviousClose": 15.84,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 16.14,
@@ -2191,7 +2199,7 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1463,
     "heldPercentInsiders": 0.01454,
-    "heldPercentInstitutions": 0.51453,
+    "heldPercentInstitutions": 0.51453996,
     "shortRatio": 4.68,
     "shortPercentOfFloat": 0.14829999,
     "beta": 2.208,
@@ -2211,8 +2219,8 @@
     "pegRatio": 0.56,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 4.783,
-    "52WeekChange": -0.39908952,
-    "SandP52WeekChange": 0.1415559,
+    "52WeekChange": -0.40174508,
+    "SandP52WeekChange": 0.1457566,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -2240,24 +2248,24 @@
     "transactions": [
       {
         "maxAge": 1,
-        "shares": 10203,
-        "value": 173310,
-        "filerUrl": "",
-        "transactionText": "Sale at price 16.99 per share.",
-        "filerName": "KEOUGH KELLI ALLEN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-09-21T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 18624,
         "value": 325920,
         "filerUrl": "",
         "transactionText": "Sale at price 17.50 per share.",
         "filerName": "RISHEL JEREMY DYLAN",
         "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2026-09-21T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10203,
+        "value": 173310,
+        "filerUrl": "",
+        "transactionText": "Sale at price 16.99 per share.",
+        "filerName": "KEOUGH KELLI ALLEN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-09-21T00:00:00.000Z",
         "ownership": "D"
@@ -2297,6 +2305,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 36057,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LAVET ROBERT S",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-09-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 345554,
         "filerUrl": "",
         "transactionText": "",
@@ -2330,17 +2349,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 36057,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LAVET ROBERT S",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-09-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 11286,
         "value": 203184,
         "filerUrl": "",
@@ -2353,10 +2361,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 55731,
+        "shares": 45389,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SCHUPPENHAUER ERIC",
+        "filerName": "PINTO ARUN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-08-17T00:00:00.000Z",
@@ -2364,10 +2372,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 45389,
+        "shares": 55731,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PINTO ARUN",
+        "filerName": "SCHUPPENHAUER ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-08-17T00:00:00.000Z",
@@ -2426,8 +2434,8 @@
         "shares": 2823,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "MELTZER GARY",
-        "filerRelation": "Director",
+        "filerName": "LAVET ROBERT S",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2026-06-17T00:00:00.000Z",
         "ownership": "D"
@@ -2437,8 +2445,8 @@
         "shares": 2823,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LAVET ROBERT S",
-        "filerRelation": "General Counsel",
+        "filerName": "MELTZER GARY",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-17T00:00:00.000Z",
         "ownership": "D"
@@ -2457,12 +2465,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 433104,
-        "value": 0,
+        "shares": 21173,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "YESIL MAGDALENA",
-        "filerRelation": "Director",
+        "transactionText": "",
+        "filerName": "PINTO ARUN",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-15T00:00:00.000Z",
         "ownership": "D"
@@ -2491,6 +2498,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 36057,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LAVET ROBERT S",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-06-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 345553,
         "filerUrl": "",
         "transactionText": "",
@@ -2513,17 +2531,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 21173,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "PINTO ARUN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-06-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 104152,
         "filerUrl": "",
         "transactionText": "",
@@ -2535,11 +2542,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 36057,
+        "shares": 433104,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LAVET ROBERT S",
-        "filerRelation": "General Counsel",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "YESIL MAGDALENA",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-15T00:00:00.000Z",
         "ownership": "D"
@@ -2549,8 +2557,30 @@
         "shares": 18388,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "YESIL MAGDALENA",
+        "filerName": "HUTTON GEORGE THOMPSON",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5149,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FREIBERG STEVEN J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-09T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5149,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LAVET ROBERT S",
+        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2026-06-09T00:00:00.000Z",
         "ownership": "D"
@@ -2590,32 +2620,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 5149,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FREIBERG STEVEN J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5149,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LAVET ROBERT S",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-06-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 18388,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HUTTON GEORGE THOMPSON",
+        "filerName": "YESIL MAGDALENA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-09T00:00:00.000Z",
@@ -2763,6 +2771,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 36057,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "LAVET ROBERT S",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-03-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 459848,
         "filerUrl": "",
         "transactionText": "",
@@ -2790,17 +2809,6 @@
         "transactionText": "",
         "filerName": "LAPOINTE CHRISTOPHER",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-03-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 36057,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LAVET ROBERT S",
-        "filerRelation": "General Counsel",
         "moneyText": "",
         "startDate": "2026-03-16T00:00:00.000Z",
         "ownership": "D"
@@ -2865,18 +2873,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 5000,
-        "value": 105220,
-        "filerUrl": "",
-        "transactionText": "Purchase at price 21.04 per share.",
-        "filerName": "LAVET ROBERT S",
-        "filerRelation": "General Counsel",
-        "moneyText": "",
-        "startDate": "2026-02-06T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 250000,
         "value": 1832500,
         "filerUrl": "",
@@ -2886,6 +2882,18 @@
         "moneyText": "",
         "startDate": "2026-02-06T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5000,
+        "value": 105220,
+        "filerUrl": "",
+        "transactionText": "Purchase at price 21.04 per share.",
+        "filerName": "LAVET ROBERT S",
+        "filerRelation": "General Counsel",
+        "moneyText": "",
+        "startDate": "2026-02-06T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -3153,6 +3161,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 83320,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WHITE DEREK JENSEN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-09-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 576847,
         "filerUrl": "",
         "transactionText": "",
@@ -3191,17 +3210,6 @@
         "transactionText": "",
         "filerName": "LAPOINTE CHRISTOPHER",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-09-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 83320,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "WHITE DEREK JENSEN",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-09-15T00:00:00.000Z",
         "ownership": "D"
@@ -3325,6 +3333,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 152759,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WHITE DEREK JENSEN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-06-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 576851,
         "filerUrl": "",
         "transactionText": "",
@@ -3369,17 +3388,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 152759,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "WHITE DEREK JENSEN",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-06-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 174280,
         "value": 2469800,
         "filerUrl": "",
@@ -3404,10 +3412,21 @@
       },
       {
         "maxAge": 1,
+        "shares": 44844,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "FREIBERG STEVEN J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-28T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 35034,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "YESIL MAGDALENA",
+        "filerName": "HELE JOHN C R",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-28T00:00:00.000Z",
@@ -3459,21 +3478,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 44844,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "FREIBERG STEVEN J",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-05-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 35034,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HELE JOHN C R",
+        "filerName": "YESIL MAGDALENA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-05-28T00:00:00.000Z",
@@ -3493,10 +3501,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 55730,
+        "shares": 45388,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SCHUPPENHAUER ERIC",
+        "filerName": "PINTO ARUN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-05-14T00:00:00.000Z",
@@ -3504,10 +3512,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 45388,
+        "shares": 55730,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "PINTO ARUN",
+        "filerName": "SCHUPPENHAUER ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-05-14T00:00:00.000Z",
@@ -3573,6 +3581,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 148403,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WHITE DEREK JENSEN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-03-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 654569,
         "filerUrl": "",
         "transactionText": "",
@@ -3600,17 +3619,6 @@
         "transactionText": "",
         "filerName": "LAPOINTE CHRISTOPHER",
         "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-03-14T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 148403,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "WHITE DEREK JENSEN",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-03-14T00:00:00.000Z",
         "ownership": "D"
@@ -3687,18 +3695,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 30599,
-        "value": 500001,
-        "filerUrl": "",
-        "transactionText": "Purchase at price 16.34 per share.",
-        "filerName": "SCHUPPENHAUER ERIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-12-16T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 142706,
         "filerUrl": "",
         "transactionText": "",
@@ -3714,6 +3710,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "KEOUGH KELLI ALLEN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-12-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 148403,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "WHITE DEREK JENSEN",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-12-16T00:00:00.000Z",
@@ -3754,10 +3761,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 148403,
+        "shares": 30599,
+        "value": 500001,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "WHITE DEREK JENSEN",
+        "transactionText": "Purchase at price 16.34 per share.",
+        "filerName": "SCHUPPENHAUER ERIC",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-12-16T00:00:00.000Z",
@@ -3855,6 +3863,6 @@
     "profitMargins": 0.14906,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-03T07:31:59.205Z",
+  "lastUpdated": "2026-10-04T07:44:30.736Z",
   "source": "Static Build (yahoo-finance2)"
 }

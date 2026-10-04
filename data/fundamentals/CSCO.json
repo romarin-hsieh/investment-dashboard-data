@@ -128,7 +128,7 @@
     "insidersPercentHeld": 0.00063,
     "institutionsPercentHeld": 0.83352995,
     "institutionsFloatPercentHeld": 0.83405995,
-    "institutionsCount": 5114
+    "institutionsCount": 5113
   },
   "earnings": {
     "maxAge": 86400,
@@ -193,6 +193,12 @@
     "financialsChart": {
       "yearly": [
         {
+          "date": 2022,
+          "revenue": 51557000000,
+          "earnings": 11812000000,
+          "profitMargin": 0.22910565
+        },
+        {
           "date": 2023,
           "revenue": 56998000000,
           "earnings": 12613000000,
@@ -209,15 +215,16 @@
           "revenue": 56654000000,
           "earnings": 10453000000,
           "profitMargin": 0.18450595
-        },
-        {
-          "date": 2026,
-          "revenue": 63325000000,
-          "earnings": 13267000000,
-          "profitMargin": 0.20950653
         }
       ],
       "quarterly": [
+        {
+          "date": "2Q2025",
+          "fiscalQuarter": "4Q2025",
+          "revenue": 14673000000,
+          "earnings": 2823000000,
+          "profitMargin": 0.1923942
+        },
         {
           "date": "3Q2025",
           "fiscalQuarter": "1Q2026",
@@ -238,13 +245,6 @@
           "revenue": 15841000000,
           "earnings": 3373000000,
           "profitMargin": 0.21292847
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "4Q2026",
-          "revenue": 17252000000,
-          "earnings": 3859000000,
-          "profitMargin": 0.22368422
         }
       ]
     },
@@ -5382,8 +5382,8 @@
     "regularMarketDayHigh": 112.23,
     "regularMarketDayLow": 109.02,
     "regularMarketVolume": 16422153,
-    "averageDailyVolume10Day": 22655680,
-    "averageDailyVolume3Month": 19615166,
+    "averageDailyVolume10Day": 20275590,
+    "averageDailyVolume3Month": 19582039,
     "regularMarketPreviousClose": 108.34,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 110,
@@ -5436,15 +5436,15 @@
     "mostRecentQuarter": "2026-07-25T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.513,
     "netIncomeToCommon": 13267000320,
-    "trailingEps": 3.43,
-    "forwardEps": 5.62033,
-    "pegRatio": 1,
+    "trailingEps": 3.33,
+    "forwardEps": 5.62188,
+    "pegRatio": 1.03,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 953769600,
     "enterpriseToRevenue": 7.227,
     "enterpriseToEbitda": 24.548,
-    "52WeekChange": 0.5782906,
-    "SandP52WeekChange": 0.1415559,
+    "52WeekChange": 0.62821066,
+    "SandP52WeekChange": 0.1457566,
     "lastDividendValue": 0.42,
     "lastDividendDate": "2026-10-02T00:00:00.000Z",
     "latestShareClass": null,
@@ -7103,6 +7103,6 @@
     "profitMargins": 0.20951,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-03T07:33:34.155Z",
+  "lastUpdated": "2026-10-04T07:46:06.735Z",
   "source": "Static Build (yahoo-finance2)"
 }

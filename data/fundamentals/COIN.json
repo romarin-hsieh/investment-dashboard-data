@@ -5,12 +5,20 @@
         "period": "0m",
         "strongBuy": 4,
         "buy": 19,
-        "hold": 12,
+        "hold": 13,
         "sell": 1,
         "strongSell": 1
       },
       {
         "period": "-1m",
+        "strongBuy": 4,
+        "buy": 19,
+        "hold": 12,
+        "sell": 1,
+        "strongSell": 1
+      },
+      {
+        "period": "-2m",
         "strongBuy": 3,
         "buy": 20,
         "hold": 9,
@@ -18,7 +26,7 @@
         "strongSell": 1
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 3,
         "buy": 19,
         "hold": 9,
@@ -126,8 +134,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01324,
-    "institutionsPercentHeld": 0.68682,
-    "institutionsFloatPercentHeld": 0.69604,
+    "institutionsPercentHeld": 0.68676,
+    "institutionsFloatPercentHeld": 0.69597,
     "institutionsCount": 1574
   },
   "earnings": {
@@ -179,7 +187,7 @@
           "reportedDate": 1785441978
         }
       ],
-      "currentQuarterEstimate": -0.22093,
+      "currentQuarterEstimate": -0.20699,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -4612,8 +4620,8 @@
     "regularMarketDayHigh": 200.3514,
     "regularMarketDayLow": 180.81,
     "regularMarketVolume": 12808738,
-    "averageDailyVolume10Day": 9144180,
-    "averageDailyVolume3Month": 8784807,
+    "averageDailyVolume10Day": 8235540,
+    "averageDailyVolume3Month": 8848070,
     "regularMarketPreviousClose": 189.29,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 194.402,
@@ -4641,7 +4649,7 @@
     "maxAge": 1,
     "priceHint": 2,
     "enterpriseValue": 46161604608,
-    "forwardPE": 64.54548,
+    "forwardPE": 64.659744,
     "profitMargins": -0.16344,
     "floatShares": 219789349,
     "sharesOutstanding": 222803032,
@@ -4651,7 +4659,7 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0956,
     "heldPercentInsiders": 0.01324,
-    "heldPercentInstitutions": 0.68682,
+    "heldPercentInstitutions": 0.68676,
     "shortRatio": 2.39,
     "shortPercentOfFloat": 0.114700004,
     "beta": 3.388,
@@ -4665,14 +4673,14 @@
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -987766016,
-    "trailingEps": -3.73,
+    "trailingEps": -3.86,
     "forwardEps": 2.8302,
-    "pegRatio": 1.91,
+    "pegRatio": 1.85,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 7.638,
     "enterpriseToEbitda": 65.988,
-    "52WeekChange": -0.5018946,
-    "SandP52WeekChange": 0.1415559,
+    "52WeekChange": -0.5259927,
+    "SandP52WeekChange": 0.1457566,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -4783,11 +4791,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 4564,
+        "shares": 748,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "JONES JENNIFER N",
-        "filerRelation": "Officer",
+        "filerName": "LEHANE CHRIS",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-08-20T00:00:00.000Z",
         "ownership": "D"
@@ -4805,11 +4813,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 748,
+        "shares": 4564,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LEHANE CHRIS",
-        "filerRelation": "Director",
+        "filerName": "JONES JENNIFER N",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-08-20T00:00:00.000Z",
         "ownership": "D"
@@ -4848,17 +4856,6 @@
         "moneyText": "",
         "startDate": "2026-06-16T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1150,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "EHRSAM FREDERICK ERNEST III",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-16T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -4928,6 +4925,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 1150,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "EHRSAM FREDERICK ERNEST III",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2051,
         "value": 324366,
         "filerUrl": "",
@@ -4987,10 +4995,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 4564,
+        "shares": 11700,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "JONES JENNIFER N",
+        "filerName": "BROCK LAWRENCE J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-05-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 15549,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GREWAL PAUL",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-20T00:00:00.000Z",
@@ -5009,21 +5028,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 11700,
+        "shares": 4564,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BROCK LAWRENCE J",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-05-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 15549,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GREWAL PAUL",
+        "filerName": "JONES JENNIFER N",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-05-20T00:00:00.000Z",
@@ -5126,10 +5134,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 2536,
+        "shares": 7136,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "JONES JENNIFER N",
+        "filerName": "BROCK LAWRENCE J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10478,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GREWAL PAUL",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-20T00:00:00.000Z",
@@ -5148,21 +5167,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 7136,
+        "shares": 2536,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "BROCK LAWRENCE J",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10478,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GREWAL PAUL",
+        "filerName": "JONES JENNIFER N",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-20T00:00:00.000Z",
@@ -5194,17 +5202,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 4125,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "EHRSAM FREDERICK ERNEST III",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-01-15T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 321588,
         "filerUrl": "",
         "transactionText": "",
@@ -5217,9 +5214,8 @@
       {
         "maxAge": 1,
         "shares": 4125,
-        "value": 1059373,
         "filerUrl": "",
-        "transactionText": "Sale at price 250.27 - 260.09 per share.",
+        "transactionText": "",
         "filerName": "EHRSAM FREDERICK ERNEST III",
         "filerRelation": "Director",
         "moneyText": "",
@@ -5240,13 +5236,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 1375,
+        "shares": 4125,
+        "value": 1059373,
         "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Sale at price 250.27 - 260.09 per share.",
         "filerName": "EHRSAM FREDERICK ERNEST III",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-01-05T00:00:00.000Z",
+        "startDate": "2026-01-15T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -5260,6 +5257,17 @@
         "moneyText": "",
         "startDate": "2026-01-05T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1375,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "EHRSAM FREDERICK ERNEST III",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-01-05T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5547,6 +5555,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 9971,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "HAAS ALESIA J",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2025-11-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 2750,
         "filerUrl": "",
         "transactionText": "",
@@ -5558,11 +5577,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 9971,
+        "shares": 10485,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "HAAS ALESIA J",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "BROCK LAWRENCE J",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-11-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10789,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GREWAL PAUL",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-20T00:00:00.000Z",
         "ownership": "D"
@@ -5592,21 +5622,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 10485,
+        "shares": 869,
+        "value": 225879,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "BROCK LAWRENCE J",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-11-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10789,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GREWAL PAUL",
+        "transactionText": "Sale at price 259.93 per share.",
+        "filerName": "JONES JENNIFER N",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-11-20T00:00:00.000Z",
@@ -5623,18 +5643,6 @@
         "moneyText": "",
         "startDate": "2025-11-20T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 869,
-        "value": 225879,
-        "filerUrl": "",
-        "transactionText": "Sale at price 259.93 per share.",
-        "filerName": "JONES JENNIFER N",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-11-20T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -6035,29 +6043,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 28980,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "CHOI EMILIE MONICA",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2025-08-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 5289,
-        "value": 64853,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 74.63 per share.",
-        "filerName": "JONES JENNIFER N",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 748,
         "filerUrl": "",
         "transactionText": "",
@@ -6080,6 +6065,28 @@
       },
       {
         "maxAge": 1,
+        "shares": 10790,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "GREWAL PAUL",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 28980,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "CHOI EMILIE MONICA",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2025-08-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 10486,
         "filerUrl": "",
         "transactionText": "",
@@ -6091,10 +6098,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 10790,
+        "shares": 5289,
+        "value": 64853,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "GREWAL PAUL",
+        "transactionText": "Conversion of Exercise of derivative security at price 74.63 per share.",
+        "filerName": "JONES JENNIFER N",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-08-20T00:00:00.000Z",
@@ -6312,10 +6320,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 54,
+        "shares": 1252,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "EHRSAM FREDERICK ERNEST III",
+        "filerName": "DAVIES CHRISTINA MARGARET",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-18T00:00:00.000Z",
@@ -6323,10 +6331,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 1252,
+        "shares": 54,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "DAVIES CHRISTINA MARGARET",
+        "filerName": "EHRSAM FREDERICK ERNEST III",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-18T00:00:00.000Z",
@@ -6402,17 +6410,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1410,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "EHRSAM FREDERICK ERNEST III",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-06-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1533,
         "filerUrl": "",
         "transactionText": "",
@@ -6432,6 +6429,17 @@
         "moneyText": "",
         "startDate": "2025-06-13T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1410,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "EHRSAM FREDERICK ERNEST III",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-06-13T00:00:00.000Z",
+        "ownership": "D"
       }
     ],
     "maxAge": 1
@@ -6441,11 +6449,11 @@
     "currentPrice": 183,
     "targetHighPrice": 330,
     "targetLowPrice": 95,
-    "targetMeanPrice": 207.34688,
+    "targetMeanPrice": 207.12424,
     "targetMedianPrice": 205,
-    "recommendationMean": 1.94595,
+    "recommendationMean": 1.97368,
     "recommendationKey": "buy",
-    "numberOfAnalystOpinions": 32,
+    "numberOfAnalystOpinions": 33,
     "totalCash": 8788842496,
     "totalCashPerShare": 33.312,
     "ebitda": 699548992,
@@ -6467,6 +6475,6 @@
     "profitMargins": -0.16344,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-03T07:32:32.184Z",
+  "lastUpdated": "2026-10-04T07:45:04.040Z",
   "source": "Static Build (yahoo-finance2)"
 }

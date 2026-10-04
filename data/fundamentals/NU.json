@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.02066,
-    "institutionsPercentHeld": 0.82224,
-    "institutionsFloatPercentHeld": 0.83958,
-    "institutionsCount": 1319
+    "institutionsPercentHeld": 0.82228994,
+    "institutionsFloatPercentHeld": 0.83963996,
+    "institutionsCount": 1321
   },
   "earnings": {
     "maxAge": 86400,
@@ -227,6 +227,13 @@
       ],
       "quarterly": [
         {
+          "date": "2Q2025",
+          "fiscalQuarter": "2Q2025",
+          "revenue": 3668470000,
+          "earnings": 636838000,
+          "profitMargin": 0.17359772
+        },
+        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2025",
           "revenue": 4173000000,
@@ -246,13 +253,6 @@
           "revenue": 4967967000,
           "earnings": 872056000,
           "profitMargin": 0.17553578
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "2Q2026",
-          "revenue": 5513208000,
-          "earnings": 1060199000,
-          "profitMargin": 0.19230165
         }
       ]
     },
@@ -1130,8 +1130,8 @@
     "regularMarketDayHigh": 13.5,
     "regularMarketDayLow": 12.95,
     "regularMarketVolume": 77962873,
-    "averageDailyVolume10Day": 81593350,
-    "averageDailyVolume3Month": 83041585,
+    "averageDailyVolume10Day": 82311630,
+    "averageDailyVolume3Month": 82962632,
     "regularMarketPreviousClose": 13.29,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 13.32,
@@ -1169,7 +1169,7 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0273,
     "heldPercentInsiders": 0.02066,
-    "heldPercentInstitutions": 0.82224,
+    "heldPercentInstitutions": 0.82228994,
     "shortRatio": 1.88,
     "shortPercentOfFloat": 0.035,
     "beta": 0.94,
@@ -1184,13 +1184,13 @@
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "earningsQuarterlyGrowth": 0.665,
     "netIncomeToCommon": 3607106048,
-    "trailingEps": 0.74,
+    "trailingEps": 0.73,
     "forwardEps": 1.12985,
-    "pegRatio": 0.61,
+    "pegRatio": 0.62,
     "lastSplitFactor": null,
     "enterpriseToRevenue": 6.587,
-    "52WeekChange": -0.13589078,
-    "SandP52WeekChange": 0.1415559,
+    "52WeekChange": -0.12678802,
+    "SandP52WeekChange": 0.1457566,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1289,6 +1289,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 50000,
+        "value": 790000,
+        "filerUrl": "",
+        "transactionText": "Sale at price 15.80 per share.",
+        "filerName": "JUNQUEIRA CRISTINA ELENA ZINGARETTI",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-08-14T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 221707,
         "value": 3505232,
         "filerUrl": "",
@@ -1306,18 +1318,6 @@
         "filerUrl": "",
         "transactionText": "Sale at price 15.80 per share.",
         "filerName": "JUNQUERIA CRISTINA HELENA ZINGARETTI",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-08-14T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 50000,
-        "value": 790000,
-        "filerUrl": "",
-        "transactionText": "Sale at price 15.80 per share.",
-        "filerName": "JUNQUEIRA CRISTINA ELENA ZINGARETTI",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-08-14T00:00:00.000Z",
@@ -1497,6 +1497,6 @@
     "profitMargins": 0.42728,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-03T07:32:30.328Z",
+  "lastUpdated": "2026-10-04T07:45:02.279Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.02637,
-    "institutionsPercentHeld": 0.96611,
-    "institutionsFloatPercentHeld": 0.99227,
-    "institutionsCount": 1259
+    "institutionsPercentHeld": 0.96615,
+    "institutionsFloatPercentHeld": 0.99232,
+    "institutionsCount": 1261
   },
   "earnings": {
     "maxAge": 86400,
@@ -227,6 +227,13 @@
       ],
       "quarterly": [
         {
+          "date": "2Q2025",
+          "fiscalQuarter": "2Q2026",
+          "revenue": 591402000,
+          "earnings": -47048000,
+          "profitMargin": -0.079553336
+        },
+        {
           "date": "3Q2025",
           "fiscalQuarter": "3Q2026",
           "revenue": 628309000,
@@ -246,13 +253,6 @@
           "revenue": 687616000,
           "earnings": 4434000,
           "profitMargin": 0.0064483667
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "2Q2027",
-          "revenue": 771773000,
-          "earnings": 40940000,
-          "profitMargin": 0.053046685
         }
       ]
     },
@@ -6530,8 +6530,8 @@
     "regularMarketDayHigh": 360.83,
     "regularMarketDayLow": 336.5,
     "regularMarketVolume": 2682941,
-    "averageDailyVolume10Day": 4451540,
-    "averageDailyVolume3Month": 2084701,
+    "averageDailyVolume10Day": 4591030,
+    "averageDailyVolume3Month": 2094085,
     "regularMarketPreviousClose": 351.73,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 354.6,
@@ -6553,7 +6553,7 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 28835948544
+    "marketCap": 28791412736
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
@@ -6562,18 +6562,18 @@
     "forwardPE": 45.559605,
     "profitMargins": 0.02116,
     "floatShares": 78453820,
-    "sharesOutstanding": 80556341,
+    "sharesOutstanding": 80431927,
     "sharesShort": 2879053,
     "sharesShortPriorMonth": "1970-02-02T20:41:24.000Z",
     "sharesShortPreviousMonthDate": "2026-08-14T00:00:00.000Z",
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0357,
     "heldPercentInsiders": 0.02637,
-    "heldPercentInstitutions": 0.96611,
+    "heldPercentInstitutions": 0.96615,
     "shortRatio": 1.49,
     "shortPercentOfFloat": 0.0367,
     "beta": 1.585,
-    "impliedSharesOutstanding": 80556341,
+    "impliedSharesOutstanding": 80431927,
     "category": null,
     "bookValue": 36.957,
     "priceToBook": 9.685851,
@@ -6589,8 +6589,8 @@
     "lastSplitFactor": null,
     "enterpriseToRevenue": 9.516,
     "enterpriseToEbitda": 1911.34,
-    "52WeekChange": 0.09256673,
-    "SandP52WeekChange": 0.1415559,
+    "52WeekChange": 0.11191869,
+    "SandP52WeekChange": 0.1457566,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -6691,11 +6691,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 951,
+        "shares": 965,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "D SOUZA FRANCISCO",
+        "filerName": "HAZARD CHARLES M. JR.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
@@ -6751,11 +6751,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 965,
+        "shares": 767,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HAZARD CHARLES M. JR.",
+        "filerName": "MERRIMAN DWIGHT A",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
@@ -6763,11 +6763,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 767,
+        "shares": 951,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MERRIMAN DWIGHT A",
+        "filerName": "D SOUZA FRANCISCO",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-30T00:00:00.000Z",
@@ -6823,18 +6823,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 5000,
-        "value": 1783140,
-        "filerUrl": "",
-        "transactionText": "Sale at price 349.53 - 363.69 per share.",
-        "filerName": "BERRY MICHAEL J",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-06-15T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 16000,
         "value": 5632632,
         "filerUrl": "",
@@ -6844,6 +6832,18 @@
         "moneyText": "",
         "startDate": "2026-06-15T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5000,
+        "value": 1783140,
+        "filerUrl": "",
+        "transactionText": "Sale at price 349.53 - 363.69 per share.",
+        "filerName": "BERRY MICHAEL J",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-06-15T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -6967,24 +6967,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 17002,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BERRY MICHAEL J",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-03-17T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 34832,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "DESAI CHIRANTAN JITENDRA",
         "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-03-17T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 17002,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BERRY MICHAEL J",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-03-17T00:00:00.000Z",
         "ownership": "D"
@@ -7327,18 +7327,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 33320,
-        "value": 10038855,
-        "filerUrl": "",
-        "transactionText": "Sale at price 297.83 - 310.17 per share.",
-        "filerName": "ITTYCHERIA DEV C",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-08-28T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 8004,
         "value": 2401200,
         "filerUrl": "",
@@ -7348,6 +7336,18 @@
         "moneyText": "",
         "startDate": "2025-08-28T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 33320,
+        "value": 10038855,
+        "filerUrl": "",
+        "transactionText": "Sale at price 297.83 - 310.17 per share.",
+        "filerName": "ITTYCHERIA DEV C",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-08-28T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -7399,18 +7399,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 354,
-        "value": 72942,
-        "filerUrl": "",
-        "transactionText": "Sale at price 206.05 per share.",
-        "filerName": "PECH CEDRIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-07-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 1000,
         "value": 206050,
         "filerUrl": "",
@@ -7435,11 +7423,23 @@
       },
       {
         "maxAge": 1,
-        "shares": 1420,
+        "shares": 354,
+        "value": 72942,
+        "filerUrl": "",
+        "transactionText": "Sale at price 206.05 per share.",
+        "filerName": "PECH CEDRIC",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-07-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1439,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "D SOUZA FRANCISCO",
+        "filerName": "HAZARD CHARLES M. JR.",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-30T00:00:00.000Z",
@@ -7495,11 +7495,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1439,
+        "shares": 1130,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "HAZARD CHARLES M. JR.",
+        "filerName": "MERRIMAN DWIGHT A",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-30T00:00:00.000Z",
@@ -7507,11 +7507,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 1130,
+        "shares": 1420,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MERRIMAN DWIGHT A",
+        "filerName": "D SOUZA FRANCISCO",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-06-30T00:00:00.000Z",
@@ -7615,6 +7615,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 18512,
+        "value": 3207389,
+        "filerUrl": "",
+        "transactionText": "Sale at price 173.26 per share.",
+        "filerName": "ITTYCHERIA DEV C",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-04-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 525,
         "value": 90962,
         "filerUrl": "",
@@ -7645,18 +7657,6 @@
         "transactionText": "Sale at price 173.25 per share.",
         "filerName": "BULL THOMAS",
         "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-04-02T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 18512,
-        "value": 3207389,
-        "filerUrl": "",
-        "transactionText": "Sale at price 173.26 per share.",
-        "filerName": "ITTYCHERIA DEV C",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-04-02T00:00:00.000Z",
         "ownership": "D"
@@ -7891,18 +7891,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 1285,
-        "value": 316684,
-        "filerUrl": "",
-        "transactionText": "Sale at price 234.09 - 250.00 per share.",
-        "filerName": "PECH CEDRIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-01-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 4047,
         "value": 971799,
         "filerUrl": "",
@@ -7915,12 +7903,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 1245,
-        "value": 291442,
+        "shares": 1285,
+        "value": 316684,
+        "filerUrl": "",
+        "transactionText": "Sale at price 234.09 - 250.00 per share.",
+        "filerName": "PECH CEDRIC",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-01-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2581,
+        "value": 604186,
         "filerUrl": "",
         "transactionText": "Sale at price 234.09 per share.",
-        "filerName": "GORDON MICHAEL LAWRENCE",
-        "filerRelation": "Chief Operating Officer",
+        "filerName": "ITTYCHERIA DEV C",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-01-02T00:00:00.000Z",
         "ownership": "D"
@@ -7939,12 +7939,12 @@
       },
       {
         "maxAge": 1,
-        "shares": 2581,
-        "value": 604186,
+        "shares": 1245,
+        "value": 291442,
         "filerUrl": "",
         "transactionText": "Sale at price 234.09 per share.",
-        "filerName": "ITTYCHERIA DEV C",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "GORDON MICHAEL LAWRENCE",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
         "startDate": "2025-01-02T00:00:00.000Z",
         "ownership": "D"
@@ -8035,24 +8035,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 6805,
-        "value": 2381750,
-        "filerUrl": "",
-        "transactionText": "Sale at price 350.00 per share.",
-        "filerName": "PECH CEDRIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-11-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2000,
         "value": 698340,
         "filerUrl": "",
         "transactionText": "Sale at price 349.17 per share.",
         "filerName": "MERRIMAN DWIGHT A",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2024-11-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 6805,
+        "value": 2381750,
+        "filerUrl": "",
+        "transactionText": "Sale at price 350.00 per share.",
+        "filerName": "PECH CEDRIC",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2024-11-25T00:00:00.000Z",
         "ownership": "D"
@@ -8095,18 +8095,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 965,
-        "value": 289500,
-        "filerUrl": "",
-        "transactionText": "Sale at price 300.00 per share.",
-        "filerName": "PECH CEDRIC",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-11-13T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 2000,
         "value": 600940,
         "filerUrl": "",
@@ -8116,6 +8104,18 @@
         "moneyText": "",
         "startDate": "2024-11-13T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 965,
+        "value": 289500,
+        "filerUrl": "",
+        "transactionText": "Sale at price 300.00 per share.",
+        "filerName": "PECH CEDRIC",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-11-13T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -8199,6 +8199,6 @@
     "profitMargins": 0.02116,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-03T07:31:21.426Z",
+  "lastUpdated": "2026-10-04T07:43:52.089Z",
   "source": "Static Build (yahoo-finance2)"
 }

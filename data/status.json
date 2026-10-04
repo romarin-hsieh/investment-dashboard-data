@@ -1,51 +1,51 @@
 {
-  "generated": "2026-10-03T07:35:31.471Z",
-  "last_updated": "2026-10-03T07:35:31.471Z",
-  "date": "2026-10-03",
+  "generated": "2026-10-04T07:48:02.164Z",
+  "last_updated": "2026-10-04T07:48:02.164Z",
+  "date": "2026-10-04",
   "status": "updated",
   "data_sources": {
     "ohlcv": {
       "exists": true,
       "size": 58774,
-      "modified": "2026-10-03T07:30:55.737Z",
+      "modified": "2026-10-04T07:43:25.035Z",
       "fileCount": 566,
       "directory": "data/ohlcv/"
     },
     "technical_indicators": {
       "exists": true,
       "size": 5873,
-      "modified": "2026-10-03T07:31:08.937Z",
+      "modified": "2026-10-04T07:43:38.894Z",
       "fileCount": 283,
       "directory": "data/technical-indicators/"
     },
     "quotes": {
       "exists": true,
       "size": 60376,
-      "modified": "2026-10-03T07:35:27.341Z",
+      "modified": "2026-10-04T07:47:58.090Z",
       "file": "data/quotes/latest.json"
     },
     "metadata": {
       "exists": true,
       "size": 248109,
-      "modified": "2026-10-03T07:29:28.622Z",
+      "modified": "2026-10-04T07:41:42.428Z",
       "file": "data/symbols_metadata.json"
     },
     "daily_snapshot": {
       "exists": true,
-      "size": 55864,
-      "modified": "2026-10-03T07:35:27.403Z",
-      "file": "data/daily/2026-10-03.json"
+      "size": 55861,
+      "modified": "2026-10-04T07:47:58.151Z",
+      "file": "data/daily/2026-10-04.json"
     }
   },
   "update_info": {
     "source": "GitHub Actions Daily Update",
     "workflow": "daily-data-update.yml",
-    "next_update": "2026-10-04T07:35:31.471Z",
+    "next_update": "2026-10-05T07:48:02.164Z",
     "update_frequency": "daily"
   },
   "health_check": {
     "all_systems": "operational",
-    "last_check": "2026-10-03T07:35:31.471Z",
+    "last_check": "2026-10-04T07:48:02.164Z",
     "issues": []
   }
 }

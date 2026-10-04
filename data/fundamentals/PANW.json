@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00753,
-    "institutionsPercentHeld": 0.84367996,
-    "institutionsFloatPercentHeld": 0.85009,
-    "institutionsCount": 3834
+    "institutionsPercentHeld": 0.84371,
+    "institutionsFloatPercentHeld": 0.85012,
+    "institutionsCount": 3837
   },
   "earnings": {
     "maxAge": 86400,
@@ -201,6 +201,12 @@
     "financialsChart": {
       "yearly": [
         {
+          "date": 2022,
+          "revenue": 5501500000,
+          "earnings": -267000000,
+          "profitMargin": -0.048532218
+        },
+        {
           "date": 2023,
           "revenue": 6892700000,
           "earnings": 439700000,
@@ -217,15 +223,16 @@
           "revenue": 9221500000,
           "earnings": 1133900000,
           "profitMargin": 0.122962646
-        },
-        {
-          "date": 2026,
-          "revenue": 11480000000,
-          "earnings": 307000000,
-          "profitMargin": 0.026742158
         }
       ],
       "quarterly": [
+        {
+          "date": "2Q2025",
+          "fiscalQuarter": "4Q2025",
+          "revenue": 2536300000,
+          "earnings": 253800000,
+          "profitMargin": 0.10006703
+        },
         {
           "date": "3Q2025",
           "fiscalQuarter": "1Q2026",
@@ -246,13 +253,6 @@
           "revenue": 3002000000,
           "earnings": -177000000,
           "profitMargin": -0.058960695
-        },
-        {
-          "date": "2Q2026",
-          "fiscalQuarter": "4Q2026",
-          "revenue": 3410000000,
-          "earnings": -282000000,
-          "profitMargin": -0.08269795
         }
       ]
     },
@@ -9604,14 +9604,14 @@
     "postMarketSource": "DELAYED",
     "regularMarketChangePercent": 0.0176404,
     "regularMarketChange": 6.98999,
-    "regularMarketTime": "2026-10-02T20:00:00.000Z",
+    "regularMarketTime": "2026-10-02T20:00:01.000Z",
     "priceHint": 2,
     "regularMarketPrice": 403.24,
     "regularMarketDayHigh": 409.5,
     "regularMarketDayLow": 400,
     "regularMarketVolume": 4829505,
-    "averageDailyVolume10Day": 6493150,
-    "averageDailyVolume3Month": 6370603,
+    "averageDailyVolume10Day": 5603540,
+    "averageDailyVolume3Month": 6347698,
     "regularMarketPreviousClose": 396.25,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 403.44,
@@ -9649,7 +9649,7 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.026700001,
     "heldPercentInsiders": 0.00753,
-    "heldPercentInstitutions": 0.84367996,
+    "heldPercentInstitutions": 0.84371,
     "shortRatio": 3.39,
     "shortPercentOfFloat": 0.0269,
     "beta": 0.908,
@@ -9665,13 +9665,13 @@
     "netIncomeToCommon": 307000000,
     "trailingEps": 0.4,
     "forwardEps": 4.87907,
-    "pegRatio": 2.02,
+    "pegRatio": 2.06,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1734307200,
     "enterpriseToRevenue": 28.689,
     "enterpriseToEbitda": 211.119,
-    "52WeekChange": 0.91249573,
-    "SandP52WeekChange": 0.1415559,
+    "52WeekChange": 0.8968859,
+    "SandP52WeekChange": 0.1457566,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -11412,30 +11412,6 @@
         "moneyText": "",
         "startDate": "2024-10-10T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 60000,
-        "value": 3870198,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 64.50 per share.",
-        "filerName": "KLARICH LEE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-10-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 60000,
-        "value": 20388489,
-        "filerUrl": "",
-        "transactionText": "Sale at price 336.34 - 342.85 per share.",
-        "filerName": "KLARICH LEE",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2024-10-04T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
@@ -11471,6 +11447,6 @@
     "profitMargins": 0.02674,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-03T07:32:50.523Z",
+  "lastUpdated": "2026-10-04T07:45:22.740Z",
   "source": "Static Build (yahoo-finance2)"
 }
