@@ -5186,32 +5186,32 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": -0.012849042,
+    "preMarketChange": -3.5620117,
+    "preMarketTime": "2026-10-05T08:12:14.000Z",
+    "preMarketPrice": 273.658,
     "preMarketSource": "DELAYED",
-    "postMarketChangePercent": 0.0020921526,
-    "postMarketChange": 0.5799866,
-    "postMarketTime": "2026-10-02T23:56:23.000Z",
-    "postMarketPrice": 277.8,
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.00274908,
-    "regularMarketChange": 0.76001,
+    "regularMarketChangePercent": 0.0027490768,
+    "regularMarketChange": 0.76000977,
     "regularMarketTime": "2026-10-02T20:00:01.000Z",
     "priceHint": 2,
     "regularMarketPrice": 277.22,
     "regularMarketDayHigh": 281.99,
     "regularMarketDayLow": 274.575,
-    "regularMarketVolume": 2068099,
+    "regularMarketVolume": 2079569,
     "averageDailyVolume10Day": 3169640,
     "averageDailyVolume3Month": 4221287,
     "regularMarketPreviousClose": 276.46,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 280.31,
-    "fulldayChangePercent": 0.00274908,
-    "fulldayChange": 0.76001,
-    "fulldayPrice": 277.8,
+    "fulldayChangePercent": 0.0027490768,
+    "fulldayChange": 0.76000977,
+    "fulldayPrice": 273.658,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "DDOG",
     "underlyingSymbol": null,
@@ -5290,17 +5290,6 @@
     "transactions": [
       {
         "maxAge": 1,
-        "shares": 6000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "OBSTLER DAVID M",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-09-21T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
         "shares": 16000,
         "value": 3860000,
         "filerUrl": "",
@@ -5313,9 +5302,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 24000,
+        "shares": 6000,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "OBSTLER DAVID M",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-09-21T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 24000,
+        "value": 5459447,
+        "filerUrl": "",
+        "transactionText": "Sale at price 221.24 - 233.30 per share.",
         "filerName": "OBSTLER DAVID M",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -5325,9 +5326,8 @@
       {
         "maxAge": 1,
         "shares": 24000,
-        "value": 5459447,
         "filerUrl": "",
-        "transactionText": "Sale at price 221.24 - 233.30 per share.",
+        "transactionText": "",
         "filerName": "OBSTLER DAVID M",
         "filerRelation": "Chief Financial Officer",
         "moneyText": "",
@@ -5385,17 +5385,6 @@
       {
         "maxAge": 1,
         "shares": 89497,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "POMEL OLIVIER",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-09-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 89497,
         "value": 18602602,
         "filerUrl": "",
         "transactionText": "Sale at price 204.03 - 210.26 per share.",
@@ -5407,13 +5396,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 5625,
+        "shares": 89497,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "RICHARDSON JULIE G",
-        "filerRelation": "Director",
+        "filerName": "POMEL OLIVIER",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-09-04T00:00:00.000Z",
+        "startDate": "2026-09-08T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -5436,7 +5425,7 @@
         "filerName": "RICHARDSON JULIE G",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-09-03T00:00:00.000Z",
+        "startDate": "2026-09-04T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -5445,6 +5434,17 @@
         "value": 1237500,
         "filerUrl": "",
         "transactionText": "Sale at price 220.00 per share.",
+        "filerName": "RICHARDSON JULIE G",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-09-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 5625,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "RICHARDSON JULIE G",
         "filerRelation": "Director",
         "moneyText": "",
@@ -5477,11 +5477,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 11206,
-        "value": 2385806,
+        "shares": 4769,
+        "value": 1015342,
         "filerUrl": "",
         "transactionText": "Sale at price 212.90 per share.",
-        "filerName": "LI YANBING",
+        "filerName": "GALLOREESE DAVID",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-09-02T00:00:00.000Z",
@@ -5489,11 +5489,11 @@
       },
       {
         "maxAge": 1,
-        "shares": 4769,
-        "value": 1015342,
+        "shares": 11206,
+        "value": 2385806,
         "filerUrl": "",
         "transactionText": "Sale at price 212.90 per share.",
-        "filerName": "GALLOREESE DAVID",
+        "filerName": "LI YANBING",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-09-02T00:00:00.000Z",
@@ -5562,8 +5562,9 @@
       {
         "maxAge": 1,
         "shares": 53912,
+        "value": 12238927,
         "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Sale at price 223.59 - 236.05 per share.",
         "filerName": "LE-QUOC ALEXIS T",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -5573,9 +5574,8 @@
       {
         "maxAge": 1,
         "shares": 53912,
-        "value": 12238927,
         "filerUrl": "",
-        "transactionText": "Sale at price 223.59 - 236.05 per share.",
+        "transactionText": "",
         "filerName": "LE-QUOC ALEXIS T",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -5597,17 +5597,6 @@
       {
         "maxAge": 1,
         "shares": 43224,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "LE-QUOC ALEXIS T",
-        "filerRelation": "Chief Technology Officer",
-        "moneyText": "",
-        "startDate": "2026-08-24T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 43224,
         "value": 9882290,
         "filerUrl": "",
         "transactionText": "Sale at price 226.22 - 233.44 per share.",
@@ -5619,9 +5608,21 @@
       },
       {
         "maxAge": 1,
-        "shares": 47054,
+        "shares": 43224,
         "filerUrl": "",
         "transactionText": "",
+        "filerName": "LE-QUOC ALEXIS T",
+        "filerRelation": "Chief Technology Officer",
+        "moneyText": "",
+        "startDate": "2026-08-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 47054,
+        "value": 11080546,
+        "filerUrl": "",
+        "transactionText": "Sale at price 232.98 - 246.66 per share.",
         "filerName": "POMEL OLIVIER",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -5631,9 +5632,8 @@
       {
         "maxAge": 1,
         "shares": 47054,
-        "value": 11080546,
         "filerUrl": "",
-        "transactionText": "Sale at price 232.98 - 246.66 per share.",
+        "transactionText": "",
         "filerName": "POMEL OLIVIER",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -5655,17 +5655,6 @@
       {
         "maxAge": 1,
         "shares": 20000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "AGARWAL AMIT",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-08-13T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 20000,
         "value": 4986341,
         "filerUrl": "",
         "transactionText": "Sale at price 241.29 - 253.16 per share.",
@@ -5677,14 +5666,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 53912,
+        "shares": 20000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LE-QUOC ALEXIS T",
-        "filerRelation": "Chief Technology Officer",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-08-10T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-08-13T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5700,14 +5689,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
+        "shares": 53912,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AGARWAL AMIT",
-        "filerRelation": "Director",
+        "filerName": "LE-QUOC ALEXIS T",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2026-08-06T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-08-10T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5723,14 +5712,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 127141,
+        "shares": 20000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "POMEL OLIVIER",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-08-05T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-08-06T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5746,14 +5735,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 12500,
+        "shares": 127141,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "CALLAHAN MICHAEL JAMES",
-        "filerRelation": "Director",
+        "filerName": "POMEL OLIVIER",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-08-04T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-08-05T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5769,13 +5758,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
+        "shares": 12500,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AGARWAL AMIT",
+        "filerName": "CALLAHAN MICHAEL JAMES",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-07-30T00:00:00.000Z",
+        "startDate": "2026-08-04T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -5798,19 +5787,8 @@
         "filerName": "AGARWAL AMIT",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-07-23T00:00:00.000Z",
+        "startDate": "2026-07-30T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 47054,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "POMEL OLIVIER",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-07-23T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5818,6 +5796,17 @@
         "value": 4897333,
         "filerUrl": "",
         "transactionText": "Sale at price 242.38 - 248.37 per share.",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-07-23T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "AGARWAL AMIT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -5838,13 +5827,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 43224,
+        "shares": 47054,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LE-QUOC ALEXIS T",
-        "filerRelation": "Chief Technology Officer",
+        "filerName": "POMEL OLIVIER",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-07-20T00:00:00.000Z",
+        "startDate": "2026-07-23T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -5861,14 +5850,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
+        "shares": 43224,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AGARWAL AMIT",
-        "filerRelation": "Director",
+        "filerName": "LE-QUOC ALEXIS T",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2026-07-16T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-07-20T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5884,14 +5873,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 127141,
+        "shares": 20000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "POMEL OLIVIER",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-07-13T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-07-16T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5907,14 +5896,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
+        "shares": 127141,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AGARWAL AMIT",
-        "filerRelation": "Director",
+        "filerName": "POMEL OLIVIER",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-07-09T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-07-13T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5930,14 +5919,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 53912,
+        "shares": 20000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LE-QUOC ALEXIS T",
-        "filerRelation": "Chief Technology Officer",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-07-08T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-07-09T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -5953,14 +5942,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
+        "shares": 53912,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AGARWAL AMIT",
-        "filerRelation": "Director",
+        "filerName": "LE-QUOC ALEXIS T",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2026-07-02T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-07-08T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -5976,25 +5965,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 48,
-        "value": 12497,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 260.36 per share.",
-        "filerName": "PHILLIPS DOMINIC",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-07-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 12500,
+        "shares": 20000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "CALLAHAN MICHAEL JAMES",
+        "filerName": "AGARWAL AMIT",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-07-01T00:00:00.000Z",
+        "startDate": "2026-07-02T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -6017,8 +5994,20 @@
         "filerName": "CALLAHAN MICHAEL JAMES",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-06-29T00:00:00.000Z",
+        "startDate": "2026-07-01T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 48,
+        "value": 12497,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 260.36 per share.",
+        "filerName": "PHILLIPS DOMINIC",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-07-01T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -6034,13 +6023,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
+        "shares": 12500,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AGARWAL AMIT",
+        "filerName": "CALLAHAN MICHAEL JAMES",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-06-25T00:00:00.000Z",
+        "startDate": "2026-06-29T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -6057,14 +6046,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 43224,
+        "shares": 20000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LE-QUOC ALEXIS T",
-        "filerRelation": "Chief Technology Officer",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-06-22T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-06-25T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -6080,14 +6069,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
+        "shares": 43224,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AGARWAL AMIT",
-        "filerRelation": "Director",
+        "filerName": "LE-QUOC ALEXIS T",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2026-06-18T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-06-22T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -6103,14 +6092,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 84698,
+        "shares": 20000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "POMEL OLIVIER",
-        "filerRelation": "Chief Executive Officer",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-06-16T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-06-18T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -6126,26 +6115,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 1072,
-        "value": 0,
+        "shares": 84698,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "ITTYCHERIA DEV C",
-        "filerRelation": "Director",
+        "transactionText": "",
+        "filerName": "POMEL OLIVIER",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-06-15T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1072,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CALLAHAN MICHAEL JAMES",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-15T00:00:00.000Z",
+        "startDate": "2026-06-16T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6167,6 +6143,30 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "RICHARDSON JULIE G",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1072,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "ITTYCHERIA DEV C",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-15T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1072,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "CALLAHAN MICHAEL JAMES",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-15T00:00:00.000Z",
@@ -6234,18 +6234,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 7500,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "OBSTLER DAVID M",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-06-12T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 10000,
         "value": 0,
         "filerUrl": "",
@@ -6258,14 +6246,15 @@
       },
       {
         "maxAge": 1,
-        "shares": 7500,
+        "shares": 20000,
+        "value": 4631193,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "OBSTLER DAVID M",
-        "filerRelation": "Chief Financial Officer",
+        "transactionText": "Sale at price 228.23 - 236.08 per share.",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-12T00:00:00.000Z",
-        "ownership": "D"
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -6280,14 +6269,26 @@
       },
       {
         "maxAge": 1,
-        "shares": 112500,
+        "shares": 7500,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "",
-        "filerName": "CALLAHAN MICHAEL JAMES",
-        "filerRelation": "Director",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "OBSTLER DAVID M",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-06-12T00:00:00.000Z",
-        "ownership": "I"
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 7500,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "OBSTLER DAVID M",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-06-12T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -6303,11 +6304,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
-        "value": 4631193,
+        "shares": 112500,
         "filerUrl": "",
-        "transactionText": "Sale at price 228.23 - 236.08 per share.",
-        "filerName": "AGARWAL AMIT",
+        "transactionText": "",
+        "filerName": "CALLAHAN MICHAEL JAMES",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-12T00:00:00.000Z",
@@ -6362,17 +6362,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 99617,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "POMEL OLIVIER",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-06-08T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 75000,
         "value": 17376592,
         "filerUrl": "",
@@ -6397,6 +6386,17 @@
       },
       {
         "maxAge": 1,
+        "shares": 99617,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "POMEL OLIVIER",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-06-08T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 5131,
         "value": 1271844,
         "filerUrl": "",
@@ -6405,17 +6405,6 @@
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-06-04T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 120000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "ITTYCHERIA DEV C",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-06-03T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6429,6 +6418,17 @@
         "moneyText": "",
         "startDate": "2026-06-03T00:00:00.000Z",
         "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 120000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "ITTYCHERIA DEV C",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-06-03T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -6564,8 +6564,9 @@
       {
         "maxAge": 1,
         "shares": 43224,
+        "value": 8992461,
         "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Sale at price 204.47 - 210.44 per share.",
         "filerName": "LE-QUOC ALEXIS T",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -6575,9 +6576,8 @@
       {
         "maxAge": 1,
         "shares": 43224,
-        "value": 8992461,
         "filerUrl": "",
-        "transactionText": "Sale at price 204.47 - 210.44 per share.",
+        "transactionText": "",
         "filerName": "LE-QUOC ALEXIS T",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -6610,8 +6610,9 @@
       {
         "maxAge": 1,
         "shares": 20000,
+        "value": 4002637,
         "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Sale at price 195.60 - 202.69 per share.",
         "filerName": "AGARWAL AMIT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -6620,21 +6621,9 @@
       },
       {
         "maxAge": 1,
-        "shares": 42443,
+        "shares": 20000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "POMEL OLIVIER",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-11T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 20000,
-        "value": 4002637,
-        "filerUrl": "",
-        "transactionText": "Sale at price 195.60 - 202.69 per share.",
         "filerName": "AGARWAL AMIT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -6647,6 +6636,17 @@
         "value": 25408082,
         "filerUrl": "",
         "transactionText": "Sale at price 195.63 - 202.58 per share.",
+        "filerName": "POMEL OLIVIER",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-05-11T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 42443,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "POMEL OLIVIER",
         "filerRelation": "Chief Executive Officer",
         "moneyText": "",
@@ -6704,8 +6704,9 @@
       {
         "maxAge": 1,
         "shares": 53912,
+        "value": 7868434,
         "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Sale at price 140.34 - 150.00 per share.",
         "filerName": "LE-QUOC ALEXIS T",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -6715,9 +6716,8 @@
       {
         "maxAge": 1,
         "shares": 53912,
-        "value": 7868434,
         "filerUrl": "",
-        "transactionText": "Sale at price 140.34 - 150.00 per share.",
+        "transactionText": "",
         "filerName": "LE-QUOC ALEXIS T",
         "filerRelation": "Chief Technology Officer",
         "moneyText": "",
@@ -6763,17 +6763,6 @@
       {
         "maxAge": 1,
         "shares": 20000,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "AGARWAL AMIT",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-05-04T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 20000,
         "value": 2894938,
         "filerUrl": "",
         "transactionText": "Sale at price 140.02 - 147.28 per share.",
@@ -6791,7 +6780,7 @@
         "filerName": "AGARWAL AMIT",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-04-27T00:00:00.000Z",
+        "startDate": "2026-05-04T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -6808,14 +6797,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 43224,
+        "shares": 20000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LE-QUOC ALEXIS T",
-        "filerRelation": "Chief Technology Officer",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-04-22T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-04-27T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -6831,14 +6820,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
+        "shares": 43224,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AGARWAL AMIT",
-        "filerRelation": "Director",
+        "filerName": "LE-QUOC ALEXIS T",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2026-04-20T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-04-22T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -6860,7 +6849,7 @@
         "filerName": "AGARWAL AMIT",
         "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-04-15T00:00:00.000Z",
+        "startDate": "2026-04-20T00:00:00.000Z",
         "ownership": "I"
       },
       {
@@ -6869,6 +6858,17 @@
         "value": 2400000,
         "filerUrl": "",
         "transactionText": "Sale at price 120.00 per share.",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-04-15T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "filerUrl": "",
+        "transactionText": "",
         "filerName": "AGARWAL AMIT",
         "filerRelation": "Director",
         "moneyText": "",
@@ -6890,17 +6890,6 @@
       {
         "maxAge": 1,
         "shares": 42443,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "POMEL OLIVIER",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-04-09T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 42443,
         "value": 4717074,
         "filerUrl": "",
         "transactionText": "Sale at price 109.06 - 118.24 per share.",
@@ -6912,14 +6901,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
+        "shares": 42443,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "AGARWAL AMIT",
-        "filerRelation": "Director",
+        "filerName": "POMEL OLIVIER",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
-        "startDate": "2026-04-08T00:00:00.000Z",
-        "ownership": "I"
+        "startDate": "2026-04-09T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -6935,14 +6924,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 32300,
+        "shares": 20000,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "LE-QUOC ALEXIS T",
-        "filerRelation": "Chief Technology Officer",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
         "moneyText": "",
-        "startDate": "2026-04-06T00:00:00.000Z",
-        "ownership": "D"
+        "startDate": "2026-04-08T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -6958,14 +6947,13 @@
       },
       {
         "maxAge": 1,
-        "shares": 59295,
-        "value": 0,
+        "shares": 32300,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "OBSTLER DAVID M",
-        "filerRelation": "Chief Financial Officer",
+        "transactionText": "",
+        "filerName": "LE-QUOC ALEXIS T",
+        "filerRelation": "Chief Technology Officer",
         "moneyText": "",
-        "startDate": "2026-04-01T00:00:00.000Z",
+        "startDate": "2026-04-06T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -6979,6 +6967,29 @@
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "value": 2410600,
+        "filerUrl": "",
+        "transactionText": "Sale at price 120.53 per share.",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "AGARWAL AMIT",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-04-01T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -7006,36 +7017,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 40,
-        "value": 4722,
+        "shares": 59295,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 118.05 per share.",
-        "filerName": "PHILLIPS DOMINIC",
-        "filerRelation": "Director",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "OBSTLER DAVID M",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 54797,
+        "shares": 130858,
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "WALTERS SEAN MICHAEL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 28625,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "ACOCELLA KERRY",
-        "filerRelation": "General Counsel",
+        "filerName": "POMEL OLIVIER",
+        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-04-01T00:00:00.000Z",
         "ownership": "D"
@@ -7075,6 +7074,6 @@
     "profitMargins": 0.044770002,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-04T07:45:26.454Z",
+  "lastUpdated": "2026-10-05T08:13:02.798Z",
   "source": "Static Build (yahoo-finance2)"
 }

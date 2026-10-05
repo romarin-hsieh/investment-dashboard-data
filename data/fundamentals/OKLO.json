@@ -916,11 +916,11 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": 0.013947002,
+    "preMarketChange": 0.5,
+    "preMarketTime": "2026-10-05T08:10:03.000Z",
+    "preMarketPrice": 36.35,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.002787909,
-    "postMarketChange": 0.10000229,
-    "postMarketTime": "2026-10-02T23:59:00.000Z",
-    "postMarketPrice": 35.97,
     "postMarketSource": "DELAYED",
     "regularMarketChangePercent": -0.00747096,
     "regularMarketChange": -0.27,
@@ -935,20 +935,20 @@
     "regularMarketPreviousClose": 36.14,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 37.3,
-    "fulldayChangePercent": -0.00747096,
-    "fulldayChange": -0.27,
-    "fulldayPrice": 35.97,
+    "fulldayChangePercent": 0.013947002,
+    "fulldayChange": 0.5,
+    "fulldayPrice": 36.35,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "OKLO",
     "underlyingSymbol": null,
     "shortName": "Oklo Inc.",
     "longName": "Oklo Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
@@ -1053,17 +1053,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 2471,
-        "filerUrl": "",
-        "transactionText": "",
-        "filerName": "RENNER ALEXANDRA",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-09-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 3294,
         "filerUrl": "",
         "transactionText": "",
@@ -1079,6 +1068,17 @@
         "filerUrl": "",
         "transactionText": "",
         "filerName": "HANSON JOHN",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-09-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2471,
+        "filerUrl": "",
+        "transactionText": "",
+        "filerName": "RENNER ALEXANDRA",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-09-25T00:00:00.000Z",
@@ -1155,10 +1155,9 @@
       },
       {
         "maxAge": 1,
-        "shares": 238,
-        "value": 10010,
+        "shares": 1701,
         "filerUrl": "",
-        "transactionText": "Sale at price 42.06 per share.",
+        "transactionText": "",
         "filerName": "NARAYANADAS VIVEK",
         "filerRelation": "General Counsel",
         "moneyText": "",
@@ -1167,9 +1166,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 1701,
+        "shares": 238,
+        "value": 10010,
         "filerUrl": "",
-        "transactionText": "",
+        "transactionText": "Sale at price 42.06 per share.",
         "filerName": "NARAYANADAS VIVEK",
         "filerRelation": "General Counsel",
         "moneyText": "",
@@ -1484,6 +1484,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 2100,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "BEALMEAR RICHARD CRAIG",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-06-01T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 73081,
         "value": 5000411,
         "filerUrl": "",
@@ -1517,18 +1529,6 @@
         "moneyText": "",
         "startDate": "2026-06-01T00:00:00.000Z",
         "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 2100,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "BEALMEAR RICHARD CRAIG",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-06-01T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -1651,6 +1651,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 900,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "KINZLEY RICHARD W",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-03-27T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 4000,
         "value": 208360,
         "filerUrl": "",
@@ -1672,18 +1684,6 @@
         "moneyText": "",
         "startDate": "2026-03-27T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 900,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "KINZLEY RICHARD W",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-27T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -1898,6 +1898,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 16257,
+        "value": 51697,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 3.18 per share.",
+        "filerName": "BEALMEAR RICHARD CRAIG",
+        "filerRelation": "Chief Financial Officer",
+        "moneyText": "",
+        "startDate": "2026-03-02T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 200000,
         "value": 12658097,
         "filerUrl": "",
@@ -1919,18 +1931,6 @@
         "moneyText": "",
         "startDate": "2026-03-02T00:00:00.000Z",
         "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 16257,
-        "value": 51697,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 3.18 per share.",
-        "filerName": "BEALMEAR RICHARD CRAIG",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-03-02T00:00:00.000Z",
-        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -2387,6 +2387,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 100000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "DEWITTE JACOB",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-03-31T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
         "shares": 216000,
         "value": 4978265,
         "filerUrl": "",
@@ -2399,6 +2411,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 100000,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "COCHRAN CAROLINE",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2025-03-31T00:00:00.000Z",
+        "ownership": "D/I"
+      },
+      {
+        "maxAge": 1,
         "shares": 216000,
         "value": 4978265,
         "filerUrl": "",
@@ -2408,30 +2432,6 @@
         "moneyText": "",
         "startDate": "2025-03-31T00:00:00.000Z",
         "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 100000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "DEWITTE JACOB",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2025-03-31T00:00:00.000Z",
-        "ownership": "D/I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 100000,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "COCHRAN CAROLINE",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2025-03-31T00:00:00.000Z",
-        "ownership": "D/I"
       },
       {
         "maxAge": 1,
@@ -2604,6 +2604,6 @@
     "profitMargins": 0,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-04T07:44:45.454Z",
+  "lastUpdated": "2026-10-05T08:12:22.823Z",
   "source": "Static Build (yahoo-finance2)"
 }

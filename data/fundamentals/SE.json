@@ -2426,11 +2426,11 @@
   },
   "price": {
     "maxAge": 1,
+    "preMarketChangePercent": 0.025993869,
+    "preMarketChange": 2.475006,
+    "preMarketTime": "2026-10-05T08:11:44.000Z",
+    "preMarketPrice": 97.69,
     "preMarketSource": "FREE_REALTIME",
-    "postMarketChangePercent": 0.00091081456,
-    "postMarketChange": 0.08670044,
-    "postMarketTime": "2026-10-02T23:42:49.000Z",
-    "postMarketPrice": 95.2767,
     "postMarketSource": "DELAYED",
     "regularMarketChangePercent": -0.000839658,
     "regularMarketChange": -0.0799942,
@@ -2445,20 +2445,20 @@
     "regularMarketPreviousClose": 95.27,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 96,
-    "fulldayChangePercent": -0.000839658,
-    "fulldayChange": -0.0799942,
-    "fulldayPrice": 95.2767,
+    "fulldayChangePercent": 0.025993869,
+    "fulldayChange": 2.475006,
+    "fulldayPrice": 97.69,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "SE",
     "underlyingSymbol": null,
     "shortName": "Sea Limited",
     "longName": "Sea Limited",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
@@ -3909,6 +3909,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 10000,
+        "value": 808500,
+        "filerUrl": "",
+        "transactionText": "Sale at price 80.85 per share.",
+        "filerName": "YE GANG",
+        "filerRelation": "Chief Operating Officer",
+        "moneyText": "",
+        "startDate": "2026-03-31T00:00:00.000Z",
+        "ownership": "I"
+      },
+      {
+        "maxAge": 1,
         "shares": 1866,
         "value": 159991,
         "filerUrl": "",
@@ -3930,6 +3942,18 @@
         "moneyText": "",
         "startDate": "2026-03-31T00:00:00.000Z",
         "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 1600,
+        "value": 128324,
+        "filerUrl": "",
+        "transactionText": "Sale at price 78.45 - 82.57 per share.",
+        "filerName": "CHEN JINGYE DAVID",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-03-31T00:00:00.000Z",
+        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -3978,30 +4002,6 @@
         "moneyText": "",
         "startDate": "2026-03-31T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 10000,
-        "value": 808500,
-        "filerUrl": "",
-        "transactionText": "Sale at price 80.85 per share.",
-        "filerName": "YE GANG",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2026-03-31T00:00:00.000Z",
-        "ownership": "I"
-      },
-      {
-        "maxAge": 1,
-        "shares": 1600,
-        "value": 128324,
-        "filerUrl": "",
-        "transactionText": "Sale at price 78.45 - 82.57 per share.",
-        "filerName": "CHEN JINGYE DAVID",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-03-31T00:00:00.000Z",
-        "ownership": "I"
       },
       {
         "maxAge": 1,
@@ -4110,6 +4110,6 @@
     "profitMargins": 0.05908,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-04T07:44:50.912Z",
+  "lastUpdated": "2026-10-05T08:12:28.331Z",
   "source": "Static Build (yahoo-finance2)"
 }

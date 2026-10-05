@@ -969,10 +969,6 @@
   "price": {
     "maxAge": 1,
     "preMarketSource": "DELAYED",
-    "postMarketChangePercent": 0,
-    "postMarketChange": 0,
-    "postMarketTime": "2026-10-02T20:39:47.000Z",
-    "postMarketPrice": 55.11,
     "postMarketSource": "FREE_REALTIME",
     "regularMarketChangePercent": -0.00988141,
     "regularMarketChange": -0.549999,
@@ -987,20 +983,20 @@
     "regularMarketPreviousClose": 55.66,
     "regularMarketSource": "FREE_REALTIME",
     "regularMarketOpen": 55.8,
-    "fulldayChangePercent": -0.00988141,
-    "fulldayChange": -0.549999,
+    "fulldayChangePercent": -0.009522077,
+    "fulldayChange": -0.5299988,
     "fulldayPrice": 55.11,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
-    "marketState": "CLOSED",
+    "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "MAIN",
     "underlyingSymbol": null,
     "shortName": "Main Street Capital Corporation",
     "longName": "Main Street Capital Corporation",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
@@ -1135,6 +1131,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 1883,
+        "value": 75000,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 - 55.76 per share.",
+        "filerName": "JACKSON JOHN EARL",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-05-04T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 986,
         "value": 25000,
         "filerUrl": "",
@@ -1195,14 +1203,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 1883,
-        "value": 75000,
+        "shares": 13602,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 - 55.76 per share.",
-        "filerName": "JACKSON JOHN EARL",
-        "filerRelation": "Director",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "NELSON RYAN ROBERT",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2026-05-04T00:00:00.000Z",
+        "startDate": "2026-04-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1279,18 +1287,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 13602,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "NELSON RYAN ROBERT",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2026-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 115,
         "value": 0,
         "filerUrl": "",
@@ -1311,18 +1307,6 @@
         "filerRelation": "President",
         "moneyText": "",
         "startDate": "2025-08-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 14000,
-        "value": 940100,
-        "filerUrl": "",
-        "transactionText": "Sale at price 67.15 per share.",
-        "filerName": "MESERVE NICHOLAS T",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-08-14T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1363,6 +1347,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 14000,
+        "value": 940100,
+        "filerUrl": "",
+        "transactionText": "Sale at price 67.15 per share.",
+        "filerName": "MESERVE NICHOLAS T",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-08-14T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 13664,
         "value": 811169,
         "filerUrl": "",
@@ -1395,6 +1391,18 @@
         "filerRelation": "Officer and Treasurer",
         "moneyText": "",
         "startDate": "2025-05-16T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 2071,
+        "value": 80000,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 - 53.10 per share.",
+        "filerName": "JACKSON JOHN EARL",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-05-05T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1459,14 +1467,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 2071,
-        "value": 80000,
+        "shares": 6985,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 - 53.10 per share.",
-        "filerName": "JACKSON JOHN EARL",
-        "filerRelation": "Director",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "NELSON RYAN ROBERT",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
-        "startDate": "2025-05-05T00:00:00.000Z",
+        "startDate": "2025-04-01T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -1543,18 +1551,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 6985,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "NELSON RYAN ROBERT",
-        "filerRelation": "Chief Financial Officer",
-        "moneyText": "",
-        "startDate": "2025-04-01T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 120000,
         "value": 6966000,
         "filerUrl": "",
@@ -1603,10 +1599,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 9000,
-        "value": 495090,
+        "shares": 1000,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 55.01 per share.",
+        "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "MESERVE NICHOLAS T",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -1615,10 +1611,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 1000,
-        "value": 0,
+        "shares": 9000,
+        "value": 495090,
         "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
+        "transactionText": "Sale at price 55.01 per share.",
         "filerName": "MESERVE NICHOLAS T",
         "filerRelation": "Officer",
         "moneyText": "",
@@ -1659,6 +1655,6 @@
     "profitMargins": 0.78486997,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-04T07:46:49.055Z",
+  "lastUpdated": "2026-10-05T08:14:22.977Z",
   "source": "Static Build (yahoo-finance2)"
 }
