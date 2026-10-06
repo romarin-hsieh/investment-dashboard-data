@@ -24,6 +24,14 @@
         "hold": 4,
         "sell": 0,
         "strongSell": 1
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 7,
+        "buy": 12,
+        "hold": 4,
+        "sell": 0,
+        "strongSell": 1
       }
     ],
     "maxAge": 86400
@@ -37,7 +45,7 @@
         "organization": "Berkshire Hathaway, Inc",
         "pctHeld": 0.093,
         "position": 400000000,
-        "value": 34260000610,
+        "value": 34604000854,
         "pctChange": 0
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.075,
         "position": 322740471,
-        "value": 27642721833,
+        "value": 27920278835,
         "pctChange": -0.0325
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0555,
         "position": 238798011,
-        "value": 20453050006,
+        "value": 20658416441,
         "pctChange": 0.0057
       },
       {
@@ -64,7 +72,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.038900003,
         "position": 167399379,
-        "value": 14337757066,
+        "value": 14481720634,
         "pctChange": 0.0011
       },
       {
@@ -73,7 +81,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0254,
         "position": 109159806,
-        "value": 9349537550,
+        "value": 9443415050,
         "pctChange": 0.0147
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.024600001,
         "position": 105977991,
-        "value": 9077015090,
+        "value": 9168156227,
         "pctChange": 0.1401
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0232,
         "position": 99612603,
-        "value": 8531819598,
+        "value": 8617486498,
         "pctChange": -0.0034
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0209,
         "position": 89824129,
-        "value": 7693436785,
+        "value": 7770685591,
         "pctChange": -0.0225
       },
       {
@@ -109,7 +117,7 @@
         "organization": "Charles Schwab Investment Management, Inc.",
         "pctHeld": 0.0188,
         "position": 80822520,
-        "value": 6922448961,
+        "value": 6991956377,
         "pctChange": 0.0587
       },
       {
@@ -118,7 +126,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.0128999995,
         "position": 55484687,
-        "value": 4752263526,
+        "value": 4799980390,
         "pctChange": -0.214
       }
     ]
@@ -179,7 +187,7 @@
           "reportedDate": 1785236293
         }
       ],
-      "currentQuarterEstimate": 0.87894,
+      "currentQuarterEstimate": 0.88005,
       "currentQuarterEstimateDate": "3Q",
       "currentCalendarQuarter": "3Q2026",
       "currentQuarterEstimateYear": 2026,
@@ -253,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-10-05T13:43:02.000Z",
+        "firm": "Wells Fargo",
+        "toGrade": "Overweight",
+        "fromGrade": "Overweight",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 90,
+        "priorPriceTarget": 95
+      },
       {
         "epochGradeDate": "2026-09-28T17:31:16.000Z",
         "firm": "JP Morgan",
@@ -3258,28 +3276,28 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketChangePercent": 0.0014007558,
-    "preMarketChange": 0.12000275,
-    "preMarketTime": "2026-10-05T08:13:35.000Z",
-    "preMarketPrice": 85.79,
-    "preMarketSource": "FREE_REALTIME",
-    "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": -0.00522645,
-    "regularMarketChange": -0.449997,
-    "regularMarketTime": "2026-10-02T20:00:02.000Z",
+    "preMarketChangePercent": 0.00080915145,
+    "preMarketChange": 0.069999695,
+    "preMarketTime": "2026-10-06T08:07:58.000Z",
+    "preMarketPrice": 86.58,
+    "preMarketSource": "DELAYED",
+    "postMarketSource": "DELAYED",
+    "regularMarketChangePercent": 0.0100409,
+    "regularMarketChange": 0.860001,
+    "regularMarketTime": "2026-10-05T20:00:02.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 85.65,
-    "regularMarketDayHigh": 86.45,
-    "regularMarketDayLow": 85.17,
-    "regularMarketVolume": 19281489,
+    "regularMarketPrice": 86.51,
+    "regularMarketDayHigh": 86.57,
+    "regularMarketDayLow": 85.13,
+    "regularMarketVolume": 20444719,
     "averageDailyVolume10Day": 15671030,
-    "averageDailyVolume3Month": 15863759,
-    "regularMarketPreviousClose": 86.1,
+    "averageDailyVolume3Month": 15814095,
+    "regularMarketPreviousClose": 85.65,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 86.3,
-    "fulldayChangePercent": 0.0014007558,
-    "fulldayChange": 0.12000275,
-    "fulldayPrice": 85.79,
+    "regularMarketOpen": 85.87,
+    "fulldayChangePercent": 0.0032386202,
+    "fulldayChange": 0.28020477,
+    "fulldayPrice": 86.58,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -3290,18 +3308,18 @@
     "shortName": "Coca-Cola Company (The)",
     "longName": "The Coca-Cola Company",
     "currency": "USD",
-    "quoteSourceName": "Nasdaq Real Time Price",
+    "quoteSourceName": "Delayed Quote",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 368513318912
+    "marketCap": 372213514240
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 398568357888,
-    "forwardPE": 24.288294,
+    "enterpriseValue": 402268520448,
+    "forwardPE": 24.540869,
     "profitMargins": 0.28558,
     "floatShares": 3874015338,
     "sharesOutstanding": 4302549243,
@@ -3314,11 +3332,11 @@
     "heldPercentInstitutions": 0.68202,
     "shortRatio": 2.77,
     "shortPercentOfFloat": 0.0095,
-    "beta": 0.342,
+    "beta": 0.318,
     "impliedSharesOutstanding": 4302549243,
     "category": null,
     "bookValue": 8.401,
-    "priceToBook": 10.195215,
+    "priceToBook": 10.297584,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -3327,13 +3345,13 @@
     "earningsQuarterlyGrowth": 0.161,
     "netIncomeToCommon": 14316000256,
     "trailingEps": 3.33,
-    "forwardEps": 3.52639,
+    "forwardEps": 3.52514,
     "pegRatio": 3.89,
     "lastSplitFactor": "2:1",
     "lastSplitDate": 1344816000,
-    "enterpriseToRevenue": 7.951,
-    "enterpriseToEbitda": 23.448,
-    "52WeekChange": 0.29576397,
+    "enterpriseToRevenue": 8.025,
+    "enterpriseToEbitda": 23.666,
+    "52WeekChange": 0.2823776,
     "SandP52WeekChange": 0.1457566,
     "lastDividendValue": 0.53,
     "lastDividendDate": "2026-09-15T00:00:00.000Z",
@@ -3545,30 +3563,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 100000,
-        "value": 7946073,
-        "filerUrl": "",
-        "transactionText": "Sale at price 79.46 per share.",
-        "filerName": "MANN JENNIFER K",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-06-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 100000,
-        "value": 4812979,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 45.44 - 59.48 per share.",
-        "filerName": "MANN JENNIFER K",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-06-05T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 444296,
         "value": 35599152,
         "filerUrl": "",
@@ -3581,12 +3575,36 @@
       },
       {
         "maxAge": 1,
+        "shares": 100000,
+        "value": 7946073,
+        "filerUrl": "",
+        "transactionText": "Sale at price 79.46 per share.",
+        "filerName": "MANN JENNIFER K",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-06-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 444296,
         "value": 19760065,
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 44.48 per share.",
         "filerName": "QUINCEY JAMES R.",
         "filerRelation": "Chairman of the Board",
+        "moneyText": "",
+        "startDate": "2026-06-05T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 100000,
+        "value": 4812979,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 45.44 - 59.48 per share.",
+        "filerName": "MANN JENNIFER K",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-06-05T00:00:00.000Z",
         "ownership": "D"
@@ -3653,6 +3671,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 250688,
+        "value": 19839138,
+        "filerUrl": "",
+        "transactionText": "Sale at price 79.05 - 79.14 per share.",
+        "filerName": "QUINCEY JAMES R.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-03-03T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 23556,
         "value": 1872747,
         "filerUrl": "",
@@ -3671,18 +3701,6 @@
         "transactionText": "Sale at price 79.41 per share.",
         "filerName": "PIETRACCI BRUNO",
         "filerRelation": "Divisional Officer",
-        "moneyText": "",
-        "startDate": "2026-03-03T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 250688,
-        "value": 19839138,
-        "filerUrl": "",
-        "transactionText": "Sale at price 79.05 - 79.14 per share.",
-        "filerName": "QUINCEY JAMES R.",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2026-03-03T00:00:00.000Z",
         "ownership": "D"
@@ -3725,18 +3743,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 7440,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MAY ERIN L",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-26T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 36326,
         "value": 2931074,
         "filerUrl": "",
@@ -3761,14 +3767,14 @@
       },
       {
         "maxAge": 1,
-        "shares": 20000,
-        "value": 1603210,
+        "shares": 7440,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 80.16 per share.",
-        "filerName": "DOUGLAS MONICA HOWARD",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MAY ERIN L",
         "filerRelation": "Officer",
         "moneyText": "",
-        "startDate": "2026-02-25T00:00:00.000Z",
+        "startDate": "2026-02-26T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -3779,6 +3785,18 @@
         "transactionText": "Sale at price 80.42 per share.",
         "filerName": "MURPHY JOHN",
         "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2026-02-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 20000,
+        "value": 1603210,
+        "filerUrl": "",
+        "transactionText": "Sale at price 80.16 per share.",
+        "filerName": "DOUGLAS MONICA HOWARD",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-25T00:00:00.000Z",
         "ownership": "D"
@@ -3833,6 +3851,66 @@
       },
       {
         "maxAge": 1,
+        "shares": 46654,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MANN JENNIFER K",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 130633,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "MURPHY JOHN",
+        "filerRelation": "President",
+        "moneyText": "",
+        "startDate": "2026-02-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 74647,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "ARROYO MANUEL",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 335913,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "QUINCEY JAMES R.",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2026-02-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 29859,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "PEREZ BEATRIZ R",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-02-19T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 65317,
         "value": 0,
         "filerUrl": "",
@@ -3875,66 +3953,6 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "ORTEGA LUISA",
         "filerRelation": "Divisional Officer",
-        "moneyText": "",
-        "startDate": "2026-02-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 130633,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MURPHY JOHN",
-        "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2026-02-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 46654,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MANN JENNIFER K",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 74647,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "ARROYO MANUEL",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2026-02-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 335913,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "QUINCEY JAMES R.",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-02-19T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 29859,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "PEREZ BEATRIZ R",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-02-19T00:00:00.000Z",
         "ownership": "D"
@@ -4049,24 +4067,24 @@
       },
       {
         "maxAge": 1,
-        "shares": 13548,
-        "value": 568245,
-        "filerUrl": "",
-        "transactionText": "Conversion of Exercise of derivative security at price 40.89 - 43.52 per share.",
-        "filerName": "DOUGLAS MONICA HOWARD",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-10-24T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 14267,
         "value": 998676,
         "filerUrl": "",
         "transactionText": "Purchase at price 69.87 - 70.31 per share.",
         "filerName": "LEVCHIN MAX R",
         "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-10-24T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 13548,
+        "value": 568245,
+        "filerUrl": "",
+        "transactionText": "Conversion of Exercise of derivative security at price 40.89 - 43.52 per share.",
+        "filerName": "DOUGLAS MONICA HOWARD",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-10-24T00:00:00.000Z",
         "ownership": "D"
@@ -4277,6 +4295,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 13445,
+        "value": 961352,
+        "filerUrl": "",
+        "transactionText": "Sale at price 71.50 per share.",
+        "filerName": "CHANG LISA VIRGINIA",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2025-02-25T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 54953,
         "value": 3921518,
         "filerUrl": "",
@@ -4294,18 +4324,6 @@
         "filerUrl": "",
         "transactionText": "Conversion of Exercise of derivative security at price 43.52 per share.",
         "filerName": "QUAN NANCY W",
-        "filerRelation": "Officer",
-        "moneyText": "",
-        "startDate": "2025-02-25T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 13445,
-        "value": 961352,
-        "filerUrl": "",
-        "transactionText": "Sale at price 71.50 per share.",
-        "filerName": "CHANG LISA VIRGINIA",
         "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-25T00:00:00.000Z",
@@ -4377,20 +4395,8 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "BRAUN HENRIQUE GNANI",
-        "filerRelation": "Chief Operating Officer",
-        "moneyText": "",
-        "startDate": "2025-02-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 33082,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "PIETRACCI BRUNO",
-        "filerRelation": "Divisional Officer",
+        "filerName": "MANN JENNIFER K",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-20T00:00:00.000Z",
         "ownership": "D"
@@ -4403,18 +4409,6 @@
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "MURPHY JOHN",
         "filerRelation": "President",
-        "moneyText": "",
-        "startDate": "2025-02-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 41904,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "MANN JENNIFER K",
-        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2025-02-20T00:00:00.000Z",
         "ownership": "D"
@@ -4469,14 +4463,26 @@
       },
       {
         "maxAge": 1,
-        "shares": 10950,
-        "value": 697673,
+        "shares": 41904,
+        "value": 0,
         "filerUrl": "",
-        "transactionText": "Sale at price 63.71 per share.",
-        "filerName": "DOUGLAS MONICA HOWARD",
-        "filerRelation": "Officer",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "BRAUN HENRIQUE GNANI",
+        "filerRelation": "Chief Operating Officer",
         "moneyText": "",
-        "startDate": "2024-11-22T00:00:00.000Z",
+        "startDate": "2025-02-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 33082,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "PIETRACCI BRUNO",
+        "filerRelation": "Divisional Officer",
+        "moneyText": "",
+        "startDate": "2025-02-20T00:00:00.000Z",
         "ownership": "D"
       },
       {
@@ -4490,6 +4496,18 @@
         "moneyText": "",
         "startDate": "2024-11-22T00:00:00.000Z",
         "ownership": "I"
+      },
+      {
+        "maxAge": 1,
+        "shares": 10950,
+        "value": 697673,
+        "filerUrl": "",
+        "transactionText": "Sale at price 63.71 per share.",
+        "filerName": "DOUGLAS MONICA HOWARD",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2024-11-22T00:00:00.000Z",
+        "ownership": "D"
       },
       {
         "maxAge": 1,
@@ -4508,7 +4526,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 85.65,
+    "currentPrice": 86.51,
     "targetHighPrice": 104,
     "targetLowPrice": 75,
     "targetMeanPrice": 94.65217,
@@ -4538,6 +4556,6 @@
     "profitMargins": 0.28558,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-05T08:14:19.030Z",
+  "lastUpdated": "2026-10-06T08:33:06.684Z",
   "source": "Static Build (yahoo-finance2)"
 }
