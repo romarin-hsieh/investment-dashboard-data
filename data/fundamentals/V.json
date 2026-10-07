@@ -20,6 +20,14 @@
       {
         "period": "-2m",
         "strongBuy": 9,
+        "buy": 27,
+        "hold": 3,
+        "sell": 0,
+        "strongSell": 1
+      },
+      {
+        "period": "-3m",
+        "strongBuy": 9,
         "buy": 29,
         "hold": 3,
         "sell": 0,
@@ -37,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0808,
         "position": 137669061,
-        "value": 50897627365,
+        "value": 51025662785,
         "pctChange": 0.0109
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0623,
         "position": 106150500,
-        "value": 39244900447,
+        "value": 39343622874,
         "pctChange": -0.008
       },
       {
@@ -55,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.048600003,
         "position": 82872209,
-        "value": 30638683681,
+        "value": 30715756757,
         "pctChange": 0.0069
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.027,
         "position": 45960354,
-        "value": 16992002084,
+        "value": 17034746279,
         "pctChange": -0.0004
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.026600001,
         "position": 45285275,
-        "value": 16742418633,
+        "value": 16784534989,
         "pctChange": 0.0089
       },
       {
@@ -82,7 +90,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0252,
         "position": 42929995,
-        "value": 15871648084,
+        "value": 15911573975,
         "pctChange": -0.044099998
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0216,
         "position": 36844619,
-        "value": 13621823775,
+        "value": 13656090125,
         "pctChange": -0.0202
       },
       {
@@ -100,7 +108,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0208,
         "position": 35472043,
-        "value": 13114368714,
+        "value": 13147358537,
         "pctChange": -0.1364
       },
       {
@@ -109,7 +117,7 @@
         "organization": "TCI Fund Management Ltd",
         "pctHeld": 0.0179,
         "position": 30494133,
-        "value": 11273985650,
+        "value": 11302345901,
         "pctChange": 0.00090000004
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Capital World Investors",
         "pctHeld": 0.0166,
         "position": 28269307,
-        "value": 10451445249,
+        "value": 10477736360,
         "pctChange": 0.1228
       }
     ]
@@ -126,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.00085,
-    "institutionsPercentHeld": 0.90137,
-    "institutionsFloatPercentHeld": 0.90213996,
-    "institutionsCount": 5947
+    "institutionsPercentHeld": 0.90141,
+    "institutionsFloatPercentHeld": 0.90217,
+    "institutionsCount": 5949
   },
   "earnings": {
     "maxAge": 86400,
@@ -6278,28 +6286,24 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketChangePercent": 0.0008923621,
-    "preMarketChange": 0.32998657,
-    "preMarketTime": "2026-10-06T08:18:38.000Z",
-    "preMarketPrice": 370.12,
     "preMarketSource": "FREE_REALTIME",
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.0250929,
-    "regularMarketChange": 9.04999,
-    "regularMarketTime": "2026-10-05T20:00:02.000Z",
+    "regularMarketChangePercent": 0.00251555,
+    "regularMarketChange": 0.930023,
+    "regularMarketTime": "2026-10-06T20:00:03.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 369.71,
-    "regularMarketDayHigh": 370.165,
-    "regularMarketDayLow": 359.05,
-    "regularMarketVolume": 4521760,
-    "averageDailyVolume10Day": 5854560,
-    "averageDailyVolume3Month": 6706398,
-    "regularMarketPreviousClose": 360.66,
+    "regularMarketPrice": 370.64,
+    "regularMarketDayHigh": 371.84,
+    "regularMarketDayLow": 368.15,
+    "regularMarketVolume": 3534296,
+    "averageDailyVolume10Day": 5072150,
+    "averageDailyVolume3Month": 6612943,
+    "regularMarketPreviousClose": 369.71,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 359.49,
-    "fulldayChangePercent": 0.0008923621,
-    "fulldayChange": 0.32998657,
-    "fulldayPrice": 370.12,
+    "regularMarketOpen": 368.79,
+    "fulldayChangePercent": 0.0031646788,
+    "fulldayChange": 1.1700134,
+    "fulldayPrice": 370.64,
     "exchange": "NYQ",
     "exchangeName": "NYSE",
     "exchangeDataDelayedBy": 0,
@@ -6315,13 +6319,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 694077030400
+    "marketCap": 695822974976
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 690096766976,
-    "forwardPE": 24.640268,
+    "enterpriseValue": 691806076928,
+    "forwardPE": 24.702253,
     "profitMargins": 0.50782,
     "floatShares": 1703524695,
     "sharesOutstanding": 1704112694,
@@ -6331,14 +6335,14 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0099,
     "heldPercentInsiders": 0.00085,
-    "heldPercentInstitutions": 0.90137,
+    "heldPercentInstitutions": 0.90141,
     "shortRatio": 3.03,
     "shortPercentOfFloat": 0.0109,
     "beta": 0.771,
     "impliedSharesOutstanding": 1877355259,
     "category": null,
     "bookValue": 18.87,
-    "priceToBook": 19.592474,
+    "priceToBook": 19.64176,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-09-30T00:00:00.000Z",
@@ -6348,13 +6352,13 @@
     "netIncomeToCommon": 22397999104,
     "trailingEps": 11.75,
     "forwardEps": 15.0043,
-    "pegRatio": 1.63,
+    "pegRatio": 1.67,
     "lastSplitFactor": "4:1",
     "lastSplitDate": 1426723200,
-    "enterpriseToRevenue": 15.512,
-    "enterpriseToEbitda": 22.194,
-    "52WeekChange": 0.023381233,
-    "SandP52WeekChange": 0.1457566,
+    "enterpriseToRevenue": 15.55,
+    "enterpriseToEbitda": 22.249,
+    "52WeekChange": 0.054872513,
+    "SandP52WeekChange": 0.16446877,
     "lastDividendValue": 0.67,
     "lastDividendDate": "2026-08-11T00:00:00.000Z",
     "latestShareClass": null,
@@ -7712,7 +7716,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "CARNEY LLOYD",
+        "filerName": "LUNDGREN JOHN F",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-01-28T00:00:00.000Z",
@@ -7724,7 +7728,7 @@
         "value": 0,
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "LUNDGREN JOHN F",
+        "filerName": "CARNEY LLOYD",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2025-01-28T00:00:00.000Z",
@@ -7988,7 +7992,7 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 369.71,
+    "currentPrice": 370.64,
     "targetHighPrice": 466,
     "targetLowPrice": 330,
     "targetMeanPrice": 419.36163,
@@ -8018,6 +8022,6 @@
     "profitMargins": 0.50782,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-06T08:33:51.823Z",
+  "lastUpdated": "2026-10-07T08:09:45.038Z",
   "source": "Static Build (yahoo-finance2)"
 }

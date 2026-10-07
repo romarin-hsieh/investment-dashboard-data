@@ -6,8 +6,8 @@
         "strongBuy": 10,
         "buy": 30,
         "hold": 12,
-        "sell": 0,
-        "strongSell": 1
+        "sell": 1,
+        "strongSell": 0
       },
       {
         "period": "-1m",
@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.021300001,
         "position": 21846397,
-        "value": 5956857363,
+        "value": 6092085947,
         "pctChange": 0.0221
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.015800001,
         "position": 16205746,
-        "value": 4418820979,
+        "value": 4519134092,
         "pctChange": 0.0150999995
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0113,
         "position": 11583850,
-        "value": 3158568535,
+        "value": 3230272241,
         "pctChange": 0.0401
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0082,
         "position": 8392874,
-        "value": 2288485066,
+        "value": 2340436720,
         "pctChange": 0.096
       },
       {
@@ -81,7 +81,7 @@
         "organization": "JPMORGAN CHASE & CO",
         "pctHeld": 0.008,
         "position": 8174463,
-        "value": 2228930935,
+        "value": 2279530632,
         "pctChange": 1.278
       },
       {
@@ -90,7 +90,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.0076,
         "position": 7847117,
-        "value": 2139673497,
+        "value": 2188246931,
         "pctChange": 1.281
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0063,
         "position": 6494547,
-        "value": 1770868217,
+        "value": 1811069281,
         "pctChange": -0.0097
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0058999998,
         "position": 6083339,
-        "value": 1658744126,
+        "value": 1696399824,
         "pctChange": 0.0143
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0058,
         "position": 5956872,
-        "value": 1624260368,
+        "value": 1661133238,
         "pctChange": -0.0127
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Price (T.Rowe) Associates Inc",
         "pctHeld": 0.0042,
         "position": 4308771,
-        "value": 1174872646,
+        "value": 1201543817,
         "pctChange": 0.0377
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.01363,
-    "institutionsPercentHeld": 0.77803004,
-    "institutionsFloatPercentHeld": 0.78878,
-    "institutionsCount": 3157
+    "institutionsPercentHeld": 0.77843004,
+    "institutionsFloatPercentHeld": 0.78919,
+    "institutionsCount": 3161
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-10-06T12:37:23.000Z",
+        "firm": "StoneX",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "main",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 325,
+        "priorPriceTarget": 250
+      },
       {
         "epochGradeDate": "2026-10-02T13:53:59.000Z",
         "firm": "TD Cowen",
@@ -8736,28 +8746,28 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketChangePercent": 0.00927861,
-    "preMarketChange": 2.5299988,
-    "preMarketTime": "2026-10-06T08:30:05.000Z",
-    "preMarketPrice": 275.2,
-    "preMarketSource": "DELAYED",
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.009739321,
-    "regularMarketChange": 2.63,
-    "regularMarketTime": "2026-10-05T20:00:01.000Z",
+    "preMarketChangePercent": 0.004124021,
+    "preMarketChange": 1.1500244,
+    "preMarketTime": "2026-10-07T08:05:57.000Z",
+    "preMarketPrice": 280.01,
+    "preMarketSource": "FREE_REALTIME",
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.022701299,
+    "regularMarketChange": 6.18997,
+    "regularMarketTime": "2026-10-06T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 272.67,
-    "regularMarketDayHigh": 274.23,
-    "regularMarketDayLow": 268.33,
-    "regularMarketVolume": 4829740,
-    "averageDailyVolume10Day": 8920610,
-    "averageDailyVolume3Month": 9645965,
-    "regularMarketPreviousClose": 270.04,
+    "regularMarketPrice": 278.86,
+    "regularMarketDayHigh": 286.9899,
+    "regularMarketDayLow": 276,
+    "regularMarketVolume": 7934316,
+    "averageDailyVolume10Day": 8066670,
+    "averageDailyVolume3Month": 9571077,
+    "regularMarketPreviousClose": 272.67,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 271.13,
-    "fulldayChangePercent": 0.009755283,
-    "fulldayChange": 2.6599731,
-    "fulldayPrice": 275.2,
+    "regularMarketOpen": 278.11,
+    "fulldayChangePercent": 0.004124021,
+    "fulldayChange": 1.1500244,
+    "fulldayPrice": 280.01,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -8768,18 +8778,18 @@
     "shortName": "CrowdStrike Holdings, Inc.",
     "longName": "CrowdStrike Holdings, Inc.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 279196336128
+    "marketCap": 285534453760
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 275040436224,
-    "forwardPE": 169.7916,
+    "enterpriseValue": 281378619392,
+    "forwardPE": 173.64609,
     "profitMargins": 0.00834,
     "floatShares": 1007469970,
     "sharesOutstanding": 1023934842,
@@ -8789,29 +8799,29 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0273,
     "heldPercentInsiders": 0.01363,
-    "heldPercentInstitutions": 0.77803004,
+    "heldPercentInstitutions": 0.77843004,
     "shortRatio": 2.41,
     "shortPercentOfFloat": 0.0277,
     "beta": 1.197,
     "impliedSharesOutstanding": 1023934842,
     "category": null,
     "bookValue": 4.983,
-    "priceToBook": 54.720055,
+    "priceToBook": 55.962273,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2026-01-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2027-01-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-07-31T00:00:00.000Z",
     "netIncomeToCommon": 44995000,
-    "trailingEps": 0.06,
+    "trailingEps": 0.05,
     "forwardEps": 1.60591,
-    "pegRatio": 6.97,
+    "pegRatio": 7.04,
     "lastSplitFactor": "4:1",
     "lastSplitDate": 1782950400,
-    "enterpriseToRevenue": 50.97,
-    "enterpriseToEbitda": 2573.815,
-    "52WeekChange": 1.2288804,
-    "SandP52WeekChange": 0.1457566,
+    "enterpriseToRevenue": 52.144,
+    "enterpriseToEbitda": 2633.127,
+    "52WeekChange": 1.138798,
+    "SandP52WeekChange": 0.16446877,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -8838,6 +8848,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 24776,
+        "value": 6509118,
+        "filerUrl": "",
+        "transactionText": "Sale at price 259.95 - 264.60 per share.",
+        "filerName": "SAHA ANURAG",
+        "filerRelation": "Officer",
+        "moneyText": "",
+        "startDate": "2026-10-01T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 20000,
@@ -9931,10 +9953,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 1809,
-        "value": 1404909,
+        "shares": 3191,
+        "value": 2419423,
         "filerUrl": "",
-        "transactionText": "Sale at price 767.55 - 784.11 per share.",
+        "transactionText": "Sale at price 738.13 - 766.17 per share.",
         "filerName": "GANDHI SAMEER K.",
         "filerRelation": "Director",
         "moneyText": "",
@@ -9943,10 +9965,10 @@
       },
       {
         "maxAge": 1,
-        "shares": 3191,
-        "value": 2419423,
+        "shares": 1809,
+        "value": 1404909,
         "filerUrl": "",
-        "transactionText": "Sale at price 738.13 - 766.17 per share.",
+        "transactionText": "Sale at price 767.55 - 784.11 per share.",
         "filerName": "GANDHI SAMEER K.",
         "filerRelation": "Director",
         "moneyText": "",
@@ -10518,18 +10540,6 @@
       },
       {
         "maxAge": 1,
-        "shares": 30,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
-        "filerName": "FLOWER JOHANNA",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2026-03-20T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
         "shares": 72,
         "value": 0,
         "filerUrl": "",
@@ -10547,6 +10557,18 @@
         "filerUrl": "",
         "transactionText": "Stock Award(Grant) at price 0.00 per share.",
         "filerName": "O'LEARY DENIS J",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-03-20T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 30,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Award(Grant) at price 0.00 per share.",
+        "filerName": "FLOWER JOHANNA",
         "filerRelation": "Director",
         "moneyText": "",
         "startDate": "2026-03-20T00:00:00.000Z",
@@ -10623,30 +10645,18 @@
         "moneyText": "",
         "startDate": "2026-02-04T00:00:00.000Z",
         "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 28853,
-        "value": 11916487,
-        "filerUrl": "",
-        "transactionText": "Sale at price 402.55 - 421.33 per share.",
-        "filerName": "KURTZ GEORGE ROBERT",
-        "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-02-04T00:00:00.000Z",
-        "ownership": "D"
       }
     ],
     "maxAge": 1
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 272.67,
-    "targetHighPrice": 300,
+    "currentPrice": 278.86,
+    "targetHighPrice": 325,
     "targetLowPrice": 132,
-    "targetMeanPrice": 236.27,
+    "targetMeanPrice": 237.77,
     "targetMedianPrice": 245,
-    "recommendationMean": 1.69811,
+    "recommendationMean": 1.71698,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 50,
     "totalCash": 5013847040,
@@ -10670,6 +10680,6 @@
     "profitMargins": 0.00834,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-06T08:31:45.004Z",
+  "lastUpdated": "2026-10-07T08:07:38.761Z",
   "source": "Static Build (yahoo-finance2)"
 }

@@ -12,13 +12,21 @@
       {
         "period": "-1m",
         "strongBuy": 6,
+        "buy": 15,
+        "hold": 1,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
+        "strongBuy": 6,
         "buy": 12,
         "hold": 0,
         "sell": 0,
         "strongSell": 0
       },
       {
-        "period": "-2m",
+        "period": "-3m",
         "strongBuy": 6,
         "buy": 11,
         "hold": 0,
@@ -37,7 +45,7 @@
         "organization": "Coatue Management LLC",
         "pctHeld": 0.0788,
         "position": 9715476,
-        "value": 867300509,
+        "value": 895961208,
         "pctChange": 1
       },
       {
@@ -46,7 +54,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.076799996,
         "position": 9470255,
-        "value": 845409632,
+        "value": 873346927,
         "pctChange": 0.098000005
       },
       {
@@ -55,7 +63,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0506,
         "position": 6231538,
-        "value": 556289376,
+        "value": 574672441,
         "pctChange": 0.2916
       },
       {
@@ -64,7 +72,7 @@
         "organization": "Lone Pine Capital Llc",
         "pctHeld": 0.0468,
         "position": 5773045,
-        "value": 515359707,
+        "value": 532390216,
         "pctChange": -0.050300002
       },
       {
@@ -73,7 +81,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.037,
         "position": 4554558,
-        "value": 406585377,
+        "value": 420021344,
         "pctChange": 0.0253
       },
       {
@@ -82,7 +90,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0269,
         "position": 3320981,
-        "value": 296463962,
+        "value": 306260871,
         "pctChange": 2.1481
       },
       {
@@ -91,7 +99,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0224,
         "position": 2755313,
-        "value": 245966782,
+        "value": 254094968,
         "pctChange": -0.0582
       },
       {
@@ -100,7 +108,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.021,
         "position": 2592537,
-        "value": 231435769,
+        "value": 239083765,
         "pctChange": 0.0195
       },
       {
@@ -109,7 +117,7 @@
         "organization": "T. Rowe Price Investment Management, Inc.",
         "pctHeld": 0.016,
         "position": 1972657,
-        "value": 176099083,
+        "value": 181918430,
         "pctChange": 0.0341
       },
       {
@@ -118,7 +126,7 @@
         "organization": "Shaw D.E. & Co., Inc.",
         "pctHeld": 0.0155,
         "position": 1912131,
-        "value": 170695927,
+        "value": 176336723,
         "pctChange": -0.36310002
       }
     ]
@@ -126,8 +134,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.085489996,
-    "institutionsPercentHeld": 0.81749,
-    "institutionsFloatPercentHeld": 0.89391,
+    "institutionsPercentHeld": 0.81903,
+    "institutionsFloatPercentHeld": 0.89559,
     "institutionsCount": 570
   },
   "earnings": {
@@ -1492,28 +1500,28 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketChangePercent": -0.01235574,
-    "preMarketChange": -1.1029968,
-    "preMarketTime": "2026-10-06T08:25:20.000Z",
-    "preMarketPrice": 88.167,
-    "preMarketSource": "DELAYED",
-    "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": -0.00401652,
-    "regularMarketChange": -0.360001,
-    "regularMarketTime": "2026-10-05T20:00:01.000Z",
+    "preMarketChangePercent": -0.012144901,
+    "preMarketChange": -1.1200027,
+    "preMarketTime": "2026-10-07T08:01:02.000Z",
+    "preMarketPrice": 91.1,
+    "preMarketSource": "FREE_REALTIME",
+    "postMarketSource": "FREE_REALTIME",
+    "regularMarketChangePercent": 0.0330459,
+    "regularMarketChange": 2.95,
+    "regularMarketTime": "2026-10-06T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 89.27,
-    "regularMarketDayHigh": 90.1,
-    "regularMarketDayLow": 84.8,
-    "regularMarketVolume": 3358586,
-    "averageDailyVolume10Day": 4055420,
-    "averageDailyVolume3Month": 4588838,
-    "regularMarketPreviousClose": 89.63,
+    "regularMarketPrice": 92.22,
+    "regularMarketDayHigh": 93.79,
+    "regularMarketDayLow": 88.63,
+    "regularMarketVolume": 5712343,
+    "averageDailyVolume10Day": 3831690,
+    "averageDailyVolume3Month": 4577828,
+    "regularMarketPreviousClose": 89.27,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 90,
-    "fulldayChangePercent": -0.003024495,
-    "fulldayChange": -0.26999664,
-    "fulldayPrice": 88.167,
+    "regularMarketOpen": 91.85,
+    "fulldayChangePercent": -0.012144901,
+    "fulldayChange": -1.1200027,
+    "fulldayPrice": 91.1,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -1524,18 +1532,18 @@
     "shortName": "Hut 8 Corp.",
     "longName": "Hut 8 Corp.",
     "currency": "USD",
-    "quoteSourceName": "Delayed Quote",
+    "quoteSourceName": "Nasdaq Real Time Price",
     "currencySymbol": "$",
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 11003372544
+    "marketCap": 11366988800
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 18750046208,
-    "forwardPE": -16.784933,
+    "enterpriseValue": 19113662464,
+    "forwardPE": -17.339605,
     "profitMargins": -1.8858501,
     "floatShares": 103036287,
     "sharesOutstanding": 123259468,
@@ -1545,28 +1553,28 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.1353,
     "heldPercentInsiders": 0.085489996,
-    "heldPercentInstitutions": 0.81749,
+    "heldPercentInstitutions": 0.81903,
     "shortRatio": 3.43,
     "shortPercentOfFloat": 0.1479,
     "beta": 5.916,
     "impliedSharesOutstanding": 123259468,
     "category": null,
     "bookValue": 11.71,
-    "priceToBook": 7.6233983,
+    "priceToBook": 7.8753204,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -599235968,
-    "trailingEps": -5.42,
+    "trailingEps": -5.59,
     "forwardEps": -5.31846,
     "lastSplitFactor": "1:5",
     "lastSplitDate": 1701648000,
-    "enterpriseToRevenue": 58.971,
-    "enterpriseToEbitda": -23.756,
-    "52WeekChange": 1.1478553,
-    "SandP52WeekChange": 0.1457566,
+    "enterpriseToRevenue": 60.115,
+    "enterpriseToEbitda": -24.217,
+    "52WeekChange": 1.0015695,
+    "SandP52WeekChange": 0.16446877,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1802,22 +1810,22 @@
       },
       {
         "maxAge": 1,
-        "shares": 14556,
+        "shares": 10398,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "SEMAH VICTOR",
-        "filerRelation": "Officer",
+        "filerName": "GLENNAN SEAN JOSEPH",
+        "filerRelation": "Chief Financial Officer",
         "moneyText": "",
         "startDate": "2026-03-06T00:00:00.000Z",
         "ownership": "D"
       },
       {
         "maxAge": 1,
-        "shares": 10398,
+        "shares": 14556,
         "filerUrl": "",
         "transactionText": "",
-        "filerName": "GLENNAN SEAN JOSEPH",
-        "filerRelation": "Chief Financial Officer",
+        "filerName": "SEMAH VICTOR",
+        "filerRelation": "Officer",
         "moneyText": "",
         "startDate": "2026-03-06T00:00:00.000Z",
         "ownership": "D"
@@ -1975,11 +1983,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 89.27,
+    "currentPrice": 92.22,
     "targetHighPrice": 273,
     "targetLowPrice": 96,
-    "targetMeanPrice": 157.09091,
-    "targetMedianPrice": 146.5,
+    "targetMeanPrice": 156.04546,
+    "targetMedianPrice": 143,
     "recommendationMean": 1.36364,
     "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 22,
@@ -2004,6 +2012,6 @@
     "profitMargins": -1.8858501,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-06T08:32:50.903Z",
+  "lastUpdated": "2026-10-07T08:08:41.714Z",
   "source": "Static Build (yahoo-finance2)"
 }

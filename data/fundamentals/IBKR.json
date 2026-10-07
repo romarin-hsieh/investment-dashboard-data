@@ -45,7 +45,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0731,
         "position": 33129663,
-        "value": 2950196591,
+        "value": 3000884935,
         "pctChange": 0.0559
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0626,
         "position": 28349920,
-        "value": 2524560462,
+        "value": 2567935805,
         "pctChange": 0.006
       },
       {
@@ -63,7 +63,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0429,
         "position": 19437767,
-        "value": 1730933210,
+        "value": 1760672970,
         "pctChange": 0.018099999
       },
       {
@@ -72,7 +72,7 @@
         "organization": "FMR, LLC",
         "pctHeld": 0.026099999,
         "position": 11828151,
-        "value": 1053296882,
+        "value": 1071393939,
         "pctChange": -0.0538
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0235,
         "position": 10641906,
-        "value": 947661761,
+        "value": 963943864,
         "pctChange": 0.019
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Greenwich Wealth Management Llc",
         "pctHeld": 0.0219,
         "position": 9921755,
-        "value": 883532313,
+        "value": 898712586,
         "pctChange": -0.0002
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Invesco Ltd.",
         "pctHeld": 0.0214,
         "position": 9708980,
-        "value": 864584698,
+        "value": 879439426,
         "pctChange": 0.0064
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.019299999,
         "position": 8724292,
-        "value": 776898229,
+        "value": 790246385,
         "pctChange": -0.41779998
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Two Sigma Investments, LP",
         "pctHeld": 0.0184,
         "position": 8340400,
-        "value": 742712645,
+        "value": 755473447,
         "pctChange": 0.0033000002
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Wellington Management Group, LLP",
         "pctHeld": 0.0163,
         "position": 7382141,
-        "value": 657379678,
+        "value": 668674345,
         "pctChange": -0.2448
       }
     ]
@@ -134,9 +134,9 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.026659999,
-    "institutionsPercentHeld": 0.88528997,
-    "institutionsFloatPercentHeld": 0.90954,
-    "institutionsCount": 1510
+    "institutionsPercentHeld": 0.88522005,
+    "institutionsFloatPercentHeld": 0.90946996,
+    "institutionsCount": 1508
   },
   "earnings": {
     "maxAge": 86400,
@@ -261,6 +261,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-10-06T12:36:49.000Z",
+        "firm": "BMO Capital",
+        "toGrade": "Outperform",
+        "fromGrade": "Outperform",
+        "action": "main",
+        "priceTargetAction": "Lowers",
+        "currentPriceTarget": 105,
+        "priorPriceTarget": 110
+      },
       {
         "epochGradeDate": "2026-10-05T18:24:12.000Z",
         "firm": "B of A Securities",
@@ -1586,28 +1596,24 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketChangePercent": 0.0066254498,
-    "preMarketChange": 0.58999634,
-    "preMarketTime": "2026-10-06T08:30:53.000Z",
-    "preMarketPrice": 89.64,
     "preMarketSource": "DELAYED",
     "postMarketSource": "DELAYED",
-    "regularMarketChangePercent": 0.00849377,
-    "regularMarketChange": 0.75,
-    "regularMarketTime": "2026-10-05T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0171813,
+    "regularMarketChange": 1.53,
+    "regularMarketTime": "2026-10-06T20:00:01.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 89.05,
-    "regularMarketDayHigh": 89.56,
-    "regularMarketDayLow": 88.09,
-    "regularMarketVolume": 2935360,
-    "averageDailyVolume10Day": 3966710,
-    "averageDailyVolume3Month": 4159081,
-    "regularMarketPreviousClose": 88.3,
+    "regularMarketPrice": 90.58,
+    "regularMarketDayHigh": 91.8472,
+    "regularMarketDayLow": 89.0601,
+    "regularMarketVolume": 3416399,
+    "averageDailyVolume10Day": 3848630,
+    "averageDailyVolume3Month": 4123096,
+    "regularMarketPreviousClose": 89.05,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 88.9,
-    "fulldayChangePercent": 0.009173245,
-    "fulldayChange": 0.80999756,
-    "fulldayPrice": 89.64,
+    "regularMarketOpen": 89.12,
+    "fulldayChangePercent": 0.017181344,
+    "fulldayChange": 1.5299988,
+    "fulldayPrice": 90.58,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
     "exchangeDataDelayedBy": 0,
@@ -1623,13 +1629,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 151724785664
+    "marketCap": 154331611136
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": -28387389440,
-    "forwardPE": 27.54314,
+    "enterpriseValue": -27694178304,
+    "forwardPE": 28.016369,
     "profitMargins": 0.16474001,
     "floatShares": 439168671,
     "sharesOutstanding": 453077771,
@@ -1639,14 +1645,14 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0274,
     "heldPercentInsiders": 0.026659999,
-    "heldPercentInstitutions": 0.88528997,
+    "heldPercentInstitutions": 0.88522005,
     "shortRatio": 3.27,
     "shortPercentOfFloat": 0.0317,
     "beta": 1.37,
     "impliedSharesOutstanding": 1703815587,
     "category": null,
     "bookValue": 13.103,
-    "priceToBook": 6.796154,
+    "priceToBook": 6.912921,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
@@ -1655,13 +1661,13 @@
     "earningsQuarterlyGrowth": 0.393,
     "netIncomeToCommon": 1126000000,
     "trailingEps": 2.52,
-    "forwardEps": 3.21784,
-    "pegRatio": 1.43,
+    "forwardEps": 3.23022,
+    "pegRatio": 1.44,
     "lastSplitFactor": "4:1",
     "lastSplitDate": 1750204800,
-    "enterpriseToRevenue": -4.153,
-    "52WeekChange": 0.26849592,
-    "SandP52WeekChange": 0.1457566,
+    "enterpriseToRevenue": -4.052,
+    "52WeekChange": 0.30612838,
+    "SandP52WeekChange": 0.16446877,
     "lastDividendValue": 0.088,
     "lastDividendDate": "2026-09-01T00:00:00.000Z",
     "latestShareClass": null,
@@ -1689,6 +1695,18 @@
   },
   "insiderTransactions": {
     "transactions": [
+      {
+        "maxAge": 1,
+        "shares": 25,
+        "value": 2136,
+        "filerUrl": "",
+        "transactionText": "Purchase at price 85.42 per share.",
+        "filerName": "CONKLING LORI A",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2026-10-01T00:00:00.000Z",
+        "ownership": "D"
+      },
       {
         "maxAge": 1,
         "shares": 25,
@@ -2510,11 +2528,11 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 89.05,
+    "currentPrice": 90.58,
     "targetHighPrice": 121,
     "targetLowPrice": 70,
-    "targetMeanPrice": 105.54286,
-    "targetMedianPrice": 108.5,
+    "targetMeanPrice": 105.18571,
+    "targetMedianPrice": 106.5,
     "recommendationMean": 1.86667,
     "recommendationKey": "buy",
     "numberOfAnalystOpinions": 14,
@@ -2538,6 +2556,6 @@
     "profitMargins": 0.16474001,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-06T08:31:28.766Z",
+  "lastUpdated": "2026-10-07T08:07:23.090Z",
   "source": "Static Build (yahoo-finance2)"
 }
