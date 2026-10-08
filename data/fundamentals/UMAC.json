@@ -11,6 +11,14 @@
       },
       {
         "period": "-1m",
+        "strongBuy": 3,
+        "buy": 5,
+        "hold": 0,
+        "sell": 0,
+        "strongSell": 0
+      },
+      {
+        "period": "-2m",
         "strongBuy": 2,
         "buy": 5,
         "hold": 0,
@@ -29,7 +37,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.073,
         "position": 3648657,
-        "value": 81583972,
+        "value": 79832612,
         "pctChange": 1.5508
       },
       {
@@ -38,7 +46,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.0382,
         "position": 1907459,
-        "value": 42650784,
+        "value": 41735201,
         "pctChange": 0.070700005
       },
       {
@@ -47,7 +55,7 @@
         "organization": "State Street Corporation",
         "pctHeld": 0.0324,
         "position": 1618266,
-        "value": 36184428,
+        "value": 35407658,
         "pctChange": 0.6418
       },
       {
@@ -56,7 +64,7 @@
         "organization": "Halter Ferguson Financial Inc.                          ",
         "pctHeld": 0.0307,
         "position": 1532348,
-        "value": 34263302,
+        "value": 33527772,
         "pctChange": 1
       },
       {
@@ -65,7 +73,7 @@
         "organization": "Hood River Capital Management LLC",
         "pctHeld": 0.03,
         "position": 1496374,
-        "value": 33458923,
+        "value": 32740661,
         "pctChange": 2.3141
       },
       {
@@ -74,7 +82,7 @@
         "organization": "Ameriprise Financial, Inc.",
         "pctHeld": 0.028099999,
         "position": 1405902,
-        "value": 31435969,
+        "value": 30761134,
         "pctChange": -0.3045
       },
       {
@@ -83,7 +91,7 @@
         "organization": "Schonfeld Strategic Advisors Llc",
         "pctHeld": 0.025999999,
         "position": 1299797,
-        "value": 29063461,
+        "value": 28439557,
         "pctChange": 46.5663
       },
       {
@@ -92,7 +100,7 @@
         "organization": "Frontier Capital Management Company LLC",
         "pctHeld": 0.0234,
         "position": 1168543,
-        "value": 26128622,
+        "value": 25567719,
         "pctChange": 1
       },
       {
@@ -101,7 +109,7 @@
         "organization": "Geode Capital Management, LLC",
         "pctHeld": 0.0224,
         "position": 1116936,
-        "value": 24974689,
+        "value": 24438558,
         "pctChange": 2.0199
       },
       {
@@ -110,7 +118,7 @@
         "organization": "Morgan Stanley",
         "pctHeld": 0.0198,
         "position": 986642,
-        "value": 22061315,
+        "value": 21587726,
         "pctChange": 2.6819
       }
     ]
@@ -118,8 +126,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.05967,
-    "institutionsPercentHeld": 0.62187,
-    "institutionsFloatPercentHeld": 0.66133004,
+    "institutionsPercentHeld": 0.62188,
+    "institutionsFloatPercentHeld": 0.66134,
     "institutionsCount": 243
   },
   "earnings": {
@@ -239,6 +247,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-10-07T10:36:06.000Z",
+        "firm": "Needham",
+        "toGrade": "Buy",
+        "fromGrade": "Buy",
+        "action": "reit",
+        "priceTargetAction": "Maintains",
+        "currentPriceTarget": 40,
+        "priorPriceTarget": 40
+      },
       {
         "epochGradeDate": "2026-08-12T09:08:07.000Z",
         "firm": "Piper Sandler",
@@ -434,28 +452,28 @@
   },
   "price": {
     "maxAge": 1,
-    "preMarketChangePercent": -0.0013455402,
-    "preMarketChange": -0.030099869,
-    "preMarketTime": "2026-10-07T08:00:07.000Z",
-    "preMarketPrice": 22.34,
+    "preMarketChangePercent": -0.0053886212,
+    "preMarketChange": -0.11800003,
+    "preMarketTime": "2026-10-08T08:16:57.000Z",
+    "preMarketPrice": 21.78,
     "preMarketSource": "FREE_REALTIME",
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0242785,
-    "regularMarketChange": 0.530001,
-    "regularMarketTime": "2026-10-06T20:00:00.000Z",
+    "regularMarketChangePercent": -0.021466998,
+    "regularMarketChange": -0.480001,
+    "regularMarketTime": "2026-10-07T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 22.36,
-    "regularMarketDayHigh": 22.9299,
-    "regularMarketDayLow": 22,
-    "regularMarketVolume": 2161719,
-    "averageDailyVolume10Day": 2623950,
-    "averageDailyVolume3Month": 3598768,
-    "regularMarketPreviousClose": 21.83,
+    "regularMarketPrice": 21.88,
+    "regularMarketDayHigh": 22.235,
+    "regularMarketDayLow": 20.64,
+    "regularMarketVolume": 3653541,
+    "averageDailyVolume10Day": 2642170,
+    "averageDailyVolume3Month": 3582729,
+    "regularMarketPreviousClose": 22.36,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 22.18,
-    "fulldayChangePercent": -0.0013455402,
-    "fulldayChange": -0.030099869,
-    "fulldayPrice": 22.34,
+    "regularMarketOpen": 21.6,
+    "fulldayChangePercent": -0.0053886212,
+    "fulldayChange": -0.11800003,
+    "fulldayPrice": 21.78,
     "exchange": "ASE",
     "exchangeName": "NYSE American",
     "exchangeDataDelayedBy": 0,
@@ -471,13 +489,13 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 1117027456
+    "marketCap": 1093048320
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 803811264,
-    "forwardPE": -69.15536,
+    "enterpriseValue": 779832128,
+    "forwardPE": -67.6708,
     "profitMargins": -0.20292,
     "floatShares": 47474666,
     "sharesOutstanding": 49956505,
@@ -487,27 +505,27 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.17889999,
     "heldPercentInsiders": 0.05967,
-    "heldPercentInstitutions": 0.62187,
+    "heldPercentInstitutions": 0.62188,
     "shortRatio": 2.44,
     "shortPercentOfFloat": 0.1859,
     "beta": 14.735,
     "impliedSharesOutstanding": 49956505,
     "category": null,
     "bookValue": 7.768,
-    "priceToBook": 2.878476,
+    "priceToBook": 2.8166838,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -6463158,
-    "trailingEps": -0.25,
+    "trailingEps": -0.24,
     "forwardEps": -0.32333,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 25.236,
-    "enterpriseToEbitda": -27.205,
-    "52WeekChange": 0.3652283,
-    "SandP52WeekChange": 0.16446877,
+    "enterpriseToRevenue": 24.484,
+    "enterpriseToEbitda": -26.393,
+    "52WeekChange": 0.42966747,
+    "SandP52WeekChange": 0.157722,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -860,6 +878,30 @@
       },
       {
         "maxAge": 1,
+        "shares": 11087,
+        "value": 128831,
+        "filerUrl": "",
+        "transactionText": "Sale at price 11.62 per share.",
+        "filerName": "RICH SANFORD",
+        "filerRelation": "Director",
+        "moneyText": "",
+        "startDate": "2025-12-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
+        "shares": 11087,
+        "value": 128831,
+        "filerUrl": "",
+        "transactionText": "Sale at price 11.62 per share.",
+        "filerName": "EVANS ALLAN THOMAS",
+        "filerRelation": "Chief Executive Officer",
+        "moneyText": "",
+        "startDate": "2025-12-29T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 65789,
         "value": 130920,
         "filerUrl": "",
@@ -890,30 +932,6 @@
         "transactionText": "Conversion of Exercise of derivative security at price 1.99 per share.",
         "filerName": "LOWRY ROBERT PAUL",
         "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-12-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 11087,
-        "value": 128831,
-        "filerUrl": "",
-        "transactionText": "Sale at price 11.62 per share.",
-        "filerName": "RICH SANFORD",
-        "filerRelation": "Director",
-        "moneyText": "",
-        "startDate": "2025-12-29T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 11087,
-        "value": 128831,
-        "filerUrl": "",
-        "transactionText": "Sale at price 11.62 per share.",
-        "filerName": "EVANS ALLAN THOMAS",
-        "filerRelation": "Chief Executive Officer",
         "moneyText": "",
         "startDate": "2025-12-29T00:00:00.000Z",
         "ownership": "D"
@@ -1523,12 +1541,13 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 22.36,
+    "currentPrice": 21.88,
     "targetHighPrice": 45,
     "targetLowPrice": 30,
     "targetMeanPrice": 39,
     "targetMedianPrice": 40,
-    "recommendationKey": "none",
+    "recommendationMean": 1.375,
+    "recommendationKey": "strong_buy",
     "numberOfAnalystOpinions": 8,
     "totalCash": 316372224,
     "totalCashPerShare": 6.333,
@@ -1551,6 +1570,6 @@
     "profitMargins": -0.20292,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-07T08:07:52.880Z",
+  "lastUpdated": "2026-10-08T08:23:59.274Z",
   "source": "Static Build (yahoo-finance2)"
 }
