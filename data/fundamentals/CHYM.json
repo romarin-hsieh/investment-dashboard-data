@@ -4,8 +4,8 @@
       {
         "period": "0m",
         "strongBuy": 6,
-        "buy": 15,
-        "hold": 2,
+        "buy": 16,
+        "hold": 1,
         "sell": 0,
         "strongSell": 0
       },
@@ -45,7 +45,7 @@
         "organization": "Galileo (ptc) Ltd",
         "pctHeld": 0.1506,
         "position": 52268715,
-        "value": 1459865225,
+        "value": 1513701938,
         "pctChange": 0
       },
       {
@@ -54,7 +54,7 @@
         "organization": "Crosslink Capital Inc",
         "pctHeld": 0.075500004,
         "position": 26185368,
-        "value": 731357336,
+        "value": 758328233,
         "pctChange": 0
       },
       {
@@ -63,7 +63,7 @@
         "organization": "General Atlantic, L.P.",
         "pctHeld": 0.061300002,
         "position": 21259683,
-        "value": 593782952,
+        "value": 615680400,
         "pctChange": 0
       },
       {
@@ -72,7 +72,7 @@
         "organization": "Menlo Ventures Management, L.P.",
         "pctHeld": 0.050300002,
         "position": 17442713,
-        "value": 487174979,
+        "value": 505140952,
         "pctChange": 0
       },
       {
@@ -81,7 +81,7 @@
         "organization": "Aspect Management, LLC",
         "pctHeld": 0.0344,
         "position": 11933275,
-        "value": 333296374,
+        "value": 345587633,
         "pctChange": 0
       },
       {
@@ -90,7 +90,7 @@
         "organization": "Blackrock Inc.",
         "pctHeld": 0.0324,
         "position": 11244380,
-        "value": 314055536,
+        "value": 325637234,
         "pctChange": 6.8890004
       },
       {
@@ -99,7 +99,7 @@
         "organization": "Vanguard Portfolio Management LLC",
         "pctHeld": 0.0294,
         "position": 10198789,
-        "value": 284852179,
+        "value": 295356920,
         "pctChange": 0.016900001
       },
       {
@@ -108,7 +108,7 @@
         "organization": "Vanguard Capital Management LLC",
         "pctHeld": 0.026600001,
         "position": 9215115,
-        "value": 257378164,
+        "value": 266869721,
         "pctChange": -0.0361
       },
       {
@@ -117,7 +117,7 @@
         "organization": "Forerunner Ventures Management, LLC",
         "pctHeld": 0.0231,
         "position": 8031107,
-        "value": 224308820,
+        "value": 232580851,
         "pctChange": -0.1107
       },
       {
@@ -126,7 +126,7 @@
         "organization": "Capital Research Global Investors",
         "pctHeld": 0.0163,
         "position": 5657874,
-        "value": 158024422,
+        "value": 163852025,
         "pctChange": -0.0746
       }
     ]
@@ -134,8 +134,8 @@
   "majorHoldersBreakdown": {
     "maxAge": 1,
     "insidersPercentHeld": 0.076230004,
-    "institutionsPercentHeld": 0.95432997,
-    "institutionsFloatPercentHeld": 1.03308,
+    "institutionsPercentHeld": 0.95434,
+    "institutionsFloatPercentHeld": 1.0331,
     "institutionsCount": 362
   },
   "earnings": {
@@ -248,6 +248,16 @@
   },
   "upgradeDowngradeHistory": {
     "history": [
+      {
+        "epochGradeDate": "2026-10-08T15:09:21.000Z",
+        "firm": "Deutsche Bank",
+        "toGrade": "Buy",
+        "fromGrade": "Hold",
+        "action": "up",
+        "priceTargetAction": "Raises",
+        "currentPriceTarget": 35,
+        "priorPriceTarget": 30
+      },
       {
         "epochGradeDate": "2026-09-15T17:13:03.000Z",
         "firm": "Goldman Sachs",
@@ -885,25 +895,25 @@
     "maxAge": 1,
     "preMarketSource": "FREE_REALTIME",
     "postMarketSource": "FREE_REALTIME",
-    "regularMarketChangePercent": 0.0101266,
-    "regularMarketChange": 0.280001,
-    "regularMarketTime": "2026-10-07T20:00:01.000Z",
+    "regularMarketChangePercent": 0.0368779,
+    "regularMarketChange": 1.03,
+    "regularMarketTime": "2026-10-08T20:00:00.000Z",
     "priceHint": 2,
-    "regularMarketPrice": 27.93,
-    "regularMarketDayHigh": 28.02,
-    "regularMarketDayLow": 27.2414,
-    "regularMarketVolume": 3123450,
-    "averageDailyVolume10Day": 4930990,
-    "averageDailyVolume3Month": 7488536,
-    "regularMarketPreviousClose": 27.65,
+    "regularMarketPrice": 28.96,
+    "regularMarketDayHigh": 28.975,
+    "regularMarketDayLow": 27.8,
+    "regularMarketVolume": 4508047,
+    "averageDailyVolume10Day": 4161090,
+    "averageDailyVolume3Month": 7444004,
+    "regularMarketPreviousClose": 27.93,
     "regularMarketSource": "FREE_REALTIME",
-    "regularMarketOpen": 27.55,
-    "fulldayChangePercent": 0.009403263,
-    "fulldayChange": 0.26000023,
-    "fulldayPrice": 27.93,
+    "regularMarketOpen": 28.24,
+    "fulldayChangePercent": 0.036877867,
+    "fulldayChange": 1.0299988,
+    "fulldayPrice": 28.96,
     "exchange": "NMS",
     "exchangeName": "NasdaqGS",
-    "exchangeDataDelayedBy": 0,
+    "exchangeDataDelayedBy": 15,
     "marketState": "PRE",
     "quoteType": "EQUITY",
     "symbol": "CHYM",
@@ -916,12 +926,12 @@
     "fromCurrency": null,
     "toCurrency": null,
     "lastMarket": null,
-    "marketCap": 10573882368
+    "marketCap": 10963824640
   },
   "defaultKeyStatistics": {
     "maxAge": 1,
     "priceHint": 2,
-    "enterpriseValue": 9593939968,
+    "enterpriseValue": 9983883264,
     "profitMargins": -0.0074,
     "floatShares": 242025676,
     "sharesOutstanding": 347019852,
@@ -931,26 +941,26 @@
     "dateShortInterest": "2026-09-15T00:00:00.000Z",
     "sharesPercentSharesOut": 0.0561,
     "heldPercentInsiders": 0.076230004,
-    "heldPercentInstitutions": 0.95432997,
+    "heldPercentInstitutions": 0.95434,
     "shortRatio": 2.79,
     "shortPercentOfFloat": 0.0733,
     "impliedSharesOutstanding": 378585111,
     "category": null,
     "bookValue": 3.71,
-    "priceToBook": 7.5283017,
+    "priceToBook": 7.8059297,
     "fundFamily": null,
     "legalType": null,
     "lastFiscalYearEnd": "2025-12-31T00:00:00.000Z",
     "nextFiscalYearEnd": "2026-12-31T00:00:00.000Z",
     "mostRecentQuarter": "2026-06-30T00:00:00.000Z",
     "netIncomeToCommon": -18193000,
-    "trailingEps": 0.89,
+    "trailingEps": 0.88,
     "forwardEps": 1.61,
     "lastSplitFactor": null,
-    "enterpriseToRevenue": 3.905,
-    "enterpriseToEbitda": 24.992,
-    "52WeekChange": 0.29964745,
-    "SandP52WeekChange": 0.157722,
+    "enterpriseToRevenue": 4.063,
+    "enterpriseToEbitda": 26.008,
+    "52WeekChange": 0.47981608,
+    "SandP52WeekChange": 0.15837312,
     "latestShareClass": null,
     "leadInvestor": null
   },
@@ -1500,6 +1510,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 7480,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "KING RYAN A",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-05-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 17749,
         "value": 0,
         "filerUrl": "",
@@ -1518,18 +1540,6 @@
         "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "BRITT CHRISTOPHER R",
         "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-05-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 7480,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "KING RYAN A",
-        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2026-05-18T00:00:00.000Z",
         "ownership": "D"
@@ -1607,6 +1617,18 @@
       },
       {
         "maxAge": 1,
+        "shares": 7147,
+        "value": 0,
+        "filerUrl": "",
+        "transactionText": "Stock Gift at price 0.00 per share.",
+        "filerName": "KING RYAN A",
+        "filerRelation": "Officer and Director",
+        "moneyText": "",
+        "startDate": "2026-02-18T00:00:00.000Z",
+        "ownership": "D"
+      },
+      {
+        "maxAge": 1,
         "shares": 22523,
         "value": 0,
         "filerUrl": "",
@@ -1625,18 +1647,6 @@
         "transactionText": "Stock Gift at price 0.00 per share.",
         "filerName": "BRITT CHRISTOPHER R",
         "filerRelation": "Chief Executive Officer",
-        "moneyText": "",
-        "startDate": "2026-02-18T00:00:00.000Z",
-        "ownership": "D"
-      },
-      {
-        "maxAge": 1,
-        "shares": 7147,
-        "value": 0,
-        "filerUrl": "",
-        "transactionText": "Stock Gift at price 0.00 per share.",
-        "filerName": "KING RYAN A",
-        "filerRelation": "Officer and Director",
         "moneyText": "",
         "startDate": "2026-02-18T00:00:00.000Z",
         "ownership": "D"
@@ -1993,10 +2003,10 @@
   },
   "financialData": {
     "maxAge": 86400,
-    "currentPrice": 27.93,
+    "currentPrice": 28.96,
     "targetHighPrice": 50,
-    "targetLowPrice": 30,
-    "targetMeanPrice": 39.40909,
+    "targetLowPrice": 31,
+    "targetMeanPrice": 39.72727,
     "targetMedianPrice": 40,
     "recommendationMean": 1.43478,
     "recommendationKey": "strong_buy",
@@ -2022,6 +2032,6 @@
     "profitMargins": -0.0074,
     "financialCurrency": "USD"
   },
-  "lastUpdated": "2026-10-08T08:23:20.558Z",
+  "lastUpdated": "2026-10-09T08:25:36.161Z",
   "source": "Static Build (yahoo-finance2)"
 }
